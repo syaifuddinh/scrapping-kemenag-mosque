@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1980,
+    "name": "Batuceper",
+    "city_id": 160,
+    "city_name": "kota tangerang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1981,
+    "name": "Benda",
+    "city_id": 160,
+    "city_name": "kota tangerang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1986,
+    "name": "Cibodas",
+    "city_id": 160,
+    "city_name": "kota tangerang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1983,
+    "name": "Ciledug",
+    "city_id": 160,
+    "city_name": "kota tangerang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1982,
+    "name": "Cipondoh",
+    "city_id": 160,
+    "city_name": "kota tangerang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1979,
+    "name": "Jatiuwung",
+    "city_id": 160,
+    "city_name": "kota tangerang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1989,
+    "name": "Karang Tengah",
+    "city_id": 160,
+    "city_name": "kota tangerang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1984,
+    "name": "Karawaci",
+    "city_id": 160,
+    "city_name": "kota tangerang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1990,
+    "name": "Larangan",
+    "city_id": 160,
+    "city_name": "kota tangerang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1987,
+    "name": "Neglasari",
+    "city_id": 160,
+    "city_name": "kota tangerang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1985,
+    "name": "Periuk",
+    "city_id": 160,
+    "city_name": "kota tangerang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1988,
+    "name": "Pinang",
+    "city_id": 160,
+    "city_name": "kota tangerang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1978,
+    "name": "Tangerang",
+    "city_id": 160,
+    "city_name": "kota tangerang",
+    "province_id": 12,
+    "province_name": "banten"
+  }
+]

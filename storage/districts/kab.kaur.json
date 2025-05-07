@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1426,
+    "name": "Kaur Selatan",
+    "city_id": 115,
+    "city_name": "kab. kaur",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1425,
+    "name": "Kaur Tengah",
+    "city_id": 115,
+    "city_name": "kab. kaur",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1424,
+    "name": "Kaur Utara",
+    "city_id": 115,
+    "city_name": "kab. kaur",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1430,
+    "name": "Kelam Tengah",
+    "city_id": 115,
+    "city_name": "kab. kaur",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1422,
+    "name": "Kinal",
+    "city_id": 115,
+    "city_name": "kab. kaur",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1431,
+    "name": "Luas",
+    "city_id": 115,
+    "city_name": "kab. kaur",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1434,
+    "name": "Lungkang Kule",
+    "city_id": 115,
+    "city_name": "kab. kaur",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1427,
+    "name": "Maje",
+    "city_id": 115,
+    "city_name": "kab. kaur",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1432,
+    "name": "Muara Sahung",
+    "city_id": 115,
+    "city_name": "kab. kaur",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1428,
+    "name": "Nasal",
+    "city_id": 115,
+    "city_name": "kab. kaur",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1435,
+    "name": "Padang Guci Hilir",
+    "city_id": 115,
+    "city_name": "kab. kaur",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1436,
+    "name": "Padang Guci Hulu",
+    "city_id": 115,
+    "city_name": "kab. kaur",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1429,
+    "name": "Semidang Gumay",
+    "city_id": 115,
+    "city_name": "kab. kaur",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1423,
+    "name": "Tanjung Kemuning",
+    "city_id": 115,
+    "city_name": "kab. kaur",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1433,
+    "name": "Tetap",
+    "city_id": 115,
+    "city_name": "kab. kaur",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 5845,
+    "name": "Anggrek",
+    "city_id": 424,
+    "city_name": "kab. gorontalo utara",
+    "province_id": 28,
+    "province_name": "gorontalo"
+  },
+  {
+    "id": 5843,
+    "name": "Atinggola",
+    "city_id": 424,
+    "city_name": "kab. gorontalo utara",
+    "province_id": 28,
+    "province_name": "gorontalo"
+  },
+  {
+    "id": 5848,
+    "name": "Gentuma Raya",
+    "city_id": 424,
+    "city_name": "kab. gorontalo utara",
+    "province_id": 28,
+    "province_name": "gorontalo"
+  },
+  {
+    "id": 5844,
+    "name": "Kwandang",
+    "city_id": 424,
+    "city_name": "kab. gorontalo utara",
+    "province_id": 28,
+    "province_name": "gorontalo"
+  },
+  {
+    "id": 5846,
+    "name": "Sumalata",
+    "city_id": 424,
+    "city_name": "kab. gorontalo utara",
+    "province_id": 28,
+    "province_name": "gorontalo"
+  },
+  {
+    "id": 5847,
+    "name": "Tolinggula",
+    "city_id": 424,
+    "city_name": "kab. gorontalo utara",
+    "province_id": 28,
+    "province_name": "gorontalo"
+  }
+]

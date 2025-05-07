@@ -1,0 +1,50 @@
+[
+  {
+    "id": 5080,
+    "name": "Bintauna",
+    "city_id": 365,
+    "city_name": "kab. bolaang mongondow utara",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5082,
+    "name": "Bolangitang Barat",
+    "city_id": 365,
+    "city_name": "kab. bolaang mongondow utara",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5081,
+    "name": "Bolangitang Timur",
+    "city_id": 365,
+    "city_name": "kab. bolaang mongondow utara",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5083,
+    "name": "Kaidipang",
+    "city_id": 365,
+    "city_name": "kab. bolaang mongondow utara",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5084,
+    "name": "Pinogaluman",
+    "city_id": 365,
+    "city_name": "kab. bolaang mongondow utara",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5079,
+    "name": "Sangkub",
+    "city_id": 365,
+    "city_name": "kab. bolaang mongondow utara",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  }
+]

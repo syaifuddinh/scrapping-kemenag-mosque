@@ -1,0 +1,50 @@
+[
+  {
+    "id": 4408,
+    "name": "Hawu Mehara",
+    "city_id": 306,
+    "city_name": "kab. sabu raijua",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4409,
+    "name": "Raijua",
+    "city_id": 306,
+    "city_name": "kab. sabu raijua",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4404,
+    "name": "Sabu Barat",
+    "city_id": 306,
+    "city_name": "kab. sabu raijua",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4407,
+    "name": "Sabu Liae",
+    "city_id": 306,
+    "city_name": "kab. sabu raijua",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4405,
+    "name": "Sabu Tengah",
+    "city_id": 306,
+    "city_name": "kab. sabu raijua",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4406,
+    "name": "Sabu Timur",
+    "city_id": 306,
+    "city_name": "kab. sabu raijua",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  }
+]

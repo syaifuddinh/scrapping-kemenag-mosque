@@ -1,0 +1,90 @@
+[
+  {
+    "id": 5317,
+    "name": "Arungkeke",
+    "city_id": 387,
+    "city_name": "kab. jeneponto",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5309,
+    "name": "Bangkala",
+    "city_id": 387,
+    "city_name": "kab. jeneponto",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5314,
+    "name": "Bangkala Barat",
+    "city_id": 387,
+    "city_name": "kab. jeneponto",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5312,
+    "name": "Batang",
+    "city_id": 387,
+    "city_name": "kab. jeneponto",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5311,
+    "name": "Binamu",
+    "city_id": 387,
+    "city_name": "kab. jeneponto",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5315,
+    "name": "Bontoramba",
+    "city_id": 387,
+    "city_name": "kab. jeneponto",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5313,
+    "name": "Kelara",
+    "city_id": 387,
+    "city_name": "kab. jeneponto",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5318,
+    "name": "Rumbia",
+    "city_id": 387,
+    "city_name": "kab. jeneponto",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5310,
+    "name": "Tamalatea",
+    "city_id": 387,
+    "city_name": "kab. jeneponto",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5319,
+    "name": "Tarowang",
+    "city_id": 387,
+    "city_name": "kab. jeneponto",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5316,
+    "name": "Turatea",
+    "city_id": 387,
+    "city_name": "kab. jeneponto",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  }
+]

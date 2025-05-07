@@ -1,0 +1,194 @@
+[
+  {
+    "id": 1326,
+    "name": "Indralaya",
+    "city_id": 107,
+    "city_name": "kab. ogan ilir",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1330,
+    "name": "Indralaya Selatan",
+    "city_id": 107,
+    "city_name": "kab. ogan ilir",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1329,
+    "name": "Indralaya Utara",
+    "city_id": 107,
+    "city_name": "kab. ogan ilir",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1335,
+    "name": "Kandis",
+    "city_id": 107,
+    "city_name": "kab. ogan ilir",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1343,
+    "name": "Lintang Kanan",
+    "city_id": 107,
+    "city_name": "kab. ogan ilir",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1337,
+    "name": "Lubuk Keliat",
+    "city_id": 107,
+    "city_name": "kab. ogan ilir",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1323,
+    "name": "Muara Kuang",
+    "city_id": 107,
+    "city_name": "kab. ogan ilir",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1339,
+    "name": "Muara Pinang",
+    "city_id": 107,
+    "city_name": "kab. ogan ilir",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1345,
+    "name": "Pasemah Air Keruh",
+    "city_id": 107,
+    "city_name": "kab. ogan ilir",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1338,
+    "name": "Payaraman",
+    "city_id": 107,
+    "city_name": "kab. ogan ilir",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1327,
+    "name": "Pemulutan",
+    "city_id": 107,
+    "city_name": "kab. ogan ilir",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1332,
+    "name": "Pemulutan Barat",
+    "city_id": 107,
+    "city_name": "kab. ogan ilir",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1331,
+    "name": "Pemulutan Selatan",
+    "city_id": 107,
+    "city_name": "kab. ogan ilir",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1340,
+    "name": "Pendopo",
+    "city_id": 107,
+    "city_name": "kab. ogan ilir",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1336,
+    "name": "Rambang Kuang",
+    "city_id": 107,
+    "city_name": "kab. ogan ilir",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1328,
+    "name": "Rantau Alai",
+    "city_id": 107,
+    "city_name": "kab. ogan ilir",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1333,
+    "name": "Rantau Panjang",
+    "city_id": 107,
+    "city_name": "kab. ogan ilir",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1346,
+    "name": "Sikap Dalam",
+    "city_id": 107,
+    "city_name": "kab. ogan ilir",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1334,
+    "name": "Sungai Pinang",
+    "city_id": 107,
+    "city_name": "kab. ogan ilir",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1344,
+    "name": "Talang Padang",
+    "city_id": 107,
+    "city_name": "kab. ogan ilir",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1324,
+    "name": "Tanjung Batu",
+    "city_id": 107,
+    "city_name": "kab. ogan ilir",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1325,
+    "name": "Tanjung Raja",
+    "city_id": 107,
+    "city_name": "kab. ogan ilir",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1342,
+    "name": "Tebing Tinggi",
+    "city_id": 107,
+    "city_name": "kab. ogan ilir",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1341,
+    "name": "Ulu Musi",
+    "city_id": 107,
+    "city_name": "kab. ogan ilir",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  }
+]

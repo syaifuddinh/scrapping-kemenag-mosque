@@ -1,0 +1,122 @@
+[
+  {
+    "id": 5272,
+    "name": "Dolo",
+    "city_id": 382,
+    "city_name": "kab. sigi",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 5271,
+    "name": "Dolo Barat",
+    "city_id": 382,
+    "city_name": "kab. sigi",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 5269,
+    "name": "Dolo Selatan",
+    "city_id": 382,
+    "city_name": "kab. sigi",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 5268,
+    "name": "Gumbasa",
+    "city_id": 382,
+    "city_name": "kab. sigi",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 5273,
+    "name": "Kinovaro",
+    "city_id": 382,
+    "city_name": "kab. sigi",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 5265,
+    "name": "Kulawi",
+    "city_id": 382,
+    "city_name": "kab. sigi",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 5266,
+    "name": "Kulawi Selatan",
+    "city_id": 382,
+    "city_name": "kab. sigi",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 5264,
+    "name": "Lindu",
+    "city_id": 382,
+    "city_name": "kab. sigi",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 5274,
+    "name": "Marawola",
+    "city_id": 382,
+    "city_name": "kab. sigi",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 5275,
+    "name": "Marawola Barat",
+    "city_id": 382,
+    "city_name": "kab. sigi",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 5263,
+    "name": "Nokilalaki",
+    "city_id": 382,
+    "city_name": "kab. sigi",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 5262,
+    "name": "Palolo",
+    "city_id": 382,
+    "city_name": "kab. sigi",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 5267,
+    "name": "Pipikoro",
+    "city_id": 382,
+    "city_name": "kab. sigi",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 5261,
+    "name": "Sigi Biromaru",
+    "city_id": 382,
+    "city_name": "kab. sigi",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 5270,
+    "name": "Tanambulava",
+    "city_id": 382,
+    "city_name": "kab. sigi",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  }
+]

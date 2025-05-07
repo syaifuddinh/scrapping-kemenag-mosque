@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1478,
+    "name": "Bermani Ilir",
+    "city_id": 119,
+    "city_name": "kab. kepahiang",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1483,
+    "name": "Kebawetan",
+    "city_id": 119,
+    "city_name": "kab. kepahiang",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1481,
+    "name": "Kepahiang",
+    "city_id": 119,
+    "city_name": "kab. kepahiang",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1482,
+    "name": "Merigi",
+    "city_id": 119,
+    "city_name": "kab. kepahiang",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1485,
+    "name": "Muara Kemumu",
+    "city_id": 119,
+    "city_name": "kab. kepahiang",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1484,
+    "name": "Seberang Musi",
+    "city_id": 119,
+    "city_name": "kab. kepahiang",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1480,
+    "name": "Tebat Karai",
+    "city_id": 119,
+    "city_name": "kab. kepahiang",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1479,
+    "name": "Ujan Mas",
+    "city_id": 119,
+    "city_name": "kab. kepahiang",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  }
+]

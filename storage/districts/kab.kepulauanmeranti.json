@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1011,
+    "name": "Merbau",
+    "city_id": 85,
+    "city_name": "kab. kepulauan meranti",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 7048,
+    "name": "Pulaumerbau",
+    "city_id": 85,
+    "city_name": "kab. kepulauan meranti",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 1009,
+    "name": "Rangsang",
+    "city_id": 85,
+    "city_name": "kab. kepulauan meranti",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 1008,
+    "name": "Rangsang Barat",
+    "city_id": 85,
+    "city_name": "kab. kepulauan meranti",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 7051,
+    "name": "Rangsang Pesisir",
+    "city_id": 85,
+    "city_name": "kab. kepulauan meranti",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 7050,
+    "name": "Tasik Putri Puyu",
+    "city_id": 85,
+    "city_name": "kab. kepulauan meranti",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 1007,
+    "name": "Tebing Tinggi",
+    "city_id": 85,
+    "city_name": "kab. kepulauan meranti",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 1010,
+    "name": "Tebing Tinggi Barat",
+    "city_id": 85,
+    "city_name": "kab. kepulauan meranti",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 7049,
+    "name": "Tebing Tinggi Timur",
+    "city_id": 85,
+    "city_name": "kab. kepulauan meranti",
+    "province_id": 4,
+    "province_name": "riau"
+  }
+]

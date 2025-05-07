@@ -1,0 +1,122 @@
+[
+  {
+    "id": 3092,
+    "name": "Bandar",
+    "city_id": 214,
+    "city_name": "kab. batang",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 3105,
+    "name": "Banyuputih",
+    "city_id": 214,
+    "city_name": "kab. batang",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 3101,
+    "name": "Batang",
+    "city_id": 214,
+    "city_name": "kab. batang",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 3095,
+    "name": "Bawang",
+    "city_id": 214,
+    "city_name": "kab. batang",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 3093,
+    "name": "Blado",
+    "city_id": 214,
+    "city_name": "kab. batang",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 3097,
+    "name": "Gringsing",
+    "city_id": 214,
+    "city_name": "kab. batang",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 3103,
+    "name": "Kandeman",
+    "city_id": 214,
+    "city_name": "kab. batang",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 3098,
+    "name": "Limpung",
+    "city_id": 214,
+    "city_name": "kab. batang",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 3104,
+    "name": "Pencalungan",
+    "city_id": 214,
+    "city_name": "kab. batang",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 3094,
+    "name": "Reban",
+    "city_id": 214,
+    "city_name": "kab. batang",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 3099,
+    "name": "Subah",
+    "city_id": 214,
+    "city_name": "kab. batang",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 3096,
+    "name": "Tersono",
+    "city_id": 214,
+    "city_name": "kab. batang",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 3100,
+    "name": "Tulis",
+    "city_id": 214,
+    "city_name": "kab. batang",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 3102,
+    "name": "Warungasem",
+    "city_id": 214,
+    "city_name": "kab. batang",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 3091,
+    "name": "Wonotunggal",
+    "city_id": 214,
+    "city_name": "kab. batang",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  }
+]

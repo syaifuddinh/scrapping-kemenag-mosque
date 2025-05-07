@@ -1,0 +1,82 @@
+[
+  {
+    "id": 4015,
+    "name": "Batu Layar",
+    "city_id": 277,
+    "city_name": "kab. lombok barat",
+    "province_id": 18,
+    "province_name": "nusa tenggara barat"
+  },
+  {
+    "id": 4007,
+    "name": "Gerung",
+    "city_id": 277,
+    "city_name": "kab. lombok barat",
+    "province_id": 18,
+    "province_name": "nusa tenggara barat"
+  },
+  {
+    "id": 4012,
+    "name": "Gunungsari",
+    "city_id": 277,
+    "city_name": "kab. lombok barat",
+    "province_id": 18,
+    "province_name": "nusa tenggara barat"
+  },
+  {
+    "id": 4008,
+    "name": "Kediri",
+    "city_id": 277,
+    "city_name": "kab. lombok barat",
+    "province_id": 18,
+    "province_name": "nusa tenggara barat"
+  },
+  {
+    "id": 4016,
+    "name": "Kuripan",
+    "city_id": 277,
+    "city_name": "kab. lombok barat",
+    "province_id": 18,
+    "province_name": "nusa tenggara barat"
+  },
+  {
+    "id": 4011,
+    "name": "Labuapi",
+    "city_id": 277,
+    "city_name": "kab. lombok barat",
+    "province_id": 18,
+    "province_name": "nusa tenggara barat"
+  },
+  {
+    "id": 4014,
+    "name": "Lembar",
+    "city_id": 277,
+    "city_name": "kab. lombok barat",
+    "province_id": 18,
+    "province_name": "nusa tenggara barat"
+  },
+  {
+    "id": 4013,
+    "name": "Lingsar",
+    "city_id": 277,
+    "city_name": "kab. lombok barat",
+    "province_id": 18,
+    "province_name": "nusa tenggara barat"
+  },
+  {
+    "id": 4009,
+    "name": "Narmada",
+    "city_id": 277,
+    "city_name": "kab. lombok barat",
+    "province_id": 18,
+    "province_name": "nusa tenggara barat"
+  },
+  {
+    "id": 4010,
+    "name": "Sekotong",
+    "city_id": 277,
+    "city_name": "kab. lombok barat",
+    "province_id": 18,
+    "province_name": "nusa tenggara barat"
+  }
+]

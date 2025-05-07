@@ -1,0 +1,90 @@
+[
+  {
+    "id": 850,
+    "name": "Bungus Teluk Kabung",
+    "city_id": 69,
+    "city_name": "kota padang",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 856,
+    "name": "Koto Tangah",
+    "city_id": 69,
+    "city_name": "kota padang",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 854,
+    "name": "Kuranji",
+    "city_id": 69,
+    "city_name": "kota padang",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 851,
+    "name": "Lubuk Begalung",
+    "city_id": 69,
+    "city_name": "kota padang",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 852,
+    "name": "Lubuk Kilangan",
+    "city_id": 69,
+    "city_name": "kota padang",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 855,
+    "name": "Nanggalo",
+    "city_id": 69,
+    "city_name": "kota padang",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 848,
+    "name": "Padang Barat",
+    "city_id": 69,
+    "city_name": "kota padang",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 846,
+    "name": "Padang Selatan",
+    "city_id": 69,
+    "city_name": "kota padang",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 847,
+    "name": "Padang Timur",
+    "city_id": 69,
+    "city_name": "kota padang",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 849,
+    "name": "Padang Utara",
+    "city_id": 69,
+    "city_name": "kota padang",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 853,
+    "name": "Pauh",
+    "city_id": 69,
+    "city_name": "kota padang",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  }
+]

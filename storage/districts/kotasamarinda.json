@@ -1,0 +1,82 @@
+[
+  {
+    "id": 4971,
+    "name": "Loa Janan Ilir",
+    "city_id": 356,
+    "city_name": "kota samarinda",
+    "province_id": 23,
+    "province_name": "kalimantan timur"
+  },
+  {
+    "id": 4962,
+    "name": "Palaran",
+    "city_id": 356,
+    "city_name": "kota samarinda",
+    "province_id": 23,
+    "province_name": "kalimantan timur"
+  },
+  {
+    "id": 4965,
+    "name": "Samarinda Ilir",
+    "city_id": 356,
+    "city_name": "kota samarinda",
+    "province_id": 23,
+    "province_name": "kalimantan timur"
+  },
+  {
+    "id": 4970,
+    "name": "Samarinda Kota",
+    "city_id": 356,
+    "city_name": "kota samarinda",
+    "province_id": 23,
+    "province_name": "kalimantan timur"
+  },
+  {
+    "id": 4963,
+    "name": "Samarinda Seberang",
+    "city_id": 356,
+    "city_name": "kota samarinda",
+    "province_id": 23,
+    "province_name": "kalimantan timur"
+  },
+  {
+    "id": 4964,
+    "name": "Samarinda Ulu",
+    "city_id": 356,
+    "city_name": "kota samarinda",
+    "province_id": 23,
+    "province_name": "kalimantan timur"
+  },
+  {
+    "id": 4966,
+    "name": "Samarinda Utara",
+    "city_id": 356,
+    "city_name": "kota samarinda",
+    "province_id": 23,
+    "province_name": "kalimantan timur"
+  },
+  {
+    "id": 4968,
+    "name": "Sambutan",
+    "city_id": 356,
+    "city_name": "kota samarinda",
+    "province_id": 23,
+    "province_name": "kalimantan timur"
+  },
+  {
+    "id": 4967,
+    "name": "Sungai Kunjang",
+    "city_id": 356,
+    "city_name": "kota samarinda",
+    "province_id": 23,
+    "province_name": "kalimantan timur"
+  },
+  {
+    "id": 4969,
+    "name": "Sungai Pinang",
+    "city_id": 356,
+    "city_name": "kota samarinda",
+    "province_id": 23,
+    "province_name": "kalimantan timur"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 4582,
+    "name": "Pontianak Barat",
+    "city_id": 320,
+    "city_name": "kota pontianak",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4584,
+    "name": "Pontianak Kota",
+    "city_id": 320,
+    "city_name": "kota pontianak",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4580,
+    "name": "Pontianak Selatan",
+    "city_id": 320,
+    "city_name": "kota pontianak",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4585,
+    "name": "Pontianak Tenggara",
+    "city_id": 320,
+    "city_name": "kota pontianak",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4581,
+    "name": "Pontianak Timur",
+    "city_id": 320,
+    "city_name": "kota pontianak",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4583,
+    "name": "Pontianak Utara",
+    "city_id": 320,
+    "city_name": "kota pontianak",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  }
+]

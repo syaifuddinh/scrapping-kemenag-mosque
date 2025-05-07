@@ -1,0 +1,138 @@
+[
+  {
+    "id": 5046,
+    "name": "Amurang",
+    "city_id": 362,
+    "city_name": "kab. minahasa selatan",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5051,
+    "name": "Amurang Barat",
+    "city_id": 362,
+    "city_name": "kab. minahasa selatan",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5052,
+    "name": "Amurang Timur",
+    "city_id": 362,
+    "city_name": "kab. minahasa selatan",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5049,
+    "name": "Kumelembuai",
+    "city_id": 362,
+    "city_name": "kab. minahasa selatan",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5050,
+    "name": "Maesaan",
+    "city_id": 362,
+    "city_name": "kab. minahasa selatan",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5040,
+    "name": "Modoinding",
+    "city_id": 362,
+    "city_name": "kab. minahasa selatan",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5043,
+    "name": "Motoling",
+    "city_id": 362,
+    "city_name": "kab. minahasa selatan",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5054,
+    "name": "Motoling Barat",
+    "city_id": 362,
+    "city_name": "kab. minahasa selatan",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5055,
+    "name": "Motoling Timur",
+    "city_id": 362,
+    "city_name": "kab. minahasa selatan",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5042,
+    "name": "Ranoyapo",
+    "city_id": 362,
+    "city_name": "kab. minahasa selatan",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5044,
+    "name": "Sinonsayang",
+    "city_id": 362,
+    "city_name": "kab. minahasa selatan",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5056,
+    "name": "Suluun Tareran",
+    "city_id": 362,
+    "city_name": "kab. minahasa selatan",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5048,
+    "name": "Tareran 9",
+    "city_id": 362,
+    "city_name": "kab. minahasa selatan",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5053,
+    "name": "Tatapaan",
+    "city_id": 362,
+    "city_name": "kab. minahasa selatan",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5045,
+    "name": "Tenga",
+    "city_id": 362,
+    "city_name": "kab. minahasa selatan",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5041,
+    "name": "Tompaso Baru",
+    "city_id": 362,
+    "city_name": "kab. minahasa selatan",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5047,
+    "name": "Tumpaan",
+    "city_id": 362,
+    "city_name": "kab. minahasa selatan",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  }
+]

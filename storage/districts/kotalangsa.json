@@ -1,0 +1,42 @@
+[
+  {
+    "id": 278,
+    "name": "Langsa Barat",
+    "city_id": 22,
+    "city_name": "kota langsa",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 281,
+    "name": "Langsa Baro",
+    "city_id": 22,
+    "city_name": "kota langsa",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 279,
+    "name": "Langsa Kota",
+    "city_id": 22,
+    "city_name": "kota langsa",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 280,
+    "name": "Langsa Lama",
+    "city_id": 22,
+    "city_name": "kota langsa",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 277,
+    "name": "Langsa Timur",
+    "city_id": 22,
+    "city_name": "kota langsa",
+    "province_id": 1,
+    "province_name": "aceh"
+  }
+]

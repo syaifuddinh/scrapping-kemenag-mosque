@@ -1,0 +1,98 @@
+[
+  {
+    "id": 6178,
+    "name": "Angkaisera",
+    "city_id": 455,
+    "city_name": "kab. kepulauan yapen",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6184,
+    "name": "Kepulauan Ambai",
+    "city_id": 455,
+    "city_name": "kab. kepulauan yapen",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6180,
+    "name": "Kosiwo",
+    "city_id": 455,
+    "city_name": "kab. kepulauan yapen",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6179,
+    "name": "Poom",
+    "city_id": 455,
+    "city_name": "kab. kepulauan yapen",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6182,
+    "name": "Raimbawi",
+    "city_id": 455,
+    "city_name": "kab. kepulauan yapen",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6183,
+    "name": "Teluk Ampimoi",
+    "city_id": 455,
+    "city_name": "kab. kepulauan yapen",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6186,
+    "name": "Windesi",
+    "city_id": 455,
+    "city_name": "kab. kepulauan yapen",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6185,
+    "name": "Wonawa",
+    "city_id": 455,
+    "city_name": "kab. kepulauan yapen",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6176,
+    "name": "Yapen Barat",
+    "city_id": 455,
+    "city_name": "kab. kepulauan yapen",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6175,
+    "name": "Yapen Selatan",
+    "city_id": 455,
+    "city_name": "kab. kepulauan yapen",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6177,
+    "name": "Yapen Timur",
+    "city_id": 455,
+    "city_name": "kab. kepulauan yapen",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6181,
+    "name": "Yapen Utara",
+    "city_id": 455,
+    "city_name": "kab. kepulauan yapen",
+    "province_id": 32,
+    "province_name": "papua"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 2008,
+    "name": "Ciputat",
+    "city_id": 163,
+    "city_name": "kota tangerang selatan",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 2009,
+    "name": "Ciputat Timur",
+    "city_id": 163,
+    "city_name": "kota tangerang selatan",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 2010,
+    "name": "Pamulang",
+    "city_id": 163,
+    "city_name": "kota tangerang selatan",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 2007,
+    "name": "Pondok Aren",
+    "city_id": 163,
+    "city_name": "kota tangerang selatan",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 2005,
+    "name": "Serpong",
+    "city_id": 163,
+    "city_name": "kota tangerang selatan",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 2006,
+    "name": "Serpong Utara",
+    "city_id": 163,
+    "city_name": "kota tangerang selatan",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 2011,
+    "name": "Setu",
+    "city_id": 163,
+    "city_name": "kota tangerang selatan",
+    "province_id": 12,
+    "province_name": "banten"
+  }
+]

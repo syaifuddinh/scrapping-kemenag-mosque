@@ -1,0 +1,210 @@
+[
+  {
+    "id": 3401,
+    "name": "Badas",
+    "city_id": 235,
+    "city_name": "kab. kediri",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3397,
+    "name": "Banyakan",
+    "city_id": 235,
+    "city_name": "kab. kediri",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3387,
+    "name": "Gampengrejo",
+    "city_id": 235,
+    "city_name": "kab. kediri",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3388,
+    "name": "Grogol",
+    "city_id": 235,
+    "city_name": "kab. kediri",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3385,
+    "name": "Gurah",
+    "city_id": 235,
+    "city_name": "kab. kediri",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3394,
+    "name": "Kandangan",
+    "city_id": 235,
+    "city_name": "kab. kediri",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3380,
+    "name": "Kandat",
+    "city_id": 235,
+    "city_name": "kab. kediri",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3399,
+    "name": "Kayen Kidul",
+    "city_id": 235,
+    "city_name": "kab. kediri",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3393,
+    "name": "Kepung",
+    "city_id": 235,
+    "city_name": "kab. kediri",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3378,
+    "name": "Kras",
+    "city_id": 235,
+    "city_name": "kab. kediri",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3396,
+    "name": "Kunjang",
+    "city_id": 235,
+    "city_name": "kab. kediri",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3377,
+    "name": "Mojo",
+    "city_id": 235,
+    "city_name": "kab. kediri",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3379,
+    "name": "Ngadiluwih",
+    "city_id": 235,
+    "city_name": "kab. kediri",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3382,
+    "name": "Ngancar",
+    "city_id": 235,
+    "city_name": "kab. kediri",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3400,
+    "name": "Ngasem",
+    "city_id": 235,
+    "city_name": "kab. kediri",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3386,
+    "name": "Pagu",
+    "city_id": 235,
+    "city_name": "kab. kediri",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3389,
+    "name": "Papar",
+    "city_id": 235,
+    "city_name": "kab. kediri",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3392,
+    "name": "Pare",
+    "city_id": 235,
+    "city_name": "kab. kediri",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3391,
+    "name": "Plemahan",
+    "city_id": 235,
+    "city_name": "kab. kediri",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3384,
+    "name": "Plosoklaten",
+    "city_id": 235,
+    "city_name": "kab. kediri",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3383,
+    "name": "Puncu",
+    "city_id": 235,
+    "city_name": "kab. kediri",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3390,
+    "name": "Purwoasri",
+    "city_id": 235,
+    "city_name": "kab. kediri",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3398,
+    "name": "Ringinrejo",
+    "city_id": 235,
+    "city_name": "kab. kediri",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3376,
+    "name": "Semen",
+    "city_id": 235,
+    "city_name": "kab. kediri",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3395,
+    "name": "Tarokan",
+    "city_id": 235,
+    "city_name": "kab. kediri",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3381,
+    "name": "Wates",
+    "city_id": 235,
+    "city_name": "kab. kediri",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  }
+]

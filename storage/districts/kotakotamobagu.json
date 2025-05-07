@@ -1,0 +1,34 @@
+[
+  {
+    "id": 5130,
+    "name": "Kotamobagu Barat",
+    "city_id": 372,
+    "city_name": "kota kotamobagu",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5129,
+    "name": "Kotamobagu Selatan",
+    "city_id": 372,
+    "city_name": "kota kotamobagu",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5128,
+    "name": "Kotamobagu Timur",
+    "city_id": 372,
+    "city_name": "kota kotamobagu",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5127,
+    "name": "Kotamobagu Utara",
+    "city_id": 372,
+    "city_name": "kota kotamobagu",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  }
+]

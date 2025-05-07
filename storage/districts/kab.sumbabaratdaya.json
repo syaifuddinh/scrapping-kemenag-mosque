@@ -1,0 +1,90 @@
+[
+  {
+    "id": 4396,
+    "name": "Kodi",
+    "city_id": 304,
+    "city_name": "kab. sumba barat daya",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 7026,
+    "name": "Kodi Balaghar",
+    "city_id": 304,
+    "city_name": "kab. sumba barat daya",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4395,
+    "name": "Kodi Bangedo",
+    "city_id": 304,
+    "city_name": "kab. sumba barat daya",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4397,
+    "name": "Kodi Utara",
+    "city_id": 304,
+    "city_name": "kab. sumba barat daya",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 7024,
+    "name": "Kota Tambolaka",
+    "city_id": 304,
+    "city_name": "kab. sumba barat daya",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4390,
+    "name": "Loura",
+    "city_id": 304,
+    "city_name": "kab. sumba barat daya",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4393,
+    "name": "Wewewa Barat",
+    "city_id": 304,
+    "city_name": "kab. sumba barat daya",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4394,
+    "name": "Wewewa Selatan",
+    "city_id": 304,
+    "city_name": "kab. sumba barat daya",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 7025,
+    "name": "Wewewa Tengah",
+    "city_id": 304,
+    "city_name": "kab. sumba barat daya",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4392,
+    "name": "Wewewa Timur",
+    "city_id": 304,
+    "city_name": "kab. sumba barat daya",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4391,
+    "name": "Wewewa Utara",
+    "city_id": 304,
+    "city_name": "kab. sumba barat daya",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  }
+]

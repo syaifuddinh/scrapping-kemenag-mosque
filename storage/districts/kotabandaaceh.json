@@ -1,0 +1,74 @@
+[
+  {
+    "id": 262,
+    "name": "Baiturrahman",
+    "city_id": 19,
+    "city_name": "kota banda aceh",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 268,
+    "name": "Banda Raya",
+    "city_id": 19,
+    "city_name": "kota banda aceh",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 269,
+    "name": "Jaya Baru",
+    "city_id": 19,
+    "city_name": "kota banda aceh",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 263,
+    "name": "Kuta Alam",
+    "city_id": 19,
+    "city_name": "kota banda aceh",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 267,
+    "name": "Kuta Raja",
+    "city_id": 19,
+    "city_name": "kota banda aceh",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 266,
+    "name": "Lueng Bata",
+    "city_id": 19,
+    "city_name": "kota banda aceh",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 264,
+    "name": "Meuraxa",
+    "city_id": 19,
+    "city_name": "kota banda aceh",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 265,
+    "name": "Syiah Kuala",
+    "city_id": 19,
+    "city_name": "kota banda aceh",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 270,
+    "name": "Ulee Kareng",
+    "city_id": 19,
+    "city_name": "kota banda aceh",
+    "province_id": 1,
+    "province_name": "aceh"
+  }
+]

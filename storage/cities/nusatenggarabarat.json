@@ -1,0 +1,62 @@
+[
+  {
+    "id": 277,
+    "name": "Kab. Lombok Barat",
+    "province_id": 18,
+    "province_name": "nusa tenggara barat"
+  },
+  {
+    "id": 278,
+    "name": "Kab. Lombok Tengah",
+    "province_id": 18,
+    "province_name": "nusa tenggara barat"
+  },
+  {
+    "id": 279,
+    "name": "Kab. Lombok Timur",
+    "province_id": 18,
+    "province_name": "nusa tenggara barat"
+  },
+  {
+    "id": 280,
+    "name": "Kab. Sumbawa",
+    "province_id": 18,
+    "province_name": "nusa tenggara barat"
+  },
+  {
+    "id": 281,
+    "name": "Kab. Dompu",
+    "province_id": 18,
+    "province_name": "nusa tenggara barat"
+  },
+  {
+    "id": 282,
+    "name": "Kab. Bima",
+    "province_id": 18,
+    "province_name": "nusa tenggara barat"
+  },
+  {
+    "id": 283,
+    "name": "Kab. Sumbawa Barat",
+    "province_id": 18,
+    "province_name": "nusa tenggara barat"
+  },
+  {
+    "id": 284,
+    "name": "Kab. Lombok Utara",
+    "province_id": 18,
+    "province_name": "nusa tenggara barat"
+  },
+  {
+    "id": 285,
+    "name": "Kota Mataram",
+    "province_id": 18,
+    "province_name": "nusa tenggara barat"
+  },
+  {
+    "id": 286,
+    "name": "Kota Bima",
+    "province_id": 18,
+    "province_name": "nusa tenggara barat"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1689,
+    "name": "Gunung Agung",
+    "city_id": 133,
+    "city_name": "kab. tulang bawang barat",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1688,
+    "name": "Gunung Terang",
+    "city_id": 133,
+    "city_name": "kab. tulang bawang barat",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1691,
+    "name": "Lambu Kibang",
+    "city_id": 133,
+    "city_name": "kab. tulang bawang barat",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1692,
+    "name": "Pagar Dewa",
+    "city_id": 133,
+    "city_name": "kab. tulang bawang barat",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1685,
+    "name": "Tulang Bawang Tengah",
+    "city_id": 133,
+    "city_name": "kab. tulang bawang barat",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1687,
+    "name": "Tulang Bawang Udik",
+    "city_id": 133,
+    "city_name": "kab. tulang bawang barat",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1686,
+    "name": "Tumijajar",
+    "city_id": 133,
+    "city_name": "kab. tulang bawang barat",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1690,
+    "name": "Way Kenanga",
+    "city_id": 133,
+    "city_name": "kab. tulang bawang barat",
+    "province_id": 8,
+    "province_name": "lampung"
+  }
+]

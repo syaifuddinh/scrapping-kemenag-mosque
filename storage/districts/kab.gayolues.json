@@ -1,0 +1,90 @@
+[
+  {
+    "id": 211,
+    "name": "Blangjerango",
+    "city_id": 13,
+    "city_name": "kab. gayo lues",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 203,
+    "name": "Blangkejeren",
+    "city_id": 13,
+    "city_name": "kab. gayo lues",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 208,
+    "name": "Blangpegayon",
+    "city_id": 13,
+    "city_name": "kab. gayo lues",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 210,
+    "name": "Dabun Gelang",
+    "city_id": 13,
+    "city_name": "kab. gayo lues",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 204,
+    "name": "Kutapanjang",
+    "city_id": 13,
+    "city_name": "kab. gayo lues",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 213,
+    "name": "Pantan Cuaca",
+    "city_id": 13,
+    "city_name": "kab. gayo lues",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 207,
+    "name": "Pining",
+    "city_id": 13,
+    "city_name": "kab. gayo lues",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 209,
+    "name": "Puteri Betung",
+    "city_id": 13,
+    "city_name": "kab. gayo lues",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 205,
+    "name": "Rikit Gaib",
+    "city_id": 13,
+    "city_name": "kab. gayo lues",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 206,
+    "name": "Terangun",
+    "city_id": 13,
+    "city_name": "kab. gayo lues",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 212,
+    "name": "Teripe Jaya",
+    "city_id": 13,
+    "city_name": "kab. gayo lues",
+    "province_id": 1,
+    "province_name": "aceh"
+  }
+]

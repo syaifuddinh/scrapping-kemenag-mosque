@@ -1,0 +1,250 @@
+[
+  {
+    "id": 526,
+    "name": "Amandraya",
+    "city_id": 37,
+    "city_name": "kab. nias selatan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 534,
+    "name": "Aramo",
+    "city_id": 37,
+    "city_name": "kab. nias selatan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 6946,
+    "name": "Boronadu",
+    "city_id": 37,
+    "city_name": "kab. nias selatan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 537,
+    "name": "Fanayama",
+    "city_id": 37,
+    "city_name": "kab. nias selatan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 521,
+    "name": "Gomo",
+    "city_id": 37,
+    "city_name": "kab. nias selatan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 523,
+    "name": "Hibala",
+    "city_id": 37,
+    "city_name": "kab. nias selatan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 530,
+    "name": "Hilimegai",
+    "city_id": 37,
+    "city_name": "kab. nias selatan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 6942,
+    "name": "Hilisalawa'ahe",
+    "city_id": 37,
+    "city_name": "kab. nias selatan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 6939,
+    "name": "Huruna",
+    "city_id": 37,
+    "city_name": "kab. nias selatan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 522,
+    "name": "Lahusa",
+    "city_id": 37,
+    "city_name": "kab. nias selatan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 527,
+    "name": "Lalowa'u",
+    "city_id": 37,
+    "city_name": "kab. nias selatan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 520,
+    "name": "Lolomatua",
+    "city_id": 37,
+    "city_name": "kab. nias selatan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 529,
+    "name": "Maniamolo",
+    "city_id": 37,
+    "city_name": "kab. nias selatan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 532,
+    "name": "Mazino",
+    "city_id": 37,
+    "city_name": "kab. nias selatan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 536,
+    "name": "Mazo",
+    "city_id": 37,
+    "city_name": "kab. nias selatan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 6940,
+    "name": "O'o'u",
+    "city_id": 37,
+    "city_name": "kab. nias selatan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 6941,
+    "name": "Onohazumba",
+    "city_id": 37,
+    "city_name": "kab. nias selatan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 524,
+    "name": "Pulau-Pulau Batu",
+    "city_id": 37,
+    "city_name": "kab. nias selatan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 6948,
+    "name": "Pulau-Pulau Batu Barat",
+    "city_id": 37,
+    "city_name": "kab. nias selatan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 535,
+    "name": "Pulau-Pulau Batu Timur",
+    "city_id": 37,
+    "city_name": "kab. nias selatan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 6949,
+    "name": "Pulau-Pulau Batu Utara",
+    "city_id": 37,
+    "city_name": "kab. nias selatan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 6944,
+    "name": "Sidua'ori",
+    "city_id": 37,
+    "city_name": "kab. nias selatan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 6947,
+    "name": "Simuk",
+    "city_id": 37,
+    "city_name": "kab. nias selatan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 6945,
+    "name": "Somambawa",
+    "city_id": 37,
+    "city_name": "kab. nias selatan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 528,
+    "name": "Susua",
+    "city_id": 37,
+    "city_name": "kab. nias selatan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 6950,
+    "name": "Tanah Masa",
+    "city_id": 37,
+    "city_name": "kab. nias selatan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 525,
+    "name": "Teluk Dalam",
+    "city_id": 37,
+    "city_name": "kab. nias selatan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 531,
+    "name": "Toma",
+    "city_id": 37,
+    "city_name": "kab. nias selatan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 6938,
+    "name": "Ulunoyo",
+    "city_id": 37,
+    "city_name": "kab. nias selatan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 6943,
+    "name": "Ulususua",
+    "city_id": 37,
+    "city_name": "kab. nias selatan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 533,
+    "name": "Umbunasi",
+    "city_id": 37,
+    "city_name": "kab. nias selatan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  }
+]

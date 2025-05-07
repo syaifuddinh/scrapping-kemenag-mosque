@@ -1,0 +1,58 @@
+[
+  {
+    "id": 4378,
+    "name": "Aesesa",
+    "city_id": 302,
+    "city_name": "kab. nagekeo",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4384,
+    "name": "Aesesa Selatan",
+    "city_id": 302,
+    "city_name": "kab. nagekeo",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4380,
+    "name": "Boawae",
+    "city_id": 302,
+    "city_name": "kab. nagekeo",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4383,
+    "name": "Keo Tengah",
+    "city_id": 302,
+    "city_name": "kab. nagekeo",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4381,
+    "name": "Mauponggo",
+    "city_id": 302,
+    "city_name": "kab. nagekeo",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4379,
+    "name": "Nangaroro",
+    "city_id": 302,
+    "city_name": "kab. nagekeo",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4382,
+    "name": "Wolowae",
+    "city_id": 302,
+    "city_name": "kab. nagekeo",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  }
+]

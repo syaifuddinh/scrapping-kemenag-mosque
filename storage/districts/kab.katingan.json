@@ -1,0 +1,106 @@
+[
+  {
+    "id": 4650,
+    "name": "Bukit Raya",
+    "city_id": 327,
+    "city_name": "kab. katingan",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 4638,
+    "name": "Kampiang",
+    "city_id": 327,
+    "city_name": "kab. katingan",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 4639,
+    "name": "Katingan Hilir",
+    "city_id": 327,
+    "city_name": "kab. katingan",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 4645,
+    "name": "Katingan Hulu",
+    "city_id": 327,
+    "city_name": "kab. katingan",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 4647,
+    "name": "Katingan Kuala",
+    "city_id": 327,
+    "city_name": "kab. katingan",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 4642,
+    "name": "Katingan Tengah",
+    "city_id": 327,
+    "city_name": "kab. katingan",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 4644,
+    "name": "Marikit",
+    "city_id": 327,
+    "city_name": "kab. katingan",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 4646,
+    "name": "Mendawai",
+    "city_id": 327,
+    "city_name": "kab. katingan",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 4649,
+    "name": "Petak Malai",
+    "city_id": 327,
+    "city_name": "kab. katingan",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 4641,
+    "name": "Pulau Malan",
+    "city_id": 327,
+    "city_name": "kab. katingan",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 4643,
+    "name": "Sanaman Mantikei",
+    "city_id": 327,
+    "city_name": "kab. katingan",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 4648,
+    "name": "Tasik Payawan",
+    "city_id": 327,
+    "city_name": "kab. katingan",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 4640,
+    "name": "Tewang Sangalang Garing",
+    "city_id": 327,
+    "city_name": "kab. katingan",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  }
+]

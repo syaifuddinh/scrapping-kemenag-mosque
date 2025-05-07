@@ -1,0 +1,98 @@
+[
+  {
+    "id": 4223,
+    "name": "Atambua Barat",
+    "city_id": 290,
+    "city_name": "kab. belu",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4224,
+    "name": "Atambua Selatan",
+    "city_id": 290,
+    "city_name": "kab. belu",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4207,
+    "name": "Kakuluk Mesak",
+    "city_id": 290,
+    "city_name": "kab. belu",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4214,
+    "name": "Kota Atambua",
+    "city_id": 290,
+    "city_name": "kab. belu",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4203,
+    "name": "Lamaknen",
+    "city_id": 290,
+    "city_name": "kab. belu",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4220,
+    "name": "Lamaknen Selatan",
+    "city_id": 290,
+    "city_name": "kab. belu",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4219,
+    "name": "Lasiolat",
+    "city_id": 290,
+    "city_name": "kab. belu",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4225,
+    "name": "Nanaet Duabesi",
+    "city_id": 290,
+    "city_name": "kab. belu",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4205,
+    "name": "Raihat",
+    "city_id": 290,
+    "city_name": "kab. belu",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4215,
+    "name": "Raimanuk",
+    "city_id": 290,
+    "city_name": "kab. belu",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4206,
+    "name": "Tasifeto Barat",
+    "city_id": 290,
+    "city_name": "kab. belu",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4204,
+    "name": "TasifetoTimur",
+    "city_id": 290,
+    "city_name": "kab. belu",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  }
+]

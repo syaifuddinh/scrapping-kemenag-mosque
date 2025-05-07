@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1000,
+    "name": "Benai",
+    "city_id": 84,
+    "city_name": "kab. kuantan singingi",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 999,
+    "name": "Cerenti",
+    "city_id": 84,
+    "city_name": "kab. kuantan singingi",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 1001,
+    "name": "Gunung Toar",
+    "city_id": 84,
+    "city_name": "kab. kuantan singingi",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 1006,
+    "name": "Hulu Kuantan",
+    "city_id": 84,
+    "city_name": "kab. kuantan singingi",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 1005,
+    "name": "Inuman",
+    "city_id": 84,
+    "city_name": "kab. kuantan singingi",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 998,
+    "name": "Kuantan Hilir",
+    "city_id": 84,
+    "city_name": "kab. kuantan singingi",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 7045,
+    "name": "Kuantan Hilir Seberang",
+    "city_id": 84,
+    "city_name": "kab. kuantan singingi",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 995,
+    "name": "Kuantan Mudik",
+    "city_id": 84,
+    "city_name": "kab. kuantan singingi",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 996,
+    "name": "Kuantan Tengah",
+    "city_id": 84,
+    "city_name": "kab. kuantan singingi",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 1004,
+    "name": "Logas Tanah Darat",
+    "city_id": 84,
+    "city_name": "kab. kuantan singingi",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 1003,
+    "name": "Pangean",
+    "city_id": 84,
+    "city_name": "kab. kuantan singingi",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 7047,
+    "name": "Pucuk Rantau",
+    "city_id": 84,
+    "city_name": "kab. kuantan singingi",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 7046,
+    "name": "Sentajo Raya",
+    "city_id": 84,
+    "city_name": "kab. kuantan singingi",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 997,
+    "name": "Singingi",
+    "city_id": 84,
+    "city_name": "kab. kuantan singingi",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 1002,
+    "name": "Singingi Hilir",
+    "city_id": 84,
+    "city_name": "kab. kuantan singingi",
+    "province_id": 4,
+    "province_name": "riau"
+  }
+]

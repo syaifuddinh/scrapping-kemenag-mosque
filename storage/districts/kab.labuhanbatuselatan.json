@@ -1,0 +1,42 @@
+[
+  {
+    "id": 609,
+    "name": "Kampung Rakyat",
+    "city_id": 45,
+    "city_name": "kab. labuhanbatu selatan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 608,
+    "name": "Kotapinang",
+    "city_id": 45,
+    "city_name": "kab. labuhanbatu selatan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 612,
+    "name": "Silangkitang",
+    "city_id": 45,
+    "city_name": "kab. labuhanbatu selatan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 611,
+    "name": "Sungai Kanan",
+    "city_id": 45,
+    "city_name": "kab. labuhanbatu selatan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 610,
+    "name": "Torgamba",
+    "city_id": 45,
+    "city_name": "kab. labuhanbatu selatan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 489,
+    "name": "Kab. Bulungan",
+    "province_id": 34,
+    "province_name": "KALIMANTAN UTARA"
+  },
+  {
+    "id": 490,
+    "name": "Kab. Nunukan",
+    "province_id": 34,
+    "province_name": "KALIMANTAN UTARA"
+  },
+  {
+    "id": 491,
+    "name": "Kab. Malinau",
+    "province_id": 34,
+    "province_name": "KALIMANTAN UTARA"
+  },
+  {
+    "id": 492,
+    "name": "Kab Tana Tidung",
+    "province_id": 34,
+    "province_name": "KALIMANTAN UTARA"
+  },
+  {
+    "id": 493,
+    "name": "Kota Tarakan",
+    "province_id": 34,
+    "province_name": "KALIMANTAN UTARA"
+  }
+]

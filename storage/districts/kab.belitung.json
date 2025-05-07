@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1723,
+    "name": "Badau",
+    "city_id": 137,
+    "city_name": "kab. belitung",
+    "province_id": 9,
+    "province_name": "kep. bangka belitung"
+  },
+  {
+    "id": 1720,
+    "name": "Membalong",
+    "city_id": 137,
+    "city_name": "kab. belitung",
+    "province_id": 9,
+    "province_name": "kep. bangka belitung"
+  },
+  {
+    "id": 1721,
+    "name": "Selat Nasik",
+    "city_id": 137,
+    "city_name": "kab. belitung",
+    "province_id": 9,
+    "province_name": "kep. bangka belitung"
+  },
+  {
+    "id": 1722,
+    "name": "Sijuk",
+    "city_id": 137,
+    "city_name": "kab. belitung",
+    "province_id": 9,
+    "province_name": "kep. bangka belitung"
+  },
+  {
+    "id": 1719,
+    "name": "Tanjung Pandan",
+    "city_id": 137,
+    "city_name": "kab. belitung",
+    "province_id": 9,
+    "province_name": "kep. bangka belitung"
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "id": 6671,
+    "name": "Krayan",
+    "city_id": 490,
+    "city_name": "kab. nunukan",
+    "province_id": 34,
+    "province_name": "KALIMANTAN UTARA"
+  },
+  {
+    "id": 6673,
+    "name": "Krayan Selatan",
+    "city_id": 490,
+    "city_name": "kab. nunukan",
+    "province_id": 34,
+    "province_name": "KALIMANTAN UTARA"
+  },
+  {
+    "id": 6670,
+    "name": "Lumbis",
+    "city_id": 490,
+    "city_name": "kab. nunukan",
+    "province_id": 34,
+    "province_name": "KALIMANTAN UTARA"
+  },
+  {
+    "id": 7210,
+    "name": "Lumbis Ogong",
+    "city_id": 490,
+    "city_name": "kab. nunukan",
+    "province_id": 34,
+    "province_name": "KALIMANTAN UTARA"
+  },
+  {
+    "id": 6668,
+    "name": "Nunukan",
+    "city_id": 490,
+    "city_name": "kab. nunukan",
+    "province_id": 34,
+    "province_name": "KALIMANTAN UTARA"
+  },
+  {
+    "id": 6675,
+    "name": "Nunukan Selatan",
+    "city_id": 490,
+    "city_name": "kab. nunukan",
+    "province_id": 34,
+    "province_name": "KALIMANTAN UTARA"
+  },
+  {
+    "id": 6667,
+    "name": "Sebatik",
+    "city_id": 490,
+    "city_name": "kab. nunukan",
+    "province_id": 34,
+    "province_name": "KALIMANTAN UTARA"
+  },
+  {
+    "id": 6674,
+    "name": "Sebatik Barat",
+    "city_id": 490,
+    "city_name": "kab. nunukan",
+    "province_id": 34,
+    "province_name": "KALIMANTAN UTARA"
+  },
+  {
+    "id": 7207,
+    "name": "Sebatik Tengah",
+    "city_id": 490,
+    "city_name": "kab. nunukan",
+    "province_id": 34,
+    "province_name": "KALIMANTAN UTARA"
+  },
+  {
+    "id": 7205,
+    "name": "Sebatik Timur",
+    "city_id": 490,
+    "city_name": "kab. nunukan",
+    "province_id": 34,
+    "province_name": "KALIMANTAN UTARA"
+  },
+  {
+    "id": 7206,
+    "name": "Sebatik Utara",
+    "city_id": 490,
+    "city_name": "kab. nunukan",
+    "province_id": 34,
+    "province_name": "KALIMANTAN UTARA"
+  },
+  {
+    "id": 6672,
+    "name": "Sebuku",
+    "city_id": 490,
+    "city_name": "kab. nunukan",
+    "province_id": 34,
+    "province_name": "KALIMANTAN UTARA"
+  },
+  {
+    "id": 7208,
+    "name": "Sei Menggaris",
+    "city_id": 490,
+    "city_name": "kab. nunukan",
+    "province_id": 34,
+    "province_name": "KALIMANTAN UTARA"
+  },
+  {
+    "id": 6669,
+    "name": "Sembakung",
+    "city_id": 490,
+    "city_name": "kab. nunukan",
+    "province_id": 34,
+    "province_name": "KALIMANTAN UTARA"
+  },
+  {
+    "id": 7211,
+    "name": "Sembakung Atulai",
+    "city_id": 490,
+    "city_name": "kab. nunukan",
+    "province_id": 34,
+    "province_name": "KALIMANTAN UTARA"
+  },
+  {
+    "id": 7209,
+    "name": "Tulin Onsoi",
+    "city_id": 490,
+    "city_name": "kab. nunukan",
+    "province_id": 34,
+    "province_name": "KALIMANTAN UTARA"
+  }
+]

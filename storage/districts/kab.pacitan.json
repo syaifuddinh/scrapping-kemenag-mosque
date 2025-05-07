@@ -1,0 +1,98 @@
+[
+  {
+    "id": 3293,
+    "name": "Arjosari",
+    "city_id": 230,
+    "city_name": "kab. pacitan",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3295,
+    "name": "Bandar",
+    "city_id": 230,
+    "city_name": "kab. pacitan",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3288,
+    "name": "Donorojo",
+    "city_id": 230,
+    "city_name": "kab. pacitan",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3292,
+    "name": "Kebonagung",
+    "city_id": 230,
+    "city_name": "kab. pacitan",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3294,
+    "name": "Nawangan",
+    "city_id": 230,
+    "city_name": "kab. pacitan",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3298,
+    "name": "Ngadirojo",
+    "city_id": 230,
+    "city_name": "kab. pacitan",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3291,
+    "name": "Pacitan",
+    "city_id": 230,
+    "city_name": "kab. pacitan",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3289,
+    "name": "Pringkuku",
+    "city_id": 230,
+    "city_name": "kab. pacitan",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3290,
+    "name": "Punung",
+    "city_id": 230,
+    "city_name": "kab. pacitan",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3299,
+    "name": "Sudimoro",
+    "city_id": 230,
+    "city_name": "kab. pacitan",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3296,
+    "name": "Tegalombo",
+    "city_id": 230,
+    "city_name": "kab. pacitan",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3297,
+    "name": "Tulakan",
+    "city_id": 230,
+    "city_name": "kab. pacitan",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "id": 4506,
+    "name": "Badau",
+    "city_id": 313,
+    "city_name": "kab. kapuas hulu",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4504,
+    "name": "Batang Lupar",
+    "city_id": 313,
+    "city_name": "kab. kapuas hulu",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4494,
+    "name": "Bika",
+    "city_id": 313,
+    "city_name": "kab. kapuas hulu",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4511,
+    "name": "Boyan Tanjung",
+    "city_id": 313,
+    "city_name": "kab. kapuas hulu",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4497,
+    "name": "Bunut Hilir",
+    "city_id": 313,
+    "city_name": "kab. kapuas hulu",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4498,
+    "name": "Bunut Hulu",
+    "city_id": 313,
+    "city_name": "kab. kapuas hulu",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4517,
+    "name": "Danau Setarum",
+    "city_id": 313,
+    "city_name": "kab. kapuas hulu",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4495,
+    "name": "Embaloh Hilir",
+    "city_id": 313,
+    "city_name": "kab. kapuas hulu",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4496,
+    "name": "Embaloh Hulu",
+    "city_id": 313,
+    "city_name": "kab. kapuas hulu",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4505,
+    "name": "Empanang",
+    "city_id": 313,
+    "city_name": "kab. kapuas hulu",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4500,
+    "name": "Hulu Gurung",
+    "city_id": 313,
+    "city_name": "kab. kapuas hulu",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4516,
+    "name": "Hulu Kapuas",
+    "city_id": 313,
+    "city_name": "kab. kapuas hulu",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4499,
+    "name": "Jongkong",
+    "city_id": 313,
+    "city_name": "kab. kapuas hulu",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4510,
+    "name": "Kalis",
+    "city_id": 313,
+    "city_name": "kab. kapuas hulu",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4512,
+    "name": "Mentebah",
+    "city_id": 313,
+    "city_name": "kab. kapuas hulu",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4513,
+    "name": "Pengkadan",
+    "city_id": 313,
+    "city_name": "kab. kapuas hulu",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4515,
+    "name": "Puring Kencana",
+    "city_id": 313,
+    "city_name": "kab. kapuas hulu",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4509,
+    "name": "Putussibau Selatan",
+    "city_id": 313,
+    "city_name": "kab. kapuas hulu",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4493,
+    "name": "Putussibau Utara",
+    "city_id": 313,
+    "city_name": "kab. kapuas hulu",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4503,
+    "name": "Seberuang",
+    "city_id": 313,
+    "city_name": "kab. kapuas hulu",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4501,
+    "name": "Selimbau",
+    "city_id": 313,
+    "city_name": "kab. kapuas hulu",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4502,
+    "name": "Semitau",
+    "city_id": 313,
+    "city_name": "kab. kapuas hulu",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4507,
+    "name": "Silat Hilir",
+    "city_id": 313,
+    "city_name": "kab. kapuas hulu",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4508,
+    "name": "Silat Hulu",
+    "city_id": 313,
+    "city_name": "kab. kapuas hulu",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4514,
+    "name": "Suhaid",
+    "city_id": 313,
+    "city_name": "kab. kapuas hulu",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  }
+]

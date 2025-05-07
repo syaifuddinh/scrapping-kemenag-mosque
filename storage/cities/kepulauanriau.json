@@ -1,0 +1,44 @@
+[
+  {
+    "id": 143,
+    "name": "Kab. Bintan",
+    "province_id": 10,
+    "province_name": "kepulauan riau"
+  },
+  {
+    "id": 144,
+    "name": "Kab. Karimun",
+    "province_id": 10,
+    "province_name": "kepulauan riau"
+  },
+  {
+    "id": 145,
+    "name": "Kab. Natuna",
+    "province_id": 10,
+    "province_name": "kepulauan riau"
+  },
+  {
+    "id": 146,
+    "name": "Kab. Lingga",
+    "province_id": 10,
+    "province_name": "kepulauan riau"
+  },
+  {
+    "id": 147,
+    "name": "Kab. Kepulauan Anambas",
+    "province_id": 10,
+    "province_name": "kepulauan riau"
+  },
+  {
+    "id": 148,
+    "name": "Kota Batam",
+    "province_id": 10,
+    "province_name": "kepulauan riau"
+  },
+  {
+    "id": 149,
+    "name": "Kota Tanjung Pinang",
+    "province_id": 10,
+    "province_name": "kepulauan riau"
+  }
+]

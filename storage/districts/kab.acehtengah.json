@@ -1,0 +1,114 @@
+[
+  {
+    "id": 69,
+    "name": "Atu Lintang",
+    "city_id": 4,
+    "city_name": "kab. aceh tengah",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 61,
+    "name": "Bebesen",
+    "city_id": 4,
+    "city_name": "kab. aceh tengah",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 71,
+    "name": "Bies",
+    "city_id": 4,
+    "city_name": "kab. aceh tengah",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 63,
+    "name": "Bintang",
+    "city_id": 4,
+    "city_name": "kab. aceh tengah",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 67,
+    "name": "Celala",
+    "city_id": 4,
+    "city_name": "kab. aceh tengah",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 70,
+    "name": "Jagong Jeget",
+    "city_id": 4,
+    "city_name": "kab. aceh tengah",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 65,
+    "name": "Kebayakan",
+    "city_id": 4,
+    "city_name": "kab. aceh tengah",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 64,
+    "name": "Ketol",
+    "city_id": 4,
+    "city_name": "kab. aceh tengah",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 66,
+    "name": "Kute Panang",
+    "city_id": 4,
+    "city_name": "kab. aceh tengah",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 68,
+    "name": "Laut Tawar",
+    "city_id": 4,
+    "city_name": "kab. aceh tengah",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 59,
+    "name": "Linge",
+    "city_id": 4,
+    "city_name": "kab. aceh tengah",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 62,
+    "name": "Pegasing",
+    "city_id": 4,
+    "city_name": "kab. aceh tengah",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 72,
+    "name": "Rusip Antara",
+    "city_id": 4,
+    "city_name": "kab. aceh tengah",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 60,
+    "name": "Silih Nara",
+    "city_id": 4,
+    "city_name": "kab. aceh tengah",
+    "province_id": 1,
+    "province_name": "aceh"
+  }
+]

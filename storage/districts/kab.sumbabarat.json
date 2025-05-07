@@ -1,0 +1,50 @@
+[
+  {
+    "id": 4349,
+    "name": "Kota Waikabubak",
+    "city_id": 298,
+    "city_name": "kab. sumba barat",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4350,
+    "name": "Laboya Barat",
+    "city_id": 298,
+    "city_name": "kab. sumba barat",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4348,
+    "name": "Lamboya",
+    "city_id": 298,
+    "city_name": "kab. sumba barat",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4346,
+    "name": "Loli",
+    "city_id": 298,
+    "city_name": "kab. sumba barat",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4345,
+    "name": "Tana Righu",
+    "city_id": 298,
+    "city_name": "kab. sumba barat",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4347,
+    "name": "Wanokaka",
+    "city_id": 298,
+    "city_name": "kab. sumba barat",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  }
+]

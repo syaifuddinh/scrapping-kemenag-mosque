@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1369,
+    "name": "Lubuk Linggau Barat I",
+    "city_id": 110,
+    "city_name": "kota lubuk linggau",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1373,
+    "name": "Lubuk Linggau Barat II",
+    "city_id": 110,
+    "city_name": "kota lubuk linggau",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1370,
+    "name": "Lubuk Linggau Selatan I",
+    "city_id": 110,
+    "city_name": "kota lubuk linggau",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1374,
+    "name": "Lubuk Linggau Selatan II",
+    "city_id": 110,
+    "city_name": "kota lubuk linggau",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1368,
+    "name": "Lubuk Linggau Timur I",
+    "city_id": 110,
+    "city_name": "kota lubuk linggau",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1372,
+    "name": "Lubuk Linggau Timur II",
+    "city_id": 110,
+    "city_name": "kota lubuk linggau",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1371,
+    "name": "Lubuk Linggau Utara I",
+    "city_id": 110,
+    "city_name": "kota lubuk linggau",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1375,
+    "name": "Lubuk Linggau Utara II",
+    "city_id": 110,
+    "city_name": "kota lubuk linggau",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  }
+]

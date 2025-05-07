@@ -1,0 +1,178 @@
+[
+  {
+    "id": 393,
+    "name": "Bangun Purba",
+    "city_id": 30,
+    "city_name": "kab. deli serdang",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 402,
+    "name": "Batang Kuis",
+    "city_id": 30,
+    "city_name": "kab. deli serdang",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 406,
+    "name": "Beringin",
+    "city_id": 30,
+    "city_name": "kab. deli serdang",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 397,
+    "name": "Deli Tua",
+    "city_id": 30,
+    "city_name": "kab. deli serdang",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 394,
+    "name": "Galang",
+    "city_id": 30,
+    "city_name": "kab. deli serdang",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 385,
+    "name": "Gunung Meriah",
+    "city_id": 30,
+    "city_name": "kab. deli serdang",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 399,
+    "name": "Hamparan Perak",
+    "city_id": 30,
+    "city_name": "kab. deli serdang",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 388,
+    "name": "Kutalimbaru",
+    "city_id": 30,
+    "city_name": "kab. deli serdang",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 400,
+    "name": "Labuhan Deli",
+    "city_id": 30,
+    "city_name": "kab. deli serdang",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 403,
+    "name": "Lubuk Pakam",
+    "city_id": 30,
+    "city_name": "kab. deli serdang",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 390,
+    "name": "Namorambe",
+    "city_id": 30,
+    "city_name": "kab. deli serdang",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 404,
+    "name": "Pagar Merbau",
+    "city_id": 30,
+    "city_name": "kab. deli serdang",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 389,
+    "name": "Pancur Batu",
+    "city_id": 30,
+    "city_name": "kab. deli serdang",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 405,
+    "name": "Pantai Labu",
+    "city_id": 30,
+    "city_name": "kab. deli serdang",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 396,
+    "name": "Patumbak",
+    "city_id": 30,
+    "city_name": "kab. deli serdang",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 401,
+    "name": "Percut Sei Tuan",
+    "city_id": 30,
+    "city_name": "kab. deli serdang",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 391,
+    "name": "Sibiru-biru",
+    "city_id": 30,
+    "city_name": "kab. deli serdang",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 387,
+    "name": "Sibolangit",
+    "city_id": 30,
+    "city_name": "kab. deli serdang",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 392,
+    "name": "STM Hilir",
+    "city_id": 30,
+    "city_name": "kab. deli serdang",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 395,
+    "name": "STM Hulu",
+    "city_id": 30,
+    "city_name": "kab. deli serdang",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 398,
+    "name": "Sunggal",
+    "city_id": 30,
+    "city_name": "kab. deli serdang",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 386,
+    "name": "Tanjung Morawa",
+    "city_id": 30,
+    "city_name": "kab. deli serdang",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  }
+]

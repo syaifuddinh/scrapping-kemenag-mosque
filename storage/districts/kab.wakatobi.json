@@ -1,0 +1,66 @@
+[
+  {
+    "id": 5735,
+    "name": "Binongko",
+    "city_id": 414,
+    "city_name": "kab. wakatobi",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 5733,
+    "name": "Kaledupa",
+    "city_id": 414,
+    "city_name": "kab. wakatobi",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 5737,
+    "name": "Kaledupa Selatan",
+    "city_id": 414,
+    "city_name": "kab. wakatobi",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 5739,
+    "name": "Togo Binongko",
+    "city_id": 414,
+    "city_name": "kab. wakatobi",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 5734,
+    "name": "Tomia",
+    "city_id": 414,
+    "city_name": "kab. wakatobi",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 5738,
+    "name": "Tomia Timur",
+    "city_id": 414,
+    "city_name": "kab. wakatobi",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 5736,
+    "name": "Wangi Wangi Selatan",
+    "city_id": 414,
+    "city_name": "kab. wakatobi",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 5732,
+    "name": "Wangi-Wangi",
+    "city_id": 414,
+    "city_name": "kab. wakatobi",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  }
+]

@@ -1,0 +1,226 @@
+[
+  {
+    "id": 1548,
+    "name": "Anak Ratu Aji",
+    "city_id": 123,
+    "city_name": "kab. lampung tengah",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1542,
+    "name": "Anak Tuha",
+    "city_id": 123,
+    "city_name": "kab. lampung tengah",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1539,
+    "name": "Bandar Mataram",
+    "city_id": 123,
+    "city_name": "kab. lampung tengah",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1547,
+    "name": "Bandar Surabaya",
+    "city_id": 123,
+    "city_name": "kab. lampung tengah",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1523,
+    "name": "Bangun Rejo",
+    "city_id": 123,
+    "city_name": "kab. lampung tengah",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1536,
+    "name": "Bekri",
+    "city_id": 123,
+    "city_name": "kab. lampung tengah",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1545,
+    "name": "Bumi Nabung",
+    "city_id": 123,
+    "city_name": "kab. lampung tengah",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1535,
+    "name": "Bumi Ratu Nuban",
+    "city_id": 123,
+    "city_name": "kab. lampung tengah",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1525,
+    "name": "Gunung Sugih",
+    "city_id": 123,
+    "city_name": "kab. lampung tengah",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1522,
+    "name": "Kalirejo",
+    "city_id": 123,
+    "city_name": "kab. lampung tengah",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1544,
+    "name": "Kota Gajah",
+    "city_id": 123,
+    "city_name": "kab. lampung tengah",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1524,
+    "name": "Padang Ratu",
+    "city_id": 123,
+    "city_name": "kab. lampung tengah",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1540,
+    "name": "Pubian",
+    "city_id": 123,
+    "city_name": "kab. lampung tengah",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1527,
+    "name": "Punggur",
+    "city_id": 123,
+    "city_name": "kab. lampung tengah",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1549,
+    "name": "Putra Rumbia",
+    "city_id": 123,
+    "city_name": "kab. lampung tengah",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1530,
+    "name": "Rumbia",
+    "city_id": 123,
+    "city_name": "kab. lampung tengah",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1541,
+    "name": "Selagai Lingga",
+    "city_id": 123,
+    "city_name": "kab. lampung tengah",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1543,
+    "name": "Sendang Agung",
+    "city_id": 123,
+    "city_name": "kab. lampung tengah",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1537,
+    "name": "Seputih Agung",
+    "city_id": 123,
+    "city_name": "kab. lampung tengah",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1531,
+    "name": "Seputih Banyak",
+    "city_id": 123,
+    "city_name": "kab. lampung tengah",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1532,
+    "name": "Seputih Mataram",
+    "city_id": 123,
+    "city_name": "kab. lampung tengah",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1529,
+    "name": "Seputih Raman",
+    "city_id": 123,
+    "city_name": "kab. lampung tengah",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1533,
+    "name": "Seputih Surabaya",
+    "city_id": 123,
+    "city_name": "kab. lampung tengah",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1528,
+    "name": "Terbanggi Besar",
+    "city_id": 123,
+    "city_name": "kab. lampung tengah",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1534,
+    "name": "Terusan Nunyai",
+    "city_id": 123,
+    "city_name": "kab. lampung tengah",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1526,
+    "name": "Trimurjo",
+    "city_id": 123,
+    "city_name": "kab. lampung tengah",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1538,
+    "name": "Way Pangubuan",
+    "city_id": 123,
+    "city_name": "kab. lampung tengah",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1546,
+    "name": "Way Seputih",
+    "city_id": 123,
+    "city_name": "kab. lampung tengah",
+    "province_id": 8,
+    "province_name": "lampung"
+  }
+]

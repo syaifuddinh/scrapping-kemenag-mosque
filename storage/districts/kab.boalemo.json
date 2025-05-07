@@ -1,0 +1,58 @@
+[
+  {
+    "id": 5811,
+    "name": "Botumoita",
+    "city_id": 421,
+    "city_name": "kab. boalemo",
+    "province_id": 28,
+    "province_name": "gorontalo"
+  },
+  {
+    "id": 5808,
+    "name": "Dulupi",
+    "city_id": 421,
+    "city_name": "kab. boalemo",
+    "province_id": 28,
+    "province_name": "gorontalo"
+  },
+  {
+    "id": 5810,
+    "name": "Mananggu",
+    "city_id": 421,
+    "city_name": "kab. boalemo",
+    "province_id": 28,
+    "province_name": "gorontalo"
+  },
+  {
+    "id": 5806,
+    "name": "Paguyaman",
+    "city_id": 421,
+    "city_name": "kab. boalemo",
+    "province_id": 28,
+    "province_name": "gorontalo"
+  },
+  {
+    "id": 5812,
+    "name": "Paguyaman Pantai",
+    "city_id": 421,
+    "city_name": "kab. boalemo",
+    "province_id": 28,
+    "province_name": "gorontalo"
+  },
+  {
+    "id": 5809,
+    "name": "Tilamuta",
+    "city_id": 421,
+    "city_name": "kab. boalemo",
+    "province_id": 28,
+    "province_name": "gorontalo"
+  },
+  {
+    "id": 5807,
+    "name": "Wonosari",
+    "city_id": 421,
+    "city_name": "kab. boalemo",
+    "province_id": 28,
+    "province_name": "gorontalo"
+  }
+]

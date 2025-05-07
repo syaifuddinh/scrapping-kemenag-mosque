@@ -1,0 +1,82 @@
+[
+  {
+    "id": 6241,
+    "name": "Apawer Hulu",
+    "city_id": 460,
+    "city_name": "kab. sarmi",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6240,
+    "name": "Bonggo",
+    "city_id": 460,
+    "city_name": "kab. sarmi",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6245,
+    "name": "Bonggo Timur",
+    "city_id": 460,
+    "city_name": "kab. sarmi",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6238,
+    "name": "Pantai Barat",
+    "city_id": 460,
+    "city_name": "kab. sarmi",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6239,
+    "name": "Pantai Timur",
+    "city_id": 460,
+    "city_name": "kab. sarmi",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6244,
+    "name": "Pantai Timur Bagian Barat",
+    "city_id": 460,
+    "city_name": "kab. sarmi",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6236,
+    "name": "Sarmi",
+    "city_id": 460,
+    "city_name": "kab. sarmi",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6242,
+    "name": "Sarmi Selatan",
+    "city_id": 460,
+    "city_name": "kab. sarmi",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6243,
+    "name": "Sarmi Timur",
+    "city_id": 460,
+    "city_name": "kab. sarmi",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6237,
+    "name": "Tor Atas",
+    "city_id": 460,
+    "city_name": "kab. sarmi",
+    "province_id": 32,
+    "province_name": "papua"
+  }
+]

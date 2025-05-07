@@ -1,0 +1,50 @@
+[
+  {
+    "id": 4958,
+    "name": "Balikpapan Barat",
+    "city_id": 355,
+    "city_name": "kota balikpapan",
+    "province_id": 23,
+    "province_name": "kalimantan timur"
+  },
+  {
+    "id": 7230,
+    "name": "Balikpapan Kota",
+    "city_id": 355,
+    "city_name": "kota balikpapan",
+    "province_id": 23,
+    "province_name": "kalimantan timur"
+  },
+  {
+    "id": 4961,
+    "name": "Balikpapan Selatan",
+    "city_id": 355,
+    "city_name": "kota balikpapan",
+    "province_id": 23,
+    "province_name": "kalimantan timur"
+  },
+  {
+    "id": 4960,
+    "name": "Balikpapan Tengah",
+    "city_id": 355,
+    "city_name": "kota balikpapan",
+    "province_id": 23,
+    "province_name": "kalimantan timur"
+  },
+  {
+    "id": 4957,
+    "name": "Balikpapan Timur",
+    "city_id": 355,
+    "city_name": "kota balikpapan",
+    "province_id": 23,
+    "province_name": "kalimantan timur"
+  },
+  {
+    "id": 4959,
+    "name": "Balikpapan Utara",
+    "city_id": 355,
+    "city_name": "kota balikpapan",
+    "province_id": 23,
+    "province_name": "kalimantan timur"
+  }
+]

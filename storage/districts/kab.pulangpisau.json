@@ -1,0 +1,66 @@
+[
+  {
+    "id": 4692,
+    "name": "Banama Tingang",
+    "city_id": 332,
+    "city_name": "kab. pulang pisau",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 4695,
+    "name": "Jabiren",
+    "city_id": 332,
+    "city_name": "kab. pulang pisau",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 4693,
+    "name": "Kahayan Hilir",
+    "city_id": 332,
+    "city_name": "kab. pulang pisau",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 4690,
+    "name": "Kahayan Kuala",
+    "city_id": 332,
+    "city_name": "kab. pulang pisau",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 4691,
+    "name": "Kahayan Tengah",
+    "city_id": 332,
+    "city_name": "kab. pulang pisau",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 4694,
+    "name": "Maliku",
+    "city_id": 332,
+    "city_name": "kab. pulang pisau",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 4689,
+    "name": "Pandih Batu",
+    "city_id": 332,
+    "city_name": "kab. pulang pisau",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 4696,
+    "name": "Sebangau Kuala",
+    "city_id": 332,
+    "city_name": "kab. pulang pisau",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "id": 2566,
+    "name": "Andir",
+    "city_id": 183,
+    "city_name": "kota bandung",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2581,
+    "name": "Antapani",
+    "city_id": 183,
+    "city_name": "kota bandung",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2585,
+    "name": "Arcamanik",
+    "city_id": 183,
+    "city_name": "kota bandung",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2571,
+    "name": "Astana Anyar",
+    "city_id": 183,
+    "city_name": "kota bandung",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2564,
+    "name": "Babakan Ciparay",
+    "city_id": 183,
+    "city_name": "kota bandung",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2582,
+    "name": "Bandung Kidul",
+    "city_id": 183,
+    "city_name": "kota bandung",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2576,
+    "name": "Bandung Kulon",
+    "city_id": 183,
+    "city_name": "kota bandung",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2570,
+    "name": "Bandung Wetan",
+    "city_id": 183,
+    "city_name": "kota bandung",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2573,
+    "name": "Batununggal",
+    "city_id": 183,
+    "city_name": "kota bandung",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2565,
+    "name": "Bojongloa Kaler",
+    "city_id": 183,
+    "city_name": "kota bandung",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2578,
+    "name": "Bojongloa Kidul",
+    "city_id": 183,
+    "city_name": "kota bandung",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2583,
+    "name": "Buahbatu",
+    "city_id": 183,
+    "city_name": "kota bandung",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2579,
+    "name": "Cibeunying Kaler",
+    "city_id": 183,
+    "city_name": "kota bandung",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2575,
+    "name": "Cibeunying Kidul",
+    "city_id": 183,
+    "city_name": "kota bandung",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2586,
+    "name": "Cibiru",
+    "city_id": 183,
+    "city_name": "kota bandung",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2567,
+    "name": "Cicendo",
+    "city_id": 183,
+    "city_name": "kota bandung",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2569,
+    "name": "Cidadap",
+    "city_id": 183,
+    "city_name": "kota bandung",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2590,
+    "name": "Cinambo",
+    "city_id": 183,
+    "city_name": "kota bandung",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2563,
+    "name": "Coblong",
+    "city_id": 183,
+    "city_name": "kota bandung",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2588,
+    "name": "Gedebage",
+    "city_id": 183,
+    "city_name": "kota bandung",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2577,
+    "name": "Kiaracondong",
+    "city_id": 183,
+    "city_name": "kota bandung",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2574,
+    "name": "Lengkong",
+    "city_id": 183,
+    "city_name": "kota bandung",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2591,
+    "name": "Mandalajati",
+    "city_id": 183,
+    "city_name": "kota bandung",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2589,
+    "name": "Panyileukan",
+    "city_id": 183,
+    "city_name": "kota bandung",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2584,
+    "name": "Rancasari",
+    "city_id": 183,
+    "city_name": "kota bandung",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2572,
+    "name": "Regol",
+    "city_id": 183,
+    "city_name": "kota bandung",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2568,
+    "name": "Sukajadi",
+    "city_id": 183,
+    "city_name": "kota bandung",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2562,
+    "name": "Sukasari",
+    "city_id": 183,
+    "city_name": "kota bandung",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2580,
+    "name": "Sumur Bandung",
+    "city_id": 183,
+    "city_name": "kota bandung",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2587,
+    "name": "Ujung Berung",
+    "city_id": 183,
+    "city_name": "kota bandung",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  }
+]

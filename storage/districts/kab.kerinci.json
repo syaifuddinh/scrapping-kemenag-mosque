@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1034,
+    "name": "Air Hangat",
+    "city_id": 87,
+    "city_name": "kab. kerinci",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1039,
+    "name": "Air Hangat Timur",
+    "city_id": 87,
+    "city_name": "kab. kerinci",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1036,
+    "name": "Batang Merangin",
+    "city_id": 87,
+    "city_name": "kab. kerinci",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1032,
+    "name": "Danau Kerinci",
+    "city_id": 87,
+    "city_name": "kab. kerinci",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1042,
+    "name": "Depati Tujuh",
+    "city_id": 87,
+    "city_name": "kab. kerinci",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1035,
+    "name": "Gunung Kerinci",
+    "city_id": 87,
+    "city_name": "kab. kerinci",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1031,
+    "name": "Gunung Raya",
+    "city_id": 87,
+    "city_name": "kab. kerinci",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1040,
+    "name": "Gunung Tujuh",
+    "city_id": 87,
+    "city_name": "kab. kerinci",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1038,
+    "name": "Kayu Aro",
+    "city_id": 87,
+    "city_name": "kab. kerinci",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1037,
+    "name": "Keliling Danau",
+    "city_id": 87,
+    "city_name": "kab. kerinci",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1033,
+    "name": "Sitinjau Laut",
+    "city_id": 87,
+    "city_name": "kab. kerinci",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1041,
+    "name": "Siulak",
+    "city_id": 87,
+    "city_name": "kab. kerinci",
+    "province_id": 5,
+    "province_name": "jambi"
+  }
+]

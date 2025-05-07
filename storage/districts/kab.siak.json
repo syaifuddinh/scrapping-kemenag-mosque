@@ -1,0 +1,114 @@
+[
+  {
+    "id": 988,
+    "name": "Bunga Raya",
+    "city_id": 83,
+    "city_name": "kab. siak",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 986,
+    "name": "Dayun",
+    "city_id": 83,
+    "city_name": "kab. siak",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 990,
+    "name": "Kandis",
+    "city_id": 83,
+    "city_name": "kab. siak",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 987,
+    "name": "Kerinci Kanan",
+    "city_id": 83,
+    "city_name": "kab. siak",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 989,
+    "name": "Koto Gasib",
+    "city_id": 83,
+    "city_name": "kab. siak",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 991,
+    "name": "Lubuk Dalam",
+    "city_id": 83,
+    "city_name": "kab. siak",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 993,
+    "name": "Mempura",
+    "city_id": 83,
+    "city_name": "kab. siak",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 983,
+    "name": "Minas",
+    "city_id": 83,
+    "city_name": "kab. siak",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 994,
+    "name": "Pusako",
+    "city_id": 83,
+    "city_name": "kab. siak",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 992,
+    "name": "Sabak Auh",
+    "city_id": 83,
+    "city_name": "kab. siak",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 981,
+    "name": "Siak",
+    "city_id": 83,
+    "city_name": "kab. siak",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 982,
+    "name": "Sungai Apit",
+    "city_id": 83,
+    "city_name": "kab. siak",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 985,
+    "name": "Sungai Mandau",
+    "city_id": 83,
+    "city_name": "kab. siak",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 984,
+    "name": "Tualang",
+    "city_id": 83,
+    "city_name": "kab. siak",
+    "province_id": 4,
+    "province_name": "riau"
+  }
+]

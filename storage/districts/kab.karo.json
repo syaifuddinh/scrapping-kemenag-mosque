@@ -1,0 +1,138 @@
+[
+  {
+    "id": 370,
+    "name": "Barusjahe",
+    "city_id": 29,
+    "city_name": "kab. karo",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 369,
+    "name": "Berastagi",
+    "city_id": 29,
+    "city_name": "kab. karo",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 381,
+    "name": "Dolat Rayat",
+    "city_id": 29,
+    "city_name": "kab. karo",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 374,
+    "name": "Juhar",
+    "city_id": 29,
+    "city_name": "kab. karo",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 368,
+    "name": "Kabanjahe",
+    "city_id": 29,
+    "city_name": "kab. karo",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 380,
+    "name": "Kutabuluh",
+    "city_id": 29,
+    "city_name": "kab. karo",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 376,
+    "name": "Laubaleng",
+    "city_id": 29,
+    "city_name": "kab. karo",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 377,
+    "name": "Mardingding",
+    "city_id": 29,
+    "city_name": "kab. karo",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 382,
+    "name": "Merdeka",
+    "city_id": 29,
+    "city_name": "kab. karo",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 372,
+    "name": "Merek",
+    "city_id": 29,
+    "city_name": "kab. karo",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 373,
+    "name": "Munte",
+    "city_id": 29,
+    "city_name": "kab. karo",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 383,
+    "name": "Naman Teran",
+    "city_id": 29,
+    "city_name": "kab. karo",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 378,
+    "name": "Payung",
+    "city_id": 29,
+    "city_name": "kab. karo",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 379,
+    "name": "Simpang Empat",
+    "city_id": 29,
+    "city_name": "kab. karo",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 375,
+    "name": "Tigabinanga",
+    "city_id": 29,
+    "city_name": "kab. karo",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 384,
+    "name": "Tiganderket",
+    "city_id": 29,
+    "city_name": "kab. karo",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 371,
+    "name": "Tigapanah",
+    "city_id": 29,
+    "city_name": "kab. karo",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  }
+]

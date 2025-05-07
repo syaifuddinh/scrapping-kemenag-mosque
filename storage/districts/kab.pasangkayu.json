@@ -1,0 +1,98 @@
+[
+  {
+    "id": 5867,
+    "name": "Bambaira",
+    "city_id": 426,
+    "city_name": "kab. pasangkayu",
+    "province_id": 29,
+    "province_name": "sulawesi barat"
+  },
+  {
+    "id": 5858,
+    "name": "Bambalamotu",
+    "city_id": 426,
+    "city_name": "kab. pasangkayu",
+    "province_id": 29,
+    "province_name": "sulawesi barat"
+  },
+  {
+    "id": 5860,
+    "name": "Baras",
+    "city_id": 426,
+    "city_name": "kab. pasangkayu",
+    "province_id": 29,
+    "province_name": "sulawesi barat"
+  },
+  {
+    "id": 5864,
+    "name": "Bulu Taba",
+    "city_id": 426,
+    "city_name": "kab. pasangkayu",
+    "province_id": 29,
+    "province_name": "sulawesi barat"
+  },
+  {
+    "id": 5862,
+    "name": "Dapurang",
+    "city_id": 426,
+    "city_name": "kab. pasangkayu",
+    "province_id": 29,
+    "province_name": "sulawesi barat"
+  },
+  {
+    "id": 5863,
+    "name": "Duripoku",
+    "city_id": 426,
+    "city_name": "kab. pasangkayu",
+    "province_id": 29,
+    "province_name": "sulawesi barat"
+  },
+  {
+    "id": 5869,
+    "name": "Lariang",
+    "city_id": 426,
+    "city_name": "kab. pasangkayu",
+    "province_id": 29,
+    "province_name": "sulawesi barat"
+  },
+  {
+    "id": 5859,
+    "name": "Pasangkayu",
+    "city_id": 426,
+    "city_name": "kab. pasangkayu",
+    "province_id": 29,
+    "province_name": "sulawesi barat"
+  },
+  {
+    "id": 5866,
+    "name": "Pedongga",
+    "city_id": 426,
+    "city_name": "kab. pasangkayu",
+    "province_id": 29,
+    "province_name": "sulawesi barat"
+  },
+  {
+    "id": 5868,
+    "name": "Sarjo",
+    "city_id": 426,
+    "city_name": "kab. pasangkayu",
+    "province_id": 29,
+    "province_name": "sulawesi barat"
+  },
+  {
+    "id": 5861,
+    "name": "Sarudu",
+    "city_id": 426,
+    "city_name": "kab. pasangkayu",
+    "province_id": 29,
+    "province_name": "sulawesi barat"
+  },
+  {
+    "id": 5865,
+    "name": "Tikke Raya",
+    "city_id": 426,
+    "city_name": "kab. pasangkayu",
+    "province_id": 29,
+    "province_name": "sulawesi barat"
+  }
+]

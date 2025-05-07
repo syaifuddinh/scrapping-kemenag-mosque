@@ -1,0 +1,82 @@
+[
+  {
+    "id": 6451,
+    "name": "Balingga",
+    "city_id": 473,
+    "city_name": "kab. lanny jaya",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6449,
+    "name": "Dimba",
+    "city_id": 473,
+    "city_name": "kab. lanny jaya",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6448,
+    "name": "Gamelia",
+    "city_id": 473,
+    "city_name": "kab. lanny jaya",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6453,
+    "name": "Kuyawage",
+    "city_id": 473,
+    "city_name": "kab. lanny jaya",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6447,
+    "name": "Makki",
+    "city_id": 473,
+    "city_name": "kab. lanny jaya",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6450,
+    "name": "Melagineri",
+    "city_id": 473,
+    "city_name": "kab. lanny jaya",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6446,
+    "name": "Pirime",
+    "city_id": 473,
+    "city_name": "kab. lanny jaya",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6454,
+    "name": "Poga",
+    "city_id": 473,
+    "city_name": "kab. lanny jaya",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6445,
+    "name": "Tiom",
+    "city_id": 473,
+    "city_name": "kab. lanny jaya",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6452,
+    "name": "Tiomneri",
+    "city_id": 473,
+    "city_name": "kab. lanny jaya",
+    "province_id": 32,
+    "province_name": "papua"
+  }
+]

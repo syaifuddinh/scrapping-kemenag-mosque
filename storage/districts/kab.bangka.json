@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1716,
+    "name": "Bakam",
+    "city_id": 136,
+    "city_name": "kab. bangka",
+    "province_id": 9,
+    "province_name": "kep. bangka belitung"
+  },
+  {
+    "id": 1712,
+    "name": "Belinyu",
+    "city_id": 136,
+    "city_name": "kab. bangka",
+    "province_id": 9,
+    "province_name": "kep. bangka belitung"
+  },
+  {
+    "id": 1714,
+    "name": "Mendo Barat",
+    "city_id": 136,
+    "city_name": "kab. bangka",
+    "province_id": 9,
+    "province_name": "kep. bangka belitung"
+  },
+  {
+    "id": 1713,
+    "name": "Merawang",
+    "city_id": 136,
+    "city_name": "kab. bangka",
+    "province_id": 9,
+    "province_name": "kep. bangka belitung"
+  },
+  {
+    "id": 1715,
+    "name": "Pemali",
+    "city_id": 136,
+    "city_name": "kab. bangka",
+    "province_id": 9,
+    "province_name": "kep. bangka belitung"
+  },
+  {
+    "id": 1718,
+    "name": "Puding Besar",
+    "city_id": 136,
+    "city_name": "kab. bangka",
+    "province_id": 9,
+    "province_name": "kep. bangka belitung"
+  },
+  {
+    "id": 1717,
+    "name": "Riau Silip",
+    "city_id": 136,
+    "city_name": "kab. bangka",
+    "province_id": 9,
+    "province_name": "kep. bangka belitung"
+  },
+  {
+    "id": 1711,
+    "name": "Sungailiat",
+    "city_id": 136,
+    "city_name": "kab. bangka",
+    "province_id": 9,
+    "province_name": "kep. bangka belitung"
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "id": 2504,
+    "name": "Banyusari",
+    "city_id": 178,
+    "city_name": "kab. karawang",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2488,
+    "name": "Batujaya",
+    "city_id": 178,
+    "city_name": "kab. karawang",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2484,
+    "name": "Ciampel",
+    "city_id": 178,
+    "city_name": "kab. karawang",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2491,
+    "name": "Cibuaya",
+    "city_id": 178,
+    "city_name": "kab. karawang",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2493,
+    "name": "Cikampek",
+    "city_id": 178,
+    "city_name": "kab. karawang",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2503,
+    "name": "Cilamaya Kulon",
+    "city_id": 178,
+    "city_name": "kab. karawang",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2495,
+    "name": "Cilamaya Wetan",
+    "city_id": 178,
+    "city_name": "kab. karawang",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2510,
+    "name": "Cilebar",
+    "city_id": 178,
+    "city_name": "kab. karawang",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2494,
+    "name": "Jatisari",
+    "city_id": 178,
+    "city_name": "kab. karawang",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2502,
+    "name": "Jayakerta",
+    "city_id": 178,
+    "city_name": "kab. karawang",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2481,
+    "name": "Karawang Barat",
+    "city_id": 178,
+    "city_name": "kab. karawang",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2506,
+    "name": "Karawang Timur",
+    "city_id": 178,
+    "city_name": "kab. karawang",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2485,
+    "name": "Klari",
+    "city_id": 178,
+    "city_name": "kab. karawang",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2505,
+    "name": "Kota Baru",
+    "city_id": 178,
+    "city_name": "kab. karawang",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2487,
+    "name": "Kutawaluya",
+    "city_id": 178,
+    "city_name": "kab. karawang",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2499,
+    "name": "Lemahabang",
+    "city_id": 178,
+    "city_name": "kab. karawang",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2501,
+    "name": "Majalaya",
+    "city_id": 178,
+    "city_name": "kab. karawang",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2492,
+    "name": "Pakisjaya",
+    "city_id": 178,
+    "city_name": "kab. karawang",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2482,
+    "name": "Pangkalan",
+    "city_id": 178,
+    "city_name": "kab. karawang",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2490,
+    "name": "Pedes",
+    "city_id": 178,
+    "city_name": "kab. karawang",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2509,
+    "name": "Purwasari",
+    "city_id": 178,
+    "city_name": "kab. karawang",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2498,
+    "name": "Rawamerta",
+    "city_id": 178,
+    "city_name": "kab. karawang",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2486,
+    "name": "Rengasdengklok",
+    "city_id": 178,
+    "city_name": "kab. karawang",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2508,
+    "name": "Tegalwaru",
+    "city_id": 178,
+    "city_name": "kab. karawang",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2497,
+    "name": "Telagasari",
+    "city_id": 178,
+    "city_name": "kab. karawang",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2507,
+    "name": "Telukjambe Barat",
+    "city_id": 178,
+    "city_name": "kab. karawang",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2483,
+    "name": "Telukjambe Timur",
+    "city_id": 178,
+    "city_name": "kab. karawang",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2500,
+    "name": "Tempuran",
+    "city_id": 178,
+    "city_name": "kab. karawang",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2489,
+    "name": "Tirtajaya",
+    "city_id": 178,
+    "city_name": "kab. karawang",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2496,
+    "name": "Tirtamulya",
+    "city_id": 178,
+    "city_name": "kab. karawang",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  }
+]

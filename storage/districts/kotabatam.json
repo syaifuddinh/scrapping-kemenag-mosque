@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1807,
+    "name": "Batam Kota",
+    "city_id": 148,
+    "city_name": "kota batam",
+    "province_id": 10,
+    "province_name": "kepulauan riau"
+  },
+  {
+    "id": 1809,
+    "name": "Batu Aji",
+    "city_id": 148,
+    "city_name": "kota batam",
+    "province_id": 10,
+    "province_name": "kepulauan riau"
+  },
+  {
+    "id": 1799,
+    "name": "Batu Ampar",
+    "city_id": 148,
+    "city_name": "kota batam",
+    "province_id": 10,
+    "province_name": "kepulauan riau"
+  },
+  {
+    "id": 1798,
+    "name": "Belakang Padang",
+    "city_id": 148,
+    "city_name": "kota batam",
+    "province_id": 10,
+    "province_name": "kepulauan riau"
+  },
+  {
+    "id": 1806,
+    "name": "Bengkong",
+    "city_id": 148,
+    "city_name": "kota batam",
+    "province_id": 10,
+    "province_name": "kepulauan riau"
+  },
+  {
+    "id": 1802,
+    "name": "Bulang",
+    "city_id": 148,
+    "city_name": "kota batam",
+    "province_id": 10,
+    "province_name": "kepulauan riau"
+  },
+  {
+    "id": 1805,
+    "name": "Galang",
+    "city_id": 148,
+    "city_name": "kota batam",
+    "province_id": 10,
+    "province_name": "kepulauan riau"
+  },
+  {
+    "id": 1803,
+    "name": "Lubuk Baja",
+    "city_id": 148,
+    "city_name": "kota batam",
+    "province_id": 10,
+    "province_name": "kepulauan riau"
+  },
+  {
+    "id": 1801,
+    "name": "Nongsa",
+    "city_id": 148,
+    "city_name": "kota batam",
+    "province_id": 10,
+    "province_name": "kepulauan riau"
+  },
+  {
+    "id": 1808,
+    "name": "Sagulung",
+    "city_id": 148,
+    "city_name": "kota batam",
+    "province_id": 10,
+    "province_name": "kepulauan riau"
+  },
+  {
+    "id": 1804,
+    "name": "Sei Beduk",
+    "city_id": 148,
+    "city_name": "kota batam",
+    "province_id": 10,
+    "province_name": "kepulauan riau"
+  },
+  {
+    "id": 1800,
+    "name": "Sekupang",
+    "city_id": 148,
+    "city_name": "kota batam",
+    "province_id": 10,
+    "province_name": "kepulauan riau"
+  }
+]

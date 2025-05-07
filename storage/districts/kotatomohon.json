@@ -1,0 +1,42 @@
+[
+  {
+    "id": 5125,
+    "name": "Tomohon Barat",
+    "city_id": 371,
+    "city_name": "kota tomohon",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5122,
+    "name": "Tomohon Selatan",
+    "city_id": 371,
+    "city_name": "kota tomohon",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5123,
+    "name": "Tomohon Tengah",
+    "city_id": 371,
+    "city_name": "kota tomohon",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5126,
+    "name": "Tomohon Timur",
+    "city_id": 371,
+    "city_name": "kota tomohon",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5124,
+    "name": "Tomohon Utara",
+    "city_id": 371,
+    "city_name": "kota tomohon",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  }
+]

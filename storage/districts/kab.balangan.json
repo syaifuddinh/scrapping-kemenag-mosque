@@ -1,0 +1,66 @@
+[
+  {
+    "id": 4857,
+    "name": "Awayan",
+    "city_id": 346,
+    "city_name": "kab. balangan",
+    "province_id": 22,
+    "province_name": "kalimantan selatan"
+  },
+  {
+    "id": 4858,
+    "name": "Batu Mandi",
+    "city_id": 346,
+    "city_name": "kab. balangan",
+    "province_id": 22,
+    "province_name": "kalimantan selatan"
+  },
+  {
+    "id": 4856,
+    "name": "Halong",
+    "city_id": 346,
+    "city_name": "kab. balangan",
+    "province_id": 22,
+    "province_name": "kalimantan selatan"
+  },
+  {
+    "id": 4855,
+    "name": "Juai",
+    "city_id": 346,
+    "city_name": "kab. balangan",
+    "province_id": 22,
+    "province_name": "kalimantan selatan"
+  },
+  {
+    "id": 4859,
+    "name": "Lampihong",
+    "city_id": 346,
+    "city_name": "kab. balangan",
+    "province_id": 22,
+    "province_name": "kalimantan selatan"
+  },
+  {
+    "id": 4860,
+    "name": "Paringin",
+    "city_id": 346,
+    "city_name": "kab. balangan",
+    "province_id": 22,
+    "province_name": "kalimantan selatan"
+  },
+  {
+    "id": 4861,
+    "name": "Paringin Selatan",
+    "city_id": 346,
+    "city_name": "kab. balangan",
+    "province_id": 22,
+    "province_name": "kalimantan selatan"
+  },
+  {
+    "id": 4862,
+    "name": "Tebing Tinggi",
+    "city_id": 346,
+    "city_name": "kab. balangan",
+    "province_id": 22,
+    "province_name": "kalimantan selatan"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 4554,
+    "name": "Belitang",
+    "city_id": 316,
+    "city_name": "kab. sekadau",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4552,
+    "name": "Belitang Hilir",
+    "city_id": 316,
+    "city_name": "kab. sekadau",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4553,
+    "name": "Belitang Hulu",
+    "city_id": 316,
+    "city_name": "kab. sekadau",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4551,
+    "name": "Nanga Mahap",
+    "city_id": 316,
+    "city_name": "kab. sekadau",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4550,
+    "name": "Nanga Taman",
+    "city_id": 316,
+    "city_name": "kab. sekadau",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4548,
+    "name": "Sekadau Hilir",
+    "city_id": 316,
+    "city_name": "kab. sekadau",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4549,
+    "name": "Sekadau Hulu",
+    "city_id": 316,
+    "city_name": "kab. sekadau",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 6410,
+    "name": "Assue",
+    "city_id": 467,
+    "city_name": "kab. mappi",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6407,
+    "name": "Citak-Mitak",
+    "city_id": 467,
+    "city_name": "kab. mappi",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6408,
+    "name": "Edera",
+    "city_id": 467,
+    "city_name": "kab. mappi",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6409,
+    "name": "Haju",
+    "city_id": 467,
+    "city_name": "kab. mappi",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6411,
+    "name": "Kaibar",
+    "city_id": 467,
+    "city_name": "kab. mappi",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6406,
+    "name": "Mambioman Bapai",
+    "city_id": 467,
+    "city_name": "kab. mappi",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6413,
+    "name": "Minyamur",
+    "city_id": 467,
+    "city_name": "kab. mappi",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6405,
+    "name": "Obaa",
+    "city_id": 467,
+    "city_name": "kab. mappi",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6412,
+    "name": "Passue",
+    "city_id": 467,
+    "city_name": "kab. mappi",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6414,
+    "name": "Venaha",
+    "city_id": 467,
+    "city_name": "kab. mappi",
+    "province_id": 32,
+    "province_name": "papua"
+  }
+]

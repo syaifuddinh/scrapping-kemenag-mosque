@@ -1,0 +1,66 @@
+[
+  {
+    "id": 4105,
+    "name": "Brang Ene",
+    "city_id": 283,
+    "city_name": "kab. sumbawa barat",
+    "province_id": 18,
+    "province_name": "nusa tenggara barat"
+  },
+  {
+    "id": 4103,
+    "name": "Brang Rea",
+    "city_id": 283,
+    "city_name": "kab. sumbawa barat",
+    "province_id": 18,
+    "province_name": "nusa tenggara barat"
+  },
+  {
+    "id": 4099,
+    "name": "Jereweh",
+    "city_id": 283,
+    "city_name": "kab. sumbawa barat",
+    "province_id": 18,
+    "province_name": "nusa tenggara barat"
+  },
+  {
+    "id": 4106,
+    "name": "Maluk",
+    "city_id": 283,
+    "city_name": "kab. sumbawa barat",
+    "province_id": 18,
+    "province_name": "nusa tenggara barat"
+  },
+  {
+    "id": 4104,
+    "name": "Poto Tano",
+    "city_id": 283,
+    "city_name": "kab. sumbawa barat",
+    "province_id": 18,
+    "province_name": "nusa tenggara barat"
+  },
+  {
+    "id": 4102,
+    "name": "Sekongkang",
+    "city_id": 283,
+    "city_name": "kab. sumbawa barat",
+    "province_id": 18,
+    "province_name": "nusa tenggara barat"
+  },
+  {
+    "id": 4101,
+    "name": "Seteluk",
+    "city_id": 283,
+    "city_name": "kab. sumbawa barat",
+    "province_id": 18,
+    "province_name": "nusa tenggara barat"
+  },
+  {
+    "id": 4100,
+    "name": "Taliwang",
+    "city_id": 283,
+    "city_name": "kab. sumbawa barat",
+    "province_id": 18,
+    "province_name": "nusa tenggara barat"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1747,
+    "name": "Damar",
+    "city_id": 141,
+    "city_name": "kab. belitung timur",
+    "province_id": 9,
+    "province_name": "kep. bangka belitung"
+  },
+  {
+    "id": 1745,
+    "name": "Dendang",
+    "city_id": 141,
+    "city_name": "kab. belitung timur",
+    "province_id": 9,
+    "province_name": "kep. bangka belitung"
+  },
+  {
+    "id": 1744,
+    "name": "Gantung",
+    "city_id": 141,
+    "city_name": "kab. belitung timur",
+    "province_id": 9,
+    "province_name": "kep. bangka belitung"
+  },
+  {
+    "id": 1746,
+    "name": "Kelapa Kampit",
+    "city_id": 141,
+    "city_name": "kab. belitung timur",
+    "province_id": 9,
+    "province_name": "kep. bangka belitung"
+  },
+  {
+    "id": 1743,
+    "name": "Manggar",
+    "city_id": 141,
+    "city_name": "kab. belitung timur",
+    "province_id": 9,
+    "province_name": "kep. bangka belitung"
+  },
+  {
+    "id": 1749,
+    "name": "Simpang Pesak",
+    "city_id": 141,
+    "city_name": "kab. belitung timur",
+    "province_id": 9,
+    "province_name": "kep. bangka belitung"
+  },
+  {
+    "id": 1748,
+    "name": "Simpang Renggiang",
+    "city_id": 141,
+    "city_name": "kab. belitung timur",
+    "province_id": 9,
+    "province_name": "kep. bangka belitung"
+  }
+]

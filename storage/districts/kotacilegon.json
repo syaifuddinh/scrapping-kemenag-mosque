@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1991,
+    "name": "Cibeber",
+    "city_id": 161,
+    "city_name": "kota cilegon",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1992,
+    "name": "Cilegon",
+    "city_id": 161,
+    "city_name": "kota cilegon",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1998,
+    "name": "Citangkil",
+    "city_id": 161,
+    "city_name": "kota cilegon",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1994,
+    "name": "Ciwandan",
+    "city_id": 161,
+    "city_name": "kota cilegon",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1996,
+    "name": "Gerogol",
+    "city_id": 161,
+    "city_name": "kota cilegon",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1995,
+    "name": "Jombang",
+    "city_id": 161,
+    "city_name": "kota cilegon",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1993,
+    "name": "Pulomerak",
+    "city_id": 161,
+    "city_name": "kota cilegon",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1997,
+    "name": "Purwakarta",
+    "city_id": 161,
+    "city_name": "kota cilegon",
+    "province_id": 12,
+    "province_name": "banten"
+  }
+]

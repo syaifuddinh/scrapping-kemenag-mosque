@@ -1,0 +1,98 @@
+[
+  {
+    "id": 5592,
+    "name": "Baula",
+    "city_id": 408,
+    "city_name": "kab. kolaka",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 7262,
+    "name": "Iwoimendaa",
+    "city_id": 408,
+    "city_name": "kab. kolaka",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 5587,
+    "name": "Kolaka",
+    "city_id": 408,
+    "city_name": "kab. kolaka",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 5594,
+    "name": "Latambaga",
+    "city_id": 408,
+    "city_name": "kab. kolaka",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 5602,
+    "name": "Polinggona",
+    "city_id": 408,
+    "city_name": "kab. kolaka",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 5588,
+    "name": "Pomalaa",
+    "city_id": 408,
+    "city_name": "kab. kolaka",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 5597,
+    "name": "Samaturu",
+    "city_id": 408,
+    "city_name": "kab. kolaka",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 5595,
+    "name": "Tanggetada",
+    "city_id": 408,
+    "city_name": "kab. kolaka",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 5601,
+    "name": "Toari",
+    "city_id": 408,
+    "city_name": "kab. kolaka",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 5589,
+    "name": "Watubangga",
+    "city_id": 408,
+    "city_name": "kab. kolaka",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 5591,
+    "name": "Wolo",
+    "city_id": 408,
+    "city_name": "kab. kolaka",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 5584,
+    "name": "Wundulako",
+    "city_id": 408,
+    "city_name": "kab. kolaka",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  }
+]

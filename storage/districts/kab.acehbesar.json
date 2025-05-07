@@ -1,0 +1,186 @@
+[
+  {
+    "id": 104,
+    "name": "Baitussalam",
+    "city_id": 6,
+    "city_name": "kab. aceh besar",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 107,
+    "name": "Blang Bintang",
+    "city_id": 6,
+    "city_name": "kab. aceh besar",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 91,
+    "name": "Darul Imarah",
+    "city_id": 6,
+    "city_name": "kab. aceh besar",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 103,
+    "name": "Darul Kamal",
+    "city_id": 6,
+    "city_name": "kab. aceh besar",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 96,
+    "name": "Darussalam",
+    "city_id": 6,
+    "city_name": "kab. aceh besar",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 87,
+    "name": "Indrapuri",
+    "city_id": 6,
+    "city_name": "kab. aceh besar",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 94,
+    "name": "Ingin Jaya",
+    "city_id": 6,
+    "city_name": "kab. aceh besar",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 100,
+    "name": "Kota Cot Glie",
+    "city_id": 6,
+    "city_name": "kab. aceh besar",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 99,
+    "name": "Kota Jantho",
+    "city_id": 6,
+    "city_name": "kab. aceh besar",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 105,
+    "name": "Kr. Barona Ja",
+    "city_id": 6,
+    "city_name": "kab. aceh besar",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 95,
+    "name": "Kuta Baro",
+    "city_id": 6,
+    "city_name": "kab. aceh besar",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 101,
+    "name": "Kuta Malaka",
+    "city_id": 6,
+    "city_name": "kab. aceh besar",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 106,
+    "name": "Leupung",
+    "city_id": 6,
+    "city_name": "kab. aceh besar",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 86,
+    "name": "Lhoknga",
+    "city_id": 6,
+    "city_name": "kab. aceh besar",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 85,
+    "name": "Lhoong",
+    "city_id": 6,
+    "city_name": "kab. aceh besar",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 98,
+    "name": "Lmb. Seulawah",
+    "city_id": 6,
+    "city_name": "kab. aceh besar",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 93,
+    "name": "Mesjid Raya",
+    "city_id": 6,
+    "city_name": "kab. aceh besar",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 89,
+    "name": "Montasik",
+    "city_id": 6,
+    "city_name": "kab. aceh besar",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 92,
+    "name": "Peukan Bada",
+    "city_id": 6,
+    "city_name": "kab. aceh besar",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 97,
+    "name": "Pulo Aceh",
+    "city_id": 6,
+    "city_name": "kab. aceh besar",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 88,
+    "name": "Seulimeum",
+    "city_id": 6,
+    "city_name": "kab. aceh besar",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 102,
+    "name": "Simpang Tiga",
+    "city_id": 6,
+    "city_name": "kab. aceh besar",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 90,
+    "name": "Sukamakmur",
+    "city_id": 6,
+    "city_name": "kab. aceh besar",
+    "province_id": 1,
+    "province_name": "aceh"
+  }
+]

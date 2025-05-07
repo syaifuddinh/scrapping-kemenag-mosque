@@ -1,0 +1,74 @@
+[
+  {
+    "id": 5209,
+    "name": "Bahodopi",
+    "city_id": 378,
+    "city_name": "kab. morowali",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 5208,
+    "name": "Bumi Raya",
+    "city_id": 378,
+    "city_name": "kab. morowali",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 5207,
+    "name": "Bungku Barat",
+    "city_id": 378,
+    "city_name": "kab. morowali",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 7260,
+    "name": "Bungku Pesisir",
+    "city_id": 378,
+    "city_name": "kab. morowali",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 5205,
+    "name": "Bungku Selatan",
+    "city_id": 378,
+    "city_name": "kab. morowali",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 5204,
+    "name": "Bungku Tengah",
+    "city_id": 378,
+    "city_name": "kab. morowali",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 7261,
+    "name": "Bungku Timur",
+    "city_id": 378,
+    "city_name": "kab. morowali",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 5206,
+    "name": "Menui Kepulauan",
+    "city_id": 378,
+    "city_name": "kab. morowali",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 5211,
+    "name": "Wita Ponda",
+    "city_id": 378,
+    "city_name": "kab. morowali",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  }
+]

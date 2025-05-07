@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1826,
+    "name": "Cempaka Putih",
+    "city_id": 152,
+    "city_name": "kota adm. jakarta pusat",
+    "province_id": 11,
+    "province_name": "dki jakarta"
+  },
+  {
+    "id": 1822,
+    "name": "Gambir",
+    "city_id": 152,
+    "city_name": "kota adm. jakarta pusat",
+    "province_id": 11,
+    "province_name": "dki jakarta"
+  },
+  {
+    "id": 1829,
+    "name": "Johar Baru",
+    "city_id": 152,
+    "city_name": "kota adm. jakarta pusat",
+    "province_id": 11,
+    "province_name": "dki jakarta"
+  },
+  {
+    "id": 1824,
+    "name": "Kemayoran",
+    "city_id": 152,
+    "city_name": "kota adm. jakarta pusat",
+    "province_id": 11,
+    "province_name": "dki jakarta"
+  },
+  {
+    "id": 1827,
+    "name": "Menteng",
+    "city_id": 152,
+    "city_name": "kota adm. jakarta pusat",
+    "province_id": 11,
+    "province_name": "dki jakarta"
+  },
+  {
+    "id": 1823,
+    "name": "Sawah Besar",
+    "city_id": 152,
+    "city_name": "kota adm. jakarta pusat",
+    "province_id": 11,
+    "province_name": "dki jakarta"
+  },
+  {
+    "id": 1825,
+    "name": "Senen",
+    "city_id": 152,
+    "city_name": "kota adm. jakarta pusat",
+    "province_id": 11,
+    "province_name": "dki jakarta"
+  },
+  {
+    "id": 1828,
+    "name": "Tanah Abang",
+    "city_id": 152,
+    "city_name": "kota adm. jakarta pusat",
+    "province_id": 11,
+    "province_name": "dki jakarta"
+  }
+]

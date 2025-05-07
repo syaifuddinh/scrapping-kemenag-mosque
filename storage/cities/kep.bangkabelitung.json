@@ -1,0 +1,44 @@
+[
+  {
+    "id": 136,
+    "name": "Kab. Bangka",
+    "province_id": 9,
+    "province_name": "kep. bangka belitung"
+  },
+  {
+    "id": 137,
+    "name": "Kab. Belitung",
+    "province_id": 9,
+    "province_name": "kep. bangka belitung"
+  },
+  {
+    "id": 138,
+    "name": "Kab. Bangka Selatan",
+    "province_id": 9,
+    "province_name": "kep. bangka belitung"
+  },
+  {
+    "id": 139,
+    "name": "Kab. Bangka Tengah",
+    "province_id": 9,
+    "province_name": "kep. bangka belitung"
+  },
+  {
+    "id": 140,
+    "name": "Kab. Bangka Barat",
+    "province_id": 9,
+    "province_name": "kep. bangka belitung"
+  },
+  {
+    "id": 141,
+    "name": "Kab. Belitung Timur",
+    "province_id": 9,
+    "province_name": "kep. bangka belitung"
+  },
+  {
+    "id": 142,
+    "name": "Kota Pangkal Pinang",
+    "province_id": 9,
+    "province_name": "kep. bangka belitung"
+  }
+]

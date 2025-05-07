@@ -1,0 +1,42 @@
+[
+  {
+    "id": 2594,
+    "name": "Harjamukti",
+    "city_id": 184,
+    "city_name": "kota cirebon",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2592,
+    "name": "Kejaksan",
+    "city_id": 184,
+    "city_name": "kota cirebon",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2596,
+    "name": "Kesambi",
+    "city_id": 184,
+    "city_name": "kota cirebon",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2593,
+    "name": "Lemah Wungkuk",
+    "city_id": 184,
+    "city_name": "kota cirebon",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2595,
+    "name": "Pekalipan",
+    "city_id": 184,
+    "city_name": "kota cirebon",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  }
+]

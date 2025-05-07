@@ -1,0 +1,258 @@
+[
+  {
+    "id": 4154,
+    "name": "Amanatun Selatan",
+    "city_id": 288,
+    "city_name": "kab. timor tengah selatan",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4155,
+    "name": "Amanatun Utara",
+    "city_id": 288,
+    "city_name": "kab. timor tengah selatan",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4153,
+    "name": "Amanuban Barat",
+    "city_id": 288,
+    "city_name": "kab. timor tengah selatan",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4152,
+    "name": "Amanuban Selatan",
+    "city_id": 288,
+    "city_name": "kab. timor tengah selatan",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4151,
+    "name": "Amanuban Tengah",
+    "city_id": 288,
+    "city_name": "kab. timor tengah selatan",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4150,
+    "name": "Amanuban Timur",
+    "city_id": 288,
+    "city_name": "kab. timor tengah selatan",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4160,
+    "name": "Batu Putih",
+    "city_id": 288,
+    "city_name": "kab. timor tengah selatan",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4161,
+    "name": "Boking",
+    "city_id": 288,
+    "city_name": "kab. timor tengah selatan",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4175,
+    "name": "Fatukopa",
+    "city_id": 288,
+    "city_name": "kab. timor tengah selatan",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4158,
+    "name": "Fatumnasi",
+    "city_id": 288,
+    "city_name": "kab. timor tengah selatan",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4174,
+    "name": "Fautmolo",
+    "city_id": 288,
+    "city_name": "kab. timor tengah selatan",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4156,
+    "name": "KI'E",
+    "city_id": 288,
+    "city_name": "kab. timor tengah selatan",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4169,
+    "name": "Kok Baun",
+    "city_id": 288,
+    "city_name": "kab. timor tengah selatan",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4165,
+    "name": "Kolbano",
+    "city_id": 288,
+    "city_name": "kab. timor tengah selatan",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4166,
+    "name": "Kot olin",
+    "city_id": 288,
+    "city_name": "kab. timor tengah selatan",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4147,
+    "name": "Kota Soe",
+    "city_id": 288,
+    "city_name": "kab. timor tengah selatan",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4167,
+    "name": "Kualin",
+    "city_id": 288,
+    "city_name": "kab. timor tengah selatan",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4157,
+    "name": "Kuanfatu",
+    "city_id": 288,
+    "city_name": "kab. timor tengah selatan",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4173,
+    "name": "Kuatnana",
+    "city_id": 288,
+    "city_name": "kab. timor tengah selatan",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4168,
+    "name": "Mollo Barat",
+    "city_id": 288,
+    "city_name": "kab. timor tengah selatan",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4148,
+    "name": "Mollo Selatan",
+    "city_id": 288,
+    "city_name": "kab. timor tengah selatan",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4176,
+    "name": "Mollo Tengah",
+    "city_id": 288,
+    "city_name": "kab. timor tengah selatan",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4149,
+    "name": "Mollo Utara",
+    "city_id": 288,
+    "city_name": "kab. timor tengah selatan",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4170,
+    "name": "Noebana",
+    "city_id": 288,
+    "city_name": "kab. timor tengah selatan",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4172,
+    "name": "Noebeba",
+    "city_id": 288,
+    "city_name": "kab. timor tengah selatan",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4178,
+    "name": "Nunbena",
+    "city_id": 288,
+    "city_name": "kab. timor tengah selatan",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4163,
+    "name": "Nunkolo",
+    "city_id": 288,
+    "city_name": "kab. timor tengah selatan",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4164,
+    "name": "Oenino",
+    "city_id": 288,
+    "city_name": "kab. timor tengah selatan",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4159,
+    "name": "Polen",
+    "city_id": 288,
+    "city_name": "kab. timor tengah selatan",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4171,
+    "name": "Santian",
+    "city_id": 288,
+    "city_name": "kab. timor tengah selatan",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4177,
+    "name": "Tobu",
+    "city_id": 288,
+    "city_name": "kab. timor tengah selatan",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4162,
+    "name": "Toianas",
+    "city_id": 288,
+    "city_name": "kab. timor tengah selatan",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  }
+]

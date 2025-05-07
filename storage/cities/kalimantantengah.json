@@ -1,0 +1,86 @@
+[
+  {
+    "id": 322,
+    "name": "Kab. Kotawaringin Barat",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 323,
+    "name": "Kab. Kotawaringin Timur",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 324,
+    "name": "Kab. Kapuas",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 325,
+    "name": "Kab. Barito Selatan",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 326,
+    "name": "Kab. Barito Utara",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 327,
+    "name": "Kab. Katingan",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 328,
+    "name": "Kab. Seruyan",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 329,
+    "name": "Kab. Sukamara",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 330,
+    "name": "Kab. Lamandau",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 331,
+    "name": "Kab. Gunung Mas",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 332,
+    "name": "Kab. Pulang Pisau",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 333,
+    "name": "Kab. Murung Raya",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 334,
+    "name": "Kab. Barito Timur",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 335,
+    "name": "Kota Palangkaraya",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  }
+]

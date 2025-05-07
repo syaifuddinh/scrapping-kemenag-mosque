@@ -1,0 +1,42 @@
+[
+  {
+    "id": 4667,
+    "name": "Balai Riam",
+    "city_id": 329,
+    "city_name": "kab. sukamara",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 4666,
+    "name": "Jelai",
+    "city_id": 329,
+    "city_name": "kab. sukamara",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 4668,
+    "name": "Pantai Lunci",
+    "city_id": 329,
+    "city_name": "kab. sukamara",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 4669,
+    "name": "Permata Kecubung",
+    "city_id": 329,
+    "city_name": "kab. sukamara",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 4665,
+    "name": "Sukamara",
+    "city_id": 329,
+    "city_name": "kab. sukamara",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  }
+]

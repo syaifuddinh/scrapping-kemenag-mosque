@@ -1,0 +1,66 @@
+[
+  {
+    "id": 5919,
+    "name": "Banggae",
+    "city_id": 430,
+    "city_name": "kab. majene",
+    "province_id": 29,
+    "province_name": "sulawesi barat"
+  },
+  {
+    "id": 5926,
+    "name": "Banggae Timur",
+    "city_id": 430,
+    "city_name": "kab. majene",
+    "province_id": 29,
+    "province_name": "sulawesi barat"
+  },
+  {
+    "id": 5922,
+    "name": "Malunda",
+    "city_id": 430,
+    "city_name": "kab. majene",
+    "province_id": 29,
+    "province_name": "sulawesi barat"
+  },
+  {
+    "id": 5920,
+    "name": "Pamboang",
+    "city_id": 430,
+    "city_name": "kab. majene",
+    "province_id": 29,
+    "province_name": "sulawesi barat"
+  },
+  {
+    "id": 5921,
+    "name": "Sendana",
+    "city_id": 430,
+    "city_name": "kab. majene",
+    "province_id": 29,
+    "province_name": "sulawesi barat"
+  },
+  {
+    "id": 5924,
+    "name": "Tammerodo Sendana",
+    "city_id": 430,
+    "city_name": "kab. majene",
+    "province_id": 29,
+    "province_name": "sulawesi barat"
+  },
+  {
+    "id": 5925,
+    "name": "Tubo Sendana",
+    "city_id": 430,
+    "city_name": "kab. majene",
+    "province_id": 29,
+    "province_name": "sulawesi barat"
+  },
+  {
+    "id": 5923,
+    "name": "Ulumanda",
+    "city_id": 430,
+    "city_name": "kab. majene",
+    "province_id": 29,
+    "province_name": "sulawesi barat"
+  }
+]

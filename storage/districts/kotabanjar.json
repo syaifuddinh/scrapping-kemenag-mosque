@@ -1,0 +1,34 @@
+[
+  {
+    "id": 2633,
+    "name": "Banjar",
+    "city_id": 189,
+    "city_name": "kota banjar",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2636,
+    "name": "Langen Sari",
+    "city_id": 189,
+    "city_name": "kota banjar",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2634,
+    "name": "Pataruman",
+    "city_id": 189,
+    "city_name": "kota banjar",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2635,
+    "name": "Purwaharja",
+    "city_id": 189,
+    "city_name": "kota banjar",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  }
+]

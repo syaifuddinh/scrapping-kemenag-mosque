@@ -1,0 +1,90 @@
+[
+  {
+    "id": 7289,
+    "name": "Bandar Laksamana",
+    "city_id": 78,
+    "city_name": "kab. bengkalis",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 913,
+    "name": "Bantan",
+    "city_id": 78,
+    "city_name": "kab. bengkalis",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 7288,
+    "name": "Bathin Solapan",
+    "city_id": 78,
+    "city_name": "kab. bengkalis",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 912,
+    "name": "Bengkalis",
+    "city_id": 78,
+    "city_name": "kab. bengkalis",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 914,
+    "name": "Bukit Batu",
+    "city_id": 78,
+    "city_name": "kab. bengkalis",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 915,
+    "name": "Mandau",
+    "city_id": 78,
+    "city_name": "kab. bengkalis",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 919,
+    "name": "Pinggir",
+    "city_id": 78,
+    "city_name": "kab. bengkalis",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 916,
+    "name": "Rupat",
+    "city_id": 78,
+    "city_name": "kab. bengkalis",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 917,
+    "name": "Rupat Utara",
+    "city_id": 78,
+    "city_name": "kab. bengkalis",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 918,
+    "name": "Siak Kecil",
+    "city_id": 78,
+    "city_name": "kab. bengkalis",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 7290,
+    "name": "Talang Muandau",
+    "city_id": 78,
+    "city_name": "kab. bengkalis",
+    "province_id": 4,
+    "province_name": "riau"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1397,
+    "name": "Bermani Ulu",
+    "city_id": 113,
+    "city_name": "kab. rejang lebong",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1407,
+    "name": "Bermani Ulu Raya",
+    "city_id": 113,
+    "city_name": "kab. rejang lebong",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1403,
+    "name": "Binduriang",
+    "city_id": 113,
+    "city_name": "kab. rejang lebong",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1396,
+    "name": "Curup",
+    "city_id": 113,
+    "city_name": "kab. rejang lebong",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1401,
+    "name": "Curup Selatan",
+    "city_id": 113,
+    "city_name": "kab. rejang lebong",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1402,
+    "name": "Curup Tengah",
+    "city_id": 113,
+    "city_name": "kab. rejang lebong",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1400,
+    "name": "Curup Timur",
+    "city_id": 113,
+    "city_name": "kab. rejang lebong",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1399,
+    "name": "Curup Utara",
+    "city_id": 113,
+    "city_name": "kab. rejang lebong",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1393,
+    "name": "Kota Padang",
+    "city_id": 113,
+    "city_name": "kab. rejang lebong",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1394,
+    "name": "Padang Ulak Tanding",
+    "city_id": 113,
+    "city_name": "kab. rejang lebong",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1398,
+    "name": "Selupu Rejang",
+    "city_id": 113,
+    "city_name": "kab. rejang lebong",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1406,
+    "name": "Sindang Beliti Ilir",
+    "city_id": 113,
+    "city_name": "kab. rejang lebong",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1404,
+    "name": "Sindang Beliti Ulu",
+    "city_id": 113,
+    "city_name": "kab. rejang lebong",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1405,
+    "name": "Sindang Dataran",
+    "city_id": 113,
+    "city_name": "kab. rejang lebong",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1395,
+    "name": "Sindang Kelingi",
+    "city_id": 113,
+    "city_name": "kab. rejang lebong",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  }
+]

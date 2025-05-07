@@ -1,0 +1,50 @@
+[
+  {
+    "id": 694,
+    "name": "Padangsidimpuan Angkola Julu",
+    "city_id": 55,
+    "city_name": "kota padang sidimpuan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 691,
+    "name": "Padangsidimpuan Batunadua",
+    "city_id": 55,
+    "city_name": "kota padang sidimpuan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 692,
+    "name": "Padangsidimpuan Hutaimbaru",
+    "city_id": 55,
+    "city_name": "kota padang sidimpuan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 690,
+    "name": "Padangsidimpuan Selatan",
+    "city_id": 55,
+    "city_name": "kota padang sidimpuan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 693,
+    "name": "Padangsidimpuan Tenggara",
+    "city_id": 55,
+    "city_name": "kota padang sidimpuan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 689,
+    "name": "Padangsidimpuan Utara",
+    "city_id": 55,
+    "city_name": "kota padang sidimpuan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "id": 2441,
+    "name": "Binong",
+    "city_id": 176,
+    "city_name": "kab. subang",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2446,
+    "name": "Blanakan",
+    "city_id": 176,
+    "city_name": "kab. subang",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2442,
+    "name": "Ciasem",
+    "city_id": 176,
+    "city_name": "kab. subang",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2462,
+    "name": "Ciater",
+    "city_id": 176,
+    "city_name": "kab. subang",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2450,
+    "name": "Cibogo",
+    "city_id": 176,
+    "city_name": "kab. subang",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2452,
+    "name": "Cijambe",
+    "city_id": 176,
+    "city_name": "kab. subang",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2455,
+    "name": "Cikaum",
+    "city_id": 176,
+    "city_name": "kab. subang",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2453,
+    "name": "Cipeunduey",
+    "city_id": 176,
+    "city_name": "kab. subang",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2451,
+    "name": "Cipunagara",
+    "city_id": 176,
+    "city_name": "kab. subang",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2435,
+    "name": "Cisalak",
+    "city_id": 176,
+    "city_name": "kab. subang",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2448,
+    "name": "Compreng",
+    "city_id": 176,
+    "city_name": "kab. subang",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2460,
+    "name": "Dawuan",
+    "city_id": 176,
+    "city_name": "kab. subang",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2445,
+    "name": "Jalancagak",
+    "city_id": 176,
+    "city_name": "kab. subang",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2437,
+    "name": "Kalijati",
+    "city_id": 176,
+    "city_name": "kab. subang",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2459,
+    "name": "Kasomalang",
+    "city_id": 176,
+    "city_name": "kab. subang",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2454,
+    "name": "Legonkulon",
+    "city_id": 176,
+    "city_name": "kab. subang",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2438,
+    "name": "Pabuaran",
+    "city_id": 176,
+    "city_name": "kab. subang",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2440,
+    "name": "Pagaden",
+    "city_id": 176,
+    "city_name": "kab. subang",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2461,
+    "name": "Pagaden Barat",
+    "city_id": 176,
+    "city_name": "kab. subang",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2444,
+    "name": "Pamanukan",
+    "city_id": 176,
+    "city_name": "kab. subang",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2449,
+    "name": "Patokbeusi",
+    "city_id": 176,
+    "city_name": "kab. subang",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2439,
+    "name": "Purwadadi",
+    "city_id": 176,
+    "city_name": "kab. subang",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2463,
+    "name": "Pusakajaya",
+    "city_id": 176,
+    "city_name": "kab. subang",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2443,
+    "name": "Pusakanagara",
+    "city_id": 176,
+    "city_name": "kab. subang",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2434,
+    "name": "Sagalaherang",
+    "city_id": 176,
+    "city_name": "kab. subang",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2456,
+    "name": "Serangpanjang",
+    "city_id": 176,
+    "city_name": "kab. subang",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2436,
+    "name": "Subang",
+    "city_id": 176,
+    "city_name": "kab. subang",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2457,
+    "name": "Sukasari",
+    "city_id": 176,
+    "city_name": "kab. subang",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2458,
+    "name": "Tambakdahan",
+    "city_id": 176,
+    "city_name": "kab. subang",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2447,
+    "name": "Tanjungsiang",
+    "city_id": 176,
+    "city_name": "kab. subang",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  }
+]

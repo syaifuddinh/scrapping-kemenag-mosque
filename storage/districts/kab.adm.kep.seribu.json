@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1815,
+    "name": "Kepulauan Seribu Selatan",
+    "city_id": 150,
+    "city_name": "kab. adm. kep. seribu",
+    "province_id": 11,
+    "province_name": "dki jakarta"
+  },
+  {
+    "id": 1814,
+    "name": "Kepulauan Seribu Utara",
+    "city_id": 150,
+    "city_name": "kab. adm. kep. seribu",
+    "province_id": 11,
+    "province_name": "dki jakarta"
+  }
+]

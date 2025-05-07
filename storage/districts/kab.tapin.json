@@ -1,0 +1,98 @@
+[
+  {
+    "id": 4795,
+    "name": "Bakarangan",
+    "city_id": 340,
+    "city_name": "kab. tapin",
+    "province_id": 22,
+    "province_name": "kalimantan selatan"
+  },
+  {
+    "id": 4789,
+    "name": "Binuang",
+    "city_id": 340,
+    "city_name": "kab. tapin",
+    "province_id": 22,
+    "province_name": "kalimantan selatan"
+  },
+  {
+    "id": 4797,
+    "name": "Bungur",
+    "city_id": 340,
+    "city_name": "kab. tapin",
+    "province_id": 22,
+    "province_name": "kalimantan selatan"
+  },
+  {
+    "id": 4793,
+    "name": "Candi Laras Selatan",
+    "city_id": 340,
+    "city_name": "kab. tapin",
+    "province_id": 22,
+    "province_name": "kalimantan selatan"
+  },
+  {
+    "id": 4794,
+    "name": "Candi Laras Utara",
+    "city_id": 340,
+    "city_name": "kab. tapin",
+    "province_id": 22,
+    "province_name": "kalimantan selatan"
+  },
+  {
+    "id": 4800,
+    "name": "Hatungun",
+    "city_id": 340,
+    "city_name": "kab. tapin",
+    "province_id": 22,
+    "province_name": "kalimantan selatan"
+  },
+  {
+    "id": 4798,
+    "name": "Lok Paikat",
+    "city_id": 340,
+    "city_name": "kab. tapin",
+    "province_id": 22,
+    "province_name": "kalimantan selatan"
+  },
+  {
+    "id": 4796,
+    "name": "Piani",
+    "city_id": 340,
+    "city_name": "kab. tapin",
+    "province_id": 22,
+    "province_name": "kalimantan selatan"
+  },
+  {
+    "id": 4799,
+    "name": "Salam Babaris",
+    "city_id": 340,
+    "city_name": "kab. tapin",
+    "province_id": 22,
+    "province_name": "kalimantan selatan"
+  },
+  {
+    "id": 4790,
+    "name": "Tapin Selatan",
+    "city_id": 340,
+    "city_name": "kab. tapin",
+    "province_id": 22,
+    "province_name": "kalimantan selatan"
+  },
+  {
+    "id": 4791,
+    "name": "Tapin Tengah",
+    "city_id": 340,
+    "city_name": "kab. tapin",
+    "province_id": 22,
+    "province_name": "kalimantan selatan"
+  },
+  {
+    "id": 4792,
+    "name": "Tapin Utara",
+    "city_id": 340,
+    "city_name": "kab. tapin",
+    "province_id": 22,
+    "province_name": "kalimantan selatan"
+  }
+]

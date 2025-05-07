@@ -1,0 +1,138 @@
+[
+  {
+    "id": 3173,
+    "name": "Banjarharjo",
+    "city_id": 218,
+    "city_name": "kab. brebes",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 3158,
+    "name": "Bantarkawung",
+    "city_id": 218,
+    "city_name": "kab. brebes",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 3165,
+    "name": "Brebes",
+    "city_id": 218,
+    "city_name": "kab. brebes",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 3170,
+    "name": "Bulakamba",
+    "city_id": 218,
+    "city_name": "kab. brebes",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 3159,
+    "name": "Bumiayu",
+    "city_id": 218,
+    "city_name": "kab. brebes",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 3163,
+    "name": "Jatibarang",
+    "city_id": 218,
+    "city_name": "kab. brebes",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 3167,
+    "name": "Kersana",
+    "city_id": 218,
+    "city_name": "kab. brebes",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 3172,
+    "name": "Ketanggungan",
+    "city_id": 218,
+    "city_name": "kab. brebes",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 3171,
+    "name": "Larangan",
+    "city_id": 218,
+    "city_name": "kab. brebes",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 3168,
+    "name": "Losari",
+    "city_id": 218,
+    "city_name": "kab. brebes",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 3160,
+    "name": "Paguyangan",
+    "city_id": 218,
+    "city_name": "kab. brebes",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 3157,
+    "name": "Salem",
+    "city_id": 218,
+    "city_name": "kab. brebes",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 3161,
+    "name": "Sirampog",
+    "city_id": 218,
+    "city_name": "kab. brebes",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 3166,
+    "name": "Songgom",
+    "city_id": 218,
+    "city_name": "kab. brebes",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 3169,
+    "name": "Tanjung",
+    "city_id": 218,
+    "city_name": "kab. brebes",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 3162,
+    "name": "Tonjong",
+    "city_id": 218,
+    "city_name": "kab. brebes",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 3164,
+    "name": "Wanasari",
+    "city_id": 218,
+    "city_name": "kab. brebes",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  }
+]

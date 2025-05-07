@@ -1,0 +1,80 @@
+[
+  {
+    "id": 336,
+    "name": "Kab. Tanah Laut",
+    "province_id": 22,
+    "province_name": "kalimantan selatan"
+  },
+  {
+    "id": 337,
+    "name": "Kab. Kotabaru",
+    "province_id": 22,
+    "province_name": "kalimantan selatan"
+  },
+  {
+    "id": 338,
+    "name": "Kab. Banjar",
+    "province_id": 22,
+    "province_name": "kalimantan selatan"
+  },
+  {
+    "id": 339,
+    "name": "Kab. Barito Kuala",
+    "province_id": 22,
+    "province_name": "kalimantan selatan"
+  },
+  {
+    "id": 340,
+    "name": "Kab. Tapin",
+    "province_id": 22,
+    "province_name": "kalimantan selatan"
+  },
+  {
+    "id": 341,
+    "name": "Kab. Hulu Sungai Selatan",
+    "province_id": 22,
+    "province_name": "kalimantan selatan"
+  },
+  {
+    "id": 342,
+    "name": "Kab. Hulu Sungai Tengah",
+    "province_id": 22,
+    "province_name": "kalimantan selatan"
+  },
+  {
+    "id": 343,
+    "name": "Kab. Hulu Sungai Utara",
+    "province_id": 22,
+    "province_name": "kalimantan selatan"
+  },
+  {
+    "id": 344,
+    "name": "Kab. Tabalong",
+    "province_id": 22,
+    "province_name": "kalimantan selatan"
+  },
+  {
+    "id": 345,
+    "name": "Kab. Tanah Bumbu",
+    "province_id": 22,
+    "province_name": "kalimantan selatan"
+  },
+  {
+    "id": 346,
+    "name": "Kab. Balangan",
+    "province_id": 22,
+    "province_name": "kalimantan selatan"
+  },
+  {
+    "id": 347,
+    "name": "Kota Banjarmasin",
+    "province_id": 22,
+    "province_name": "kalimantan selatan"
+  },
+  {
+    "id": 348,
+    "name": "Kota Banjarbaru",
+    "province_id": 22,
+    "province_name": "kalimantan selatan"
+  }
+]

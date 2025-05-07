@@ -1,0 +1,98 @@
+[
+  {
+    "id": 4305,
+    "name": "Aimere",
+    "city_id": 295,
+    "city_name": "kab. ngada",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4307,
+    "name": "Bajawa",
+    "city_id": 295,
+    "city_name": "kab. ngada",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4312,
+    "name": "Bajawa Utara",
+    "city_id": 295,
+    "city_name": "kab. ngada",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4306,
+    "name": "Golewa",
+    "city_id": 295,
+    "city_name": "kab. ngada",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 7018,
+    "name": "Golewa Barat",
+    "city_id": 295,
+    "city_name": "kab. ngada",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 7017,
+    "name": "Golewa Selatan",
+    "city_id": 295,
+    "city_name": "kab. ngada",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 7019,
+    "name": "Inerie",
+    "city_id": 295,
+    "city_name": "kab. ngada",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4310,
+    "name": "Jerebuu",
+    "city_id": 295,
+    "city_name": "kab. ngada",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4309,
+    "name": "Riung",
+    "city_id": 295,
+    "city_name": "kab. ngada",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4311,
+    "name": "Riung Barat",
+    "city_id": 295,
+    "city_name": "kab. ngada",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4308,
+    "name": "Soa",
+    "city_id": 295,
+    "city_name": "kab. ngada",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4313,
+    "name": "Wolomeze",
+    "city_id": 295,
+    "city_name": "kab. ngada",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  }
+]

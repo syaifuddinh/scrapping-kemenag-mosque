@@ -1,0 +1,82 @@
+[
+  {
+    "id": 4881,
+    "name": "Batu Engau",
+    "city_id": 349,
+    "city_name": "kab. paser",
+    "province_id": 23,
+    "province_name": "kalimantan timur"
+  },
+  {
+    "id": 4873,
+    "name": "Batu Sopang",
+    "city_id": 349,
+    "city_name": "kab. paser",
+    "province_id": 23,
+    "province_name": "kalimantan timur"
+  },
+  {
+    "id": 4877,
+    "name": "Kuaro",
+    "city_id": 349,
+    "city_name": "kab. paser",
+    "province_id": 23,
+    "province_name": "kalimantan timur"
+  },
+  {
+    "id": 4878,
+    "name": "Long Ikis",
+    "city_id": 349,
+    "city_name": "kab. paser",
+    "province_id": 23,
+    "province_name": "kalimantan timur"
+  },
+  {
+    "id": 4880,
+    "name": "Long Kali",
+    "city_id": 349,
+    "city_name": "kab. paser",
+    "province_id": 23,
+    "province_name": "kalimantan timur"
+  },
+  {
+    "id": 4879,
+    "name": "Muara Komam",
+    "city_id": 349,
+    "city_name": "kab. paser",
+    "province_id": 23,
+    "province_name": "kalimantan timur"
+  },
+  {
+    "id": 4882,
+    "name": "Muara Samu",
+    "city_id": 349,
+    "city_name": "kab. paser",
+    "province_id": 23,
+    "province_name": "kalimantan timur"
+  },
+  {
+    "id": 4875,
+    "name": "Pasir Balengkong",
+    "city_id": 349,
+    "city_name": "kab. paser",
+    "province_id": 23,
+    "province_name": "kalimantan timur"
+  },
+  {
+    "id": 4876,
+    "name": "Tanah Grogot",
+    "city_id": 349,
+    "city_name": "kab. paser",
+    "province_id": 23,
+    "province_name": "kalimantan timur"
+  },
+  {
+    "id": 4874,
+    "name": "Tanjung Harapan",
+    "city_id": 349,
+    "city_name": "kab. paser",
+    "province_id": 23,
+    "province_name": "kalimantan timur"
+  }
+]

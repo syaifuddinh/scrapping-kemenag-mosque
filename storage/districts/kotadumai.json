@@ -1,0 +1,58 @@
+[
+  {
+    "id": 6897,
+    "name": "Bukit Kapur",
+    "city_id": 508,
+    "city_name": "kota dumai",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 6895,
+    "name": "Dumai Barat",
+    "city_id": 508,
+    "city_name": "kota dumai",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 6900,
+    "name": "Dumai Kota",
+    "city_id": 508,
+    "city_name": "kota dumai",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 6901,
+    "name": "Dumai Selatan",
+    "city_id": 508,
+    "city_name": "kota dumai",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 6896,
+    "name": "Dumai Timur",
+    "city_id": 508,
+    "city_name": "kota dumai",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 6899,
+    "name": "Medang Kampai",
+    "city_id": 508,
+    "city_name": "kota dumai",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 6898,
+    "name": "Sungai Sembilan",
+    "city_id": 508,
+    "city_name": "kota dumai",
+    "province_id": 4,
+    "province_name": "riau"
+  }
+]

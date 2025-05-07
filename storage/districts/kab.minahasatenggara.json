@@ -1,0 +1,98 @@
+[
+  {
+    "id": 5069,
+    "name": "Belang",
+    "city_id": 364,
+    "city_name": "kab. minahasa tenggara",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5077,
+    "name": "Pasan",
+    "city_id": 364,
+    "city_name": "kab. minahasa tenggara",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5068,
+    "name": "Pusomaen",
+    "city_id": 364,
+    "city_name": "kab. minahasa tenggara",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5067,
+    "name": "Ratahan",
+    "city_id": 364,
+    "city_name": "kab. minahasa tenggara",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5078,
+    "name": "Ratahan Timur",
+    "city_id": 364,
+    "city_name": "kab. minahasa tenggara",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5070,
+    "name": "Ratatotok",
+    "city_id": 364,
+    "city_name": "kab. minahasa tenggara",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5074,
+    "name": "Silian Raya",
+    "city_id": 364,
+    "city_name": "kab. minahasa tenggara",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5071,
+    "name": "Tombatu",
+    "city_id": 364,
+    "city_name": "kab. minahasa tenggara",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5075,
+    "name": "Tombatu Timur",
+    "city_id": 364,
+    "city_name": "kab. minahasa tenggara",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5076,
+    "name": "Tombatu Utara",
+    "city_id": 364,
+    "city_name": "kab. minahasa tenggara",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5072,
+    "name": "Touluaan",
+    "city_id": 364,
+    "city_name": "kab. minahasa tenggara",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5073,
+    "name": "Touluaan Selatan",
+    "city_id": 364,
+    "city_name": "kab. minahasa tenggara",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  }
+]

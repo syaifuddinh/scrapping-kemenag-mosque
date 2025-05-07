@@ -1,0 +1,74 @@
+[
+  {
+    "id": 221,
+    "name": "Darul Hikmah",
+    "city_id": 14,
+    "city_name": "kab. aceh jaya",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 220,
+    "name": "Indra Jaya",
+    "city_id": 14,
+    "city_name": "kab. aceh jaya",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 218,
+    "name": "Jaya",
+    "city_id": 14,
+    "city_name": "kab. aceh jaya",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 219,
+    "name": "Keude Panga",
+    "city_id": 14,
+    "city_name": "kab. aceh jaya",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 215,
+    "name": "Krueng Sabee",
+    "city_id": 14,
+    "city_name": "kab. aceh jaya",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 222,
+    "name": "Pasie Raya",
+    "city_id": 14,
+    "city_name": "kab. aceh jaya",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 217,
+    "name": "Sampoiniet",
+    "city_id": 14,
+    "city_name": "kab. aceh jaya",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 216,
+    "name": "Setia Bhakti",
+    "city_id": 14,
+    "city_name": "kab. aceh jaya",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 214,
+    "name": "Teunom",
+    "city_id": 14,
+    "city_name": "kab. aceh jaya",
+    "province_id": 1,
+    "province_name": "aceh"
+  }
+]

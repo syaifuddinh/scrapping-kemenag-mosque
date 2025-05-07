@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1083,
+    "name": "Bajubang",
+    "city_id": 90,
+    "city_name": "kab. batanghari",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1080,
+    "name": "Batin XXIV",
+    "city_id": 90,
+    "city_name": "kab. batanghari",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1084,
+    "name": "Maro Sebo Ilir",
+    "city_id": 90,
+    "city_name": "kab. batanghari",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1082,
+    "name": "Maro Sebo Ulu",
+    "city_id": 90,
+    "city_name": "kab. batanghari",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1077,
+    "name": "Mersam",
+    "city_id": 90,
+    "city_name": "kab. batanghari",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1079,
+    "name": "Muara Bulian",
+    "city_id": 90,
+    "city_name": "kab. batanghari",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1078,
+    "name": "Muara Tembesi",
+    "city_id": 90,
+    "city_name": "kab. batanghari",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1081,
+    "name": "Pemayung",
+    "city_id": 90,
+    "city_name": "kab. batanghari",
+    "province_id": 5,
+    "province_name": "jambi"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 6699,
+    "name": "Lintang Kanan",
+    "city_id": 494,
+    "city_name": "kab. empat lawang",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 6695,
+    "name": "Muara Pinang",
+    "city_id": 494,
+    "city_name": "kab. empat lawang",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 6701,
+    "name": "Pasemah Air Keruh",
+    "city_id": 494,
+    "city_name": "kab. empat lawang",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 6696,
+    "name": "Pendopo",
+    "city_id": 494,
+    "city_name": "kab. empat lawang",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 7165,
+    "name": "Pendopo Barat",
+    "city_id": 494,
+    "city_name": "kab. empat lawang",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 7164,
+    "name": "Saling",
+    "city_id": 494,
+    "city_name": "kab. empat lawang",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 6702,
+    "name": "Sikap Dalam",
+    "city_id": 494,
+    "city_name": "kab. empat lawang",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 6700,
+    "name": "Talang Padang",
+    "city_id": 494,
+    "city_name": "kab. empat lawang",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 6698,
+    "name": "Tebing Tinggi",
+    "city_id": 494,
+    "city_name": "kab. empat lawang",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 6697,
+    "name": "Ulu Musi",
+    "city_id": 494,
+    "city_name": "kab. empat lawang",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  }
+]

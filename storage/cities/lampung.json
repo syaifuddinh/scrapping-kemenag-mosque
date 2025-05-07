@@ -1,0 +1,92 @@
+[
+  {
+    "id": 122,
+    "name": "Kab. Lampung Selatan",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 123,
+    "name": "Kab. Lampung Tengah",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 124,
+    "name": "Kab. Lampung Utara",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 125,
+    "name": "Kab. Lampung Barat",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 126,
+    "name": "Kab. Tulang Bawang",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 127,
+    "name": "Kab. Tanggamus",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 128,
+    "name": "Kab. Lampung Timur",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 129,
+    "name": "Kab. Way Kanan",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 130,
+    "name": "Kab. Pesawaran",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 131,
+    "name": "Kab. Pringsewu",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 132,
+    "name": "Kab. Mesuji",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 133,
+    "name": "Kab. Tulang Bawang Barat",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 134,
+    "name": "Kota Bandar Lampung",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 135,
+    "name": "Kota Metro",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 517,
+    "name": "Kab. Pesisir Barat",
+    "province_id": 8,
+    "province_name": "lampung"
+  }
+]

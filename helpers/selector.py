@@ -3,8 +3,8 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
 
-def GetElements(driver, selector):
-    elements = WebDriverWait(driver, 10).until(
+def GetElements(driver, selector, latency=10):
+    elements = WebDriverWait(driver, latency).until(
         EC.presence_of_all_elements_located((By.CSS_SELECTOR, selector))
     )
 

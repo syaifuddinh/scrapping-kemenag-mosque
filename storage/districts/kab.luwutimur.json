@@ -1,0 +1,90 @@
+[
+  {
+    "id": 5280,
+    "name": "Benteng",
+    "city_id": 403,
+    "city_name": "kab. luwu timur",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5281,
+    "name": "Bontoharu",
+    "city_id": 403,
+    "city_name": "kab. luwu timur",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5283,
+    "name": "Bontomanai",
+    "city_id": 403,
+    "city_name": "kab. luwu timur",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5282,
+    "name": "Bontomatene",
+    "city_id": 403,
+    "city_name": "kab. luwu timur",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5284,
+    "name": "Bontosikuyu",
+    "city_id": 403,
+    "city_name": "kab. luwu timur",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5290,
+    "name": "Buki",
+    "city_id": 403,
+    "city_name": "kab. luwu timur",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5288,
+    "name": "Pasilambena",
+    "city_id": 403,
+    "city_name": "kab. luwu timur",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5286,
+    "name": "Pasimarannu",
+    "city_id": 403,
+    "city_name": "kab. luwu timur",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5285,
+    "name": "Pasimasunggu",
+    "city_id": 403,
+    "city_name": "kab. luwu timur",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5289,
+    "name": "Pasimasunggu Timur",
+    "city_id": 403,
+    "city_name": "kab. luwu timur",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5287,
+    "name": "Taka Bonerate",
+    "city_id": 403,
+    "city_name": "kab. luwu timur",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  }
+]

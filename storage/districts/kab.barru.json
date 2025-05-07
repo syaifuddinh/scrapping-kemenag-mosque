@@ -1,0 +1,58 @@
+[
+  {
+    "id": 5416,
+    "name": "Balusu",
+    "city_id": 394,
+    "city_name": "kab. barru",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5412,
+    "name": "Barru",
+    "city_id": 394,
+    "city_name": "kab. barru",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5414,
+    "name": "Mallusetasi",
+    "city_id": 394,
+    "city_name": "kab. barru",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5415,
+    "name": "Pujananting",
+    "city_id": 394,
+    "city_name": "kab. barru",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5413,
+    "name": "Soppeng Riaja",
+    "city_id": 394,
+    "city_name": "kab. barru",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5410,
+    "name": "Tanete Riaja",
+    "city_id": 394,
+    "city_name": "kab. barru",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5411,
+    "name": "Tanete Rilau",
+    "city_id": 394,
+    "city_name": "kab. barru",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  }
+]

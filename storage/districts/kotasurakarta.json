@@ -1,0 +1,42 @@
+[
+  {
+    "id": 3181,
+    "name": "Banjarsari",
+    "city_id": 220,
+    "city_name": "kota surakarta",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 3180,
+    "name": "Jebres",
+    "city_id": 220,
+    "city_name": "kota surakarta",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 3177,
+    "name": "Laweyan",
+    "city_id": 220,
+    "city_name": "kota surakarta",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 3179,
+    "name": "Pasar Kliwon",
+    "city_id": 220,
+    "city_name": "kota surakarta",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 3178,
+    "name": "Serengan",
+    "city_id": 220,
+    "city_name": "kota surakarta",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1156,
+    "name": "Hamparan Rawang",
+    "city_id": 97,
+    "city_name": "kota sungai penuh",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1158,
+    "name": "Kumun Debai",
+    "city_id": 97,
+    "city_name": "kota sungai penuh",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1155,
+    "name": "Pesisir Bukit",
+    "city_id": 97,
+    "city_name": "kota sungai penuh",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1154,
+    "name": "Sungai Penuh",
+    "city_id": 97,
+    "city_name": "kota sungai penuh",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1157,
+    "name": "Tanah Kampung",
+    "city_id": 97,
+    "city_name": "kota sungai penuh",
+    "province_id": 5,
+    "province_name": "jambi"
+  }
+]

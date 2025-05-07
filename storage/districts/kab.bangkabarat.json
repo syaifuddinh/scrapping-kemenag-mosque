@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1739,
+    "name": "Jebus",
+    "city_id": 140,
+    "city_name": "kab. bangka barat",
+    "province_id": 9,
+    "province_name": "kep. bangka belitung"
+  },
+  {
+    "id": 1740,
+    "name": "Kelapa",
+    "city_id": 140,
+    "city_name": "kab. bangka barat",
+    "province_id": 9,
+    "province_name": "kep. bangka belitung"
+  },
+  {
+    "id": 1737,
+    "name": "Muntok",
+    "city_id": 140,
+    "city_name": "kab. bangka barat",
+    "province_id": 9,
+    "province_name": "kep. bangka belitung"
+  },
+  {
+    "id": 1742,
+    "name": "Parittiga",
+    "city_id": 140,
+    "city_name": "kab. bangka barat",
+    "province_id": 9,
+    "province_name": "kep. bangka belitung"
+  },
+  {
+    "id": 1738,
+    "name": "Simpang Teritip",
+    "city_id": 140,
+    "city_name": "kab. bangka barat",
+    "province_id": 9,
+    "province_name": "kep. bangka belitung"
+  },
+  {
+    "id": 1741,
+    "name": "Tempilang",
+    "city_id": 140,
+    "city_name": "kab. bangka barat",
+    "province_id": 9,
+    "province_name": "kep. bangka belitung"
+  }
+]

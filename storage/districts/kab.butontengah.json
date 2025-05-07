@@ -1,0 +1,58 @@
+[
+  {
+    "id": 7286,
+    "name": "Gu",
+    "city_id": 524,
+    "city_name": "kab. buton tengah",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 7281,
+    "name": "Lakudo",
+    "city_id": 524,
+    "city_name": "kab. buton tengah",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 7284,
+    "name": "Mawasangka",
+    "city_id": 524,
+    "city_name": "kab. buton tengah",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 7283,
+    "name": "Mawasangka Tengah",
+    "city_id": 524,
+    "city_name": "kab. buton tengah",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 7282,
+    "name": "Mawasangka Timur",
+    "city_id": 524,
+    "city_name": "kab. buton tengah",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 7287,
+    "name": "Sangia Wambulu",
+    "city_id": 524,
+    "city_name": "kab. buton tengah",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 7285,
+    "name": "Talaga Raya",
+    "city_id": 524,
+    "city_name": "kab. buton tengah",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 156,
+    "name": "Kab. Pandeglang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 157,
+    "name": "Kab. Lebak",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 158,
+    "name": "Kab. Tangerang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 159,
+    "name": "Kab. Serang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 160,
+    "name": "Kota Tangerang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 161,
+    "name": "Kota Cilegon",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 162,
+    "name": "Kota Serang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 163,
+    "name": "Kota Tangerang Selatan",
+    "province_id": 12,
+    "province_name": "banten"
+  }
+]

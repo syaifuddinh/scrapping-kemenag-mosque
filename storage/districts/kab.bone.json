@@ -1,0 +1,218 @@
+[
+  {
+    "id": 5373,
+    "name": "Ajangale",
+    "city_id": 391,
+    "city_name": "kab. bone",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5379,
+    "name": "Amali",
+    "city_id": 391,
+    "city_name": "kab. bone",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5371,
+    "name": "Awangpone",
+    "city_id": 391,
+    "city_name": "kab. bone",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5364,
+    "name": "Barebbo",
+    "city_id": 391,
+    "city_name": "kab. bone",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5381,
+    "name": "Bengo",
+    "city_id": 391,
+    "city_name": "kab. bone",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5356,
+    "name": "Bontocani",
+    "city_id": 391,
+    "city_name": "kab. bone",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5375,
+    "name": "Cenrana",
+    "city_id": 391,
+    "city_name": "kab. bone",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5365,
+    "name": "Cina",
+    "city_id": 391,
+    "city_name": "kab. bone",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5374,
+    "name": "Dua Boccoe",
+    "city_id": 391,
+    "city_name": "kab. bone",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5357,
+    "name": "Kahu",
+    "city_id": 391,
+    "city_name": "kab. bone",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5358,
+    "name": "Kajuara",
+    "city_id": 391,
+    "city_name": "kab. bone",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5368,
+    "name": "Lamuru",
+    "city_id": 391,
+    "city_name": "kab. bone",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5367,
+    "name": "Lappariaja",
+    "city_id": 391,
+    "city_name": "kab. bone",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5361,
+    "name": "Libureng",
+    "city_id": 391,
+    "city_name": "kab. bone",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5362,
+    "name": "Mare",
+    "city_id": 391,
+    "city_name": "kab. bone",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5370,
+    "name": "Palakka",
+    "city_id": 391,
+    "city_name": "kab. bone",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5382,
+    "name": "Patimpeng",
+    "city_id": 391,
+    "city_name": "kab. bone",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5366,
+    "name": "Ponre",
+    "city_id": 391,
+    "city_name": "kab. bone",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5359,
+    "name": "Salomekko",
+    "city_id": 391,
+    "city_name": "kab. bone",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5363,
+    "name": "Sibulue",
+    "city_id": 391,
+    "city_name": "kab. bone",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5376,
+    "name": "Tanete Riattang",
+    "city_id": 391,
+    "city_name": "kab. bone",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5377,
+    "name": "Tanete Riattang Barat",
+    "city_id": 391,
+    "city_name": "kab. bone",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5378,
+    "name": "Tanete Riattang Timur",
+    "city_id": 391,
+    "city_name": "kab. bone",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5372,
+    "name": "Tellu Siattinge",
+    "city_id": 391,
+    "city_name": "kab. bone",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5380,
+    "name": "Tellulimpoe",
+    "city_id": 391,
+    "city_name": "kab. bone",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5360,
+    "name": "Tonra",
+    "city_id": 391,
+    "city_name": "kab. bone",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5369,
+    "name": "Ulaweng",
+    "city_id": 391,
+    "city_name": "kab. bone",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  }
+]

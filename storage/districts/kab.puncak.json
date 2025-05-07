@@ -1,0 +1,66 @@
+[
+  {
+    "id": 6469,
+    "name": "Agandugume",
+    "city_id": 475,
+    "city_name": "kab. puncak",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6465,
+    "name": "Beoga",
+    "city_id": 475,
+    "city_name": "kab. puncak",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6466,
+    "name": "Doufo",
+    "city_id": 475,
+    "city_name": "kab. puncak",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6470,
+    "name": "Gome",
+    "city_id": 475,
+    "city_name": "kab. puncak",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6463,
+    "name": "Ilaga",
+    "city_id": 475,
+    "city_name": "kab. puncak",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6467,
+    "name": "Pogoma",
+    "city_id": 475,
+    "city_name": "kab. puncak",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6468,
+    "name": "Sinak",
+    "city_id": 475,
+    "city_name": "kab. puncak",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6464,
+    "name": "Wangbe",
+    "city_id": 475,
+    "city_name": "kab. puncak",
+    "province_id": 32,
+    "province_name": "papua"
+  }
+]

@@ -23,9 +23,8 @@ def GetDistricts(driver, province_id, province_name, city_id, city_name):
     ClickBySelector(driver, "#wKecamatan")
     time.sleep(1)
     district_elements = GetElements(driver, "#wKecamatan .selectize-dropdown-content .option")
-    district_id = int(element.get_attribute('data-value'))
-    # Extract city names and create array of objects with id and name
-    districts = [{'id': district_id, 'name': element.get_attribute('innerText'), 'city_id': city_id, 'city_name': city_name, 'province_id': province_id, 'province_name': province_name} for idx, element in enumerate(district_elements)]
+    # Extract district names and create array of objects with id and name
+    districts = [{'id': int(element.get_attribute('data-value')), 'name': element.get_attribute('innerText'), 'city_id': city_id, 'city_name': city_name, 'province_id': province_id, 'province_name': province_name} for idx, element in enumerate(district_elements)]
     # # Create storage/files directory if it doesn't exist
     os.makedirs('storage/districts', exist_ok=True)
     filename = GetFormalName(city_name)

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 5352,
+    "name": "Bulupoddo",
+    "city_id": 390,
+    "city_name": "kab. sinjai",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5355,
+    "name": "Pulau Sembilan",
+    "city_id": 390,
+    "city_name": "kab. sinjai",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5347,
+    "name": "Sinjai Barat",
+    "city_id": 390,
+    "city_name": "kab. sinjai",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5353,
+    "name": "Sinjai Borong",
+    "city_id": 390,
+    "city_name": "kab. sinjai",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5348,
+    "name": "Sinjai Selatan",
+    "city_id": 390,
+    "city_name": "kab. sinjai",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5350,
+    "name": "Sinjai Tengah",
+    "city_id": 390,
+    "city_name": "kab. sinjai",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5349,
+    "name": "Sinjai Timur",
+    "city_id": 390,
+    "city_name": "kab. sinjai",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5351,
+    "name": "Sinjai Utara",
+    "city_id": 390,
+    "city_name": "kab. sinjai",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5354,
+    "name": "Tellu Limpoe",
+    "city_id": 390,
+    "city_name": "kab. sinjai",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  }
+]

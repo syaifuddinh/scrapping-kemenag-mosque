@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1796,
+    "name": "Jemaja",
+    "city_id": 147,
+    "city_name": "kab. kepulauan anambas",
+    "province_id": 10,
+    "province_name": "kepulauan riau"
+  },
+  {
+    "id": 7307,
+    "name": "Jemaja Barat",
+    "city_id": 147,
+    "city_name": "kab. kepulauan anambas",
+    "province_id": 10,
+    "province_name": "kepulauan riau"
+  },
+  {
+    "id": 1795,
+    "name": "Jemaja Timur",
+    "city_id": 147,
+    "city_name": "kab. kepulauan anambas",
+    "province_id": 10,
+    "province_name": "kepulauan riau"
+  },
+  {
+    "id": 1792,
+    "name": "Palmatak",
+    "city_id": 147,
+    "city_name": "kab. kepulauan anambas",
+    "province_id": 10,
+    "province_name": "kepulauan riau"
+  },
+  {
+    "id": 1791,
+    "name": "Siantan",
+    "city_id": 147,
+    "city_name": "kab. kepulauan anambas",
+    "province_id": 10,
+    "province_name": "kepulauan riau"
+  },
+  {
+    "id": 1794,
+    "name": "Siantan Selatan",
+    "city_id": 147,
+    "city_name": "kab. kepulauan anambas",
+    "province_id": 10,
+    "province_name": "kepulauan riau"
+  },
+  {
+    "id": 1797,
+    "name": "Siantan Tengah",
+    "city_id": 147,
+    "city_name": "kab. kepulauan anambas",
+    "province_id": 10,
+    "province_name": "kepulauan riau"
+  },
+  {
+    "id": 1793,
+    "name": "Siantan Timur",
+    "city_id": 147,
+    "city_name": "kab. kepulauan anambas",
+    "province_id": 10,
+    "province_name": "kepulauan riau"
+  },
+  {
+    "id": 7306,
+    "name": "Siantan Utara",
+    "city_id": 147,
+    "city_name": "kab. kepulauan anambas",
+    "province_id": 10,
+    "province_name": "kepulauan riau"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1018,
+    "name": "Bukit Raya",
+    "city_id": 86,
+    "city_name": "kota pekanbaru",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 1015,
+    "name": "Lima Puluh",
+    "city_id": 86,
+    "city_name": "kota pekanbaru",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 1020,
+    "name": "Marpoyan Damai",
+    "city_id": 86,
+    "city_name": "kota pekanbaru",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 1022,
+    "name": "Payung Sekaki",
+    "city_id": 86,
+    "city_name": "kota pekanbaru",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 1013,
+    "name": "Pekanbaru Kota",
+    "city_id": 86,
+    "city_name": "kota pekanbaru",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 1017,
+    "name": "Rumbai",
+    "city_id": 86,
+    "city_name": "kota pekanbaru",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 1023,
+    "name": "Rumbai Pesisir",
+    "city_id": 86,
+    "city_name": "kota pekanbaru",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 1014,
+    "name": "Sail",
+    "city_id": 86,
+    "city_name": "kota pekanbaru",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 1016,
+    "name": "Senapelan",
+    "city_id": 86,
+    "city_name": "kota pekanbaru",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 1012,
+    "name": "Sukajadi",
+    "city_id": 86,
+    "city_name": "kota pekanbaru",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 1019,
+    "name": "Tampan",
+    "city_id": 86,
+    "city_name": "kota pekanbaru",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 1021,
+    "name": "Tenayan Raya",
+    "city_id": 86,
+    "city_name": "kota pekanbaru",
+    "province_id": 4,
+    "province_name": "riau"
+  }
+]

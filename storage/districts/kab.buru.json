@@ -1,0 +1,82 @@
+[
+  {
+    "id": 5958,
+    "name": "Air Buaya",
+    "city_id": 434,
+    "city_name": "kab. buru",
+    "province_id": 30,
+    "province_name": "maluku"
+  },
+  {
+    "id": 5961,
+    "name": "Batabual",
+    "city_id": 434,
+    "city_name": "kab. buru",
+    "province_id": 30,
+    "province_name": "maluku"
+  },
+  {
+    "id": 7076,
+    "name": "Fena Leisela",
+    "city_id": 434,
+    "city_name": "kab. buru",
+    "province_id": 30,
+    "province_name": "maluku"
+  },
+  {
+    "id": 7078,
+    "name": "Lilialy",
+    "city_id": 434,
+    "city_name": "kab. buru",
+    "province_id": 30,
+    "province_name": "maluku"
+  },
+  {
+    "id": 7074,
+    "name": "Lolong Guba",
+    "city_id": 434,
+    "city_name": "kab. buru",
+    "province_id": 30,
+    "province_name": "maluku"
+  },
+  {
+    "id": 5957,
+    "name": "Namlea",
+    "city_id": 434,
+    "city_name": "kab. buru",
+    "province_id": 30,
+    "province_name": "maluku"
+  },
+  {
+    "id": 7077,
+    "name": "Teluk Kaiely",
+    "city_id": 434,
+    "city_name": "kab. buru",
+    "province_id": 30,
+    "province_name": "maluku"
+  },
+  {
+    "id": 7075,
+    "name": "Waelata",
+    "city_id": 434,
+    "city_name": "kab. buru",
+    "province_id": 30,
+    "province_name": "maluku"
+  },
+  {
+    "id": 5959,
+    "name": "Waepo",
+    "city_id": 434,
+    "city_name": "kab. buru",
+    "province_id": 30,
+    "province_name": "maluku"
+  },
+  {
+    "id": 5960,
+    "name": "Waplau",
+    "city_id": 434,
+    "city_name": "kab. buru",
+    "province_id": 30,
+    "province_name": "maluku"
+  }
+]

@@ -1,0 +1,104 @@
+[
+  {
+    "id": 408,
+    "name": "Kab. Kolaka",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 409,
+    "name": "Kab. Konawe",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 410,
+    "name": "Kab. Muna",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 411,
+    "name": "Kab. Buton",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 412,
+    "name": "Kab. Konawe Selatan",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 413,
+    "name": "Kab. Bombana",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 414,
+    "name": "Kab. Wakatobi",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 415,
+    "name": "Kab. Kolaka Utara",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 416,
+    "name": "Kab. Konawe Utara",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 417,
+    "name": "Kab. Buton Utara",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 418,
+    "name": "Kota Kendari",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 419,
+    "name": "Kota Bau Bau",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 521,
+    "name": "Kab. Kolaka Timur",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 522,
+    "name": "Kab. Konawe Kepulauan",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 523,
+    "name": "Kab. Muna Barat",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 524,
+    "name": "Kab. Buton Tengah",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 525,
+    "name": "Kab. Buton Selatan",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  }
+]

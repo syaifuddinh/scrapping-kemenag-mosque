@@ -1,0 +1,154 @@
+[
+  {
+    "id": 1418,
+    "name": "Air Besi",
+    "city_id": 114,
+    "city_name": "kab. bengkulu utara",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1419,
+    "name": "Air Napal",
+    "city_id": 114,
+    "city_name": "kab. bengkulu utara",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1421,
+    "name": "Air Padang",
+    "city_id": 114,
+    "city_name": "kab. bengkulu utara",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1410,
+    "name": "Arga Makmur",
+    "city_id": 114,
+    "city_name": "kab. bengkulu utara",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 7311,
+    "name": "Arma Jaya",
+    "city_id": 114,
+    "city_name": "kab. bengkulu utara",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1414,
+    "name": "Batik Nau",
+    "city_id": 114,
+    "city_name": "kab. bengkulu utara",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1408,
+    "name": "Enggano",
+    "city_id": 114,
+    "city_name": "kab. bengkulu utara",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1411,
+    "name": "Giri Mulya",
+    "city_id": 114,
+    "city_name": "kab. bengkulu utara",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1420,
+    "name": "Hulu Palik",
+    "city_id": 114,
+    "city_name": "kab. bengkulu utara",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1409,
+    "name": "Kerkap",
+    "city_id": 114,
+    "city_name": "kab. bengkulu utara",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1415,
+    "name": "Ketahun",
+    "city_id": 114,
+    "city_name": "kab. bengkulu utara",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1413,
+    "name": "Lais",
+    "city_id": 114,
+    "city_name": "kab. bengkulu utara",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 7315,
+    "name": "Marga Sakti Sebelat",
+    "city_id": 114,
+    "city_name": "kab. bengkulu utara",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1416,
+    "name": "Napal Putih",
+    "city_id": 114,
+    "city_name": "kab. bengkulu utara",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1412,
+    "name": "Padang Jaya",
+    "city_id": 114,
+    "city_name": "kab. bengkulu utara",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 7314,
+    "name": "Pinang Raya",
+    "city_id": 114,
+    "city_name": "kab. bengkulu utara",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1417,
+    "name": "Putri Hijau",
+    "city_id": 114,
+    "city_name": "kab. bengkulu utara",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 7312,
+    "name": "Tanjung Agung Palik",
+    "city_id": 114,
+    "city_name": "kab. bengkulu utara",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 7313,
+    "name": "Ulok Kupai",
+    "city_id": 114,
+    "city_name": "kab. bengkulu utara",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  }
+]

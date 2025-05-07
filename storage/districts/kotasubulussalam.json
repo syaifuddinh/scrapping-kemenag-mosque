@@ -1,0 +1,42 @@
+[
+  {
+    "id": 286,
+    "name": "Longkib",
+    "city_id": 23,
+    "city_name": "kota subulussalam",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 283,
+    "name": "Penanggalan",
+    "city_id": 23,
+    "city_name": "kota subulussalam",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 284,
+    "name": "Rundeng",
+    "city_id": 23,
+    "city_name": "kota subulussalam",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 282,
+    "name": "Simpang Kiri",
+    "city_id": 23,
+    "city_name": "kota subulussalam",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 285,
+    "name": "Sultan Daulat",
+    "city_id": 23,
+    "city_name": "kota subulussalam",
+    "province_id": 1,
+    "province_name": "aceh"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": 2858,
+    "name": "Baki",
+    "city_id": 200,
+    "city_name": "kab. sukoharjo",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2854,
+    "name": "Bendosari",
+    "city_id": 200,
+    "city_name": "kab. sukoharjo",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2850,
+    "name": "Buluspesantren",
+    "city_id": 200,
+    "city_name": "kab. sukoharjo",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2859,
+    "name": "Gatak",
+    "city_id": 200,
+    "city_name": "kab. sukoharjo",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2857,
+    "name": "Grogol",
+    "city_id": 200,
+    "city_name": "kab. sukoharjo",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2860,
+    "name": "Kartasura",
+    "city_id": 200,
+    "city_name": "kab. sukoharjo",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2856,
+    "name": "Mojolaban",
+    "city_id": 200,
+    "city_name": "kab. sukoharjo",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2853,
+    "name": "Nguter",
+    "city_id": 200,
+    "city_name": "kab. sukoharjo",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2855,
+    "name": "Polokarto",
+    "city_id": 200,
+    "city_name": "kab. sukoharjo",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2852,
+    "name": "Sukoharjo",
+    "city_id": 200,
+    "city_name": "kab. sukoharjo",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2851,
+    "name": "Tawangsari",
+    "city_id": 200,
+    "city_name": "kab. sukoharjo",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2849,
+    "name": "Weru",
+    "city_id": 200,
+    "city_name": "kab. sukoharjo",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 5767,
+    "name": "Bonegunu",
+    "city_id": 417,
+    "city_name": "kab. buton utara",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 5766,
+    "name": "Kambowa",
+    "city_id": 417,
+    "city_name": "kab. buton utara",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 5765,
+    "name": "Kulisusu",
+    "city_id": 417,
+    "city_name": "kab. buton utara",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 5768,
+    "name": "Kulisusu Barat",
+    "city_id": 417,
+    "city_name": "kab. buton utara",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 5769,
+    "name": "Kulisusu Utara",
+    "city_id": 417,
+    "city_name": "kab. buton utara",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 5770,
+    "name": "Wakorumba Utara",
+    "city_id": 417,
+    "city_name": "kab. buton utara",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  }
+]

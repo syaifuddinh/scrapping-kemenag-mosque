@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3967,
+    "name": "Abiansemal",
+    "city_id": 270,
+    "city_name": "kab. badung",
+    "province_id": 17,
+    "province_name": "bali"
+  },
+  {
+    "id": 3965,
+    "name": "Kuta",
+    "city_id": 270,
+    "city_name": "kab. badung",
+    "province_id": 17,
+    "province_name": "bali"
+  },
+  {
+    "id": 3969,
+    "name": "Kuta Selatan",
+    "city_id": 270,
+    "city_name": "kab. badung",
+    "province_id": 17,
+    "province_name": "bali"
+  },
+  {
+    "id": 3970,
+    "name": "Kuta Utara",
+    "city_id": 270,
+    "city_name": "kab. badung",
+    "province_id": 17,
+    "province_name": "bali"
+  },
+  {
+    "id": 3966,
+    "name": "Mengwi",
+    "city_id": 270,
+    "city_name": "kab. badung",
+    "province_id": 17,
+    "province_name": "bali"
+  },
+  {
+    "id": 3968,
+    "name": "Petang",
+    "city_id": 270,
+    "city_name": "kab. badung",
+    "province_id": 17,
+    "province_name": "bali"
+  }
+]

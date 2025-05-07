@@ -1,0 +1,82 @@
+[
+  {
+    "id": 339,
+    "name": "Bawolato",
+    "city_id": 27,
+    "city_name": "kab. nias",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 341,
+    "name": "Botomuzoi",
+    "city_id": 27,
+    "city_name": "kab. nias",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 337,
+    "name": "Gido",
+    "city_id": 27,
+    "city_name": "kab. nias",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 340,
+    "name": "Hili Serangkai/ Hilisaranggu",
+    "city_id": 27,
+    "city_name": "kab. nias",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 336,
+    "name": "Hiliduho",
+    "city_id": 27,
+    "city_name": "kab. nias",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 338,
+    "name": "Idano Gawo",
+    "city_id": 27,
+    "city_name": "kab. nias",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 343,
+    "name": "Ma'u",
+    "city_id": 27,
+    "city_name": "kab. nias",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 6937,
+    "name": "Sogae'adu",
+    "city_id": 27,
+    "city_name": "kab. nias",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 344,
+    "name": "Somolo-Molo",
+    "city_id": 27,
+    "city_name": "kab. nias",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 342,
+    "name": "Ulugawo",
+    "city_id": 27,
+    "city_name": "kab. nias",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  }
+]

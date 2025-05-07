@@ -1,0 +1,82 @@
+[
+  {
+    "id": 4826,
+    "name": "Amuntai Selatan",
+    "city_id": 343,
+    "city_name": "kab. hulu sungai utara",
+    "province_id": 22,
+    "province_name": "kalimantan selatan"
+  },
+  {
+    "id": 4827,
+    "name": "Amuntai Tengah",
+    "city_id": 343,
+    "city_name": "kab. hulu sungai utara",
+    "province_id": 22,
+    "province_name": "kalimantan selatan"
+  },
+  {
+    "id": 4828,
+    "name": "Amuntai Utara",
+    "city_id": 343,
+    "city_name": "kab. hulu sungai utara",
+    "province_id": 22,
+    "province_name": "kalimantan selatan"
+  },
+  {
+    "id": 4824,
+    "name": "Babirik",
+    "city_id": 343,
+    "city_name": "kab. hulu sungai utara",
+    "province_id": 22,
+    "province_name": "kalimantan selatan"
+  },
+  {
+    "id": 4829,
+    "name": "Banjang",
+    "city_id": 343,
+    "city_name": "kab. hulu sungai utara",
+    "province_id": 22,
+    "province_name": "kalimantan selatan"
+  },
+  {
+    "id": 4823,
+    "name": "Danau Panggang",
+    "city_id": 343,
+    "city_name": "kab. hulu sungai utara",
+    "province_id": 22,
+    "province_name": "kalimantan selatan"
+  },
+  {
+    "id": 4830,
+    "name": "Haur Gading",
+    "city_id": 343,
+    "city_name": "kab. hulu sungai utara",
+    "province_id": 22,
+    "province_name": "kalimantan selatan"
+  },
+  {
+    "id": 4831,
+    "name": "Paminggir",
+    "city_id": 343,
+    "city_name": "kab. hulu sungai utara",
+    "province_id": 22,
+    "province_name": "kalimantan selatan"
+  },
+  {
+    "id": 4825,
+    "name": "Sungai Pandan",
+    "city_id": 343,
+    "city_name": "kab. hulu sungai utara",
+    "province_id": 22,
+    "province_name": "kalimantan selatan"
+  },
+  {
+    "id": 4832,
+    "name": "Sungai Tabukan",
+    "city_id": 343,
+    "city_name": "kab. hulu sungai utara",
+    "province_id": 22,
+    "province_name": "kalimantan selatan"
+  }
+]

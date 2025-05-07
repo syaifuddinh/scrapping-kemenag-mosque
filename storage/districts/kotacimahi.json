@@ -1,0 +1,26 @@
+[
+  {
+    "id": 2620,
+    "name": "Cimahi Selatan",
+    "city_id": 187,
+    "city_name": "kota cimahi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2621,
+    "name": "Cimahi Tengah",
+    "city_id": 187,
+    "city_name": "kota cimahi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2622,
+    "name": "Cimahi Utara",
+    "city_id": 187,
+    "city_name": "kota cimahi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1853,
+    "name": "Cilandak",
+    "city_id": 155,
+    "city_name": "kota adm. jakarta selatan",
+    "province_id": 11,
+    "province_name": "dki jakarta"
+  },
+  {
+    "id": 1857,
+    "name": "Jagakarsa",
+    "city_id": 155,
+    "city_name": "kota adm. jakarta selatan",
+    "province_id": 11,
+    "province_name": "dki jakarta"
+  },
+  {
+    "id": 1854,
+    "name": "Kebayoran Baru",
+    "city_id": 155,
+    "city_name": "kota adm. jakarta selatan",
+    "province_id": 11,
+    "province_name": "dki jakarta"
+  },
+  {
+    "id": 1852,
+    "name": "Kebayoran Lama",
+    "city_id": 155,
+    "city_name": "kota adm. jakarta selatan",
+    "province_id": 11,
+    "province_name": "dki jakarta"
+  },
+  {
+    "id": 1850,
+    "name": "Mampang Prapatan",
+    "city_id": 155,
+    "city_name": "kota adm. jakarta selatan",
+    "province_id": 11,
+    "province_name": "dki jakarta"
+  },
+  {
+    "id": 1855,
+    "name": "Pancoran",
+    "city_id": 155,
+    "city_name": "kota adm. jakarta selatan",
+    "province_id": 11,
+    "province_name": "dki jakarta"
+  },
+  {
+    "id": 1851,
+    "name": "Pasar Minggu",
+    "city_id": 155,
+    "city_name": "kota adm. jakarta selatan",
+    "province_id": 11,
+    "province_name": "dki jakarta"
+  },
+  {
+    "id": 1856,
+    "name": "Pesanggrahan",
+    "city_id": 155,
+    "city_name": "kota adm. jakarta selatan",
+    "province_id": 11,
+    "province_name": "dki jakarta"
+  },
+  {
+    "id": 1849,
+    "name": "Setiabudi",
+    "city_id": 155,
+    "city_name": "kota adm. jakarta selatan",
+    "province_id": 11,
+    "province_name": "dki jakarta"
+  },
+  {
+    "id": 1848,
+    "name": "Tebet",
+    "city_id": 155,
+    "city_name": "kota adm. jakarta selatan",
+    "province_id": 11,
+    "province_name": "dki jakarta"
+  }
+]

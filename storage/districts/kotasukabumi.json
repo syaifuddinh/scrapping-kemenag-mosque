@@ -1,0 +1,322 @@
+[
+  {
+    "id": 2016,
+    "name": "Babakan Madang",
+    "city_id": 182,
+    "city_name": "kota sukabumi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2024,
+    "name": "Bojong Gede",
+    "city_id": 182,
+    "city_name": "kota sukabumi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2038,
+    "name": "Caringin",
+    "city_id": 182,
+    "city_name": "kota sukabumi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2019,
+    "name": "Cariu",
+    "city_id": 182,
+    "city_name": "kota sukabumi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2026,
+    "name": "Ciampea",
+    "city_id": 182,
+    "city_name": "kota sukabumi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2035,
+    "name": "Ciawi",
+    "city_id": 182,
+    "city_name": "kota sukabumi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2012,
+    "name": "Cibinong",
+    "city_id": 182,
+    "city_name": "kota sukabumi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2027,
+    "name": "Cibungbulang",
+    "city_id": 182,
+    "city_name": "kota sukabumi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2049,
+    "name": "Cigombong",
+    "city_id": 182,
+    "city_name": "kota sukabumi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2033,
+    "name": "Cigudeg",
+    "city_id": 182,
+    "city_name": "kota sukabumi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2039,
+    "name": "Cijeruk",
+    "city_id": 182,
+    "city_name": "kota sukabumi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2018,
+    "name": "Cileungsi",
+    "city_id": 182,
+    "city_name": "kota sukabumi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2040,
+    "name": "Ciomas",
+    "city_id": 182,
+    "city_name": "kota sukabumi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2036,
+    "name": "Cisarua",
+    "city_id": 182,
+    "city_name": "kota sukabumi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2044,
+    "name": "Ciseeng",
+    "city_id": 182,
+    "city_name": "kota sukabumi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2014,
+    "name": "Citeureup",
+    "city_id": 182,
+    "city_name": "kota sukabumi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2041,
+    "name": "Dramaga",
+    "city_id": 182,
+    "city_name": "kota sukabumi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2013,
+    "name": "Gunung Putri",
+    "city_id": 182,
+    "city_name": "kota sukabumi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2022,
+    "name": "Gunung Sindur",
+    "city_id": 182,
+    "city_name": "kota sukabumi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2030,
+    "name": "Jasinga",
+    "city_id": 182,
+    "city_name": "kota sukabumi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2017,
+    "name": "Jonggol",
+    "city_id": 182,
+    "city_name": "kota sukabumi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2023,
+    "name": "Kemang",
+    "city_id": 182,
+    "city_name": "kota sukabumi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2043,
+    "name": "Klapanunggal",
+    "city_id": 182,
+    "city_name": "kota sukabumi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2025,
+    "name": "Leuwiliang",
+    "city_id": 182,
+    "city_name": "kota sukabumi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2050,
+    "name": "Leuwisadeng",
+    "city_id": 182,
+    "city_name": "kota sukabumi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2037,
+    "name": "Megamendung",
+    "city_id": 182,
+    "city_name": "kota sukabumi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2032,
+    "name": "Nanggung",
+    "city_id": 182,
+    "city_name": "kota sukabumi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2028,
+    "name": "Pamijahan",
+    "city_id": 182,
+    "city_name": "kota sukabumi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2021,
+    "name": "Parung",
+    "city_id": 182,
+    "city_name": "kota sukabumi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2031,
+    "name": "Parung Panjang",
+    "city_id": 182,
+    "city_name": "kota sukabumi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2045,
+    "name": "Ranca Bungur",
+    "city_id": 182,
+    "city_name": "kota sukabumi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2029,
+    "name": "Rumpin",
+    "city_id": 182,
+    "city_name": "kota sukabumi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2046,
+    "name": "Sukajaya",
+    "city_id": 182,
+    "city_name": "kota sukabumi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2020,
+    "name": "Sukamakmur",
+    "city_id": 182,
+    "city_name": "kota sukabumi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2015,
+    "name": "Sukaraja",
+    "city_id": 182,
+    "city_name": "kota sukabumi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2048,
+    "name": "Tajurhalang",
+    "city_id": 182,
+    "city_name": "kota sukabumi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2042,
+    "name": "Tamansari",
+    "city_id": 182,
+    "city_name": "kota sukabumi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2047,
+    "name": "Tanjungsari",
+    "city_id": 182,
+    "city_name": "kota sukabumi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2034,
+    "name": "Tenjo",
+    "city_id": 182,
+    "city_name": "kota sukabumi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2051,
+    "name": "Tenjolaya",
+    "city_id": 182,
+    "city_name": "kota sukabumi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  }
+]

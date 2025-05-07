@@ -1,0 +1,202 @@
+[
+  {
+    "id": 448,
+    "name": "Aek Kuasan",
+    "city_id": 32,
+    "city_name": "kab. asahan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 462,
+    "name": "Aek Ledong",
+    "city_id": 32,
+    "city_name": "kab. asahan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 451,
+    "name": "Aek Songsongan",
+    "city_id": 32,
+    "city_name": "kab. asahan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 443,
+    "name": "Air Batu",
+    "city_id": 32,
+    "city_name": "kab. asahan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 439,
+    "name": "Air Joman",
+    "city_id": 32,
+    "city_name": "kab. asahan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 447,
+    "name": "Bandar Pasir Mandoge",
+    "city_id": 32,
+    "city_name": "kab. asahan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 445,
+    "name": "Bandar Pulau",
+    "city_id": 32,
+    "city_name": "kab. asahan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 446,
+    "name": "Buntu Pane",
+    "city_id": 32,
+    "city_name": "kab. asahan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 449,
+    "name": "Kota Kisaran Barat",
+    "city_id": 32,
+    "city_name": "kab. asahan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 450,
+    "name": "Kota Kisaran Timur",
+    "city_id": 32,
+    "city_name": "kab. asahan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 438,
+    "name": "Meranti",
+    "city_id": 32,
+    "city_name": "kab. asahan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 444,
+    "name": "Pulau Rakyat",
+    "city_id": 32,
+    "city_name": "kab. asahan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 460,
+    "name": "Pulo Bandring",
+    "city_id": 32,
+    "city_name": "kab. asahan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 452,
+    "name": "Rahunig",
+    "city_id": 32,
+    "city_name": "kab. asahan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 459,
+    "name": "Rawang Panca Arga",
+    "city_id": 32,
+    "city_name": "kab. asahan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 453,
+    "name": "Sei Dadap",
+    "city_id": 32,
+    "city_name": "kab. asahan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 441,
+    "name": "Sei Kepayang",
+    "city_id": 32,
+    "city_name": "kab. asahan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 454,
+    "name": "Sei Kepayang Barat",
+    "city_id": 32,
+    "city_name": "kab. asahan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 455,
+    "name": "Sei Kepayang Timur",
+    "city_id": 32,
+    "city_name": "kab. asahan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 457,
+    "name": "Setia Janji",
+    "city_id": 32,
+    "city_name": "kab. asahan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 458,
+    "name": "Silau Laut",
+    "city_id": 32,
+    "city_name": "kab. asahan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 442,
+    "name": "Simpang Empat",
+    "city_id": 32,
+    "city_name": "kab. asahan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 440,
+    "name": "Tanjung Balai",
+    "city_id": 32,
+    "city_name": "kab. asahan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 461,
+    "name": "Teluk Dalam",
+    "city_id": 32,
+    "city_name": "kab. asahan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 456,
+    "name": "Tinggi Raja",
+    "city_id": 32,
+    "city_name": "kab. asahan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1592,
+    "name": "Banjar Agung",
+    "city_id": 126,
+    "city_name": "kab. tulang bawang",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1603,
+    "name": "Banjar Baru",
+    "city_id": 126,
+    "city_name": "kab. tulang bawang",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1597,
+    "name": "Banjar Margo",
+    "city_id": 126,
+    "city_name": "kab. tulang bawang",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1600,
+    "name": "Dente Teladas",
+    "city_id": 126,
+    "city_name": "kab. tulang bawang",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1591,
+    "name": "Gedung Aji",
+    "city_id": 126,
+    "city_name": "kab. tulang bawang",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1602,
+    "name": "Gedung Aji Baru",
+    "city_id": 126,
+    "city_name": "kab. tulang bawang",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1593,
+    "name": "Gedung Meneng",
+    "city_id": 126,
+    "city_name": "kab. tulang bawang",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1590,
+    "name": "Menggala",
+    "city_id": 126,
+    "city_name": "kab. tulang bawang",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1604,
+    "name": "Menggala Timur",
+    "city_id": 126,
+    "city_name": "kab. tulang bawang",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1601,
+    "name": "Meraksa Aji",
+    "city_id": 126,
+    "city_name": "kab. tulang bawang",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1599,
+    "name": "Penawar Aji",
+    "city_id": 126,
+    "city_name": "kab. tulang bawang",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1595,
+    "name": "Penawar Tama",
+    "city_id": 126,
+    "city_name": "kab. tulang bawang",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1594,
+    "name": "Rawa Jitu Selatan",
+    "city_id": 126,
+    "city_name": "kab. tulang bawang",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1596,
+    "name": "Rawa Jitu Timur",
+    "city_id": 126,
+    "city_name": "kab. tulang bawang",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1598,
+    "name": "Rawa Pitu",
+    "city_id": 126,
+    "city_name": "kab. tulang bawang",
+    "province_id": 8,
+    "province_name": "lampung"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1775,
+    "name": "Bunguran Barat",
+    "city_id": 145,
+    "city_name": "kab. natuna",
+    "province_id": 10,
+    "province_name": "kepulauan riau"
+  },
+  {
+    "id": 1784,
+    "name": "Bunguran Selatan",
+    "city_id": 145,
+    "city_name": "kab. natuna",
+    "province_id": 10,
+    "province_name": "kepulauan riau"
+  },
+  {
+    "id": 1783,
+    "name": "Bunguran Tengah",
+    "city_id": 145,
+    "city_name": "kab. natuna",
+    "province_id": 10,
+    "province_name": "kepulauan riau"
+  },
+  {
+    "id": 1777,
+    "name": "Bunguran Timur",
+    "city_id": 145,
+    "city_name": "kab. natuna",
+    "province_id": 10,
+    "province_name": "kepulauan riau"
+  },
+  {
+    "id": 1782,
+    "name": "Bunguran Timur Laut",
+    "city_id": 145,
+    "city_name": "kab. natuna",
+    "province_id": 10,
+    "province_name": "kepulauan riau"
+  },
+  {
+    "id": 1778,
+    "name": "Bunguran Utara",
+    "city_id": 145,
+    "city_name": "kab. natuna",
+    "province_id": 10,
+    "province_name": "kepulauan riau"
+  },
+  {
+    "id": 1774,
+    "name": "Midai",
+    "city_id": 145,
+    "city_name": "kab. natuna",
+    "province_id": 10,
+    "province_name": "kepulauan riau"
+  },
+  {
+    "id": 1780,
+    "name": "Pulau Laut",
+    "city_id": 145,
+    "city_name": "kab. natuna",
+    "province_id": 10,
+    "province_name": "kepulauan riau"
+  },
+  {
+    "id": 1781,
+    "name": "Pulau Tiga",
+    "city_id": 145,
+    "city_name": "kab. natuna",
+    "province_id": 10,
+    "province_name": "kepulauan riau"
+  },
+  {
+    "id": 1776,
+    "name": "Serasan",
+    "city_id": 145,
+    "city_name": "kab. natuna",
+    "province_id": 10,
+    "province_name": "kepulauan riau"
+  },
+  {
+    "id": 1785,
+    "name": "Serasan Timur",
+    "city_id": 145,
+    "city_name": "kab. natuna",
+    "province_id": 10,
+    "province_name": "kepulauan riau"
+  },
+  {
+    "id": 1779,
+    "name": "Subi",
+    "city_id": 145,
+    "city_name": "kab. natuna",
+    "province_id": 10,
+    "province_name": "kepulauan riau"
+  }
+]

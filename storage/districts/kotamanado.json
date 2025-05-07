@@ -1,0 +1,82 @@
+[
+  {
+    "id": 5105,
+    "name": "Bunaken",
+    "city_id": 369,
+    "city_name": "kota manado",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5113,
+    "name": "Malalayang",
+    "city_id": 369,
+    "city_name": "kota manado",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5112,
+    "name": "Mapanget",
+    "city_id": 369,
+    "city_name": "kota manado",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 6888,
+    "name": "Paal Dua",
+    "city_id": 369,
+    "city_name": "kota manado",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5110,
+    "name": "Sario",
+    "city_id": 369,
+    "city_name": "kota manado",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5107,
+    "name": "Singkil",
+    "city_id": 369,
+    "city_name": "kota manado",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5109,
+    "name": "Tikala",
+    "city_id": 369,
+    "city_name": "kota manado",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5106,
+    "name": "Tuminiting",
+    "city_id": 369,
+    "city_name": "kota manado",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5111,
+    "name": "Wanea",
+    "city_id": 369,
+    "city_name": "kota manado",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5108,
+    "name": "Wenang",
+    "city_id": 369,
+    "city_name": "kota manado",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  }
+]

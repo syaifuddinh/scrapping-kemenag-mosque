@@ -1,0 +1,82 @@
+[
+  {
+    "id": 2631,
+    "name": "Bungursari",
+    "city_id": 188,
+    "city_name": "kota tasikmalaya",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2628,
+    "name": "Cibeureum",
+    "city_id": 188,
+    "city_name": "kota tasikmalaya",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2623,
+    "name": "Cihideung",
+    "city_id": 188,
+    "city_name": "kota tasikmalaya",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2624,
+    "name": "Cipedes",
+    "city_id": 188,
+    "city_name": "kota tasikmalaya",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2626,
+    "name": "Indihiang",
+    "city_id": 188,
+    "city_name": "kota tasikmalaya",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2627,
+    "name": "Kawalu",
+    "city_id": 188,
+    "city_name": "kota tasikmalaya",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2630,
+    "name": "Mangkubumi",
+    "city_id": 188,
+    "city_name": "kota tasikmalaya",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2632,
+    "name": "Purbaratu",
+    "city_id": 188,
+    "city_name": "kota tasikmalaya",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2629,
+    "name": "Tamansari",
+    "city_id": 188,
+    "city_name": "kota tasikmalaya",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2625,
+    "name": "Tawang",
+    "city_id": 188,
+    "city_name": "kota tasikmalaya",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  }
+]

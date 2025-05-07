@@ -1,0 +1,58 @@
+[
+  {
+    "id": 6840,
+    "name": "Buruway",
+    "city_id": 503,
+    "city_name": "kab. kaimana",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6839,
+    "name": "Kaimana",
+    "city_id": 503,
+    "city_name": "kab. kaimana",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6843,
+    "name": "Kambrau",
+    "city_id": 503,
+    "city_name": "kab. kaimana",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6841,
+    "name": "Teluk Arguni (Atas)",
+    "city_id": 503,
+    "city_name": "kab. kaimana",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6844,
+    "name": "Teluk Arguni Bawah",
+    "city_id": 503,
+    "city_name": "kab. kaimana",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6842,
+    "name": "Teluk Etna",
+    "city_id": 503,
+    "city_name": "kab. kaimana",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6845,
+    "name": "Yamor",
+    "city_id": 503,
+    "city_name": "kab. kaimana",
+    "province_id": 33,
+    "province_name": "papua barat"
+  }
+]

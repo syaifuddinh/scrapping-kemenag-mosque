@@ -1,0 +1,98 @@
+[
+  {
+    "id": 4019,
+    "name": "Batukliang",
+    "city_id": 278,
+    "city_name": "kab. lombok tengah",
+    "province_id": 18,
+    "province_name": "nusa tenggara barat"
+  },
+  {
+    "id": 4028,
+    "name": "Batukliang Utara",
+    "city_id": 278,
+    "city_name": "kab. lombok tengah",
+    "province_id": 18,
+    "province_name": "nusa tenggara barat"
+  },
+  {
+    "id": 4023,
+    "name": "Janapria",
+    "city_id": 278,
+    "city_name": "kab. lombok tengah",
+    "province_id": 18,
+    "province_name": "nusa tenggara barat"
+  },
+  {
+    "id": 4018,
+    "name": "Jonggat",
+    "city_id": 278,
+    "city_name": "kab. lombok tengah",
+    "province_id": 18,
+    "province_name": "nusa tenggara barat"
+  },
+  {
+    "id": 4025,
+    "name": "Kopang",
+    "city_id": 278,
+    "city_name": "kab. lombok tengah",
+    "province_id": 18,
+    "province_name": "nusa tenggara barat"
+  },
+  {
+    "id": 4017,
+    "name": "Praya",
+    "city_id": 278,
+    "city_name": "kab. lombok tengah",
+    "province_id": 18,
+    "province_name": "nusa tenggara barat"
+  },
+  {
+    "id": 4021,
+    "name": "Praya Barat",
+    "city_id": 278,
+    "city_name": "kab. lombok tengah",
+    "province_id": 18,
+    "province_name": "nusa tenggara barat"
+  },
+  {
+    "id": 4027,
+    "name": "Praya Barat Daya",
+    "city_id": 278,
+    "city_name": "kab. lombok tengah",
+    "province_id": 18,
+    "province_name": "nusa tenggara barat"
+  },
+  {
+    "id": 4026,
+    "name": "Praya Tengah",
+    "city_id": 278,
+    "city_name": "kab. lombok tengah",
+    "province_id": 18,
+    "province_name": "nusa tenggara barat"
+  },
+  {
+    "id": 4022,
+    "name": "Praya Timur",
+    "city_id": 278,
+    "city_name": "kab. lombok tengah",
+    "province_id": 18,
+    "province_name": "nusa tenggara barat"
+  },
+  {
+    "id": 4024,
+    "name": "Pringgarata",
+    "city_id": 278,
+    "city_name": "kab. lombok tengah",
+    "province_id": 18,
+    "province_name": "nusa tenggara barat"
+  },
+  {
+    "id": 4020,
+    "name": "Pujut",
+    "city_id": 278,
+    "city_name": "kab. lombok tengah",
+    "province_id": 18,
+    "province_name": "nusa tenggara barat"
+  }
+]

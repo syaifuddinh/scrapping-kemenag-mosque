@@ -1,0 +1,140 @@
+[
+  {
+    "id": 1,
+    "name": "Kab. Aceh Selatan",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 2,
+    "name": "Kab. Aceh Tenggara",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 3,
+    "name": "Kab. Aceh Timur",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 4,
+    "name": "Kab. Aceh Tengah",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 5,
+    "name": "Kab. Aceh Barat",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 6,
+    "name": "Kab. Aceh Besar",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 7,
+    "name": "Kab. Pidie",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 8,
+    "name": "Kab. Aceh Utara",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 9,
+    "name": "Kab. Simeulue",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 10,
+    "name": "Kab. Aceh Singkil",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 11,
+    "name": "Kab. Bireuen",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 12,
+    "name": "Kab. Aceh Barat Daya",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 13,
+    "name": "Kab. Gayo Lues",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 14,
+    "name": "Kab. Aceh Jaya",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 15,
+    "name": "Kab. Nagan Raya",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 16,
+    "name": "Kab. Aceh Tamiang",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 17,
+    "name": "Kab. Bener Meriah",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 18,
+    "name": "Kab. Pidie Jaya",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 19,
+    "name": "Kota Banda Aceh",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 20,
+    "name": "Kota Sabang",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 21,
+    "name": "Kota Lhokseumawe",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 22,
+    "name": "Kota Langsa",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 23,
+    "name": "Kota Subulussalam",
+    "province_id": 1,
+    "province_name": "aceh"
+  }
+]

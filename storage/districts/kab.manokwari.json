@@ -1,0 +1,74 @@
+[
+  {
+    "id": 6739,
+    "name": "Manokwari Barat",
+    "city_id": 497,
+    "city_name": "kab. manokwari",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6742,
+    "name": "Manokwari Selatan",
+    "city_id": 497,
+    "city_name": "kab. manokwari",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6740,
+    "name": "Manokwari Timur",
+    "city_id": 497,
+    "city_name": "kab. manokwari",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6741,
+    "name": "Manokwari Utara",
+    "city_id": 497,
+    "city_name": "kab. manokwari",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6734,
+    "name": "Masni",
+    "city_id": 497,
+    "city_name": "kab. manokwari",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6733,
+    "name": "Prafi",
+    "city_id": 497,
+    "city_name": "kab. manokwari",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6748,
+    "name": "Sidey",
+    "city_id": 497,
+    "city_name": "kab. manokwari",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6744,
+    "name": "Tanah Rubuh",
+    "city_id": 497,
+    "city_name": "kab. manokwari",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6732,
+    "name": "Warmare",
+    "city_id": 497,
+    "city_name": "kab. manokwari",
+    "province_id": 33,
+    "province_name": "papua barat"
+  }
+]

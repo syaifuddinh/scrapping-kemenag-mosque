@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1497,
+    "name": "Gading Cempaka",
+    "city_id": 121,
+    "city_name": "kota bengkulu",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1500,
+    "name": "Kampung Melayu",
+    "city_id": 121,
+    "city_name": "kota bengkulu",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1499,
+    "name": "Muara Bangka Hulu",
+    "city_id": 121,
+    "city_name": "kota bengkulu",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1501,
+    "name": "Ratu Agung",
+    "city_id": 121,
+    "city_name": "kota bengkulu",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1502,
+    "name": "Ratu Samban",
+    "city_id": 121,
+    "city_name": "kota bengkulu",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1496,
+    "name": "Selebar",
+    "city_id": 121,
+    "city_name": "kota bengkulu",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1504,
+    "name": "Singaran Pati",
+    "city_id": 121,
+    "city_name": "kota bengkulu",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1503,
+    "name": "Sungai Serut",
+    "city_id": 121,
+    "city_name": "kota bengkulu",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1498,
+    "name": "Teluk Segara",
+    "city_id": 121,
+    "city_name": "kota bengkulu",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  }
+]

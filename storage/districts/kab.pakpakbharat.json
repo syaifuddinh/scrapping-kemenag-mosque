@@ -1,0 +1,66 @@
+[
+  {
+    "id": 539,
+    "name": "Kerajaan",
+    "city_id": 38,
+    "city_name": "kab. pakpak bharat",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 543,
+    "name": "Pagindar",
+    "city_id": 38,
+    "city_name": "kab. pakpak bharat",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 542,
+    "name": "Pergetteng Getteng Sengkut",
+    "city_id": 38,
+    "city_name": "kab. pakpak bharat",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 540,
+    "name": "Salak",
+    "city_id": 38,
+    "city_name": "kab. pakpak bharat",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 545,
+    "name": "Siempat Rube",
+    "city_id": 38,
+    "city_name": "kab. pakpak bharat",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 538,
+    "name": "Sitelu Tali Urang Jehe",
+    "city_id": 38,
+    "city_name": "kab. pakpak bharat",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 541,
+    "name": "Sitelu Tali Urang Julu",
+    "city_id": 38,
+    "city_name": "kab. pakpak bharat",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 544,
+    "name": "Tinada",
+    "city_id": 38,
+    "city_name": "kab. pakpak bharat",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  }
+]

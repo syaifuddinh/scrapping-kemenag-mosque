@@ -1,0 +1,186 @@
+[
+  {
+    "id": 108,
+    "name": "Batee",
+    "city_id": 7,
+    "city_name": "kab. pidie",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 109,
+    "name": "Delima",
+    "city_id": 7,
+    "city_name": "kab. pidie",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 111,
+    "name": "Geulumpang Tiga",
+    "city_id": 7,
+    "city_name": "kab. pidie",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 110,
+    "name": "Geumpang",
+    "city_id": 7,
+    "city_name": "kab. pidie",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 129,
+    "name": "Glumpang Baro",
+    "city_id": 7,
+    "city_name": "kab. pidie",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 127,
+    "name": "Grong-grong",
+    "city_id": 7,
+    "city_name": "kab. pidie",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 112,
+    "name": "Indra Jaya",
+    "city_id": 7,
+    "city_name": "kab. pidie",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 113,
+    "name": "Kembang Tanjong",
+    "city_id": 7,
+    "city_name": "kab. pidie",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 125,
+    "name": "Keumala",
+    "city_id": 7,
+    "city_name": "kab. pidie",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 114,
+    "name": "Kota Sigli",
+    "city_id": 7,
+    "city_name": "kab. pidie",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 128,
+    "name": "Mane",
+    "city_id": 7,
+    "city_name": "kab. pidie",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 115,
+    "name": "Mila",
+    "city_id": 7,
+    "city_name": "kab. pidie",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 116,
+    "name": "Muara Tiga",
+    "city_id": 7,
+    "city_name": "kab. pidie",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 117,
+    "name": "Mutiara",
+    "city_id": 7,
+    "city_name": "kab. pidie",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 126,
+    "name": "Mutiara Timur",
+    "city_id": 7,
+    "city_name": "kab. pidie",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 118,
+    "name": "Padang Tiji",
+    "city_id": 7,
+    "city_name": "kab. pidie",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 119,
+    "name": "Peukan Baro",
+    "city_id": 7,
+    "city_name": "kab. pidie",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 120,
+    "name": "Pidie",
+    "city_id": 7,
+    "city_name": "kab. pidie",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 121,
+    "name": "Sakti",
+    "city_id": 7,
+    "city_name": "kab. pidie",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 122,
+    "name": "Simpang Tiga",
+    "city_id": 7,
+    "city_name": "kab. pidie",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 123,
+    "name": "Tangse",
+    "city_id": 7,
+    "city_name": "kab. pidie",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 124,
+    "name": "Tiro/Truseb",
+    "city_id": 7,
+    "city_name": "kab. pidie",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 130,
+    "name": "Titeue",
+    "city_id": 7,
+    "city_name": "kab. pidie",
+    "province_id": 1,
+    "province_name": "aceh"
+  }
+]

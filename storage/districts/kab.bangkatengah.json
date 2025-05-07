@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1731,
+    "name": "Koba",
+    "city_id": 139,
+    "city_name": "kab. bangka tengah",
+    "province_id": 9,
+    "province_name": "kep. bangka belitung"
+  },
+  {
+    "id": 1736,
+    "name": "Lubuk Besar",
+    "city_id": 139,
+    "city_name": "kab. bangka tengah",
+    "province_id": 9,
+    "province_name": "kep. bangka belitung"
+  },
+  {
+    "id": 1735,
+    "name": "Namang",
+    "city_id": 139,
+    "city_name": "kab. bangka tengah",
+    "province_id": 9,
+    "province_name": "kep. bangka belitung"
+  },
+  {
+    "id": 1732,
+    "name": "Pangkalan Baru",
+    "city_id": 139,
+    "city_name": "kab. bangka tengah",
+    "province_id": 9,
+    "province_name": "kep. bangka belitung"
+  },
+  {
+    "id": 1734,
+    "name": "Simpang Katis",
+    "city_id": 139,
+    "city_name": "kab. bangka tengah",
+    "province_id": 9,
+    "province_name": "kep. bangka belitung"
+  },
+  {
+    "id": 1733,
+    "name": "Sungai Selan",
+    "city_id": 139,
+    "city_name": "kab. bangka tengah",
+    "province_id": 9,
+    "province_name": "kep. bangka belitung"
+  }
+]

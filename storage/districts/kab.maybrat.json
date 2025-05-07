@@ -1,0 +1,194 @@
+[
+  {
+    "id": 6858,
+    "name": "Aifat",
+    "city_id": 505,
+    "city_name": "kab. maybrat",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6861,
+    "name": "Aifat Selatan",
+    "city_id": 505,
+    "city_name": "kab. maybrat",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6860,
+    "name": "Aifat Timur",
+    "city_id": 505,
+    "city_name": "kab. maybrat",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6870,
+    "name": "Aifat Timur Jauh",
+    "city_id": 505,
+    "city_name": "kab. maybrat",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6871,
+    "name": "Aifat Timur Selatan",
+    "city_id": 505,
+    "city_name": "kab. maybrat",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6869,
+    "name": "Aifat Timur Tengah",
+    "city_id": 505,
+    "city_name": "kab. maybrat",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6859,
+    "name": "Aifat Utara",
+    "city_id": 505,
+    "city_name": "kab. maybrat",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6863,
+    "name": "Aitinyo",
+    "city_id": 505,
+    "city_name": "kab. maybrat",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6862,
+    "name": "Aitinyo Barat",
+    "city_id": 505,
+    "city_name": "kab. maybrat",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6880,
+    "name": "Aitinyo Raya",
+    "city_id": 505,
+    "city_name": "kab. maybrat",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6879,
+    "name": "Aitinyo Tengah",
+    "city_id": 505,
+    "city_name": "kab. maybrat",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6864,
+    "name": "Aitinyo Utara",
+    "city_id": 505,
+    "city_name": "kab. maybrat",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6865,
+    "name": "Ayamaru",
+    "city_id": 505,
+    "city_name": "kab. maybrat",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6878,
+    "name": "Ayamaru Barat",
+    "city_id": 505,
+    "city_name": "kab. maybrat",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6873,
+    "name": "Ayamaru Jaya",
+    "city_id": 505,
+    "city_name": "kab. maybrat",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6872,
+    "name": "Ayamaru Selatan",
+    "city_id": 505,
+    "city_name": "kab. maybrat",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6874,
+    "name": "Ayamaru Selatan Jaya",
+    "city_id": 505,
+    "city_name": "kab. maybrat",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6877,
+    "name": "Ayamaru Tengah",
+    "city_id": 505,
+    "city_name": "kab. maybrat",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6867,
+    "name": "Ayamaru Timur",
+    "city_id": 505,
+    "city_name": "kab. maybrat",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6875,
+    "name": "Ayamaru Timur Selatan",
+    "city_id": 505,
+    "city_name": "kab. maybrat",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6866,
+    "name": "Ayamaru Utara",
+    "city_id": 505,
+    "city_name": "kab. maybrat",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6876,
+    "name": "Ayamaru Utara Timur",
+    "city_id": 505,
+    "city_name": "kab. maybrat",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6868,
+    "name": "Mare",
+    "city_id": 505,
+    "city_name": "kab. maybrat",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6881,
+    "name": "Mare Selatan",
+    "city_id": 505,
+    "city_name": "kab. maybrat",
+    "province_id": 33,
+    "province_name": "papua barat"
+  }
+]

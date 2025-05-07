@@ -1,0 +1,34 @@
+[
+  {
+    "id": 4005,
+    "name": "Denpasar Barat",
+    "city_id": 276,
+    "city_name": "kota denpasar",
+    "province_id": 17,
+    "province_name": "bali"
+  },
+  {
+    "id": 4003,
+    "name": "Denpasar Selatan",
+    "city_id": 276,
+    "city_name": "kota denpasar",
+    "province_id": 17,
+    "province_name": "bali"
+  },
+  {
+    "id": 4004,
+    "name": "Denpasar Timur",
+    "city_id": 276,
+    "city_name": "kota denpasar",
+    "province_id": 17,
+    "province_name": "bali"
+  },
+  {
+    "id": 4006,
+    "name": "Denpasar Utara",
+    "city_id": 276,
+    "city_name": "kota denpasar",
+    "province_id": 17,
+    "province_name": "bali"
+  }
+]

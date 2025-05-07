@@ -1,0 +1,66 @@
+[
+  {
+    "id": 616,
+    "name": "Aek Kuo",
+    "city_id": 46,
+    "city_name": "kab. labuhanbatu utara",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 619,
+    "name": "Aek Natas",
+    "city_id": 46,
+    "city_name": "kab. labuhanbatu utara",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 615,
+    "name": "Kualuh Hilir",
+    "city_id": 46,
+    "city_name": "kab. labuhanbatu utara",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 613,
+    "name": "Kualuh Hulu",
+    "city_id": 46,
+    "city_name": "kab. labuhanbatu utara",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 614,
+    "name": "Kualuh Leidong",
+    "city_id": 46,
+    "city_name": "kab. labuhanbatu utara",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 620,
+    "name": "Kualuh Selatan",
+    "city_id": 46,
+    "city_name": "kab. labuhanbatu utara",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 617,
+    "name": "Marbau",
+    "city_id": 46,
+    "city_name": "kab. labuhanbatu utara",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 618,
+    "name": "Na IX - X",
+    "city_id": 46,
+    "city_name": "kab. labuhanbatu utara",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  }
+]

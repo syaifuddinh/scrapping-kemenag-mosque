@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3997,
+    "name": "Banjar",
+    "city_id": 275,
+    "city_name": "kab. buleleng",
+    "province_id": 17,
+    "province_name": "bali"
+  },
+  {
+    "id": 3999,
+    "name": "Buleleng",
+    "city_id": 275,
+    "city_name": "kab. buleleng",
+    "province_id": 17,
+    "province_name": "bali"
+  },
+  {
+    "id": 3996,
+    "name": "Busung biu",
+    "city_id": 275,
+    "city_name": "kab. buleleng",
+    "province_id": 17,
+    "province_name": "bali"
+  },
+  {
+    "id": 3994,
+    "name": "Gerokgak",
+    "city_id": 275,
+    "city_name": "kab. buleleng",
+    "province_id": 17,
+    "province_name": "bali"
+  },
+  {
+    "id": 4001,
+    "name": "Kubutambahan",
+    "city_id": 275,
+    "city_name": "kab. buleleng",
+    "province_id": 17,
+    "province_name": "bali"
+  },
+  {
+    "id": 4000,
+    "name": "Sawan",
+    "city_id": 275,
+    "city_name": "kab. buleleng",
+    "province_id": 17,
+    "province_name": "bali"
+  },
+  {
+    "id": 3995,
+    "name": "Seririt",
+    "city_id": 275,
+    "city_name": "kab. buleleng",
+    "province_id": 17,
+    "province_name": "bali"
+  },
+  {
+    "id": 3998,
+    "name": "Sukasada",
+    "city_id": 275,
+    "city_name": "kab. buleleng",
+    "province_id": 17,
+    "province_name": "bali"
+  },
+  {
+    "id": 4002,
+    "name": "Tejakula",
+    "city_id": 275,
+    "city_name": "kab. buleleng",
+    "province_id": 17,
+    "province_name": "bali"
+  }
+]

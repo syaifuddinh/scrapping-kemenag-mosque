@@ -1,0 +1,104 @@
+[
+  {
+    "id": 98,
+    "name": "Kab. Ogan Komering Ulu",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 99,
+    "name": "Kab. Ogan Komering Ilir",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 100,
+    "name": "Kab. Muara Enim",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 101,
+    "name": "Kab. Lahat",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 102,
+    "name": "Kab. Musi Rawas",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 103,
+    "name": "Kab. Musi Banyuasin",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 104,
+    "name": "Kab. Banyuasin",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 105,
+    "name": "Kab. Oku Timur",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 106,
+    "name": "Kab. Oku Selatan",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 107,
+    "name": "Kab. Ogan Ilir",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 108,
+    "name": "Kota Palembang",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 109,
+    "name": "Kota Pagar Alam",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 110,
+    "name": "Kota Lubuk Linggau",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 111,
+    "name": "Kota Prabumulih",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 494,
+    "name": "Kab. Empat Lawang",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 519,
+    "name": "Kab. Penukal Abab Lematang Ilir",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 520,
+    "name": "Kab. Musi Rawas Utara",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  }
+]

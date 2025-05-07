@@ -1,0 +1,122 @@
+[
+  {
+    "id": 332,
+    "name": "Aek Bilah",
+    "city_id": 26,
+    "city_name": "kab. tapanuli selatan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 322,
+    "name": "Angkola Barat",
+    "city_id": 26,
+    "city_name": "kab. tapanuli selatan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 7302,
+    "name": "Angkola Muara Tais",
+    "city_id": 26,
+    "city_name": "kab. tapanuli selatan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 335,
+    "name": "Angkola Sangkunur",
+    "city_id": 26,
+    "city_name": "kab. tapanuli selatan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 327,
+    "name": "Angkola Selatan",
+    "city_id": 26,
+    "city_name": "kab. tapanuli selatan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 324,
+    "name": "Angkola Timur",
+    "city_id": 26,
+    "city_name": "kab. tapanuli selatan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 329,
+    "name": "Arse",
+    "city_id": 26,
+    "city_name": "kab. tapanuli selatan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 328,
+    "name": "Batang Angkola",
+    "city_id": 26,
+    "city_name": "kab. tapanuli selatan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 323,
+    "name": "Batang Toru",
+    "city_id": 26,
+    "city_name": "kab. tapanuli selatan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 330,
+    "name": "Marancar",
+    "city_id": 26,
+    "city_name": "kab. tapanuli selatan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 333,
+    "name": "Muara Batang Toru",
+    "city_id": 26,
+    "city_name": "kab. tapanuli selatan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 326,
+    "name": "Saipar Dolok Hole",
+    "city_id": 26,
+    "city_name": "kab. tapanuli selatan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 331,
+    "name": "Sayur Matinggi",
+    "city_id": 26,
+    "city_name": "kab. tapanuli selatan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 325,
+    "name": "Sipirok",
+    "city_id": 26,
+    "city_name": "kab. tapanuli selatan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 334,
+    "name": "Tano Tombangan Angkola",
+    "city_id": 26,
+    "city_name": "kab. tapanuli selatan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  }
+]

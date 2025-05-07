@@ -1,0 +1,18 @@
+[
+  {
+    "id": 272,
+    "name": "Sukajaya",
+    "city_id": 20,
+    "city_name": "kota sabang",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 271,
+    "name": "Sukakarya",
+    "city_id": 20,
+    "city_name": "kota sabang",
+    "province_id": 1,
+    "province_name": "aceh"
+  }
+]

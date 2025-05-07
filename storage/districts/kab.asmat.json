@@ -1,0 +1,58 @@
+[
+  {
+    "id": 6415,
+    "name": "Agats",
+    "city_id": 468,
+    "city_name": "kab. asmat",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6418,
+    "name": "Akat",
+    "city_id": 468,
+    "city_name": "kab. asmat",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6416,
+    "name": "Atsj",
+    "city_id": 468,
+    "city_name": "kab. asmat",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6419,
+    "name": "Fayit",
+    "city_id": 468,
+    "city_name": "kab. asmat",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6420,
+    "name": "Pantai Kasuari",
+    "city_id": 468,
+    "city_name": "kab. asmat",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6417,
+    "name": "Sawa Erma",
+    "city_id": 468,
+    "city_name": "kab. asmat",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6421,
+    "name": "Suator",
+    "city_id": 468,
+    "city_name": "kab. asmat",
+    "province_id": 32,
+    "province_name": "papua"
+  }
+]

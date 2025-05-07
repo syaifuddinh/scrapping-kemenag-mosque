@@ -1,0 +1,138 @@
+[
+  {
+    "id": 4229,
+    "name": "Alor Barat Daya",
+    "city_id": 291,
+    "city_name": "kab. alor",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4228,
+    "name": "Alor Barat Laut",
+    "city_id": 291,
+    "city_name": "kab. alor",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4230,
+    "name": "Alor Selatan",
+    "city_id": 291,
+    "city_name": "kab. alor",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4233,
+    "name": "Alor Tengah Utara",
+    "city_id": 291,
+    "city_name": "kab. alor",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4231,
+    "name": "Alor Timur",
+    "city_id": 291,
+    "city_name": "kab. alor",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4234,
+    "name": "Alor Timur Laut",
+    "city_id": 291,
+    "city_name": "kab. alor",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4236,
+    "name": "Kabola",
+    "city_id": 291,
+    "city_name": "kab. alor",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4241,
+    "name": "Lembur",
+    "city_id": 291,
+    "city_name": "kab. alor",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4238,
+    "name": "Mataru",
+    "city_id": 291,
+    "city_name": "kab. alor",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4232,
+    "name": "Pantar",
+    "city_id": 291,
+    "city_name": "kab. alor",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4235,
+    "name": "Pantar Barat",
+    "city_id": 291,
+    "city_name": "kab. alor",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4243,
+    "name": "Pantar Barat Laut",
+    "city_id": 291,
+    "city_name": "kab. alor",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4242,
+    "name": "Pantar Tengah",
+    "city_id": 291,
+    "city_name": "kab. alor",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4240,
+    "name": "Pantar Timur",
+    "city_id": 291,
+    "city_name": "kab. alor",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4237,
+    "name": "Pulau Pura",
+    "city_id": 291,
+    "city_name": "kab. alor",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4239,
+    "name": "Pureman",
+    "city_id": 291,
+    "city_name": "kab. alor",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4227,
+    "name": "Teluk Mutiara",
+    "city_id": 291,
+    "city_name": "kab. alor",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  }
+]

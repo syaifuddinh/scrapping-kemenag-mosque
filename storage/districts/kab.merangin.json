@@ -1,0 +1,194 @@
+[
+  {
+    "id": 1044,
+    "name": "Bangko",
+    "city_id": 88,
+    "city_name": "kab. merangin",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1052,
+    "name": "Bangko Barat",
+    "city_id": 88,
+    "city_name": "kab. merangin",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1054,
+    "name": "Batang Masumai",
+    "city_id": 88,
+    "city_name": "kab. merangin",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1043,
+    "name": "Jangkat",
+    "city_id": 88,
+    "city_name": "kab. merangin",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1051,
+    "name": "Lembah Masurai",
+    "city_id": 88,
+    "city_name": "kab. merangin",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1063,
+    "name": "Margo Tabir",
+    "city_id": 88,
+    "city_name": "kab. merangin",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1045,
+    "name": "Muara Siau",
+    "city_id": 88,
+    "city_name": "kab. merangin",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1053,
+    "name": "Nalo Tantan",
+    "city_id": 88,
+    "city_name": "kab. merangin",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1048,
+    "name": "Pamenang",
+    "city_id": 88,
+    "city_name": "kab. merangin",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1055,
+    "name": "Pamenang Barat",
+    "city_id": 88,
+    "city_name": "kab. merangin",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1062,
+    "name": "Pamenang Selatan",
+    "city_id": 88,
+    "city_name": "kab. merangin",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1059,
+    "name": "Pangkalan Jambu",
+    "city_id": 88,
+    "city_name": "kab. merangin",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1061,
+    "name": "Renah Pamenang",
+    "city_id": 88,
+    "city_name": "kab. merangin",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1058,
+    "name": "Renah Pembarap",
+    "city_id": 88,
+    "city_name": "kab. merangin",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1046,
+    "name": "Sungai Manau",
+    "city_id": 88,
+    "city_name": "kab. merangin",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1060,
+    "name": "Sungai Tenang",
+    "city_id": 88,
+    "city_name": "kab. merangin",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1047,
+    "name": "Tabir",
+    "city_id": 88,
+    "city_name": "kab. merangin",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1065,
+    "name": "Tabir Barat",
+    "city_id": 88,
+    "city_name": "kab. merangin",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1056,
+    "name": "Tabir Ilir",
+    "city_id": 88,
+    "city_name": "kab. merangin",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1064,
+    "name": "Tabir Lintas",
+    "city_id": 88,
+    "city_name": "kab. merangin",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1050,
+    "name": "Tabir Selatan",
+    "city_id": 88,
+    "city_name": "kab. merangin",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1057,
+    "name": "Tabir Timur",
+    "city_id": 88,
+    "city_name": "kab. merangin",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1049,
+    "name": "Tabir Ulu",
+    "city_id": 88,
+    "city_name": "kab. merangin",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1066,
+    "name": "Tiang Pumpung",
+    "city_id": 88,
+    "city_name": "kab. merangin",
+    "province_id": 5,
+    "province_name": "jambi"
+  }
+]

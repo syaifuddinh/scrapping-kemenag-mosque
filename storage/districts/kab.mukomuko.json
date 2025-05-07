@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1464,
+    "name": "Air Dikit",
+    "city_id": 117,
+    "city_name": "kab. muko muko",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1463,
+    "name": "Air Majunto",
+    "city_id": 117,
+    "city_name": "kab. muko muko",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1457,
+    "name": "Air Rami",
+    "city_id": 117,
+    "city_name": "kab. muko muko",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1455,
+    "name": "Ipuh",
+    "city_id": 117,
+    "city_name": "kab. muko muko",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1452,
+    "name": "Kota Mukomuko",
+    "city_id": 117,
+    "city_name": "kab. muko muko",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1451,
+    "name": "Lubuk Pinang",
+    "city_id": 117,
+    "city_name": "kab. muko muko",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1456,
+    "name": "Malin Deman",
+    "city_id": 117,
+    "city_name": "kab. muko muko",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1460,
+    "name": "Penarik",
+    "city_id": 117,
+    "city_name": "kab. muko muko",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1454,
+    "name": "Pondok Suguh",
+    "city_id": 117,
+    "city_name": "kab. muko muko",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1459,
+    "name": "Selagan Raya",
+    "city_id": 117,
+    "city_name": "kab. muko muko",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1465,
+    "name": "Sungai Rumbai",
+    "city_id": 117,
+    "city_name": "kab. muko muko",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1458,
+    "name": "Teramang Jaya",
+    "city_id": 117,
+    "city_name": "kab. muko muko",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1453,
+    "name": "Teras Terunjam",
+    "city_id": 117,
+    "city_name": "kab. muko muko",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1462,
+    "name": "V Koto",
+    "city_id": 117,
+    "city_name": "kab. muko muko",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1461,
+    "name": "XIV Koto",
+    "city_id": 117,
+    "city_name": "kab. muko muko",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  }
+]

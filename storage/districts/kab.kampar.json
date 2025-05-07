@@ -1,0 +1,170 @@
+[
+  {
+    "id": 877,
+    "name": "Bangkinang",
+    "city_id": 76,
+    "city_name": "kab. kampar",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 881,
+    "name": "Bangkinang Barat",
+    "city_id": 76,
+    "city_name": "kab. kampar",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 891,
+    "name": "Bangkinang Seberang",
+    "city_id": 76,
+    "city_name": "kab. kampar",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 896,
+    "name": "Gunung Sahilan",
+    "city_id": 76,
+    "city_name": "kab. kampar",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 878,
+    "name": "Kampar",
+    "city_id": 76,
+    "city_name": "kab. kampar",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 883,
+    "name": "Kampar Kiri",
+    "city_id": 76,
+    "city_name": "kab. kampar",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 884,
+    "name": "Kampar Kiri Hilir",
+    "city_id": 76,
+    "city_name": "kab. kampar",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 885,
+    "name": "Kampar Kiri Hulu",
+    "city_id": 76,
+    "city_name": "kab. kampar",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 895,
+    "name": "Kampar Kiri Tengah",
+    "city_id": 76,
+    "city_name": "kab. kampar",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 893,
+    "name": "Kampar Timur",
+    "city_id": 76,
+    "city_name": "kab. kampar",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 894,
+    "name": "Kampar Utara",
+    "city_id": 76,
+    "city_name": "kab. kampar",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 897,
+    "name": "Koto Kampar Hulu",
+    "city_id": 76,
+    "city_name": "kab. kampar",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 892,
+    "name": "Perhentian Raja",
+    "city_id": 76,
+    "city_name": "kab. kampar",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 890,
+    "name": "Rumbio Jaya",
+    "city_id": 76,
+    "city_name": "kab. kampar",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 889,
+    "name": "Salo",
+    "city_id": 76,
+    "city_name": "kab. kampar",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 882,
+    "name": "Siak Hulu",
+    "city_id": 76,
+    "city_name": "kab. kampar",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 879,
+    "name": "Tambang",
+    "city_id": 76,
+    "city_name": "kab. kampar",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 886,
+    "name": "Tapung",
+    "city_id": 76,
+    "city_name": "kab. kampar",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 887,
+    "name": "Tapung Hilir",
+    "city_id": 76,
+    "city_name": "kab. kampar",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 888,
+    "name": "Tapung Hulu",
+    "city_id": 76,
+    "city_name": "kab. kampar",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 880,
+    "name": "XIII Koto Kampar",
+    "city_id": 76,
+    "city_name": "kab. kampar",
+    "province_id": 4,
+    "province_name": "riau"
+  }
+]

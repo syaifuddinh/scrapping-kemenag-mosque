@@ -1,0 +1,82 @@
+[
+  {
+    "id": 5185,
+    "name": "Baolan",
+    "city_id": 376,
+    "city_name": "kab. toli toli",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 5182,
+    "name": "Basidondo",
+    "city_id": 376,
+    "city_name": "kab. toli toli",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 5188,
+    "name": "Dako Pemean",
+    "city_id": 376,
+    "city_name": "kab. toli toli",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 5179,
+    "name": "Dampal Selatan",
+    "city_id": 376,
+    "city_name": "kab. toli toli",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 5180,
+    "name": "Dampal Utara",
+    "city_id": 376,
+    "city_name": "kab. toli toli",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 5181,
+    "name": "Dondo",
+    "city_id": 376,
+    "city_name": "kab. toli toli",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 5186,
+    "name": "Galang",
+    "city_id": 376,
+    "city_name": "kab. toli toli",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 5184,
+    "name": "Lampasio",
+    "city_id": 376,
+    "city_name": "kab. toli toli",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 5183,
+    "name": "Ogodeide",
+    "city_id": 376,
+    "city_name": "kab. toli toli",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 5187,
+    "name": "Toli-Toli Utara",
+    "city_id": 376,
+    "city_name": "kab. toli toli",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  }
+]

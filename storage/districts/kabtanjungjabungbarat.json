@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1099,
+    "name": "Batang Asam",
+    "city_id": 92,
+    "city_name": "kab tanjung jabung barat",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1096,
+    "name": "Betara",
+    "city_id": 92,
+    "city_name": "kab tanjung jabung barat",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1103,
+    "name": "Bram Itam",
+    "city_id": 92,
+    "city_name": "kab tanjung jabung barat",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1104,
+    "name": "Kuala Betara",
+    "city_id": 92,
+    "city_name": "kab tanjung jabung barat",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1097,
+    "name": "Merlung",
+    "city_id": 92,
+    "city_name": "kab tanjung jabung barat",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1101,
+    "name": "Muara Papalik",
+    "city_id": 92,
+    "city_name": "kab tanjung jabung barat",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1095,
+    "name": "Pengabuan",
+    "city_id": 92,
+    "city_name": "kab tanjung jabung barat",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1100,
+    "name": "Renah Mendaluh",
+    "city_id": 92,
+    "city_name": "kab tanjung jabung barat",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1102,
+    "name": "Seberang Kota",
+    "city_id": 92,
+    "city_name": "kab tanjung jabung barat",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1105,
+    "name": "Senyerang",
+    "city_id": 92,
+    "city_name": "kab tanjung jabung barat",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1098,
+    "name": "Tebing Tinggi",
+    "city_id": 92,
+    "city_name": "kab tanjung jabung barat",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1094,
+    "name": "Tungkal Ilir",
+    "city_id": 92,
+    "city_name": "kab tanjung jabung barat",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1093,
+    "name": "Tungkal Ulu",
+    "city_id": 92,
+    "city_name": "kab tanjung jabung barat",
+    "province_id": 5,
+    "province_name": "jambi"
+  }
+]

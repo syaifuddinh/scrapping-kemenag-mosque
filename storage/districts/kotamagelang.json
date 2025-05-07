@@ -1,0 +1,26 @@
+[
+  {
+    "id": 3174,
+    "name": "Magelang Selatan",
+    "city_id": 219,
+    "city_name": "kota magelang",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 3176,
+    "name": "Magelang Tengah",
+    "city_id": 219,
+    "city_name": "kota magelang",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 3175,
+    "name": "Magelang Utara",
+    "city_id": 219,
+    "city_name": "kota magelang",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  }
+]

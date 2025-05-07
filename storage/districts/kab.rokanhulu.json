@@ -1,0 +1,130 @@
+[
+  {
+    "id": 961,
+    "name": "Bangun Purba",
+    "city_id": 81,
+    "city_name": "kab. rokan hulu",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 964,
+    "name": "Bonai Darussalam",
+    "city_id": 81,
+    "city_name": "kab. rokan hulu",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 963,
+    "name": "Kabun",
+    "city_id": 81,
+    "city_name": "kab. rokan hulu",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 956,
+    "name": "Kepenuhan",
+    "city_id": 81,
+    "city_name": "kab. rokan hulu",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 966,
+    "name": "Kepenuhan Hulu",
+    "city_id": 81,
+    "city_name": "kab. rokan hulu",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 957,
+    "name": "Kunto Darussalam",
+    "city_id": 81,
+    "city_name": "kab. rokan hulu",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 965,
+    "name": "Pagaran Tapah Darussalam",
+    "city_id": 81,
+    "city_name": "kab. rokan hulu",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 967,
+    "name": "Pendalian IV Koto",
+    "city_id": 81,
+    "city_name": "kab. rokan hulu",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 954,
+    "name": "Rambah",
+    "city_id": 81,
+    "city_name": "kab. rokan hulu",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 959,
+    "name": "Rambah Hilir",
+    "city_id": 81,
+    "city_name": "kab. rokan hulu",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 958,
+    "name": "Rambah Samo",
+    "city_id": 81,
+    "city_name": "kab. rokan hulu",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 953,
+    "name": "Rokan IV Koto",
+    "city_id": 81,
+    "city_name": "kab. rokan hulu",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 955,
+    "name": "Tambusai",
+    "city_id": 81,
+    "city_name": "kab. rokan hulu",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 960,
+    "name": "Tambusai Utara",
+    "city_id": 81,
+    "city_name": "kab. rokan hulu",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 962,
+    "name": "Tandun",
+    "city_id": 81,
+    "city_name": "kab. rokan hulu",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 952,
+    "name": "Ujung Batu",
+    "city_id": 81,
+    "city_name": "kab. rokan hulu",
+    "province_id": 4,
+    "province_name": "riau"
+  }
+]

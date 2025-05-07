@@ -1,0 +1,26 @@
+[
+  {
+    "id": 7316,
+    "name": "Kranggan",
+    "city_id": 264,
+    "city_name": "kota mojokerto",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3912,
+    "name": "Magersari",
+    "city_id": 264,
+    "city_name": "kota mojokerto",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3911,
+    "name": "Prajurit Kulon",
+    "city_id": 264,
+    "city_name": "kota mojokerto",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  }
+]

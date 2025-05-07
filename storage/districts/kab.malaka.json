@@ -1,0 +1,98 @@
+[
+  {
+    "id": 7041,
+    "name": "Botin Leobele",
+    "city_id": 514,
+    "city_name": "kab. malaka",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 7035,
+    "name": "Io Kufeu",
+    "city_id": 514,
+    "city_name": "kab. malaka",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 7040,
+    "name": "Kobalima",
+    "city_id": 514,
+    "city_name": "kab. malaka",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 7039,
+    "name": "Kobalima Timur",
+    "city_id": 514,
+    "city_name": "kab. malaka",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 7037,
+    "name": "Laenmanen",
+    "city_id": 514,
+    "city_name": "kab. malaka",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 7031,
+    "name": "Malaka Barat",
+    "city_id": 514,
+    "city_name": "kab. malaka",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 7030,
+    "name": "Malaka Tengah",
+    "city_id": 514,
+    "city_name": "kab. malaka",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 7038,
+    "name": "Malaka Timur",
+    "city_id": 514,
+    "city_name": "kab. malaka",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 7034,
+    "name": "Rinhat",
+    "city_id": 514,
+    "city_name": "kab. malaka",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 7036,
+    "name": "Sasitamean",
+    "city_id": 514,
+    "city_name": "kab. malaka",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 7033,
+    "name": "Weliman",
+    "city_id": 514,
+    "city_name": "kab. malaka",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 7032,
+    "name": "Wewiku",
+    "city_id": 514,
+    "city_name": "kab. malaka",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  }
+]

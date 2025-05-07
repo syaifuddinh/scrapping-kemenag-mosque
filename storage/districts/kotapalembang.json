@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1361,
+    "name": "Alang-alang Lebar",
+    "city_id": 108,
+    "city_name": "kota palembang",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1357,
+    "name": "Bukit Kecil",
+    "city_id": 108,
+    "city_name": "kota palembang",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1358,
+    "name": "Gandus",
+    "city_id": 108,
+    "city_name": "kota palembang",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1350,
+    "name": "Ilir Barat I",
+    "city_id": 108,
+    "city_name": "kota palembang",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1347,
+    "name": "Ilir Barat II",
+    "city_id": 108,
+    "city_name": "kota palembang",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1351,
+    "name": "Ilir Timur I",
+    "city_id": 108,
+    "city_name": "kota palembang",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1352,
+    "name": "Ilir Timur II",
+    "city_id": 108,
+    "city_name": "kota palembang",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1356,
+    "name": "Kalidoni",
+    "city_id": 108,
+    "city_name": "kota palembang",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1355,
+    "name": "Kemuning",
+    "city_id": 108,
+    "city_name": "kota palembang",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1359,
+    "name": "Kertapati",
+    "city_id": 108,
+    "city_name": "kota palembang",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1360,
+    "name": "Plaju",
+    "city_id": 108,
+    "city_name": "kota palembang",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1354,
+    "name": "Sako",
+    "city_id": 108,
+    "city_name": "kota palembang",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1348,
+    "name": "Seberang Ulu I",
+    "city_id": 108,
+    "city_name": "kota palembang",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1349,
+    "name": "Seberang Ulu II",
+    "city_id": 108,
+    "city_name": "kota palembang",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1362,
+    "name": "Sematang Borang",
+    "city_id": 108,
+    "city_name": "kota palembang",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1353,
+    "name": "Sukarami",
+    "city_id": 108,
+    "city_name": "kota palembang",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  }
+]

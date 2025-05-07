@@ -1,0 +1,98 @@
+[
+  {
+    "id": 589,
+    "name": "Batang Onang",
+    "city_id": 43,
+    "city_name": "kab. padang lawas utara",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 590,
+    "name": "Dolok",
+    "city_id": 43,
+    "city_name": "kab. padang lawas utara",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 595,
+    "name": "Dolok Sigompulon",
+    "city_id": 43,
+    "city_name": "kab. padang lawas utara",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 591,
+    "name": "Halongonan",
+    "city_id": 43,
+    "city_name": "kab. padang lawas utara",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 7295,
+    "name": "Halongonan Timur",
+    "city_id": 43,
+    "city_name": "kab. padang lawas utara",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 6951,
+    "name": "Hulu Sihapas",
+    "city_id": 43,
+    "city_name": "kab. padang lawas utara",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 592,
+    "name": "Padang Bolak",
+    "city_id": 43,
+    "city_name": "kab. padang lawas utara",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 593,
+    "name": "Padang Bolak Julu",
+    "city_id": 43,
+    "city_name": "kab. padang lawas utara",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 7294,
+    "name": "Padang Bolak Tenggara",
+    "city_id": 43,
+    "city_name": "kab. padang lawas utara",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 594,
+    "name": "Portibi",
+    "city_id": 43,
+    "city_name": "kab. padang lawas utara",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 596,
+    "name": "Simangambat",
+    "city_id": 43,
+    "city_name": "kab. padang lawas utara",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 7296,
+    "name": "Ujung Batu",
+    "city_id": 43,
+    "city_name": "kab. padang lawas utara",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  }
+]

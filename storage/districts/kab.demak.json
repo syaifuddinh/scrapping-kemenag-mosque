@@ -1,0 +1,114 @@
+[
+  {
+    "id": 3029,
+    "name": "Bonang",
+    "city_id": 210,
+    "city_name": "kab. demak",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 3028,
+    "name": "Demak",
+    "city_id": 210,
+    "city_name": "kab. demak",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 3024,
+    "name": "Dempet",
+    "city_id": 210,
+    "city_name": "kab. demak",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 3025,
+    "name": "Gajah",
+    "city_id": 210,
+    "city_name": "kab. demak",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 3020,
+    "name": "Guntur",
+    "city_id": 210,
+    "city_name": "kab. demak",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 3026,
+    "name": "Karanganyar",
+    "city_id": 210,
+    "city_name": "kab. demak",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 3019,
+    "name": "Karangawen",
+    "city_id": 210,
+    "city_name": "kab. demak",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 3022,
+    "name": "Karangtengah",
+    "city_id": 210,
+    "city_name": "kab. demak",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 3031,
+    "name": "Kebonagung",
+    "city_id": 210,
+    "city_name": "kab. demak",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 3027,
+    "name": "Mijen",
+    "city_id": 210,
+    "city_name": "kab. demak",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 3018,
+    "name": "Mranggen",
+    "city_id": 210,
+    "city_name": "kab. demak",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 3021,
+    "name": "Sayung",
+    "city_id": 210,
+    "city_name": "kab. demak",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 3030,
+    "name": "Wedung",
+    "city_id": 210,
+    "city_name": "kab. demak",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 3023,
+    "name": "Wonosalam",
+    "city_id": 210,
+    "city_name": "kab. demak",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  }
+]

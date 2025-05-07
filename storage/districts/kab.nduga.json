@@ -1,0 +1,66 @@
+[
+  {
+    "id": 6462,
+    "name": "Gearek",
+    "city_id": 474,
+    "city_name": "kab. nduga",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6459,
+    "name": "Geselma",
+    "city_id": 474,
+    "city_name": "kab. nduga",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6455,
+    "name": "Kenyam",
+    "city_id": 474,
+    "city_name": "kab. nduga",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6456,
+    "name": "Mapenduma",
+    "city_id": 474,
+    "city_name": "kab. nduga",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6461,
+    "name": "Mbuwa",
+    "city_id": 474,
+    "city_name": "kab. nduga",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6460,
+    "name": "Mugi",
+    "city_id": 474,
+    "city_name": "kab. nduga",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6458,
+    "name": "Wosak",
+    "city_id": 474,
+    "city_name": "kab. nduga",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6457,
+    "name": "Yigi",
+    "city_id": 474,
+    "city_name": "kab. nduga",
+    "province_id": 32,
+    "province_name": "papua"
+  }
+]

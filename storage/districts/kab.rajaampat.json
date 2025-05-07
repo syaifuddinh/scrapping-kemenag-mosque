@@ -1,0 +1,194 @@
+[
+  {
+    "id": 6800,
+    "name": "Ayau",
+    "city_id": 500,
+    "city_name": "kab. raja ampat",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6801,
+    "name": "Batanta Selatan",
+    "city_id": 500,
+    "city_name": "kab. raja ampat",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6796,
+    "name": "Batanta Utara",
+    "city_id": 500,
+    "city_name": "kab. raja ampat",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6782,
+    "name": "Kepulauan Ayau",
+    "city_id": 500,
+    "city_name": "kab. raja ampat",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6793,
+    "name": "Kepulauan Sembilan",
+    "city_id": 500,
+    "city_name": "kab. raja ampat",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6787,
+    "name": "Kofiau",
+    "city_id": 500,
+    "city_name": "kab. raja ampat",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6794,
+    "name": "Kota Waisai",
+    "city_id": 500,
+    "city_name": "kab. raja ampat",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6788,
+    "name": "Meos Mansar",
+    "city_id": 500,
+    "city_name": "kab. raja ampat",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6778,
+    "name": "Misool (Misool Utara)",
+    "city_id": 500,
+    "city_name": "kab. raja ampat",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6792,
+    "name": "Misool Barat",
+    "city_id": 500,
+    "city_name": "kab. raja ampat",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6789,
+    "name": "Misool Selatan",
+    "city_id": 500,
+    "city_name": "kab. raja ampat",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6783,
+    "name": "Misool Timur",
+    "city_id": 500,
+    "city_name": "kab. raja ampat",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6797,
+    "name": "Salawati Barat",
+    "city_id": 500,
+    "city_name": "kab. raja ampat",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6798,
+    "name": "Salawati Tengah",
+    "city_id": 500,
+    "city_name": "kab. raja ampat",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6781,
+    "name": "Salawati Utara",
+    "city_id": 500,
+    "city_name": "kab. raja ampat",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6799,
+    "name": "Supnin",
+    "city_id": 500,
+    "city_name": "kab. raja ampat",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6786,
+    "name": "Teluk Mayalibit",
+    "city_id": 500,
+    "city_name": "kab. raja ampat",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6795,
+    "name": "Tiplol Mayalibit",
+    "city_id": 500,
+    "city_name": "kab. raja ampat",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6784,
+    "name": "Waigeo Barat",
+    "city_id": 500,
+    "city_name": "kab. raja ampat",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6791,
+    "name": "Waigeo Barat Kepulauan",
+    "city_id": 500,
+    "city_name": "kab. raja ampat",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6780,
+    "name": "Waigeo Selatan",
+    "city_id": 500,
+    "city_name": "kab. raja ampat",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6785,
+    "name": "Waigeo Timur",
+    "city_id": 500,
+    "city_name": "kab. raja ampat",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6779,
+    "name": "Waigeo Utara",
+    "city_id": 500,
+    "city_name": "kab. raja ampat",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6790,
+    "name": "Warwarbomi",
+    "city_id": 500,
+    "city_name": "kab. raja ampat",
+    "province_id": 33,
+    "province_name": "papua barat"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": 4317,
+    "name": "Cibal",
+    "city_id": 296,
+    "city_name": "kab. manggarai",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 7021,
+    "name": "Cibal Barat",
+    "city_id": 296,
+    "city_name": "kab. manggarai",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4319,
+    "name": "Langke Rembong",
+    "city_id": 296,
+    "city_name": "kab. manggarai",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4322,
+    "name": "Lelak",
+    "city_id": 296,
+    "city_name": "kab. manggarai",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4321,
+    "name": "Rahong Utara",
+    "city_id": 296,
+    "city_name": "kab. manggarai",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4318,
+    "name": "Reok",
+    "city_id": 296,
+    "city_name": "kab. manggarai",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 7020,
+    "name": "Reok Barat",
+    "city_id": 296,
+    "city_name": "kab. manggarai",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4315,
+    "name": "Ruteng",
+    "city_id": 296,
+    "city_name": "kab. manggarai",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4316,
+    "name": "Satar Mese",
+    "city_id": 296,
+    "city_name": "kab. manggarai",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4320,
+    "name": "Satar Mese Barat",
+    "city_id": 296,
+    "city_name": "kab. manggarai",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4314,
+    "name": "Wae Rii",
+    "city_id": 296,
+    "city_name": "kab. manggarai",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  }
+]

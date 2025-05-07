@@ -1,0 +1,98 @@
+[
+  {
+    "id": 79,
+    "name": "Arongan Lambalek",
+    "city_id": 5,
+    "city_name": "kab. aceh barat",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 78,
+    "name": "Bubon",
+    "city_id": 5,
+    "city_name": "kab. aceh barat",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 73,
+    "name": "Johan Pahlawan",
+    "city_id": 5,
+    "city_name": "kab. aceh barat",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 74,
+    "name": "Kaway XVI",
+    "city_id": 5,
+    "city_name": "kab. aceh barat",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 81,
+    "name": "Meureubo",
+    "city_id": 5,
+    "city_name": "kab. aceh barat",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 80,
+    "name": "Pante Ceureumen",
+    "city_id": 5,
+    "city_name": "kab. aceh barat",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 84,
+    "name": "Panton Reu",
+    "city_id": 5,
+    "city_name": "kab. aceh barat",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 77,
+    "name": "Samatiga",
+    "city_id": 5,
+    "city_name": "kab. aceh barat",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 75,
+    "name": "Sungai Mas",
+    "city_id": 5,
+    "city_name": "kab. aceh barat",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 76,
+    "name": "Woyla",
+    "city_id": 5,
+    "city_name": "kab. aceh barat",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 82,
+    "name": "Woyla Barat",
+    "city_id": 5,
+    "city_name": "kab. aceh barat",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 83,
+    "name": "Woyla Timur",
+    "city_id": 5,
+    "city_name": "kab. aceh barat",
+    "province_id": 1,
+    "province_name": "aceh"
+  }
+]

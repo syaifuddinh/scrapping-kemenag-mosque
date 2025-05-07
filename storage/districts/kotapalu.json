@@ -1,0 +1,66 @@
+[
+  {
+    "id": 7242,
+    "name": "Mantikulore",
+    "city_id": 383,
+    "city_name": "kota palu",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 5277,
+    "name": "Palu Barat",
+    "city_id": 383,
+    "city_name": "kota palu",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 5278,
+    "name": "Palu Selatan",
+    "city_id": 383,
+    "city_name": "kota palu",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 5276,
+    "name": "Palu Timur",
+    "city_id": 383,
+    "city_name": "kota palu",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 5279,
+    "name": "Palu Utara",
+    "city_id": 383,
+    "city_name": "kota palu",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 7240,
+    "name": "Tatanga",
+    "city_id": 383,
+    "city_name": "kota palu",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 7241,
+    "name": "Tawaeli",
+    "city_id": 383,
+    "city_name": "kota palu",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 7239,
+    "name": "Ulujadi",
+    "city_id": 383,
+    "city_name": "kota palu",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  }
+]

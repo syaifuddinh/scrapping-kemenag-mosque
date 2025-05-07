@@ -1,0 +1,34 @@
+[
+  {
+    "id": 3209,
+    "name": "Margadana",
+    "city_id": 224,
+    "city_name": "kota tegal",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 3206,
+    "name": "Tegal Barat",
+    "city_id": 224,
+    "city_name": "kota tegal",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 3208,
+    "name": "Tegal Selatan",
+    "city_id": 224,
+    "city_name": "kota tegal",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 3207,
+    "name": "Tegal Timur",
+    "city_id": 224,
+    "city_name": "kota tegal",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  }
+]

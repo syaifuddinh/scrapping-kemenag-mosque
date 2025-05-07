@@ -1,0 +1,90 @@
+[
+  {
+    "id": 172,
+    "name": "Danau Paris",
+    "city_id": 10,
+    "city_name": "kab. aceh singkil",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 169,
+    "name": "Gunung Meriah",
+    "city_id": 10,
+    "city_name": "kab. aceh singkil",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 170,
+    "name": "Kota Baharu",
+    "city_id": 10,
+    "city_name": "kab. aceh singkil",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 175,
+    "name": "Kuala Baru",
+    "city_id": 10,
+    "city_name": "kab. aceh singkil",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 166,
+    "name": "Pulau Banyak",
+    "city_id": 10,
+    "city_name": "kab. aceh singkil",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 176,
+    "name": "Pulau Banyak Barat",
+    "city_id": 10,
+    "city_name": "kab. aceh singkil",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 167,
+    "name": "Simpang Kanan",
+    "city_id": 10,
+    "city_name": "kab. aceh singkil",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 168,
+    "name": "Singkil",
+    "city_id": 10,
+    "city_name": "kab. aceh singkil",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 171,
+    "name": "Singkil Utara",
+    "city_id": 10,
+    "city_name": "kab. aceh singkil",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 174,
+    "name": "Singkohor",
+    "city_id": 10,
+    "city_name": "kab. aceh singkil",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 173,
+    "name": "Suro Makmur",
+    "city_id": 10,
+    "city_name": "kab. aceh singkil",
+    "province_id": 1,
+    "province_name": "aceh"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 4702,
+    "name": "Barito Tuhup Raya",
+    "city_id": 333,
+    "city_name": "kab. murung raya",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 4699,
+    "name": "Laung Tuhup",
+    "city_id": 333,
+    "city_name": "kab. murung raya",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 4697,
+    "name": "Murung",
+    "city_id": 333,
+    "city_name": "kab. murung raya",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 4700,
+    "name": "Permata Intan",
+    "city_id": 333,
+    "city_name": "kab. murung raya",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 4705,
+    "name": "Seribu Riam",
+    "city_id": 333,
+    "city_name": "kab. murung raya",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 4701,
+    "name": "Sumber Barito",
+    "city_id": 333,
+    "city_name": "kab. murung raya",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 4704,
+    "name": "Sungai Babuat",
+    "city_id": 333,
+    "city_name": "kab. murung raya",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 4698,
+    "name": "Tanah Siang",
+    "city_id": 333,
+    "city_name": "kab. murung raya",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 4703,
+    "name": "Tanah Siang Selatan",
+    "city_id": 333,
+    "city_name": "kab. murung raya",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 4706,
+    "name": "Uut Murung",
+    "city_id": 333,
+    "city_name": "kab. murung raya",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1676,
+    "name": "Adiluwih",
+    "city_id": 131,
+    "city_name": "kab. pringsewu",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1672,
+    "name": "Ambarawa",
+    "city_id": 131,
+    "city_name": "kab. pringsewu",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1675,
+    "name": "Banyumas",
+    "city_id": 131,
+    "city_name": "kab. pringsewu",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1671,
+    "name": "Gading Rejo",
+    "city_id": 131,
+    "city_name": "kab. pringsewu",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1674,
+    "name": "Pagelaran",
+    "city_id": 131,
+    "city_name": "kab. pringsewu",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 7135,
+    "name": "Pagelaran Utara",
+    "city_id": 131,
+    "city_name": "kab. pringsewu",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1673,
+    "name": "Pardasuka",
+    "city_id": 131,
+    "city_name": "kab. pringsewu",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1670,
+    "name": "Pringsewu",
+    "city_id": 131,
+    "city_name": "kab. pringsewu",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1677,
+    "name": "Sukoharjo",
+    "city_id": 131,
+    "city_name": "kab. pringsewu",
+    "province_id": 8,
+    "province_name": "lampung"
+  }
+]

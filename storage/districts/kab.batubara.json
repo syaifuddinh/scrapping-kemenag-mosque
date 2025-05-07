@@ -1,0 +1,58 @@
+[
+  {
+    "id": 584,
+    "name": "Air Putih",
+    "city_id": 42,
+    "city_name": "kab. batu bara",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 585,
+    "name": "Lima Puluh",
+    "city_id": 42,
+    "city_name": "kab. batu bara",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 582,
+    "name": "Medang Deras",
+    "city_id": 42,
+    "city_name": "kab. batu bara",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 588,
+    "name": "Sei Balai",
+    "city_id": 42,
+    "city_name": "kab. batu bara",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 583,
+    "name": "Sei Suka",
+    "city_id": 42,
+    "city_name": "kab. batu bara",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 586,
+    "name": "Talawi",
+    "city_id": 42,
+    "city_name": "kab. batu bara",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 587,
+    "name": "Tanjung Tiram",
+    "city_id": 42,
+    "city_name": "kab. batu bara",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  }
+]

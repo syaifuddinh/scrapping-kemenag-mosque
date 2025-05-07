@@ -1,0 +1,122 @@
+[
+  {
+    "id": 5742,
+    "name": "Batu Putih",
+    "city_id": 415,
+    "city_name": "kab. kolaka utara",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 5754,
+    "name": "Katoi",
+    "city_id": 415,
+    "city_name": "kab. kolaka utara",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 5744,
+    "name": "Kodeoha",
+    "city_id": 415,
+    "city_name": "kab. kolaka utara",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 5747,
+    "name": "Lambai",
+    "city_id": 415,
+    "city_name": "kab. kolaka utara",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 5740,
+    "name": "Lasusua",
+    "city_id": 415,
+    "city_name": "kab. kolaka utara",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 5745,
+    "name": "Ngapa",
+    "city_id": 415,
+    "city_name": "kab. kolaka utara",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 5741,
+    "name": "Pakue",
+    "city_id": 415,
+    "city_name": "kab. kolaka utara",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 5749,
+    "name": "Pakue Tengah",
+    "city_id": 415,
+    "city_name": "kab. kolaka utara",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 5750,
+    "name": "Pakue Utara",
+    "city_id": 415,
+    "city_name": "kab. kolaka utara",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 5751,
+    "name": "Porehu",
+    "city_id": 415,
+    "city_name": "kab. kolaka utara",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 5743,
+    "name": "Rante Angin",
+    "city_id": 415,
+    "city_name": "kab. kolaka utara",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 5753,
+    "name": "Tiwu",
+    "city_id": 415,
+    "city_name": "kab. kolaka utara",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 5752,
+    "name": "Tolala",
+    "city_id": 415,
+    "city_name": "kab. kolaka utara",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 5748,
+    "name": "Watunohu",
+    "city_id": 415,
+    "city_name": "kab. kolaka utara",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 5746,
+    "name": "Wawo",
+    "city_id": 415,
+    "city_name": "kab. kolaka utara",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  }
+]

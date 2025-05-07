@@ -1,0 +1,210 @@
+[
+  {
+    "id": 2740,
+    "name": "Adimulyo",
+    "city_id": 194,
+    "city_name": "kab. kebumen",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2736,
+    "name": "Alian",
+    "city_id": 194,
+    "city_name": "kab. kebumen",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2732,
+    "name": "Ambal",
+    "city_id": 194,
+    "city_name": "kab. kebumen",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2726,
+    "name": "Ayah",
+    "city_id": 194,
+    "city_name": "kab. kebumen",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2748,
+    "name": "Bonorowo",
+    "city_id": 194,
+    "city_name": "kab. kebumen",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2727,
+    "name": "Buayan",
+    "city_id": 194,
+    "city_name": "kab. kebumen",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2731,
+    "name": "Buluspesantren",
+    "city_id": 194,
+    "city_name": "kab. kebumen",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2744,
+    "name": "Gombong",
+    "city_id": 194,
+    "city_name": "kab. kebumen",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2745,
+    "name": "Karanganyar",
+    "city_id": 194,
+    "city_name": "kab. kebumen",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2746,
+    "name": "Karanggayam",
+    "city_id": 194,
+    "city_name": "kab. kebumen",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2751,
+    "name": "Karangsambung",
+    "city_id": 194,
+    "city_name": "kab. kebumen",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2737,
+    "name": "Kebumen",
+    "city_id": 194,
+    "city_name": "kab. kebumen",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2730,
+    "name": "Klirong",
+    "city_id": 194,
+    "city_name": "kab. kebumen",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2735,
+    "name": "Kutowinangun",
+    "city_id": 194,
+    "city_name": "kab. kebumen",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2741,
+    "name": "Kuwarasan",
+    "city_id": 194,
+    "city_name": "kab. kebumen",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2733,
+    "name": "Mirit",
+    "city_id": 194,
+    "city_name": "kab. kebumen",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2749,
+    "name": "Padureso",
+    "city_id": 194,
+    "city_name": "kab. kebumen",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2738,
+    "name": "Pejagoan",
+    "city_id": 194,
+    "city_name": "kab. kebumen",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2729,
+    "name": "Petanahan",
+    "city_id": 194,
+    "city_name": "kab. kebumen",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2750,
+    "name": "Poncowarno",
+    "city_id": 194,
+    "city_name": "kab. kebumen",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2734,
+    "name": "Prembun",
+    "city_id": 194,
+    "city_name": "kab. kebumen",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2728,
+    "name": "Puring",
+    "city_id": 194,
+    "city_name": "kab. kebumen",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2742,
+    "name": "Rowokele",
+    "city_id": 194,
+    "city_name": "kab. kebumen",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2747,
+    "name": "Sadang",
+    "city_id": 194,
+    "city_name": "kab. kebumen",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2743,
+    "name": "Sempor",
+    "city_id": 194,
+    "city_name": "kab. kebumen",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2739,
+    "name": "Sruweng",
+    "city_id": 194,
+    "city_name": "kab. kebumen",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  }
+]

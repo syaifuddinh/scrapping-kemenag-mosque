@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3972,
+    "name": "Blahbatuh",
+    "city_id": 271,
+    "city_name": "kab. gianyar",
+    "province_id": 17,
+    "province_name": "bali"
+  },
+  {
+    "id": 3973,
+    "name": "Gianyar",
+    "city_id": 271,
+    "city_name": "kab. gianyar",
+    "province_id": 17,
+    "province_name": "bali"
+  },
+  {
+    "id": 3977,
+    "name": "Payangan",
+    "city_id": 271,
+    "city_name": "kab. gianyar",
+    "province_id": 17,
+    "province_name": "bali"
+  },
+  {
+    "id": 3971,
+    "name": "Sukawati",
+    "city_id": 271,
+    "city_name": "kab. gianyar",
+    "province_id": 17,
+    "province_name": "bali"
+  },
+  {
+    "id": 3974,
+    "name": "Tampaksiring",
+    "city_id": 271,
+    "city_name": "kab. gianyar",
+    "province_id": 17,
+    "province_name": "bali"
+  },
+  {
+    "id": 3976,
+    "name": "Tegalallang",
+    "city_id": 271,
+    "city_name": "kab. gianyar",
+    "province_id": 17,
+    "province_name": "bali"
+  },
+  {
+    "id": 3975,
+    "name": "Ubud",
+    "city_id": 271,
+    "city_name": "kab. gianyar",
+    "province_id": 17,
+    "province_name": "bali"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1495,
+    "name": "Bang Haji",
+    "city_id": 120,
+    "city_name": "kab. bengkulu tengah",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1486,
+    "name": "Karang Tinggi",
+    "city_id": 120,
+    "city_name": "kab. bengkulu tengah",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1492,
+    "name": "Merigi Kelindang",
+    "city_id": 120,
+    "city_name": "kab. bengkulu tengah",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1493,
+    "name": "Merigi Sakti",
+    "city_id": 120,
+    "city_name": "kab. bengkulu tengah",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1490,
+    "name": "Pagar Jati",
+    "city_id": 120,
+    "city_name": "kab. bengkulu tengah",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1489,
+    "name": "Pematang Tiga",
+    "city_id": 120,
+    "city_name": "kab. bengkulu tengah",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1488,
+    "name": "Pondok Kelapa",
+    "city_id": 120,
+    "city_name": "kab. bengkulu tengah",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1494,
+    "name": "Pondok Kubang",
+    "city_id": 120,
+    "city_name": "kab. bengkulu tengah",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1491,
+    "name": "Taba Penanjung",
+    "city_id": 120,
+    "city_name": "kab. bengkulu tengah",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1487,
+    "name": "Talang Empat",
+    "city_id": 120,
+    "city_name": "kab. bengkulu tengah",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  }
+]

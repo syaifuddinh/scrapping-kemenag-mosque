@@ -1,0 +1,212 @@
+[
+  {
+    "id": 190,
+    "name": "Kab. Cilacap",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 191,
+    "name": "Kab. Banyumas",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 192,
+    "name": "Kab. Purbalingga",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 193,
+    "name": "Kab. Banjarnegara",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 194,
+    "name": "Kab. Kebumen",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 195,
+    "name": "Kab. Purworejo",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 196,
+    "name": "Kab. Wonosobo",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 197,
+    "name": "Kab. Magelang",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 198,
+    "name": "Kab. Boyolali",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 199,
+    "name": "Kab. Klaten",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 200,
+    "name": "Kab. Sukoharjo",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 201,
+    "name": "Kab. Wonogiri",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 202,
+    "name": "Kab. Karanganyar",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 203,
+    "name": "Kab. Sragen",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 204,
+    "name": "Kab. Grobogan",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 205,
+    "name": "Kab. Blora",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 206,
+    "name": "Kab. Rembang",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 207,
+    "name": "Kab. Pati",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 208,
+    "name": "Kab. Kudus",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 209,
+    "name": "Kab. Jepara",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 210,
+    "name": "Kab. Demak",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 211,
+    "name": "Kab. Semarang",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 212,
+    "name": "Kab. Temanggung",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 213,
+    "name": "Kab. Kendal",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 214,
+    "name": "Kab. Batang",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 215,
+    "name": "Kab. Pekalongan",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 216,
+    "name": "Kab. Pemalang",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 217,
+    "name": "Kab. Tegal",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 218,
+    "name": "Kab. Brebes",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 219,
+    "name": "Kota Magelang",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 220,
+    "name": "Kota Surakarta",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 221,
+    "name": "Kota Salatiga",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 222,
+    "name": "Kota Semarang",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 223,
+    "name": "Kota Pekalongan",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 224,
+    "name": "Kota Tegal",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  }
+]

@@ -1,0 +1,250 @@
+[
+  {
+    "id": 429,
+    "name": "Bandar",
+    "city_id": 31,
+    "city_name": "kab.simalungun",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 428,
+    "name": "Bandar Huluan",
+    "city_id": 31,
+    "city_name": "kab.simalungun",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 430,
+    "name": "Bandar Masilam",
+    "city_id": 31,
+    "city_name": "kab.simalungun",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 414,
+    "name": "Bosar Maligas",
+    "city_id": 31,
+    "city_name": "kab.simalungun",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 423,
+    "name": "Dolok Batu Nanggar",
+    "city_id": 31,
+    "city_name": "kab.simalungun",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 419,
+    "name": "Dolok Panribuan",
+    "city_id": 31,
+    "city_name": "kab.simalungun",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 426,
+    "name": "Dolok Pardamean",
+    "city_id": 31,
+    "city_name": "kab.simalungun",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 432,
+    "name": "Dolok Silau",
+    "city_id": 31,
+    "city_name": "kab.simalungun",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 422,
+    "name": "Girsang Sipangan Bolon",
+    "city_id": 31,
+    "city_name": "kab.simalungun",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 408,
+    "name": "Gunung Malela",
+    "city_id": 31,
+    "city_name": "kab.simalungun",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 409,
+    "name": "Gunung Maligas",
+    "city_id": 31,
+    "city_name": "kab.simalungun",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 421,
+    "name": "Haranggaol Horison",
+    "city_id": 31,
+    "city_name": "kab.simalungun",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 418,
+    "name": "Hatonduhan",
+    "city_id": 31,
+    "city_name": "kab.simalungun",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 424,
+    "name": "Huta Bayu Raja",
+    "city_id": 31,
+    "city_name": "kab.simalungun",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 425,
+    "name": "Jawa Maraja Bah Jambi",
+    "city_id": 31,
+    "city_name": "kab.simalungun",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 412,
+    "name": "Jorlang Hataran",
+    "city_id": 31,
+    "city_name": "kab.simalungun",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 437,
+    "name": "Pamatang Silima Huta",
+    "city_id": 31,
+    "city_name": "kab.simalungun",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 410,
+    "name": "Panei",
+    "city_id": 31,
+    "city_name": "kab.simalungun",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 411,
+    "name": "Panombeian Pane",
+    "city_id": 31,
+    "city_name": "kab.simalungun",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 427,
+    "name": "Pematang Bandar",
+    "city_id": 31,
+    "city_name": "kab.simalungun",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 416,
+    "name": "Pematang Sidamanik",
+    "city_id": 31,
+    "city_name": "kab.simalungun",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 420,
+    "name": "Purba",
+    "city_id": 31,
+    "city_name": "kab.simalungun",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 435,
+    "name": "Raya",
+    "city_id": 31,
+    "city_name": "kab.simalungun",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 413,
+    "name": "Raya Kahean",
+    "city_id": 31,
+    "city_name": "kab.simalungun",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 407,
+    "name": "Siantar",
+    "city_id": 31,
+    "city_name": "kab.simalungun",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 415,
+    "name": "Sidamanik",
+    "city_id": 31,
+    "city_name": "kab.simalungun",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 431,
+    "name": "Silimakuta",
+    "city_id": 31,
+    "city_name": "kab.simalungun",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 433,
+    "name": "Silou Kahean",
+    "city_id": 31,
+    "city_name": "kab.simalungun",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 417,
+    "name": "Tanah Jawa",
+    "city_id": 31,
+    "city_name": "kab.simalungun",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 434,
+    "name": "Tapian Dolok",
+    "city_id": 31,
+    "city_name": "kab.simalungun",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 436,
+    "name": "Ujung Padang",
+    "city_id": 31,
+    "city_name": "kab.simalungun",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": 6225,
+    "name": "Agimuga",
+    "city_id": 459,
+    "city_name": "kab. mimika",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6229,
+    "name": "Jila",
+    "city_id": 459,
+    "city_name": "kab. mimika",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6228,
+    "name": "Jita",
+    "city_id": 459,
+    "city_name": "kab. mimika",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6232,
+    "name": "Kuala Kencana",
+    "city_id": 459,
+    "city_name": "kab. mimika",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6227,
+    "name": "Mimika Barat",
+    "city_id": 459,
+    "city_name": "kab. mimika",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6234,
+    "name": "Mimika Barat Jauh",
+    "city_id": 459,
+    "city_name": "kab. mimika",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6235,
+    "name": "Mimika Barat Tengah",
+    "city_id": 459,
+    "city_name": "kab. mimika",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6224,
+    "name": "Mimika Baru",
+    "city_id": 459,
+    "city_name": "kab. mimika",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6226,
+    "name": "Mimika Timur",
+    "city_id": 459,
+    "city_name": "kab. mimika",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6230,
+    "name": "Mimika Timur Jauh",
+    "city_id": 459,
+    "city_name": "kab. mimika",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6231,
+    "name": "Mimika Timur Tengah",
+    "city_id": 459,
+    "city_name": "kab. mimika",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6233,
+    "name": "Tembagapura",
+    "city_id": 459,
+    "city_name": "kab. mimika",
+    "province_id": 32,
+    "province_name": "papua"
+  }
+]

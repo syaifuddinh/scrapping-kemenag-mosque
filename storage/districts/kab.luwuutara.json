@@ -1,0 +1,122 @@
+[
+  {
+    "id": 5524,
+    "name": "Baebunta",
+    "city_id": 402,
+    "city_name": "kab. luwu utara",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 7320,
+    "name": "Baebunta Selatan",
+    "city_id": 402,
+    "city_name": "kab. luwu utara",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5515,
+    "name": "Bone Bone",
+    "city_id": 402,
+    "city_name": "kab. luwu utara",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5518,
+    "name": "Limbong",
+    "city_id": 402,
+    "city_name": "kab. luwu utara",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5514,
+    "name": "Malangke",
+    "city_id": 402,
+    "city_name": "kab. luwu utara",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5521,
+    "name": "Malangke Barat",
+    "city_id": 402,
+    "city_name": "kab. luwu utara",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5523,
+    "name": "Mappedeceng",
+    "city_id": 402,
+    "city_name": "kab. luwu utara",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5516,
+    "name": "Masamba",
+    "city_id": 402,
+    "city_name": "kab. luwu utara",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5522,
+    "name": "Rampi",
+    "city_id": 402,
+    "city_name": "kab. luwu utara",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5517,
+    "name": "Sabbang",
+    "city_id": 402,
+    "city_name": "kab. luwu utara",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 7321,
+    "name": "Sabbang Selatan",
+    "city_id": 402,
+    "city_name": "kab. luwu utara",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5520,
+    "name": "Seko",
+    "city_id": 402,
+    "city_name": "kab. luwu utara",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5519,
+    "name": "Sukamaju",
+    "city_id": 402,
+    "city_name": "kab. luwu utara",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 7322,
+    "name": "Sukamaju Selatan",
+    "city_id": 402,
+    "city_name": "kab. luwu utara",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 7053,
+    "name": "Tana Lili",
+    "city_id": 402,
+    "city_name": "kab. luwu utara",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  }
+]

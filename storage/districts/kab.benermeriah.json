@@ -1,0 +1,82 @@
+[
+  {
+    "id": 247,
+    "name": "Bandar",
+    "city_id": 17,
+    "city_name": "kab. bener meriah",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 251,
+    "name": "Bener Kelipah",
+    "city_id": 17,
+    "city_name": "kab. bener meriah",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 248,
+    "name": "Bukit",
+    "city_id": 17,
+    "city_name": "kab. bener meriah",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 253,
+    "name": "Gajah Putih",
+    "city_id": 17,
+    "city_name": "kab. bener meriah",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 252,
+    "name": "Mesidah",
+    "city_id": 17,
+    "city_name": "kab. bener meriah",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 245,
+    "name": "Permata",
+    "city_id": 17,
+    "city_name": "kab. bener meriah",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 244,
+    "name": "Pintu Rime Gayo",
+    "city_id": 17,
+    "city_name": "kab. bener meriah",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 246,
+    "name": "Syiah Utama",
+    "city_id": 17,
+    "city_name": "kab. bener meriah",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 250,
+    "name": "Timang gajah",
+    "city_id": 17,
+    "city_name": "kab. bener meriah",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 249,
+    "name": "Wih Pesam",
+    "city_id": 17,
+    "city_name": "kab. bener meriah",
+    "province_id": 1,
+    "province_name": "aceh"
+  }
+]

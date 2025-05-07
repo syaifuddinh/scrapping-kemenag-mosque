@@ -1,0 +1,234 @@
+[
+  {
+    "id": 1973,
+    "name": "Anyar",
+    "city_id": 159,
+    "city_name": "kab. serang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1977,
+    "name": "Bandung",
+    "city_id": 159,
+    "city_name": "kab. serang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1965,
+    "name": "Baros",
+    "city_id": 159,
+    "city_name": "kab. serang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1962,
+    "name": "Binuang",
+    "city_id": 159,
+    "city_name": "kab. serang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1952,
+    "name": "Bojonegara",
+    "city_id": 159,
+    "city_name": "kab. serang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1961,
+    "name": "Carenang",
+    "city_id": 159,
+    "city_name": "kab. serang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1959,
+    "name": "Cikande",
+    "city_id": 159,
+    "city_name": "kab. serang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1966,
+    "name": "Cikeusal",
+    "city_id": 159,
+    "city_name": "kab. serang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1974,
+    "name": "Cinangka",
+    "city_id": 159,
+    "city_name": "kab. serang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1970,
+    "name": "Ciomas",
+    "city_id": 159,
+    "city_name": "kab. serang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1954,
+    "name": "Ciruas",
+    "city_id": 159,
+    "city_name": "kab. serang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1976,
+    "name": "Gunung Sari",
+    "city_id": 159,
+    "city_name": "kab. serang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1969,
+    "name": "Jawilan",
+    "city_id": 159,
+    "city_name": "kab. serang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1960,
+    "name": "Kibin",
+    "city_id": 159,
+    "city_name": "kab. serang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1968,
+    "name": "Kopo",
+    "city_id": 159,
+    "city_name": "kab. serang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1955,
+    "name": "Kragilan",
+    "city_id": 159,
+    "city_name": "kab. serang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1950,
+    "name": "Kramatwatu",
+    "city_id": 159,
+    "city_name": "kab. serang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 7291,
+    "name": "Lebak Wangi",
+    "city_id": 159,
+    "city_name": "kab. serang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1975,
+    "name": "Mancak",
+    "city_id": 159,
+    "city_name": "kab. serang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1971,
+    "name": "Pabuaran",
+    "city_id": 159,
+    "city_name": "kab. serang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1972,
+    "name": "Padarincang",
+    "city_id": 159,
+    "city_name": "kab. serang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1967,
+    "name": "Pamarayan",
+    "city_id": 159,
+    "city_name": "kab. serang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1963,
+    "name": "Petir",
+    "city_id": 159,
+    "city_name": "kab. serang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1956,
+    "name": "Pontang",
+    "city_id": 159,
+    "city_name": "kab. serang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1953,
+    "name": "Pulo Ampel",
+    "city_id": 159,
+    "city_name": "kab. serang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1958,
+    "name": "Tanara",
+    "city_id": 159,
+    "city_name": "kab. serang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1957,
+    "name": "Tirtayasa",
+    "city_id": 159,
+    "city_name": "kab. serang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1964,
+    "name": "Tunjung Teja",
+    "city_id": 159,
+    "city_name": "kab. serang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1951,
+    "name": "Waringinkurung",
+    "city_id": 159,
+    "city_name": "kab. serang",
+    "province_id": 12,
+    "province_name": "banten"
+  }
+]

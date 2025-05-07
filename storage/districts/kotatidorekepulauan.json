@@ -1,0 +1,66 @@
+[
+  {
+    "id": 6110,
+    "name": "Oba",
+    "city_id": 450,
+    "city_name": "kota tidore kepulauan",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6114,
+    "name": "Oba Selatan",
+    "city_id": 450,
+    "city_name": "kota tidore kepulauan",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6113,
+    "name": "Oba Tengah",
+    "city_id": 450,
+    "city_name": "kota tidore kepulauan",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6109,
+    "name": "Oba Utara",
+    "city_id": 450,
+    "city_name": "kota tidore kepulauan",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6108,
+    "name": "Tidore",
+    "city_id": 450,
+    "city_name": "kota tidore kepulauan",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6111,
+    "name": "Tidore Selatan",
+    "city_id": 450,
+    "city_name": "kota tidore kepulauan",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6115,
+    "name": "Tidore Timur",
+    "city_id": 450,
+    "city_name": "kota tidore kepulauan",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6112,
+    "name": "Tidore Utara",
+    "city_id": 450,
+    "city_name": "kota tidore kepulauan",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  }
+]

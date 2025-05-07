@@ -1,0 +1,82 @@
+[
+  {
+    "id": 4710,
+    "name": "Awang",
+    "city_id": 334,
+    "city_name": "kab. barito timur",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 4708,
+    "name": "Banua Lima",
+    "city_id": 334,
+    "city_name": "kab. barito timur",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 4711,
+    "name": "Dusun Tengah",
+    "city_id": 334,
+    "city_name": "kab. barito timur",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 4707,
+    "name": "Dusun Timur",
+    "city_id": 334,
+    "city_name": "kab. barito timur",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 4716,
+    "name": "Karusen Janang",
+    "city_id": 334,
+    "city_name": "kab. barito timur",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 4713,
+    "name": "Paju Epat",
+    "city_id": 334,
+    "city_name": "kab. barito timur",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 4715,
+    "name": "Paku",
+    "city_id": 334,
+    "city_name": "kab. barito timur",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 4709,
+    "name": "Patangkep Tutui",
+    "city_id": 334,
+    "city_name": "kab. barito timur",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 4712,
+    "name": "Pematang Karau",
+    "city_id": 334,
+    "city_name": "kab. barito timur",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 4714,
+    "name": "Raren Batuah",
+    "city_id": 334,
+    "city_name": "kab. barito timur",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  }
+]

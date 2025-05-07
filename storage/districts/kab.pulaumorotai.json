@@ -1,0 +1,42 @@
+[
+  {
+    "id": 6098,
+    "name": "Morotai Jaya",
+    "city_id": 448,
+    "city_name": "kab. pulau morotai",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6096,
+    "name": "Morotai Selatan",
+    "city_id": 448,
+    "city_name": "kab. pulau morotai",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6097,
+    "name": "Morotai Selatan Barat",
+    "city_id": 448,
+    "city_name": "kab. pulau morotai",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6100,
+    "name": "Morotai Timur",
+    "city_id": 448,
+    "city_name": "kab. pulau morotai",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6099,
+    "name": "Morotai Utara",
+    "city_id": 448,
+    "city_name": "kab. pulau morotai",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  }
+]

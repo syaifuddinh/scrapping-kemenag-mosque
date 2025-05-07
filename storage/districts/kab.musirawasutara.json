@@ -1,0 +1,58 @@
+[
+  {
+    "id": 7181,
+    "name": "Karang Dapo",
+    "city_id": 520,
+    "city_name": "kab. musi rawas utara",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 7182,
+    "name": "Karang Jaya",
+    "city_id": 520,
+    "city_name": "kab. musi rawas utara",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 7179,
+    "name": "Nibung",
+    "city_id": 520,
+    "city_name": "kab. musi rawas utara",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 7180,
+    "name": "Rawas Ilir",
+    "city_id": 520,
+    "city_name": "kab. musi rawas utara",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 7178,
+    "name": "Rawas Ulu",
+    "city_id": 520,
+    "city_name": "kab. musi rawas utara",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 7177,
+    "name": "Rupit",
+    "city_id": 520,
+    "city_name": "kab. musi rawas utara",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 7183,
+    "name": "Ulu Rawas",
+    "city_id": 520,
+    "city_name": "kab. musi rawas utara",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  }
+]

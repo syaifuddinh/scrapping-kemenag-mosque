@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1708,
+    "name": "Metro Barat",
+    "city_id": 135,
+    "city_name": "kota metro",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1706,
+    "name": "Metro Pusat",
+    "city_id": 135,
+    "city_name": "kota metro",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1710,
+    "name": "Metro Selatan",
+    "city_id": 135,
+    "city_name": "kota metro",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1709,
+    "name": "Metro Timur",
+    "city_id": 135,
+    "city_name": "kota metro",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1707,
+    "name": "Metro Utara",
+    "city_id": 135,
+    "city_name": "kota metro",
+    "province_id": 8,
+    "province_name": "lampung"
+  }
+]

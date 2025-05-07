@@ -1,0 +1,82 @@
+[
+  {
+    "id": 6095,
+    "name": "Kota Maba",
+    "city_id": 447,
+    "city_name": "kab. halmahera timur",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6087,
+    "name": "Maba",
+    "city_id": 447,
+    "city_name": "kab. halmahera timur",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6088,
+    "name": "Maba Selatan",
+    "city_id": 447,
+    "city_name": "kab. halmahera timur",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6093,
+    "name": "Maba Tengah",
+    "city_id": 447,
+    "city_name": "kab. halmahera timur",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6094,
+    "name": "Maba Utara",
+    "city_id": 447,
+    "city_name": "kab. halmahera timur",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6086,
+    "name": "Wasile",
+    "city_id": 447,
+    "city_name": "kab. halmahera timur",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6089,
+    "name": "Wasile Selatan",
+    "city_id": 447,
+    "city_name": "kab. halmahera timur",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6090,
+    "name": "Wasile Tengah",
+    "city_id": 447,
+    "city_name": "kab. halmahera timur",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6092,
+    "name": "Wasile Timur",
+    "city_id": 447,
+    "city_name": "kab. halmahera timur",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6091,
+    "name": "Wasile Utara",
+    "city_id": 447,
+    "city_name": "kab. halmahera timur",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  }
+]

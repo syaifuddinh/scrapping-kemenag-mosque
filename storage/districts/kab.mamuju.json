@@ -1,0 +1,90 @@
+[
+  {
+    "id": 5884,
+    "name": "Bonehau",
+    "city_id": 427,
+    "city_name": "kab. mamuju",
+    "province_id": 29,
+    "province_name": "sulawesi barat"
+  },
+  {
+    "id": 5872,
+    "name": "Kalukku",
+    "city_id": 427,
+    "city_name": "kab. mamuju",
+    "province_id": 29,
+    "province_name": "sulawesi barat"
+  },
+  {
+    "id": 5873,
+    "name": "Kalumpang",
+    "city_id": 427,
+    "city_name": "kab. mamuju",
+    "province_id": 29,
+    "province_name": "sulawesi barat"
+  },
+  {
+    "id": 5885,
+    "name": "Kep. Bala Balakang",
+    "city_id": 427,
+    "city_name": "kab. mamuju",
+    "province_id": 29,
+    "province_name": "sulawesi barat"
+  },
+  {
+    "id": 5870,
+    "name": "Mamuju",
+    "city_id": 427,
+    "city_name": "kab. mamuju",
+    "province_id": 29,
+    "province_name": "sulawesi barat"
+  },
+  {
+    "id": 5876,
+    "name": "Papalang",
+    "city_id": 427,
+    "city_name": "kab. mamuju",
+    "province_id": 29,
+    "province_name": "sulawesi barat"
+  },
+  {
+    "id": 5877,
+    "name": "Sampaga",
+    "city_id": 427,
+    "city_name": "kab. mamuju",
+    "province_id": 29,
+    "province_name": "sulawesi barat"
+  },
+  {
+    "id": 5881,
+    "name": "Simboro dan Kepulauan",
+    "city_id": 427,
+    "city_name": "kab. mamuju",
+    "province_id": 29,
+    "province_name": "sulawesi barat"
+  },
+  {
+    "id": 5871,
+    "name": "Tapalang",
+    "city_id": 427,
+    "city_name": "kab. mamuju",
+    "province_id": 29,
+    "province_name": "sulawesi barat"
+  },
+  {
+    "id": 5882,
+    "name": "Tapalang Barat",
+    "city_id": 427,
+    "city_name": "kab. mamuju",
+    "province_id": 29,
+    "province_name": "sulawesi barat"
+  },
+  {
+    "id": 5880,
+    "name": "Tommo",
+    "city_id": 427,
+    "city_name": "kab. mamuju",
+    "province_id": 29,
+    "province_name": "sulawesi barat"
+  }
+]

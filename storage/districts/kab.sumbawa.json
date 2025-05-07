@@ -1,0 +1,194 @@
+[
+  {
+    "id": 4050,
+    "name": "Alas",
+    "city_id": 280,
+    "city_name": "kab. sumbawa",
+    "province_id": 18,
+    "province_name": "nusa tenggara barat"
+  },
+  {
+    "id": 4060,
+    "name": "Alas Barat",
+    "city_id": 280,
+    "city_name": "kab. sumbawa",
+    "province_id": 18,
+    "province_name": "nusa tenggara barat"
+  },
+  {
+    "id": 4052,
+    "name": "Batu Lanteh",
+    "city_id": 280,
+    "city_name": "kab. sumbawa",
+    "province_id": 18,
+    "province_name": "nusa tenggara barat"
+  },
+  {
+    "id": 4063,
+    "name": "Buer",
+    "city_id": 280,
+    "city_name": "kab. sumbawa",
+    "province_id": 18,
+    "province_name": "nusa tenggara barat"
+  },
+  {
+    "id": 4059,
+    "name": "Empang",
+    "city_id": 280,
+    "city_name": "kab. sumbawa",
+    "province_id": 18,
+    "province_name": "nusa tenggara barat"
+  },
+  {
+    "id": 4062,
+    "name": "Labangka",
+    "city_id": 280,
+    "city_name": "kab. sumbawa",
+    "province_id": 18,
+    "province_name": "nusa tenggara barat"
+  },
+  {
+    "id": 4061,
+    "name": "Labuhan Badas",
+    "city_id": 280,
+    "city_name": "kab. sumbawa",
+    "province_id": 18,
+    "province_name": "nusa tenggara barat"
+  },
+  {
+    "id": 4072,
+    "name": "Lantung",
+    "city_id": 280,
+    "city_name": "kab. sumbawa",
+    "province_id": 18,
+    "province_name": "nusa tenggara barat"
+  },
+  {
+    "id": 4057,
+    "name": "Lape",
+    "city_id": 280,
+    "city_name": "kab. sumbawa",
+    "province_id": 18,
+    "province_name": "nusa tenggara barat"
+  },
+  {
+    "id": 4070,
+    "name": "Lenangguar",
+    "city_id": 280,
+    "city_name": "kab. sumbawa",
+    "province_id": 18,
+    "province_name": "nusa tenggara barat"
+  },
+  {
+    "id": 4069,
+    "name": "Lopok",
+    "city_id": 280,
+    "city_name": "kab. sumbawa",
+    "province_id": 18,
+    "province_name": "nusa tenggara barat"
+  },
+  {
+    "id": 4049,
+    "name": "Lunyuk",
+    "city_id": 280,
+    "city_name": "kab. sumbawa",
+    "province_id": 18,
+    "province_name": "nusa tenggara barat"
+  },
+  {
+    "id": 4067,
+    "name": "Maronge",
+    "city_id": 280,
+    "city_name": "kab. sumbawa",
+    "province_id": 18,
+    "province_name": "nusa tenggara barat"
+  },
+  {
+    "id": 4054,
+    "name": "Moyo Hilir",
+    "city_id": 280,
+    "city_name": "kab. sumbawa",
+    "province_id": 18,
+    "province_name": "nusa tenggara barat"
+  },
+  {
+    "id": 4055,
+    "name": "Moyo Hulu",
+    "city_id": 280,
+    "city_name": "kab. sumbawa",
+    "province_id": 18,
+    "province_name": "nusa tenggara barat"
+  },
+  {
+    "id": 4066,
+    "name": "Moyo Utara",
+    "city_id": 280,
+    "city_name": "kab. sumbawa",
+    "province_id": 18,
+    "province_name": "nusa tenggara barat"
+  },
+  {
+    "id": 4071,
+    "name": "Orong Telu",
+    "city_id": 280,
+    "city_name": "kab. sumbawa",
+    "province_id": 18,
+    "province_name": "nusa tenggara barat"
+  },
+  {
+    "id": 4058,
+    "name": "Plampang",
+    "city_id": 280,
+    "city_name": "kab. sumbawa",
+    "province_id": 18,
+    "province_name": "nusa tenggara barat"
+  },
+  {
+    "id": 4064,
+    "name": "Rhee",
+    "city_id": 280,
+    "city_name": "kab. sumbawa",
+    "province_id": 18,
+    "province_name": "nusa tenggara barat"
+  },
+  {
+    "id": 4056,
+    "name": "Ropang",
+    "city_id": 280,
+    "city_name": "kab. sumbawa",
+    "province_id": 18,
+    "province_name": "nusa tenggara barat"
+  },
+  {
+    "id": 4053,
+    "name": "Sumbawa",
+    "city_id": 280,
+    "city_name": "kab. sumbawa",
+    "province_id": 18,
+    "province_name": "nusa tenggara barat"
+  },
+  {
+    "id": 4068,
+    "name": "Tarano",
+    "city_id": 280,
+    "city_name": "kab. sumbawa",
+    "province_id": 18,
+    "province_name": "nusa tenggara barat"
+  },
+  {
+    "id": 4065,
+    "name": "Unter Iwes",
+    "city_id": 280,
+    "city_name": "kab. sumbawa",
+    "province_id": 18,
+    "province_name": "nusa tenggara barat"
+  },
+  {
+    "id": 4051,
+    "name": "Utan",
+    "city_id": 280,
+    "city_name": "kab. sumbawa",
+    "province_id": 18,
+    "province_name": "nusa tenggara barat"
+  }
+]

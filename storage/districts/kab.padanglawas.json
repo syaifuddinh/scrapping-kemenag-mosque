@@ -1,0 +1,98 @@
+[
+  {
+    "id": 607,
+    "name": "Aek Nabara Barumun",
+    "city_id": 44,
+    "city_name": "kab. padang lawas",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 603,
+    "name": "Barumun",
+    "city_id": 44,
+    "city_name": "kab. padang lawas",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 606,
+    "name": "Barumun Selatan",
+    "city_id": 44,
+    "city_name": "kab. padang lawas",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 598,
+    "name": "Barumun Tengah",
+    "city_id": 44,
+    "city_name": "kab. padang lawas",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 605,
+    "name": "Batang Lubu Sutam",
+    "city_id": 44,
+    "city_name": "kab. padang lawas",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 599,
+    "name": "Huristak",
+    "city_id": 44,
+    "city_name": "kab. padang lawas",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 601,
+    "name": "Huta Raja Tinggi",
+    "city_id": 44,
+    "city_name": "kab. padang lawas",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 602,
+    "name": "Lubuk Barumun",
+    "city_id": 44,
+    "city_name": "kab. padang lawas",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 6916,
+    "name": "Sihapas Barumun",
+    "city_id": 44,
+    "city_name": "kab. padang lawas",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 604,
+    "name": "Sosa",
+    "city_id": 44,
+    "city_name": "kab. padang lawas",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 597,
+    "name": "Sosopan",
+    "city_id": 44,
+    "city_name": "kab. padang lawas",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 600,
+    "name": "Ulu Barumun",
+    "city_id": 44,
+    "city_name": "kab. padang lawas",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  }
+]

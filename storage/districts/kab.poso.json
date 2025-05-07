@@ -1,0 +1,154 @@
+[
+  {
+    "id": 5146,
+    "name": "Lage",
+    "city_id": 374,
+    "city_name": "kab. poso",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 5158,
+    "name": "Lore Barat",
+    "city_id": 374,
+    "city_name": "kab. poso",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 5160,
+    "name": "Lore Piore",
+    "city_id": 374,
+    "city_name": "kab. poso",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 5152,
+    "name": "Lore Selatan",
+    "city_id": 374,
+    "city_name": "kab. poso",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 5151,
+    "name": "Lore Tengah",
+    "city_id": 374,
+    "city_name": "kab. poso",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 5159,
+    "name": "Lore Timur",
+    "city_id": 374,
+    "city_name": "kab. poso",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 5150,
+    "name": "Lore Utara",
+    "city_id": 374,
+    "city_name": "kab. poso",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 5155,
+    "name": "Pamona Barat",
+    "city_id": 374,
+    "city_name": "kab. poso",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 5147,
+    "name": "Pamona Puselemba",
+    "city_id": 374,
+    "city_name": "kab. poso",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 5149,
+    "name": "Pamona Selatan",
+    "city_id": 374,
+    "city_name": "kab. poso",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 5161,
+    "name": "Pamona Tenggara",
+    "city_id": 374,
+    "city_name": "kab. poso",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 5148,
+    "name": "Pamona Timur",
+    "city_id": 374,
+    "city_name": "kab. poso",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 5162,
+    "name": "Pamona Utara",
+    "city_id": 374,
+    "city_name": "kab. poso",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 5144,
+    "name": "Poso Kota",
+    "city_id": 374,
+    "city_name": "kab. poso",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 5156,
+    "name": "Poso Kota Selatan",
+    "city_id": 374,
+    "city_name": "kab. poso",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 5157,
+    "name": "Poso Kota Utara",
+    "city_id": 374,
+    "city_name": "kab. poso",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 5145,
+    "name": "Poso Pesisir",
+    "city_id": 374,
+    "city_name": "kab. poso",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 5154,
+    "name": "Poso Pesisir Selatan",
+    "city_id": 374,
+    "city_name": "kab. poso",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 5153,
+    "name": "Poso Pesisir Utara",
+    "city_id": 374,
+    "city_name": "kab. poso",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  }
+]

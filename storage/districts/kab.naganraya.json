@@ -1,0 +1,82 @@
+[
+  {
+    "id": 226,
+    "name": "Beutong",
+    "city_id": 15,
+    "city_name": "kab. nagan raya",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 7095,
+    "name": "Beutong Ateuh Banggalang",
+    "city_id": 15,
+    "city_name": "kab. nagan raya",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 227,
+    "name": "Darul Makmur",
+    "city_id": 15,
+    "city_name": "kab. nagan raya",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 223,
+    "name": "Kuala",
+    "city_id": 15,
+    "city_name": "kab. nagan raya",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 229,
+    "name": "Kuala Pesisir",
+    "city_id": 15,
+    "city_name": "kab. nagan raya",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 224,
+    "name": "Seunagan",
+    "city_id": 15,
+    "city_name": "kab. nagan raya",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 225,
+    "name": "Seunagan Timur",
+    "city_id": 15,
+    "city_name": "kab. nagan raya",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 228,
+    "name": "Suka Makmue",
+    "city_id": 15,
+    "city_name": "kab. nagan raya",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 230,
+    "name": "Tadu Raya",
+    "city_id": 15,
+    "city_name": "kab. nagan raya",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 231,
+    "name": "Tripa Makmur",
+    "city_id": 15,
+    "city_name": "kab. nagan raya",
+    "province_id": 1,
+    "province_name": "aceh"
+  }
+]

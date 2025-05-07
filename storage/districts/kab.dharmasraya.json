@@ -1,0 +1,90 @@
+[
+  {
+    "id": 826,
+    "name": "Asam Jujuhan",
+    "city_id": 66,
+    "city_name": "kab. dharmasraya",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 817,
+    "name": "Koto Baru",
+    "city_id": 66,
+    "city_name": "kab. dharmasraya",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 827,
+    "name": "Koto Besar",
+    "city_id": 66,
+    "city_name": "kab. dharmasraya",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 823,
+    "name": "Koto Salak",
+    "city_id": 66,
+    "city_name": "kab. dharmasraya",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 825,
+    "name": "Padang Laweh",
+    "city_id": 66,
+    "city_name": "kab. dharmasraya",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 818,
+    "name": "Pulau Punjung",
+    "city_id": 66,
+    "city_name": "kab. dharmasraya",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 821,
+    "name": "Sembilan Koto",
+    "city_id": 66,
+    "city_name": "kab. dharmasraya",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 820,
+    "name": "Sitiung",
+    "city_id": 66,
+    "city_name": "kab. dharmasraya",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 819,
+    "name": "Sungai Rumbai",
+    "city_id": 66,
+    "city_name": "kab. dharmasraya",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 822,
+    "name": "Timpeh",
+    "city_id": 66,
+    "city_name": "kab. dharmasraya",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 824,
+    "name": "Tiumang",
+    "city_id": 66,
+    "city_name": "kab. dharmasraya",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  }
+]

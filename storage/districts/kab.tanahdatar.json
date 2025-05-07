@@ -1,0 +1,114 @@
+[
+  {
+    "id": 748,
+    "name": "Batipuah Selatan",
+    "city_id": 60,
+    "city_name": "kab. tanah datar",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 736,
+    "name": "Batipuh",
+    "city_id": 60,
+    "city_name": "kab. tanah datar",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 738,
+    "name": "Lima Kaum",
+    "city_id": 60,
+    "city_name": "kab. tanah datar",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 740,
+    "name": "Lintau Buo",
+    "city_id": 60,
+    "city_name": "kab. tanah datar",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 747,
+    "name": "Lintau Buo Utara",
+    "city_id": 60,
+    "city_name": "kab. tanah datar",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 745,
+    "name": "Padang Ganting",
+    "city_id": 60,
+    "city_name": "kab. tanah datar",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 743,
+    "name": "Pariangan",
+    "city_id": 60,
+    "city_name": "kab. tanah datar",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 737,
+    "name": "Rambatan",
+    "city_id": 60,
+    "city_name": "kab. tanah datar",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 744,
+    "name": "Salimpaung",
+    "city_id": 60,
+    "city_name": "kab. tanah datar",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 742,
+    "name": "Sungai Tarab",
+    "city_id": 60,
+    "city_name": "kab. tanah datar",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 741,
+    "name": "Sungayang",
+    "city_id": 60,
+    "city_name": "kab. tanah datar",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 746,
+    "name": "Tanjuang Baru",
+    "city_id": 60,
+    "city_name": "kab. tanah datar",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 739,
+    "name": "Tanjung Emas",
+    "city_id": 60,
+    "city_name": "kab. tanah datar",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 735,
+    "name": "X Koto",
+    "city_id": 60,
+    "city_name": "kab. tanah datar",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  }
+]

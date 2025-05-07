@@ -1,0 +1,162 @@
+[
+  {
+    "id": 7172,
+    "name": "Belida Darat",
+    "city_id": 100,
+    "city_name": "kab. muara enim",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 7171,
+    "name": "Belimbing",
+    "city_id": 100,
+    "city_name": "kab. muara enim",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1207,
+    "name": "Benakat",
+    "city_id": 100,
+    "city_name": "kab. muara enim",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1194,
+    "name": "Gelumbang",
+    "city_id": 100,
+    "city_name": "kab. muara enim",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1192,
+    "name": "Gunung Megang",
+    "city_id": 100,
+    "city_name": "kab. muara enim",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1209,
+    "name": "Kelekar",
+    "city_id": 100,
+    "city_name": "kab. muara enim",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1195,
+    "name": "Lawang Kidul",
+    "city_id": 100,
+    "city_name": "kab. muara enim",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1205,
+    "name": "Lembak",
+    "city_id": 100,
+    "city_name": "kab. muara enim",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1202,
+    "name": "Lubai",
+    "city_id": 100,
+    "city_name": "kab. muara enim",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 7173,
+    "name": "Lubai Ulu",
+    "city_id": 100,
+    "city_name": "kab. muara enim",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1210,
+    "name": "Muara Belida",
+    "city_id": 100,
+    "city_name": "kab. muara enim",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1190,
+    "name": "Muara Enim",
+    "city_id": 100,
+    "city_name": "kab. muara enim",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1203,
+    "name": "Rambang",
+    "city_id": 100,
+    "city_name": "kab. muara enim",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1191,
+    "name": "Rambang Dangku",
+    "city_id": 100,
+    "city_name": "kab. muara enim",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1196,
+    "name": "Semende Darat Laut",
+    "city_id": 100,
+    "city_name": "kab. muara enim",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1197,
+    "name": "Semende Darat Tengah",
+    "city_id": 100,
+    "city_name": "kab. muara enim",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1198,
+    "name": "Semende Darat Ulu",
+    "city_id": 100,
+    "city_name": "kab. muara enim",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1204,
+    "name": "Sungai Rotan",
+    "city_id": 100,
+    "city_name": "kab. muara enim",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1189,
+    "name": "Tanjung Agung",
+    "city_id": 100,
+    "city_name": "kab. muara enim",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1199,
+    "name": "Ujan Mas",
+    "city_id": 100,
+    "city_name": "kab. muara enim",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  }
+]

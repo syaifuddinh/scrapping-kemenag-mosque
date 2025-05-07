@@ -1,0 +1,66 @@
+[
+  {
+    "id": 6433,
+    "name": "Benuki",
+    "city_id": 470,
+    "city_name": "kab. mamberamo raya",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6431,
+    "name": "Mamberamo Hilir",
+    "city_id": 470,
+    "city_name": "kab. mamberamo raya",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6428,
+    "name": "Mamberamo Hulu",
+    "city_id": 470,
+    "city_name": "kab. mamberamo raya",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6427,
+    "name": "Mamberamo Tengah",
+    "city_id": 470,
+    "city_name": "kab. mamberamo raya",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6430,
+    "name": "Mamberamo Tengah Timur",
+    "city_id": 470,
+    "city_name": "kab. mamberamo raya",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6429,
+    "name": "Rufaer",
+    "city_id": 470,
+    "city_name": "kab. mamberamo raya",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6434,
+    "name": "Sawai",
+    "city_id": 470,
+    "city_name": "kab. mamberamo raya",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6432,
+    "name": "Waropen Atas",
+    "city_id": 470,
+    "city_name": "kab. mamberamo raya",
+    "province_id": 32,
+    "province_name": "papua"
+  }
+]

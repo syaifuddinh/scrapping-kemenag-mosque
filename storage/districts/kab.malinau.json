@@ -1,0 +1,122 @@
+[
+  {
+    "id": 6686,
+    "name": "Bahau Hulu",
+    "city_id": 491,
+    "city_name": "kab. malinau",
+    "province_id": 34,
+    "province_name": "KALIMANTAN UTARA"
+  },
+  {
+    "id": 6679,
+    "name": "Kayan Hilir",
+    "city_id": 491,
+    "city_name": "kab. malinau",
+    "province_id": 34,
+    "province_name": "KALIMANTAN UTARA"
+  },
+  {
+    "id": 6680,
+    "name": "Kayan Hulu",
+    "city_id": 491,
+    "city_name": "kab. malinau",
+    "province_id": 34,
+    "province_name": "KALIMANTAN UTARA"
+  },
+  {
+    "id": 6685,
+    "name": "Kayan Selatan",
+    "city_id": 491,
+    "city_name": "kab. malinau",
+    "province_id": 34,
+    "province_name": "KALIMANTAN UTARA"
+  },
+  {
+    "id": 6683,
+    "name": "Malinau Barat",
+    "city_id": 491,
+    "city_name": "kab. malinau",
+    "province_id": 34,
+    "province_name": "KALIMANTAN UTARA"
+  },
+  {
+    "id": 6677,
+    "name": "Malinau Kota",
+    "city_id": 491,
+    "city_name": "kab. malinau",
+    "province_id": 34,
+    "province_name": "KALIMANTAN UTARA"
+  },
+  {
+    "id": 6681,
+    "name": "Malinau Selatan",
+    "city_id": 491,
+    "city_name": "kab. malinau",
+    "province_id": 34,
+    "province_name": "KALIMANTAN UTARA"
+  },
+  {
+    "id": 7212,
+    "name": "Malinau Selatan Hilir",
+    "city_id": 491,
+    "city_name": "kab. malinau",
+    "province_id": 34,
+    "province_name": "KALIMANTAN UTARA"
+  },
+  {
+    "id": 7213,
+    "name": "Malinau Selatan Hulu",
+    "city_id": 491,
+    "city_name": "kab. malinau",
+    "province_id": 34,
+    "province_name": "KALIMANTAN UTARA"
+  },
+  {
+    "id": 6682,
+    "name": "Malinau Utara",
+    "city_id": 491,
+    "city_name": "kab. malinau",
+    "province_id": 34,
+    "province_name": "KALIMANTAN UTARA"
+  },
+  {
+    "id": 6676,
+    "name": "Mentarang",
+    "city_id": 491,
+    "city_name": "kab. malinau",
+    "province_id": 34,
+    "province_name": "KALIMANTAN UTARA"
+  },
+  {
+    "id": 6687,
+    "name": "Mentarang Hulu",
+    "city_id": 491,
+    "city_name": "kab. malinau",
+    "province_id": 34,
+    "province_name": "KALIMANTAN UTARA"
+  },
+  {
+    "id": 6678,
+    "name": "Pujungan",
+    "city_id": 491,
+    "city_name": "kab. malinau",
+    "province_id": 34,
+    "province_name": "KALIMANTAN UTARA"
+  },
+  {
+    "id": 6684,
+    "name": "Sungai Boh",
+    "city_id": 491,
+    "city_name": "kab. malinau",
+    "province_id": 34,
+    "province_name": "KALIMANTAN UTARA"
+  },
+  {
+    "id": 7214,
+    "name": "Sungai Tubu",
+    "city_id": 491,
+    "city_name": "kab. malinau",
+    "province_id": 34,
+    "province_name": "KALIMANTAN UTARA"
+  }
+]

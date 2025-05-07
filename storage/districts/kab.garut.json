@@ -1,0 +1,338 @@
+[
+  {
+    "id": 2184,
+    "name": "Banjarwangi",
+    "city_id": 168,
+    "city_name": "kab. garut",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2167,
+    "name": "Banyuresmi",
+    "city_id": 168,
+    "city_name": "kab. garut",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2178,
+    "name": "Bayongbong",
+    "city_id": 168,
+    "city_name": "kab. garut",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2199,
+    "name": "Bl. Limbangan",
+    "city_id": 168,
+    "city_name": "kab. garut",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2192,
+    "name": "Bungbulang",
+    "city_id": 168,
+    "city_name": "kab. garut",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2197,
+    "name": "Caringin",
+    "city_id": 168,
+    "city_name": "kab. garut",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2190,
+    "name": "Cibalong",
+    "city_id": 168,
+    "city_name": "kab. garut",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2173,
+    "name": "Cibatu",
+    "city_id": 168,
+    "city_name": "kab. garut",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2201,
+    "name": "Cibiuk",
+    "city_id": 168,
+    "city_name": "kab. garut",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2179,
+    "name": "Cigedug",
+    "city_id": 168,
+    "city_name": "kab. garut",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2186,
+    "name": "Cihurip",
+    "city_id": 168,
+    "city_name": "kab. garut",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2183,
+    "name": "Cikajang",
+    "city_id": 168,
+    "city_name": "kab. garut",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2191,
+    "name": "Cikelet",
+    "city_id": 168,
+    "city_name": "kab. garut",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2180,
+    "name": "Cilawu",
+    "city_id": 168,
+    "city_name": "kab. garut",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2196,
+    "name": "Cisewu",
+    "city_id": 168,
+    "city_name": "kab. garut",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2189,
+    "name": "Cisompet",
+    "city_id": 168,
+    "city_name": "kab. garut",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2181,
+    "name": "Cisurupan",
+    "city_id": 168,
+    "city_name": "kab. garut",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2162,
+    "name": "Garut Kota",
+    "city_id": 168,
+    "city_name": "kab. garut",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2171,
+    "name": "Kadungora",
+    "city_id": 168,
+    "city_name": "kab. garut",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2163,
+    "name": "Karangpawitan",
+    "city_id": 168,
+    "city_name": "kab. garut",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2177,
+    "name": "Karangtengah",
+    "city_id": 168,
+    "city_name": "kab. garut",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2174,
+    "name": "Kersamanah",
+    "city_id": 168,
+    "city_name": "kab. garut",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2170,
+    "name": "Leles",
+    "city_id": 168,
+    "city_name": "kab. garut",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2172,
+    "name": "Leuwigoong",
+    "city_id": 168,
+    "city_name": "kab. garut",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2175,
+    "name": "Malangbong",
+    "city_id": 168,
+    "city_name": "kab. garut",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2193,
+    "name": "Mekarmukti",
+    "city_id": 168,
+    "city_name": "kab. garut",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2194,
+    "name": "Pakenjeng",
+    "city_id": 168,
+    "city_name": "kab. garut",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2188,
+    "name": "Pameungpeuk",
+    "city_id": 168,
+    "city_name": "kab. garut",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2195,
+    "name": "Pamulihan",
+    "city_id": 168,
+    "city_name": "kab. garut",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2202,
+    "name": "Pangatikan",
+    "city_id": 168,
+    "city_name": "kab. garut",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2169,
+    "name": "Pasirwangi",
+    "city_id": 168,
+    "city_name": "kab. garut",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2187,
+    "name": "Peundeuy",
+    "city_id": 168,
+    "city_name": "kab. garut",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2168,
+    "name": "Samarang",
+    "city_id": 168,
+    "city_name": "kab. garut",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2200,
+    "name": "Selaawi",
+    "city_id": 168,
+    "city_name": "kab. garut",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2185,
+    "name": "Singajaya",
+    "city_id": 168,
+    "city_name": "kab. garut",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2203,
+    "name": "Sucinaraja",
+    "city_id": 168,
+    "city_name": "kab. garut",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2182,
+    "name": "Sukaresmi",
+    "city_id": 168,
+    "city_name": "kab. garut",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2176,
+    "name": "Sukawening",
+    "city_id": 168,
+    "city_name": "kab. garut",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2198,
+    "name": "Talegong",
+    "city_id": 168,
+    "city_name": "kab. garut",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2165,
+    "name": "Tarogong Kaler",
+    "city_id": 168,
+    "city_name": "kab. garut",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2166,
+    "name": "Tarogong Kidul",
+    "city_id": 168,
+    "city_name": "kab. garut",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2164,
+    "name": "Wanaraja",
+    "city_id": 168,
+    "city_name": "kab. garut",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  }
+]

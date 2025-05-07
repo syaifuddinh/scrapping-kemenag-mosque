@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1843,
+    "name": "Cakung",
+    "city_id": 154,
+    "city_name": "kota adm. jakarta timur",
+    "province_id": 11,
+    "province_name": "dki jakarta"
+  },
+  {
+    "id": 1847,
+    "name": "Cipayung",
+    "city_id": 154,
+    "city_name": "kota adm. jakarta timur",
+    "province_id": 11,
+    "province_name": "dki jakarta"
+  },
+  {
+    "id": 1846,
+    "name": "Ciracas",
+    "city_id": 154,
+    "city_name": "kota adm. jakarta timur",
+    "province_id": 11,
+    "province_name": "dki jakarta"
+  },
+  {
+    "id": 1844,
+    "name": "Duren Sawit",
+    "city_id": 154,
+    "city_name": "kota adm. jakarta timur",
+    "province_id": 11,
+    "province_name": "dki jakarta"
+  },
+  {
+    "id": 1840,
+    "name": "Jatinegara",
+    "city_id": 154,
+    "city_name": "kota adm. jakarta timur",
+    "province_id": 11,
+    "province_name": "dki jakarta"
+  },
+  {
+    "id": 1841,
+    "name": "Kramatjati",
+    "city_id": 154,
+    "city_name": "kota adm. jakarta timur",
+    "province_id": 11,
+    "province_name": "dki jakarta"
+  },
+  {
+    "id": 1845,
+    "name": "Makasar",
+    "city_id": 154,
+    "city_name": "kota adm. jakarta timur",
+    "province_id": 11,
+    "province_name": "dki jakarta"
+  },
+  {
+    "id": 1838,
+    "name": "Matraman",
+    "city_id": 154,
+    "city_name": "kota adm. jakarta timur",
+    "province_id": 11,
+    "province_name": "dki jakarta"
+  },
+  {
+    "id": 1842,
+    "name": "Pasar Rebo",
+    "city_id": 154,
+    "city_name": "kota adm. jakarta timur",
+    "province_id": 11,
+    "province_name": "dki jakarta"
+  },
+  {
+    "id": 1839,
+    "name": "Pulogadung",
+    "city_id": 154,
+    "city_name": "kota adm. jakarta timur",
+    "province_id": 11,
+    "province_name": "dki jakarta"
+  }
+]

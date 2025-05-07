@@ -1,0 +1,82 @@
+[
+  {
+    "id": 6999,
+    "name": "Anggi",
+    "city_id": 513,
+    "city_name": "kab. pegunungan arfak",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 7000,
+    "name": "Anggi Gida",
+    "city_id": 513,
+    "city_name": "kab. pegunungan arfak",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 7005,
+    "name": "Caturbouw",
+    "city_id": 513,
+    "city_name": "kab. pegunungan arfak",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 7003,
+    "name": "Didohu",
+    "city_id": 513,
+    "city_name": "kab. pegunungan arfak",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 7008,
+    "name": "Hink",
+    "city_id": 513,
+    "city_name": "kab. pegunungan arfak",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 7001,
+    "name": "Membey",
+    "city_id": 513,
+    "city_name": "kab. pegunungan arfak",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 7007,
+    "name": "Minyambaouw",
+    "city_id": 513,
+    "city_name": "kab. pegunungan arfak",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 7002,
+    "name": "Sururey",
+    "city_id": 513,
+    "city_name": "kab. pegunungan arfak",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 7004,
+    "name": "Taige",
+    "city_id": 513,
+    "city_name": "kab. pegunungan arfak",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 7006,
+    "name": "Testega",
+    "city_id": 513,
+    "city_name": "kab. pegunungan arfak",
+    "province_id": 33,
+    "province_name": "papua barat"
+  }
+]

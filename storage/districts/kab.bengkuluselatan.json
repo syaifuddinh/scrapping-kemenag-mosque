@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1389,
+    "name": "Air Nipis",
+    "city_id": 112,
+    "city_name": "kab. bengkulu selatan",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1391,
+    "name": "Bunga Mas",
+    "city_id": 112,
+    "city_name": "kab. bengkulu selatan",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1382,
+    "name": "Kedurang",
+    "city_id": 112,
+    "city_name": "kab. bengkulu selatan",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1388,
+    "name": "Kedurang Ilir",
+    "city_id": 112,
+    "city_name": "kab. bengkulu selatan",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1386,
+    "name": "Kota Manna",
+    "city_id": 112,
+    "city_name": "kab. bengkulu selatan",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1385,
+    "name": "Manna",
+    "city_id": 112,
+    "city_name": "kab. bengkulu selatan",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1392,
+    "name": "Pasar Manna",
+    "city_id": 112,
+    "city_name": "kab. bengkulu selatan",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1384,
+    "name": "Pino",
+    "city_id": 112,
+    "city_name": "kab. bengkulu selatan",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1387,
+    "name": "Pino Raya",
+    "city_id": 112,
+    "city_name": "kab. bengkulu selatan",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1383,
+    "name": "Seginim",
+    "city_id": 112,
+    "city_name": "kab. bengkulu selatan",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1390,
+    "name": "Ulu Manna",
+    "city_id": 112,
+    "city_name": "kab. bengkulu selatan",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  }
+]

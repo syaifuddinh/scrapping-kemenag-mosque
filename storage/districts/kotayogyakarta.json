@@ -1,0 +1,114 @@
+[
+  {
+    "id": 3277,
+    "name": "Danurejan",
+    "city_id": 229,
+    "city_name": "kota yogyakarta",
+    "province_id": 15,
+    "province_name": "d.i yogyakarta"
+  },
+  {
+    "id": 3278,
+    "name": "Gedongtengen",
+    "city_id": 229,
+    "city_name": "kota yogyakarta",
+    "province_id": 15,
+    "province_name": "d.i yogyakarta"
+  },
+  {
+    "id": 3276,
+    "name": "Gondokusuman",
+    "city_id": 229,
+    "city_name": "kota yogyakarta",
+    "province_id": 15,
+    "province_name": "d.i yogyakarta"
+  },
+  {
+    "id": 3283,
+    "name": "Gondomanan",
+    "city_id": 229,
+    "city_name": "kota yogyakarta",
+    "province_id": 15,
+    "province_name": "d.i yogyakarta"
+  },
+  {
+    "id": 3275,
+    "name": "Jetis",
+    "city_id": 229,
+    "city_name": "kota yogyakarta",
+    "province_id": 15,
+    "province_name": "d.i yogyakarta"
+  },
+  {
+    "id": 3287,
+    "name": "Kotagede",
+    "city_id": 229,
+    "city_name": "kota yogyakarta",
+    "province_id": 15,
+    "province_name": "d.i yogyakarta"
+  },
+  {
+    "id": 3282,
+    "name": "Kraton",
+    "city_id": 229,
+    "city_name": "kota yogyakarta",
+    "province_id": 15,
+    "province_name": "d.i yogyakarta"
+  },
+  {
+    "id": 3281,
+    "name": "Mantrijeron",
+    "city_id": 229,
+    "city_name": "kota yogyakarta",
+    "province_id": 15,
+    "province_name": "d.i yogyakarta"
+  },
+  {
+    "id": 3285,
+    "name": "Mergangsan",
+    "city_id": 229,
+    "city_name": "kota yogyakarta",
+    "province_id": 15,
+    "province_name": "d.i yogyakarta"
+  },
+  {
+    "id": 3279,
+    "name": "Ngampilan",
+    "city_id": 229,
+    "city_name": "kota yogyakarta",
+    "province_id": 15,
+    "province_name": "d.i yogyakarta"
+  },
+  {
+    "id": 3284,
+    "name": "Pakualaman",
+    "city_id": 229,
+    "city_name": "kota yogyakarta",
+    "province_id": 15,
+    "province_name": "d.i yogyakarta"
+  },
+  {
+    "id": 3274,
+    "name": "Tegalrejo",
+    "city_id": 229,
+    "city_name": "kota yogyakarta",
+    "province_id": 15,
+    "province_name": "d.i yogyakarta"
+  },
+  {
+    "id": 3286,
+    "name": "Umbulharjo",
+    "city_id": 229,
+    "city_name": "kota yogyakarta",
+    "province_id": 15,
+    "province_name": "d.i yogyakarta"
+  },
+  {
+    "id": 3280,
+    "name": "Wirobrajan",
+    "city_id": 229,
+    "city_name": "kota yogyakarta",
+    "province_id": 15,
+    "province_name": "d.i yogyakarta"
+  }
+]

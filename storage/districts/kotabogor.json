@@ -1,0 +1,50 @@
+[
+  {
+    "id": 2552,
+    "name": "Bogor Barat",
+    "city_id": 181,
+    "city_name": "kota bogor",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2549,
+    "name": "Bogor Selatan",
+    "city_id": 181,
+    "city_name": "kota bogor",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2551,
+    "name": "Bogor Tengah",
+    "city_id": 181,
+    "city_name": "kota bogor",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2550,
+    "name": "Bogor Timur",
+    "city_id": 181,
+    "city_name": "kota bogor",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2553,
+    "name": "Bogor Utara",
+    "city_id": 181,
+    "city_name": "kota bogor",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2554,
+    "name": "Tanah Sareal",
+    "city_id": 181,
+    "city_name": "kota bogor",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  }
+]

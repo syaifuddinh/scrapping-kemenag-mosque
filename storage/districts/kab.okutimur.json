@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1286,
+    "name": "Belitang",
+    "city_id": 105,
+    "city_name": "kab. oku timur",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1292,
+    "name": "Belitang II",
+    "city_id": 105,
+    "city_name": "kab. oku timur",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1293,
+    "name": "Belitang III",
+    "city_id": 105,
+    "city_name": "kab. oku timur",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1300,
+    "name": "Belitang Jaya",
+    "city_id": 105,
+    "city_name": "kab. oku timur",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1301,
+    "name": "Belitang Madang Raya",
+    "city_id": 105,
+    "city_name": "kab. oku timur",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1302,
+    "name": "Belitang Mulya",
+    "city_id": 105,
+    "city_name": "kab. oku timur",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1285,
+    "name": "Buay Madang",
+    "city_id": 105,
+    "city_name": "kab. oku timur",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1295,
+    "name": "Buay Madang Timur",
+    "city_id": 105,
+    "city_name": "kab. oku timur",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1303,
+    "name": "Buay Pemuka Bangsa Raja",
+    "city_id": 105,
+    "city_name": "kab. oku timur",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1288,
+    "name": "Buay Pemuka Peliung",
+    "city_id": 105,
+    "city_name": "kab. oku timur",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1294,
+    "name": "Bunga Mayang",
+    "city_id": 105,
+    "city_name": "kab. oku timur",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1287,
+    "name": "Cempaka",
+    "city_id": 105,
+    "city_name": "kab. oku timur",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1299,
+    "name": "Jayapura",
+    "city_id": 105,
+    "city_name": "kab. oku timur",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1290,
+    "name": "Madang Suku I",
+    "city_id": 105,
+    "city_name": "kab. oku timur",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1289,
+    "name": "Madang Suku II",
+    "city_id": 105,
+    "city_name": "kab. oku timur",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1296,
+    "name": "Madang Suku III",
+    "city_id": 105,
+    "city_name": "kab. oku timur",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1284,
+    "name": "Martapura",
+    "city_id": 105,
+    "city_name": "kab. oku timur",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1297,
+    "name": "Semendawai Barat",
+    "city_id": 105,
+    "city_name": "kab. oku timur",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1291,
+    "name": "Semendawai Suku III",
+    "city_id": 105,
+    "city_name": "kab. oku timur",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1298,
+    "name": "Semendawai Timur",
+    "city_id": 105,
+    "city_name": "kab. oku timur",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 7215,
+    "name": "Betayau",
+    "city_id": 492,
+    "city_name": "kab tana tidung",
+    "province_id": 34,
+    "province_name": "KALIMANTAN UTARA"
+  },
+  {
+    "id": 7216,
+    "name": "Muruk Rian",
+    "city_id": 492,
+    "city_name": "kab tana tidung",
+    "province_id": 34,
+    "province_name": "KALIMANTAN UTARA"
+  },
+  {
+    "id": 6688,
+    "name": "Sesayap",
+    "city_id": 492,
+    "city_name": "kab tana tidung",
+    "province_id": 34,
+    "province_name": "KALIMANTAN UTARA"
+  },
+  {
+    "id": 6689,
+    "name": "Sesayap Hilir",
+    "city_id": 492,
+    "city_name": "kab tana tidung",
+    "province_id": 34,
+    "province_name": "KALIMANTAN UTARA"
+  },
+  {
+    "id": 6690,
+    "name": "Tana Lia",
+    "city_id": 492,
+    "city_name": "kab tana tidung",
+    "province_id": 34,
+    "province_name": "KALIMANTAN UTARA"
+  }
+]

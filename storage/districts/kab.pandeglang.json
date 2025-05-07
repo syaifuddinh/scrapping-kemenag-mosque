@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1864,
+    "name": "Angsana",
+    "city_id": 156,
+    "city_name": "kab. pandeglang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1877,
+    "name": "Banjar",
+    "city_id": 156,
+    "city_name": "kab. pandeglang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1867,
+    "name": "Bojong",
+    "city_id": 156,
+    "city_name": "kab. pandeglang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1879,
+    "name": "Cadasari",
+    "city_id": 156,
+    "city_name": "kab. pandeglang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1885,
+    "name": "Carita",
+    "city_id": 156,
+    "city_name": "kab. pandeglang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1860,
+    "name": "Cibaliung",
+    "city_id": 156,
+    "city_name": "kab. pandeglang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1884,
+    "name": "Cibitung",
+    "city_id": 156,
+    "city_name": "kab. pandeglang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1862,
+    "name": "Cigeulis",
+    "city_id": 156,
+    "city_name": "kab. pandeglang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1883,
+    "name": "Cikedal",
+    "city_id": 156,
+    "city_name": "kab. pandeglang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1861,
+    "name": "Cikeusik",
+    "city_id": 156,
+    "city_name": "kab. pandeglang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1859,
+    "name": "Cimanggu",
+    "city_id": 156,
+    "city_name": "kab. pandeglang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1875,
+    "name": "Cimanuk",
+    "city_id": 156,
+    "city_name": "kab. pandeglang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1872,
+    "name": "Cipeucang",
+    "city_id": 156,
+    "city_name": "kab. pandeglang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1880,
+    "name": "Cisata",
+    "city_id": 156,
+    "city_name": "kab. pandeglang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1873,
+    "name": "Jiput",
+    "city_id": 156,
+    "city_name": "kab. pandeglang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1876,
+    "name": "Kaduhejo",
+    "city_id": 156,
+    "city_name": "kab. pandeglang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1882,
+    "name": "Karang Tanjung",
+    "city_id": 156,
+    "city_name": "kab. pandeglang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1890,
+    "name": "Koroncong",
+    "city_id": 156,
+    "city_name": "kab. pandeglang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1869,
+    "name": "Labuan",
+    "city_id": 156,
+    "city_name": "kab. pandeglang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1891,
+    "name": "Majasari",
+    "city_id": 156,
+    "city_name": "kab. pandeglang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1874,
+    "name": "Mandalawangi",
+    "city_id": 156,
+    "city_name": "kab. pandeglang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1887,
+    "name": "Mekarjaya",
+    "city_id": 156,
+    "city_name": "kab. pandeglang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1870,
+    "name": "Menes",
+    "city_id": 156,
+    "city_name": "kab. pandeglang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1865,
+    "name": "Munjul",
+    "city_id": 156,
+    "city_name": "kab. pandeglang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1866,
+    "name": "Pagelaran",
+    "city_id": 156,
+    "city_name": "kab. pandeglang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1878,
+    "name": "Pandeglang",
+    "city_id": 156,
+    "city_name": "kab. pandeglang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1863,
+    "name": "Panimbang",
+    "city_id": 156,
+    "city_name": "kab. pandeglang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1881,
+    "name": "Patia",
+    "city_id": 156,
+    "city_name": "kab. pandeglang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1868,
+    "name": "Picung",
+    "city_id": 156,
+    "city_name": "kab. pandeglang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1889,
+    "name": "Pulosari",
+    "city_id": 156,
+    "city_name": "kab. pandeglang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1871,
+    "name": "Saketi",
+    "city_id": 156,
+    "city_name": "kab. pandeglang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1888,
+    "name": "Sindangresmi",
+    "city_id": 156,
+    "city_name": "kab. pandeglang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1892,
+    "name": "Sobang",
+    "city_id": 156,
+    "city_name": "kab. pandeglang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1886,
+    "name": "Sukaresmi",
+    "city_id": 156,
+    "city_name": "kab. pandeglang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1858,
+    "name": "Sumur",
+    "city_id": 156,
+    "city_name": "kab. pandeglang",
+    "province_id": 12,
+    "province_name": "banten"
+  }
+]

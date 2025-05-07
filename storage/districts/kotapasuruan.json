@@ -1,0 +1,34 @@
+[
+  {
+    "id": 3910,
+    "name": "Bugul Kidul",
+    "city_id": 263,
+    "city_name": "kota pasuruan",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3908,
+    "name": "Gadingrejo",
+    "city_id": 263,
+    "city_name": "kota pasuruan",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 6952,
+    "name": "Panggungrejo",
+    "city_id": 263,
+    "city_name": "kota pasuruan",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3909,
+    "name": "Purworejo",
+    "city_id": 263,
+    "city_name": "kota pasuruan",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  }
+]

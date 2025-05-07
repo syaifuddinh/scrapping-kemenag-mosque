@@ -1,0 +1,50 @@
+[
+  {
+    "id": 6388,
+    "name": "Inggerus",
+    "city_id": 465,
+    "city_name": "kab. waropen",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6389,
+    "name": "Kirihi",
+    "city_id": 465,
+    "city_name": "kab. waropen",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6385,
+    "name": "Masirei",
+    "city_id": 465,
+    "city_name": "kab. waropen",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6386,
+    "name": "Risei Sayati",
+    "city_id": 465,
+    "city_name": "kab. waropen",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6387,
+    "name": "Urei Faisei",
+    "city_id": 465,
+    "city_name": "kab. waropen",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6384,
+    "name": "Waropen Bawah",
+    "city_id": 465,
+    "city_name": "kab. waropen",
+    "province_id": 32,
+    "province_name": "papua"
+  }
+]

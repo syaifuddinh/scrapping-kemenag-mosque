@@ -1,0 +1,122 @@
+[
+  {
+    "id": 7155,
+    "name": "Air Hitam",
+    "city_id": 125,
+    "city_name": "kab. lampung barat",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1576,
+    "name": "Balik Bukit",
+    "city_id": 125,
+    "city_name": "kab. lampung barat",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 7159,
+    "name": "Bandar Negeri Suoh",
+    "city_id": 125,
+    "city_name": "kab. lampung barat",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1582,
+    "name": "Batu Brak",
+    "city_id": 125,
+    "city_name": "kab. lampung barat",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 7157,
+    "name": "Batu Ketulis",
+    "city_id": 125,
+    "city_name": "kab. lampung barat",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1578,
+    "name": "Belalau",
+    "city_id": 125,
+    "city_name": "kab. lampung barat",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1587,
+    "name": "Gedung Surian",
+    "city_id": 125,
+    "city_name": "kab. lampung barat",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 7154,
+    "name": "Kebun Tebu",
+    "city_id": 125,
+    "city_name": "kab. lampung barat",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 7158,
+    "name": "Lumbok Seminung",
+    "city_id": 125,
+    "city_name": "kab. lampung barat",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 7156,
+    "name": "Pagar Dewa",
+    "city_id": 125,
+    "city_name": "kab. lampung barat",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1580,
+    "name": "Sekincau",
+    "city_id": 125,
+    "city_name": "kab. lampung barat",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1583,
+    "name": "Sukau",
+    "city_id": 125,
+    "city_name": "kab. lampung barat",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1577,
+    "name": "Sumber Jaya",
+    "city_id": 125,
+    "city_name": "kab. lampung barat",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1581,
+    "name": "Suoh",
+    "city_id": 125,
+    "city_name": "kab. lampung barat",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1579,
+    "name": "Way Tenong",
+    "city_id": 125,
+    "city_name": "kab. lampung barat",
+    "province_id": 8,
+    "province_name": "lampung"
+  }
+]

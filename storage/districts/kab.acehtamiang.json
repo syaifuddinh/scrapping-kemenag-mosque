@@ -1,0 +1,98 @@
+[
+  {
+    "id": 240,
+    "name": "Banda Mulia",
+    "city_id": 16,
+    "city_name": "kab. aceh tamiang",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 241,
+    "name": "Bandar Pusaka",
+    "city_id": 16,
+    "city_name": "kab. aceh tamiang",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 233,
+    "name": "Bendahara",
+    "city_id": 16,
+    "city_name": "kab. aceh tamiang",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 234,
+    "name": "Karang Baru",
+    "city_id": 16,
+    "city_name": "kab. aceh tamiang",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 237,
+    "name": "Kejuruan Muda",
+    "city_id": 16,
+    "city_name": "kab. aceh tamiang",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 236,
+    "name": "Kota Kualasimpang",
+    "city_id": 16,
+    "city_name": "kab. aceh tamiang",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 232,
+    "name": "Manyak Payed",
+    "city_id": 16,
+    "city_name": "kab. aceh tamiang",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 239,
+    "name": "Rantau",
+    "city_id": 16,
+    "city_name": "kab. aceh tamiang",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 243,
+    "name": "Sekerak",
+    "city_id": 16,
+    "city_name": "kab. aceh tamiang",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 235,
+    "name": "Seruway",
+    "city_id": 16,
+    "city_name": "kab. aceh tamiang",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 238,
+    "name": "Tamiang Hulu",
+    "city_id": 16,
+    "city_name": "kab. aceh tamiang",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 242,
+    "name": "Tenggulun",
+    "city_id": 16,
+    "city_name": "kab. aceh tamiang",
+    "province_id": 1,
+    "province_name": "aceh"
+  }
+]

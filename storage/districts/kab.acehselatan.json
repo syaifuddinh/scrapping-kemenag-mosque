@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "name": "Bakongan",
+    "city_id": 1,
+    "city_name": "kab. aceh selatan",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 15,
+    "name": "Bakongan Timur",
+    "city_id": 1,
+    "city_name": "kab. aceh selatan",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 3,
+    "name": "Kluet Selatan",
+    "city_id": 1,
+    "city_name": "kab. aceh selatan",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 13,
+    "name": "Kluet Tengah",
+    "city_id": 1,
+    "city_name": "kab. aceh selatan",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 14,
+    "name": "Kluet Timur",
+    "city_id": 1,
+    "city_name": "kab. aceh selatan",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 2,
+    "name": "Kluet Utara",
+    "city_id": 1,
+    "city_name": "kab. aceh selatan",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 17,
+    "name": "Kota Bahagia",
+    "city_id": 1,
+    "city_name": "kab. aceh selatan",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 4,
+    "name": "Labuhan Haji",
+    "city_id": 1,
+    "city_name": "kab. aceh selatan",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 12,
+    "name": "Labuhan Haji Barat",
+    "city_id": 1,
+    "city_name": "kab. aceh selatan",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 11,
+    "name": "Labuhan Haji Timur",
+    "city_id": 1,
+    "city_name": "kab. aceh selatan",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 5,
+    "name": "Meukek",
+    "city_id": 1,
+    "city_name": "kab. aceh selatan",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 10,
+    "name": "Pasi Raja",
+    "city_id": 1,
+    "city_name": "kab. aceh selatan",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 6,
+    "name": "Samadua",
+    "city_id": 1,
+    "city_name": "kab. aceh selatan",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 7,
+    "name": "Sawang",
+    "city_id": 1,
+    "city_name": "kab. aceh selatan",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 8,
+    "name": "Tapaktuan",
+    "city_id": 1,
+    "city_name": "kab. aceh selatan",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 9,
+    "name": "Trumon",
+    "city_id": 1,
+    "city_name": "kab. aceh selatan",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 18,
+    "name": "Trumon Tengah",
+    "city_id": 1,
+    "city_name": "kab. aceh selatan",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 16,
+    "name": "Trumon Timur",
+    "city_id": 1,
+    "city_name": "kab. aceh selatan",
+    "province_id": 1,
+    "province_name": "aceh"
+  }
+]

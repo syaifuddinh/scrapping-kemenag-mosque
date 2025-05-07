@@ -1,0 +1,410 @@
+[
+  {
+    "id": 6297,
+    "name": "Amuma",
+    "city_id": 463,
+    "city_name": "kab. yahukimo",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6288,
+    "name": "Anggruk",
+    "city_id": 463,
+    "city_name": "kab. yahukimo",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6326,
+    "name": "Bomela",
+    "city_id": 463,
+    "city_name": "kab. yahukimo",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6293,
+    "name": "Dekai",
+    "city_id": 463,
+    "city_name": "kab. yahukimo",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6319,
+    "name": "Dirwemna",
+    "city_id": 463,
+    "city_name": "kab. yahukimo",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6334,
+    "name": "Duram",
+    "city_id": 463,
+    "city_name": "kab. yahukimo",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6317,
+    "name": "Endomen",
+    "city_id": 463,
+    "city_name": "kab. yahukimo",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6313,
+    "name": "Hereapini",
+    "city_id": 463,
+    "city_name": "kab. yahukimo",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6333,
+    "name": "Hilipuk",
+    "city_id": 463,
+    "city_name": "kab. yahukimo",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6300,
+    "name": "Hogio",
+    "city_id": 463,
+    "city_name": "kab. yahukimo",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6320,
+    "name": "Holuon",
+    "city_id": 463,
+    "city_name": "kab. yahukimo",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6330,
+    "name": "Kabianggama",
+    "city_id": 463,
+    "city_name": "kab. yahukimo",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6336,
+    "name": "Kayo",
+    "city_id": 463,
+    "city_name": "kab. yahukimo",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6318,
+    "name": "Kona",
+    "city_id": 463,
+    "city_name": "kab. yahukimo",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6324,
+    "name": "Korupun",
+    "city_id": 463,
+    "city_name": "kab. yahukimo",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6307,
+    "name": "Kosarek",
+    "city_id": 463,
+    "city_name": "kab. yahukimo",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6287,
+    "name": "Kurima",
+    "city_id": 463,
+    "city_name": "kab. yahukimo",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6331,
+    "name": "Kwelemdua",
+    "city_id": 463,
+    "city_name": "kab. yahukimo",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6332,
+    "name": "Kwikma",
+    "city_id": 463,
+    "city_name": "kab. yahukimo",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6325,
+    "name": "Langda",
+    "city_id": 463,
+    "city_name": "kab. yahukimo",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6321,
+    "name": "Lolat",
+    "city_id": 463,
+    "city_name": "kab. yahukimo",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6301,
+    "name": "Mugi",
+    "city_id": 463,
+    "city_name": "kab. yahukimo",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6298,
+    "name": "Musaik",
+    "city_id": 463,
+    "city_name": "kab. yahukimo",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6292,
+    "name": "Nalca",
+    "city_id": 463,
+    "city_name": "kab. yahukimo",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6289,
+    "name": "Ninia",
+    "city_id": 463,
+    "city_name": "kab. yahukimo",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6308,
+    "name": "Nipsan",
+    "city_id": 463,
+    "city_name": "kab. yahukimo",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6294,
+    "name": "Obio",
+    "city_id": 463,
+    "city_name": "kab. yahukimo",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6306,
+    "name": "Panggema",
+    "city_id": 463,
+    "city_name": "kab. yahukimo",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6299,
+    "name": "Pasema",
+    "city_id": 463,
+    "city_name": "kab. yahukimo",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6310,
+    "name": "Pronggoli",
+    "city_id": 463,
+    "city_name": "kab. yahukimo",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6316,
+    "name": "Puldama",
+    "city_id": 463,
+    "city_name": "kab. yahukimo",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6291,
+    "name": "Samenage",
+    "city_id": 463,
+    "city_name": "kab. yahukimo",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6323,
+    "name": "Sela",
+    "city_id": 463,
+    "city_name": "kab. yahukimo",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6328,
+    "name": "Seredela",
+    "city_id": 463,
+    "city_name": "kab. yahukimo",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6290,
+    "name": "Silimo",
+    "city_id": 463,
+    "city_name": "kab. yahukimo",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6302,
+    "name": "Soba",
+    "city_id": 463,
+    "city_name": "kab. yahukimo",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6329,
+    "name": "Sobaham",
+    "city_id": 463,
+    "city_name": "kab. yahukimo",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6322,
+    "name": "Soloikma",
+    "city_id": 463,
+    "city_name": "kab. yahukimo",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6337,
+    "name": "Sumo",
+    "city_id": 463,
+    "city_name": "kab. yahukimo",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6327,
+    "name": "Suntamon",
+    "city_id": 463,
+    "city_name": "kab. yahukimo",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6295,
+    "name": "Suru Suru",
+    "city_id": 463,
+    "city_name": "kab. yahukimo",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6315,
+    "name": "Talambo",
+    "city_id": 463,
+    "city_name": "kab. yahukimo",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6304,
+    "name": "Tangma",
+    "city_id": 463,
+    "city_name": "kab. yahukimo",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6309,
+    "name": "Ubahak",
+    "city_id": 463,
+    "city_name": "kab. yahukimo",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6314,
+    "name": "Ubalihi",
+    "city_id": 463,
+    "city_name": "kab. yahukimo",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6305,
+    "name": "Ukha",
+    "city_id": 463,
+    "city_name": "kab. yahukimo",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6311,
+    "name": "Walma",
+    "city_id": 463,
+    "city_name": "kab. yahukimo",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6303,
+    "name": "Werima",
+    "city_id": 463,
+    "city_name": "kab. yahukimo",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6296,
+    "name": "Wusama",
+    "city_id": 463,
+    "city_name": "kab. yahukimo",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6312,
+    "name": "Yahuliambut",
+    "city_id": 463,
+    "city_name": "kab. yahukimo",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6335,
+    "name": "Yogosem",
+    "city_id": 463,
+    "city_name": "kab. yahukimo",
+    "province_id": 32,
+    "province_name": "papua"
+  }
+]

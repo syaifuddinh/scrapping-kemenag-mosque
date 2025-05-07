@@ -1,0 +1,90 @@
+[
+  {
+    "id": 7088,
+    "name": "Amalatu",
+    "city_id": 436,
+    "city_name": "kab. seram bagian barat",
+    "province_id": 30,
+    "province_name": "maluku"
+  },
+  {
+    "id": 7094,
+    "name": "Elpaputih",
+    "city_id": 436,
+    "city_name": "kab. seram bagian barat",
+    "province_id": 30,
+    "province_name": "maluku"
+  },
+  {
+    "id": 7091,
+    "name": "Huamual",
+    "city_id": 436,
+    "city_name": "kab. seram bagian barat",
+    "province_id": 30,
+    "province_name": "maluku"
+  },
+  {
+    "id": 7089,
+    "name": "Inamosol",
+    "city_id": 436,
+    "city_name": "kab. seram bagian barat",
+    "province_id": 30,
+    "province_name": "maluku"
+  },
+  {
+    "id": 5968,
+    "name": "Kairatu",
+    "city_id": 436,
+    "city_name": "kab. seram bagian barat",
+    "province_id": 30,
+    "province_name": "maluku"
+  },
+  {
+    "id": 7090,
+    "name": "Kairatu Barat",
+    "city_id": 436,
+    "city_name": "kab. seram bagian barat",
+    "province_id": 30,
+    "province_name": "maluku"
+  },
+  {
+    "id": 7092,
+    "name": "Kepulauan Manipa",
+    "city_id": 436,
+    "city_name": "kab. seram bagian barat",
+    "province_id": 30,
+    "province_name": "maluku"
+  },
+  {
+    "id": 5969,
+    "name": "Seram Barat",
+    "city_id": 436,
+    "city_name": "kab. seram bagian barat",
+    "province_id": 30,
+    "province_name": "maluku"
+  },
+  {
+    "id": 5970,
+    "name": "Taniwel",
+    "city_id": 436,
+    "city_name": "kab. seram bagian barat",
+    "province_id": 30,
+    "province_name": "maluku"
+  },
+  {
+    "id": 7093,
+    "name": "Taniwel Timur",
+    "city_id": 436,
+    "city_name": "kab. seram bagian barat",
+    "province_id": 30,
+    "province_name": "maluku"
+  },
+  {
+    "id": 5971,
+    "name": "Waisala",
+    "city_id": 436,
+    "city_name": "kab. seram bagian barat",
+    "province_id": 30,
+    "province_name": "maluku"
+  }
+]

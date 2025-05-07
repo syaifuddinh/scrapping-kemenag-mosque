@@ -1,0 +1,50 @@
+[
+  {
+    "id": 5992,
+    "name": "Ambalau",
+    "city_id": 439,
+    "city_name": "kab. buru selatan",
+    "province_id": 30,
+    "province_name": "maluku"
+  },
+  {
+    "id": 7059,
+    "name": "Fena Fafan",
+    "city_id": 439,
+    "city_name": "kab. buru selatan",
+    "province_id": 30,
+    "province_name": "maluku"
+  },
+  {
+    "id": 5993,
+    "name": "Kepala Madan",
+    "city_id": 439,
+    "city_name": "kab. buru selatan",
+    "province_id": 30,
+    "province_name": "maluku"
+  },
+  {
+    "id": 5994,
+    "name": "Leksula",
+    "city_id": 439,
+    "city_name": "kab. buru selatan",
+    "province_id": 30,
+    "province_name": "maluku"
+  },
+  {
+    "id": 5990,
+    "name": "Namrole",
+    "city_id": 439,
+    "city_name": "kab. buru selatan",
+    "province_id": 30,
+    "province_name": "maluku"
+  },
+  {
+    "id": 5991,
+    "name": "Waesama",
+    "city_id": 439,
+    "city_name": "kab. buru selatan",
+    "province_id": 30,
+    "province_name": "maluku"
+  }
+]

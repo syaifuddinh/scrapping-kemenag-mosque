@@ -1,0 +1,106 @@
+[
+  {
+    "id": 7305,
+    "name": "Bakung Serumpun",
+    "city_id": 146,
+    "city_name": "kab. lingga",
+    "province_id": 10,
+    "province_name": "kepulauan riau"
+  },
+  {
+    "id": 7303,
+    "name": "Katang Bidare",
+    "city_id": 146,
+    "city_name": "kab. lingga",
+    "province_id": 10,
+    "province_name": "kepulauan riau"
+  },
+  {
+    "id": 7232,
+    "name": "Kepulauan Posek",
+    "city_id": 146,
+    "city_name": "kab. lingga",
+    "province_id": 10,
+    "province_name": "kepulauan riau"
+  },
+  {
+    "id": 1787,
+    "name": "Lingga",
+    "city_id": 146,
+    "city_name": "kab. lingga",
+    "province_id": 10,
+    "province_name": "kepulauan riau"
+  },
+  {
+    "id": 6893,
+    "name": "Lingga Timur",
+    "city_id": 146,
+    "city_name": "kab. lingga",
+    "province_id": 10,
+    "province_name": "kepulauan riau"
+  },
+  {
+    "id": 1790,
+    "name": "Lingga Utara",
+    "city_id": 146,
+    "city_name": "kab. lingga",
+    "province_id": 10,
+    "province_name": "kepulauan riau"
+  },
+  {
+    "id": 6894,
+    "name": "Selayar",
+    "city_id": 146,
+    "city_name": "kab. lingga",
+    "province_id": 10,
+    "province_name": "kepulauan riau"
+  },
+  {
+    "id": 1788,
+    "name": "Senayang",
+    "city_id": 146,
+    "city_name": "kab. lingga",
+    "province_id": 10,
+    "province_name": "kepulauan riau"
+  },
+  {
+    "id": 1786,
+    "name": "Singkep",
+    "city_id": 146,
+    "city_name": "kab. lingga",
+    "province_id": 10,
+    "province_name": "kepulauan riau"
+  },
+  {
+    "id": 1789,
+    "name": "Singkep Barat",
+    "city_id": 146,
+    "city_name": "kab. lingga",
+    "province_id": 10,
+    "province_name": "kepulauan riau"
+  },
+  {
+    "id": 6892,
+    "name": "Singkep Pesisir",
+    "city_id": 146,
+    "city_name": "kab. lingga",
+    "province_id": 10,
+    "province_name": "kepulauan riau"
+  },
+  {
+    "id": 7231,
+    "name": "Singkep Selatan",
+    "city_id": 146,
+    "city_name": "kab. lingga",
+    "province_id": 10,
+    "province_name": "kepulauan riau"
+  },
+  {
+    "id": 7304,
+    "name": "Temiang Pesisir",
+    "city_id": 146,
+    "city_name": "kab. lingga",
+    "province_id": 10,
+    "province_name": "kepulauan riau"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": 875,
+    "name": "Pariaman Selatan",
+    "city_id": 75,
+    "city_name": "kota pariaman",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 873,
+    "name": "Pariaman Tengah",
+    "city_id": 75,
+    "city_name": "kota pariaman",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 876,
+    "name": "Pariaman Timur",
+    "city_id": 75,
+    "city_name": "kota pariaman",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 874,
+    "name": "Pariaman Utara",
+    "city_id": 75,
+    "city_name": "kota pariaman",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  }
+]

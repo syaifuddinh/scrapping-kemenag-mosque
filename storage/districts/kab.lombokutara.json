@@ -1,0 +1,42 @@
+[
+  {
+    "id": 4110,
+    "name": "Bayan",
+    "city_id": 284,
+    "city_name": "kab. lombok utara",
+    "province_id": 18,
+    "province_name": "nusa tenggara barat"
+  },
+  {
+    "id": 4108,
+    "name": "Gangga",
+    "city_id": 284,
+    "city_name": "kab. lombok utara",
+    "province_id": 18,
+    "province_name": "nusa tenggara barat"
+  },
+  {
+    "id": 4109,
+    "name": "Kayangan",
+    "city_id": 284,
+    "city_name": "kab. lombok utara",
+    "province_id": 18,
+    "province_name": "nusa tenggara barat"
+  },
+  {
+    "id": 4111,
+    "name": "Pemenang",
+    "city_id": 284,
+    "city_name": "kab. lombok utara",
+    "province_id": 18,
+    "province_name": "nusa tenggara barat"
+  },
+  {
+    "id": 4107,
+    "name": "Tanjung",
+    "city_id": 284,
+    "city_name": "kab. lombok utara",
+    "province_id": 18,
+    "province_name": "nusa tenggara barat"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 4718,
+    "name": "Bukit Batu",
+    "city_id": 335,
+    "city_name": "kota palangkaraya",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 4719,
+    "name": "Jekan Raya",
+    "city_id": 335,
+    "city_name": "kota palangkaraya",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 4717,
+    "name": "Pahandut",
+    "city_id": 335,
+    "city_name": "kota palangkaraya",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 4721,
+    "name": "Rakumpit",
+    "city_id": 335,
+    "city_name": "kota palangkaraya",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 4720,
+    "name": "Sabangau",
+    "city_id": 335,
+    "city_name": "kota palangkaraya",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  }
+]

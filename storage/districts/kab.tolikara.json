@@ -1,0 +1,370 @@
+[
+  {
+    "id": 6365,
+    "name": "Airgaram",
+    "city_id": 464,
+    "city_name": "kab. tolikara",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6373,
+    "name": "Anawi",
+    "city_id": 464,
+    "city_name": "kab. tolikara",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6379,
+    "name": "Aweku",
+    "city_id": 464,
+    "city_name": "kab. tolikara",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6353,
+    "name": "Bewani",
+    "city_id": 464,
+    "city_name": "kab. tolikara",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6382,
+    "name": "Biuk",
+    "city_id": 464,
+    "city_name": "kab. tolikara",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6380,
+    "name": "Bogonuk",
+    "city_id": 464,
+    "city_name": "kab. tolikara",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6339,
+    "name": "Bokondini",
+    "city_id": 464,
+    "city_name": "kab. tolikara",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6352,
+    "name": "Bokoneri",
+    "city_id": 464,
+    "city_name": "kab. tolikara",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6376,
+    "name": "Danime",
+    "city_id": 464,
+    "city_name": "kab. tolikara",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6367,
+    "name": "Dow",
+    "city_id": 464,
+    "city_name": "kab. tolikara",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6360,
+    "name": "Dundu",
+    "city_id": 464,
+    "city_name": "kab. tolikara",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6362,
+    "name": "Egiam",
+    "city_id": 464,
+    "city_name": "kab. tolikara",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6361,
+    "name": "Geya",
+    "city_id": 464,
+    "city_name": "kab. tolikara",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6371,
+    "name": "Gika",
+    "city_id": 464,
+    "city_name": "kab. tolikara",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6355,
+    "name": "Gilubandu",
+    "city_id": 464,
+    "city_name": "kab. tolikara",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6342,
+    "name": "Goyage",
+    "city_id": 464,
+    "city_name": "kab. tolikara",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6357,
+    "name": "Gundagi",
+    "city_id": 464,
+    "city_name": "kab. tolikara",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6378,
+    "name": "Kai",
+    "city_id": 464,
+    "city_name": "kab. tolikara",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6364,
+    "name": "Kamboneri",
+    "city_id": 464,
+    "city_name": "kab. tolikara",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6340,
+    "name": "Kanggime",
+    "city_id": 464,
+    "city_name": "kab. tolikara",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6338,
+    "name": "Karubaga",
+    "city_id": 464,
+    "city_name": "kab. tolikara",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6341,
+    "name": "Kembu",
+    "city_id": 464,
+    "city_name": "kab. tolikara",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6349,
+    "name": "Konda/ Kondaga",
+    "city_id": 464,
+    "city_name": "kab. tolikara",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6351,
+    "name": "Kuari",
+    "city_id": 464,
+    "city_name": "kab. tolikara",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6348,
+    "name": "Kubu",
+    "city_id": 464,
+    "city_name": "kab. tolikara",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6381,
+    "name": "Li Anogomma",
+    "city_id": 464,
+    "city_name": "kab. tolikara",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6354,
+    "name": "Nabunage",
+    "city_id": 464,
+    "city_name": "kab. tolikara",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6350,
+    "name": "Nelawi",
+    "city_id": 464,
+    "city_name": "kab. tolikara",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6358,
+    "name": "Numba",
+    "city_id": 464,
+    "city_name": "kab. tolikara",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6356,
+    "name": "Nunggawi",
+    "city_id": 464,
+    "city_name": "kab. tolikara",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6346,
+    "name": "Panaga",
+    "city_id": 464,
+    "city_name": "kab. tolikara",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6363,
+    "name": "Poganeri",
+    "city_id": 464,
+    "city_name": "kab. tolikara",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6377,
+    "name": "Tagime",
+    "city_id": 464,
+    "city_name": "kab. tolikara",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6368,
+    "name": "Tagineri",
+    "city_id": 464,
+    "city_name": "kab. tolikara",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6372,
+    "name": "Telenggeme",
+    "city_id": 464,
+    "city_name": "kab. tolikara",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6359,
+    "name": "Timori",
+    "city_id": 464,
+    "city_name": "kab. tolikara",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6345,
+    "name": "Umagi",
+    "city_id": 464,
+    "city_name": "kab. tolikara",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6370,
+    "name": "Wakuwo",
+    "city_id": 464,
+    "city_name": "kab. tolikara",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6366,
+    "name": "Wari/Taiyeve II",
+    "city_id": 464,
+    "city_name": "kab. tolikara",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6374,
+    "name": "Wenam",
+    "city_id": 464,
+    "city_name": "kab. tolikara",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6344,
+    "name": "Wina",
+    "city_id": 464,
+    "city_name": "kab. tolikara",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6347,
+    "name": "Woniki",
+    "city_id": 464,
+    "city_name": "kab. tolikara",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6375,
+    "name": "Wugi",
+    "city_id": 464,
+    "city_name": "kab. tolikara",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6343,
+    "name": "Wunim",
+    "city_id": 464,
+    "city_name": "kab. tolikara",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6383,
+    "name": "Yuko",
+    "city_id": 464,
+    "city_name": "kab. tolikara",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6369,
+    "name": "Yuneri",
+    "city_id": 464,
+    "city_name": "kab. tolikara",
+    "province_id": 32,
+    "province_name": "papua"
+  }
+]

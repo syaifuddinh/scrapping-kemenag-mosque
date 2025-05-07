@@ -1,0 +1,82 @@
+[
+  {
+    "id": 6480,
+    "name": "Dogiyai",
+    "city_id": 476,
+    "city_name": "kab. dogiyai",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6471,
+    "name": "Kamu",
+    "city_id": 476,
+    "city_name": "kab. dogiyai",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6477,
+    "name": "Kamu Selatan",
+    "city_id": 476,
+    "city_name": "kab. dogiyai",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6478,
+    "name": "Kamu Timur",
+    "city_id": 476,
+    "city_name": "kab. dogiyai",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6474,
+    "name": "Kamu Utara",
+    "city_id": 476,
+    "city_name": "kab. dogiyai",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6472,
+    "name": "Mapia",
+    "city_id": 476,
+    "city_name": "kab. dogiyai",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6476,
+    "name": "Mapia Barat",
+    "city_id": 476,
+    "city_name": "kab. dogiyai",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6479,
+    "name": "Mapia Tengah",
+    "city_id": 476,
+    "city_name": "kab. dogiyai",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6473,
+    "name": "Piyaiye",
+    "city_id": 476,
+    "city_name": "kab. dogiyai",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6475,
+    "name": "Sukikai Selatan",
+    "city_id": 476,
+    "city_name": "kab. dogiyai",
+    "province_id": 32,
+    "province_name": "papua"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 465,
+    "name": "Bilah Barat",
+    "city_id": 33,
+    "city_name": "kab. labuhanbatu",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 466,
+    "name": "Bilah Hilir",
+    "city_id": 33,
+    "city_name": "kab. labuhanbatu",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 467,
+    "name": "Bilah Hulu",
+    "city_id": 33,
+    "city_name": "kab. labuhanbatu",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 470,
+    "name": "Panai Hilir",
+    "city_id": 33,
+    "city_name": "kab. labuhanbatu",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 471,
+    "name": "Panai Hulu",
+    "city_id": 33,
+    "city_name": "kab. labuhanbatu",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 469,
+    "name": "Panai Tengah",
+    "city_id": 33,
+    "city_name": "kab. labuhanbatu",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 468,
+    "name": "Pangkatan",
+    "city_id": 33,
+    "city_name": "kab. labuhanbatu",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 464,
+    "name": "Rantau Selatan",
+    "city_id": 33,
+    "city_name": "kab. labuhanbatu",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 463,
+    "name": "Rantau Utara",
+    "city_id": 33,
+    "city_name": "kab. labuhanbatu",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  }
+]

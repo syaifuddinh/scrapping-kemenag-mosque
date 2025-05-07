@@ -1,0 +1,42 @@
+[
+  {
+    "id": 4385,
+    "name": "Katiku Tana",
+    "city_id": 303,
+    "city_name": "kab. sumba tengah",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4389,
+    "name": "Katiku Tana Selatan",
+    "city_id": 303,
+    "city_name": "kab. sumba tengah",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4387,
+    "name": "Mamboro",
+    "city_id": 303,
+    "city_name": "kab. sumba tengah",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4388,
+    "name": "Umbu Ratu Nggay",
+    "city_id": 303,
+    "city_name": "kab. sumba tengah",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4386,
+    "name": "Umbu Ratu Nggay Barat",
+    "city_id": 303,
+    "city_name": "kab. sumba tengah",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  }
+]

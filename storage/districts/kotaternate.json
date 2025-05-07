@@ -1,0 +1,58 @@
+[
+  {
+    "id": 6102,
+    "name": "Kota Ternate Selatan",
+    "city_id": 449,
+    "city_name": "kota ternate",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6106,
+    "name": "Kota Ternate Tengah",
+    "city_id": 449,
+    "city_name": "kota ternate",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6103,
+    "name": "Kota Ternate Utara",
+    "city_id": 449,
+    "city_name": "kota ternate",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6105,
+    "name": "Pulau Batang Dua",
+    "city_id": 449,
+    "city_name": "kota ternate",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6107,
+    "name": "Pulau Hiri",
+    "city_id": 449,
+    "city_name": "kota ternate",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6104,
+    "name": "Pulau Moti",
+    "city_id": 449,
+    "city_name": "kota ternate",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6101,
+    "name": "Pulau Ternate",
+    "city_id": 449,
+    "city_name": "kota ternate",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  }
+]

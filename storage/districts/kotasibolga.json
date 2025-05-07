@@ -1,0 +1,34 @@
+[
+  {
+    "id": 670,
+    "name": "Sibolga Kota",
+    "city_id": 51,
+    "city_name": "kota sibolga",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 672,
+    "name": "Sibolga Sambas",
+    "city_id": 51,
+    "city_name": "kota sibolga",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 671,
+    "name": "Sibolga Selatan",
+    "city_id": 51,
+    "city_name": "kota sibolga",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 669,
+    "name": "Sibolga Utara",
+    "city_id": 51,
+    "city_name": "kota sibolga",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  }
+]

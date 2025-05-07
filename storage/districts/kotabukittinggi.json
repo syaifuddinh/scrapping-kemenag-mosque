@@ -1,0 +1,26 @@
+[
+  {
+    "id": 867,
+    "name": "Aur Birugo Tigo Baleh",
+    "city_id": 73,
+    "city_name": "kota bukittinggi",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 865,
+    "name": "Guguak Panjang",
+    "city_id": 73,
+    "city_name": "kota bukittinggi",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 866,
+    "name": "Mandiangin K. Selayan",
+    "city_id": 73,
+    "city_name": "kota bukittinggi",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  }
+]

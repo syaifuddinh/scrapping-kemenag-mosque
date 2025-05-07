@@ -1,0 +1,90 @@
+[
+  {
+    "id": 7153,
+    "name": "Bengkunat Belimbing",
+    "city_id": 517,
+    "city_name": "kab. pesisir barat",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 7147,
+    "name": "Karya Penggawa",
+    "city_id": 517,
+    "city_name": "kab. pesisir barat",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 7150,
+    "name": "Krui Selatan",
+    "city_id": 517,
+    "city_name": "kab. pesisir barat",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 7145,
+    "name": "Lemong",
+    "city_id": 517,
+    "city_name": "kab. pesisir barat",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 7151,
+    "name": "Ngambur",
+    "city_id": 517,
+    "city_name": "kab. pesisir barat",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 7152,
+    "name": "Ngaras",
+    "city_id": 517,
+    "city_name": "kab. pesisir barat",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 7144,
+    "name": "Pesisir Selatan",
+    "city_id": 517,
+    "city_name": "kab. pesisir barat",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 7143,
+    "name": "Pesisir Tengah",
+    "city_id": 517,
+    "city_name": "kab. pesisir barat",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 7146,
+    "name": "Pesisir Utara",
+    "city_id": 517,
+    "city_name": "kab. pesisir barat",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 7148,
+    "name": "Pulaupisang",
+    "city_id": 517,
+    "city_name": "kab. pesisir barat",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 7149,
+    "name": "Way Krui",
+    "city_id": 517,
+    "city_name": "kab. pesisir barat",
+    "province_id": 8,
+    "province_name": "lampung"
+  }
+]

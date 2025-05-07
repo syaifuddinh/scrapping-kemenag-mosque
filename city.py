@@ -7,7 +7,7 @@ from concurrent.futures import ThreadPoolExecutor
 import json
 import os
 
-max_workers = 3
+max_workers = 15
 
 def setup_driver():
     # Configure Chrome options

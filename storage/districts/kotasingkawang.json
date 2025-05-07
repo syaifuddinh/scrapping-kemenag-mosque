@@ -1,0 +1,42 @@
+[
+  {
+    "id": 4587,
+    "name": "Singkawang Barat",
+    "city_id": 321,
+    "city_name": "kota singkawang",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4590,
+    "name": "Singkawang Selatan",
+    "city_id": 321,
+    "city_name": "kota singkawang",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4586,
+    "name": "Singkawang Tengah",
+    "city_id": 321,
+    "city_name": "kota singkawang",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4588,
+    "name": "Singkawang Timur",
+    "city_id": 321,
+    "city_name": "kota singkawang",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4589,
+    "name": "Singkawang Utara",
+    "city_id": 321,
+    "city_name": "kota singkawang",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  }
+]

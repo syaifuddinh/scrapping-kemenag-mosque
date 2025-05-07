@@ -1,0 +1,90 @@
+[
+  {
+    "id": 5194,
+    "name": "Biau",
+    "city_id": 377,
+    "city_name": "kab. buol",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 5191,
+    "name": "Bokat",
+    "city_id": 377,
+    "city_name": "kab. buol",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 5196,
+    "name": "Bukal",
+    "city_id": 377,
+    "city_name": "kab. buol",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 5192,
+    "name": "Bunobogu",
+    "city_id": 377,
+    "city_name": "kab. buol",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 5197,
+    "name": "Gadung",
+    "city_id": 377,
+    "city_name": "kab. buol",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 5198,
+    "name": "Karamat",
+    "city_id": 377,
+    "city_name": "kab. buol",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 5190,
+    "name": "Lakea",
+    "city_id": 377,
+    "city_name": "kab. buol",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 5189,
+    "name": "Momunu",
+    "city_id": 377,
+    "city_name": "kab. buol",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 5193,
+    "name": "Paleleh",
+    "city_id": 377,
+    "city_name": "kab. buol",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 5199,
+    "name": "Paleleh Barat",
+    "city_id": 377,
+    "city_name": "kab. buol",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 5195,
+    "name": "Tiloan",
+    "city_id": 377,
+    "city_name": "kab. buol",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  }
+]

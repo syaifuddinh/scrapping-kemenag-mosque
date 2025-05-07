@@ -1,0 +1,66 @@
+[
+  {
+    "id": 6006,
+    "name": "Ibu",
+    "city_id": 442,
+    "city_name": "kab. halmahera barat",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6010,
+    "name": "Ibu Selatan",
+    "city_id": 442,
+    "city_name": "kab. halmahera barat",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6009,
+    "name": "Ibu Utara",
+    "city_id": 442,
+    "city_name": "kab. halmahera barat",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6004,
+    "name": "Jailolo",
+    "city_id": 442,
+    "city_name": "kab. halmahera barat",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6008,
+    "name": "Jailolo Selatan",
+    "city_id": 442,
+    "city_name": "kab. halmahera barat",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6005,
+    "name": "Loloda",
+    "city_id": 442,
+    "city_name": "kab. halmahera barat",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6007,
+    "name": "Sahu",
+    "city_id": 442,
+    "city_name": "kab. halmahera barat",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6011,
+    "name": "Sahu Timur",
+    "city_id": 442,
+    "city_name": "kab. halmahera barat",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  }
+]

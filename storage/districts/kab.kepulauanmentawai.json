@@ -1,0 +1,82 @@
+[
+  {
+    "id": 816,
+    "name": "Pagai Selatan",
+    "city_id": 65,
+    "city_name": "kab. kepulauan mentawai",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 807,
+    "name": "Pagai Utara",
+    "city_id": 65,
+    "city_name": "kab. kepulauan mentawai",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 811,
+    "name": "Siberut Barat",
+    "city_id": 65,
+    "city_name": "kab. kepulauan mentawai",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 812,
+    "name": "Siberut Barat Daya",
+    "city_id": 65,
+    "city_name": "kab. kepulauan mentawai",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 809,
+    "name": "Siberut Selatan",
+    "city_id": 65,
+    "city_name": "kab. kepulauan mentawai",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 813,
+    "name": "Siberut Tengah",
+    "city_id": 65,
+    "city_name": "kab. kepulauan mentawai",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 810,
+    "name": "Siberut Utara",
+    "city_id": 65,
+    "city_name": "kab. kepulauan mentawai",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 815,
+    "name": "Sikakap",
+    "city_id": 65,
+    "city_name": "kab. kepulauan mentawai",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 808,
+    "name": "Sipora Selatan",
+    "city_id": 65,
+    "city_name": "kab. kepulauan mentawai",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 814,
+    "name": "Sipora Utara",
+    "city_id": 65,
+    "city_name": "kab. kepulauan mentawai",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  }
+]

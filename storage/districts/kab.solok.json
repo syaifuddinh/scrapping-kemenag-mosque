@@ -1,0 +1,114 @@
+[
+  {
+    "id": 718,
+    "name": "Bukit Sundi",
+    "city_id": 58,
+    "city_name": "kab. solok",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 726,
+    "name": "Danau Kembar",
+    "city_id": 58,
+    "city_name": "kab. solok",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 717,
+    "name": "Gunung Talang",
+    "city_id": 58,
+    "city_name": "kab. solok",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 724,
+    "name": "Hiliran Gumanti",
+    "city_id": 58,
+    "city_name": "kab. solok",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 719,
+    "name": "IX Koto Sei Lasi",
+    "city_id": 58,
+    "city_name": "kab. solok",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 723,
+    "name": "Junjung Siri",
+    "city_id": 58,
+    "city_name": "kab. solok",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 720,
+    "name": "Kubung",
+    "city_id": 58,
+    "city_name": "kab. solok",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 714,
+    "name": "Lembah Gumanti",
+    "city_id": 58,
+    "city_name": "kab. solok",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 716,
+    "name": "Lembang Jaya",
+    "city_id": 58,
+    "city_name": "kab. solok",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 713,
+    "name": "Pantai Cermin",
+    "city_id": 58,
+    "city_name": "kab. solok",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 715,
+    "name": "Payung Sekaki",
+    "city_id": 58,
+    "city_name": "kab. solok",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 725,
+    "name": "Tigo Lurah",
+    "city_id": 58,
+    "city_name": "kab. solok",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 722,
+    "name": "X Koto Diatas",
+    "city_id": 58,
+    "city_name": "kab. solok",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 721,
+    "name": "X Koto Singkarak",
+    "city_id": 58,
+    "city_name": "kab. solok",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  }
+]

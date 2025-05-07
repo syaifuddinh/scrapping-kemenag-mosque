@@ -1,0 +1,58 @@
+[
+  {
+    "id": 830,
+    "name": "Koto Parik Gadang Diateh",
+    "city_id": 67,
+    "city_name": "kab. solok selatan",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 833,
+    "name": "Pauh Duo",
+    "city_id": 67,
+    "city_name": "kab. solok selatan",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 828,
+    "name": "Sangir",
+    "city_id": 67,
+    "city_name": "kab. solok selatan",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 834,
+    "name": "Sangir Balai Janggo",
+    "city_id": 67,
+    "city_name": "kab. solok selatan",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 832,
+    "name": "Sangir Batang Hari",
+    "city_id": 67,
+    "city_name": "kab. solok selatan",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 831,
+    "name": "Sangir Jujuan",
+    "city_id": 67,
+    "city_name": "kab. solok selatan",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 829,
+    "name": "Sungai Pagu",
+    "city_id": 67,
+    "city_name": "kab. solok selatan",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  }
+]

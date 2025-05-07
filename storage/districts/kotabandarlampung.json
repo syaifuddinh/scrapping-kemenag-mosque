@@ -1,0 +1,162 @@
+[
+  {
+    "id": 7142,
+    "name": "Bumi Waras",
+    "city_id": 134,
+    "city_name": "kota bandar lampung",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 7139,
+    "name": "Enggal",
+    "city_id": 134,
+    "city_name": "kota bandar lampung",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 7140,
+    "name": "Kedamaian",
+    "city_id": 134,
+    "city_name": "kota bandar lampung",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1693,
+    "name": "Kedaton",
+    "city_id": 134,
+    "city_name": "kota bandar lampung",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1705,
+    "name": "Kemiling",
+    "city_id": 134,
+    "city_name": "kota bandar lampung",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 7136,
+    "name": "Labuhan Ratu",
+    "city_id": 134,
+    "city_name": "kota bandar lampung",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 7138,
+    "name": "Langkapura",
+    "city_id": 134,
+    "city_name": "kota bandar lampung",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1696,
+    "name": "Panjang",
+    "city_id": 134,
+    "city_name": "kota bandar lampung",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1702,
+    "name": "Rajabasa",
+    "city_id": 134,
+    "city_name": "kota bandar lampung",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1704,
+    "name": "Sukabumi",
+    "city_id": 134,
+    "city_name": "kota bandar lampung",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1694,
+    "name": "Sukarame",
+    "city_id": 134,
+    "city_name": "kota bandar lampung",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1703,
+    "name": "Tanjung Senang",
+    "city_id": 134,
+    "city_name": "kota bandar lampung",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1695,
+    "name": "Tanjungkarang Barat",
+    "city_id": 134,
+    "city_name": "kota bandar lampung",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1698,
+    "name": "Tanjungkarang Pusat",
+    "city_id": 134,
+    "city_name": "kota bandar lampung",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1697,
+    "name": "Tanjungkarang Timur",
+    "city_id": 134,
+    "city_name": "kota bandar lampung",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1700,
+    "name": "Telukbetung Barat",
+    "city_id": 134,
+    "city_name": "kota bandar lampung",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1699,
+    "name": "Telukbetung Selatan",
+    "city_id": 134,
+    "city_name": "kota bandar lampung",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 7141,
+    "name": "Telukbetung Timur",
+    "city_id": 134,
+    "city_name": "kota bandar lampung",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1701,
+    "name": "Telukbetung Utara",
+    "city_id": 134,
+    "city_name": "kota bandar lampung",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 7137,
+    "name": "Way Halim",
+    "city_id": 134,
+    "city_name": "kota bandar lampung",
+    "province_id": 8,
+    "province_name": "lampung"
+  }
+]

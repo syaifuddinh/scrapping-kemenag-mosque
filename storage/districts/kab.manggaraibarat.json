@@ -1,0 +1,82 @@
+[
+  {
+    "id": 4373,
+    "name": "Boleng",
+    "city_id": 301,
+    "city_name": "kab. manggarai barat",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4372,
+    "name": "Komodo",
+    "city_id": 301,
+    "city_name": "kab. manggarai barat",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4369,
+    "name": "Kuwus",
+    "city_id": 301,
+    "city_name": "kab. manggarai barat",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4370,
+    "name": "Lembor",
+    "city_id": 301,
+    "city_name": "kab. manggarai barat",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4376,
+    "name": "Lembor Selatan",
+    "city_id": 301,
+    "city_name": "kab. manggarai barat",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4368,
+    "name": "Macang Pacar",
+    "city_id": 301,
+    "city_name": "kab. manggarai barat",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4377,
+    "name": "Mbeliling",
+    "city_id": 301,
+    "city_name": "kab. manggarai barat",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4375,
+    "name": "Ndoso",
+    "city_id": 301,
+    "city_name": "kab. manggarai barat",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4371,
+    "name": "Sano Nggoang",
+    "city_id": 301,
+    "city_name": "kab. manggarai barat",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4374,
+    "name": "Welak",
+    "city_id": 301,
+    "city_name": "kab. manggarai barat",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  }
+]

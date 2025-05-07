@@ -1,0 +1,90 @@
+[
+  {
+    "id": 4731,
+    "name": "Bajuin",
+    "city_id": 336,
+    "city_name": "kab. tanah laut",
+    "province_id": 22,
+    "province_name": "kalimantan selatan"
+  },
+  {
+    "id": 4726,
+    "name": "Bati Bati",
+    "city_id": 336,
+    "city_name": "kab. tanah laut",
+    "province_id": 22,
+    "province_name": "kalimantan selatan"
+  },
+  {
+    "id": 4730,
+    "name": "Batu Ampar",
+    "city_id": 336,
+    "city_name": "kab. tanah laut",
+    "province_id": 22,
+    "province_name": "kalimantan selatan"
+  },
+  {
+    "id": 4732,
+    "name": "Bumi Makmur",
+    "city_id": 336,
+    "city_name": "kab. tanah laut",
+    "province_id": 22,
+    "province_name": "kalimantan selatan"
+  },
+  {
+    "id": 4723,
+    "name": "Jorong",
+    "city_id": 336,
+    "city_name": "kab. tanah laut",
+    "province_id": 22,
+    "province_name": "kalimantan selatan"
+  },
+  {
+    "id": 4728,
+    "name": "Kintap",
+    "city_id": 336,
+    "city_name": "kab. tanah laut",
+    "province_id": 22,
+    "province_name": "kalimantan selatan"
+  },
+  {
+    "id": 4725,
+    "name": "Kurau",
+    "city_id": 336,
+    "city_name": "kab. tanah laut",
+    "province_id": 22,
+    "province_name": "kalimantan selatan"
+  },
+  {
+    "id": 4727,
+    "name": "Panyipatan",
+    "city_id": 336,
+    "city_name": "kab. tanah laut",
+    "province_id": 22,
+    "province_name": "kalimantan selatan"
+  },
+  {
+    "id": 4724,
+    "name": "Pelaihari",
+    "city_id": 336,
+    "city_name": "kab. tanah laut",
+    "province_id": 22,
+    "province_name": "kalimantan selatan"
+  },
+  {
+    "id": 4722,
+    "name": "Takisung",
+    "city_id": 336,
+    "city_name": "kab. tanah laut",
+    "province_id": 22,
+    "province_name": "kalimantan selatan"
+  },
+  {
+    "id": 4729,
+    "name": "Tambang Ulang",
+    "city_id": 336,
+    "city_name": "kab. tanah laut",
+    "province_id": 22,
+    "province_name": "kalimantan selatan"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 165,
+    "name": "Alapan",
+    "city_id": 9,
+    "city_name": "kab. simeulue",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 159,
+    "name": "Salang",
+    "city_id": 9,
+    "city_name": "kab. simeulue",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 163,
+    "name": "Simeulue Barat",
+    "city_id": 9,
+    "city_name": "kab. simeulue",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 7098,
+    "name": "Simeulue Cut",
+    "city_id": 9,
+    "city_name": "kab. simeulue",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 158,
+    "name": "Simeulue Tengah",
+    "city_id": 9,
+    "city_name": "kab. simeulue",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 161,
+    "name": "Simeulue Timur",
+    "city_id": 9,
+    "city_name": "kab. simeulue",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 162,
+    "name": "Teluk Dalam",
+    "city_id": 9,
+    "city_name": "kab. simeulue",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 160,
+    "name": "Teupah Barat",
+    "city_id": 9,
+    "city_name": "kab. simeulue",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 164,
+    "name": "Teupah Selatan",
+    "city_id": 9,
+    "city_name": "kab. simeulue",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 7097,
+    "name": "Teupah Tengah",
+    "city_id": 9,
+    "city_name": "kab. simeulue",
+    "province_id": 1,
+    "province_name": "aceh"
+  }
+]

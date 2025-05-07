@@ -1,0 +1,98 @@
+[
+  {
+    "id": 5461,
+    "name": "Batu Lappa",
+    "city_id": 398,
+    "city_name": "kab. pinrang",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5457,
+    "name": "Cempa",
+    "city_id": 398,
+    "city_name": "kab. pinrang",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5455,
+    "name": "Duampanua",
+    "city_id": 398,
+    "city_name": "kab. pinrang",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5459,
+    "name": "Lanrisang",
+    "city_id": 398,
+    "city_name": "kab. pinrang",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5456,
+    "name": "Lembang",
+    "city_id": 398,
+    "city_name": "kab. pinrang",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5450,
+    "name": "Matirro Sompe",
+    "city_id": 398,
+    "city_name": "kab. pinrang",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5452,
+    "name": "Mattiro Bulu",
+    "city_id": 398,
+    "city_name": "kab. pinrang",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5460,
+    "name": "Paleteang",
+    "city_id": 398,
+    "city_name": "kab. pinrang",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5454,
+    "name": "Patampanua",
+    "city_id": 398,
+    "city_name": "kab. pinrang",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5451,
+    "name": "Suppa",
+    "city_id": 398,
+    "city_name": "kab. pinrang",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5458,
+    "name": "Tiroang",
+    "city_id": 398,
+    "city_name": "kab. pinrang",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5453,
+    "name": "Watang Sawito",
+    "city_id": 398,
+    "city_name": "kab. pinrang",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  }
+]

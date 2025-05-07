@@ -1,0 +1,106 @@
+[
+  {
+    "id": 4539,
+    "name": "Air Besar",
+    "city_id": 315,
+    "city_name": "kab. landak",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4546,
+    "name": "Banyuke Hulu",
+    "city_id": 315,
+    "city_name": "kab. landak",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4545,
+    "name": "Jelimpo",
+    "city_id": 315,
+    "city_name": "kab. landak",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4543,
+    "name": "Kuala Behe",
+    "city_id": 315,
+    "city_name": "kab. landak",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4538,
+    "name": "Mandor",
+    "city_id": 315,
+    "city_name": "kab. landak",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4536,
+    "name": "Mempawah Hulu",
+    "city_id": 315,
+    "city_name": "kab. landak",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4537,
+    "name": "Menjalin",
+    "city_id": 315,
+    "city_name": "kab. landak",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4540,
+    "name": "Menyuke",
+    "city_id": 315,
+    "city_name": "kab. landak",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4542,
+    "name": "Meranti",
+    "city_id": 315,
+    "city_name": "kab. landak",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4535,
+    "name": "Ngabang",
+    "city_id": 315,
+    "city_name": "kab. landak",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4544,
+    "name": "Sebangki",
+    "city_id": 315,
+    "city_name": "kab. landak",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4541,
+    "name": "Sengah Temila",
+    "city_id": 315,
+    "city_name": "kab. landak",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4547,
+    "name": "Sompak",
+    "city_id": 315,
+    "city_name": "kab. landak",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  }
+]

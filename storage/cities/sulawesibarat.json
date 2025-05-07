@@ -1,0 +1,38 @@
+[
+  {
+    "id": 426,
+    "name": "Kab. Pasangkayu",
+    "province_id": 29,
+    "province_name": "sulawesi barat"
+  },
+  {
+    "id": 427,
+    "name": "Kab. Mamuju",
+    "province_id": 29,
+    "province_name": "sulawesi barat"
+  },
+  {
+    "id": 428,
+    "name": "Kab. Mamasa",
+    "province_id": 29,
+    "province_name": "sulawesi barat"
+  },
+  {
+    "id": 429,
+    "name": "Kab. Polewali Mandar",
+    "province_id": 29,
+    "province_name": "sulawesi barat"
+  },
+  {
+    "id": 430,
+    "name": "Kab. Majene",
+    "province_id": 29,
+    "province_name": "sulawesi barat"
+  },
+  {
+    "id": 526,
+    "name": "Kab. Mamuju Tengah",
+    "province_id": 29,
+    "province_name": "sulawesi barat"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 7263,
+    "name": "Wawonii Barat",
+    "city_id": 522,
+    "city_name": "kab. konawe kepulauan",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 7268,
+    "name": "Wawonii Selatan",
+    "city_id": 522,
+    "city_name": "kab. konawe kepulauan",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 7269,
+    "name": "Wawonii Tengah",
+    "city_id": 522,
+    "city_name": "kab. konawe kepulauan",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 7267,
+    "name": "Wawonii Tenggara",
+    "city_id": 522,
+    "city_name": "kab. konawe kepulauan",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 7266,
+    "name": "Wawonii Timur",
+    "city_id": 522,
+    "city_name": "kab. konawe kepulauan",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 7265,
+    "name": "Wawonii Timur Laut",
+    "city_id": 522,
+    "city_name": "kab. konawe kepulauan",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 7264,
+    "name": "Wawonii Utara",
+    "city_id": 522,
+    "city_name": "kab. konawe kepulauan",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  }
+]

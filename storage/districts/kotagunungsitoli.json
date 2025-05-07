@@ -1,0 +1,50 @@
+[
+  {
+    "id": 700,
+    "name": "Gunugsitoli Idanoi",
+    "city_id": 56,
+    "city_name": "kota gunungsitoli",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 697,
+    "name": "Gunungsitoli",
+    "city_id": 56,
+    "city_name": "kota gunungsitoli",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 696,
+    "name": "Gunungsitoli Alo'oa",
+    "city_id": 56,
+    "city_name": "kota gunungsitoli",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 699,
+    "name": "Gunungsitoli Barat",
+    "city_id": 56,
+    "city_name": "kota gunungsitoli",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 698,
+    "name": "Gunungsitoli Selatan",
+    "city_id": 56,
+    "city_name": "kota gunungsitoli",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 695,
+    "name": "Gunungsitoli Utara",
+    "city_id": 56,
+    "city_name": "kota gunungsitoli",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  }
+]

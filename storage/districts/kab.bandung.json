@@ -1,0 +1,250 @@
+[
+  {
+    "id": 2142,
+    "name": "Arjasari",
+    "city_id": 167,
+    "city_name": "kab. bandung",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2151,
+    "name": "Baleendah",
+    "city_id": 167,
+    "city_name": "kab. bandung",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2139,
+    "name": "Banjaran",
+    "city_id": 167,
+    "city_name": "kab. bandung",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2134,
+    "name": "Bojongsoang",
+    "city_id": 167,
+    "city_name": "kab. bandung",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2160,
+    "name": "Cangkuang",
+    "city_id": 167,
+    "city_name": "kab. bandung",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2144,
+    "name": "Cicalengka",
+    "city_id": 167,
+    "city_name": "kab. bandung",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2146,
+    "name": "Cikancung",
+    "city_id": 167,
+    "city_name": "kab. bandung",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2133,
+    "name": "Cilengkrang",
+    "city_id": 167,
+    "city_name": "kab. bandung",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2131,
+    "name": "Cileunyi",
+    "city_id": 167,
+    "city_name": "kab. bandung",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2143,
+    "name": "Cimaung",
+    "city_id": 167,
+    "city_name": "kab. bandung",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2132,
+    "name": "Cimenyan",
+    "city_id": 167,
+    "city_name": "kab. bandung",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2148,
+    "name": "Ciparay",
+    "city_id": 167,
+    "city_name": "kab. bandung",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2158,
+    "name": "Ciwidey",
+    "city_id": 167,
+    "city_name": "kab. bandung",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2138,
+    "name": "Dayeuhkolot",
+    "city_id": 167,
+    "city_name": "kab. bandung",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2155,
+    "name": "Ibun",
+    "city_id": 167,
+    "city_name": "kab. bandung",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2137,
+    "name": "Katapang",
+    "city_id": 167,
+    "city_name": "kab. bandung",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2150,
+    "name": "Kertasari",
+    "city_id": 167,
+    "city_name": "kab. bandung",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2161,
+    "name": "Kutawaringin",
+    "city_id": 167,
+    "city_name": "kab. bandung",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2152,
+    "name": "Majalaya",
+    "city_id": 167,
+    "city_name": "kab. bandung",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2136,
+    "name": "Margaasih",
+    "city_id": 167,
+    "city_name": "kab. bandung",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2135,
+    "name": "Margahayu",
+    "city_id": 167,
+    "city_name": "kab. bandung",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2145,
+    "name": "Nagreg",
+    "city_id": 167,
+    "city_name": "kab. bandung",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2149,
+    "name": "Pacet",
+    "city_id": 167,
+    "city_name": "kab. bandung",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2140,
+    "name": "Pameungpeuk",
+    "city_id": 167,
+    "city_name": "kab. bandung",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2141,
+    "name": "Pangalengan",
+    "city_id": 167,
+    "city_name": "kab. bandung",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2154,
+    "name": "Paseh",
+    "city_id": 167,
+    "city_name": "kab. bandung",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2157,
+    "name": "Pasirjambu",
+    "city_id": 167,
+    "city_name": "kab. bandung",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2159,
+    "name": "Rancabali",
+    "city_id": 167,
+    "city_name": "kab. bandung",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2147,
+    "name": "Rancaekek",
+    "city_id": 167,
+    "city_name": "kab. bandung",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2153,
+    "name": "Solokanjeruk",
+    "city_id": 167,
+    "city_name": "kab. bandung",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2156,
+    "name": "Soreang",
+    "city_id": 167,
+    "city_name": "kab. bandung",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  }
+]

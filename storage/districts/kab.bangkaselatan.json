@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1726,
+    "name": "Air Gegas",
+    "city_id": 138,
+    "city_name": "kab. bangka selatan",
+    "province_id": 9,
+    "province_name": "kep. bangka belitung"
+  },
+  {
+    "id": 7310,
+    "name": "Kepulauan Pongok",
+    "city_id": 138,
+    "city_name": "kab. bangka selatan",
+    "province_id": 9,
+    "province_name": "kep. bangka belitung"
+  },
+  {
+    "id": 1725,
+    "name": "Lepar Pongok",
+    "city_id": 138,
+    "city_name": "kab. bangka selatan",
+    "province_id": 9,
+    "province_name": "kep. bangka belitung"
+  },
+  {
+    "id": 1728,
+    "name": "Payung",
+    "city_id": 138,
+    "city_name": "kab. bangka selatan",
+    "province_id": 9,
+    "province_name": "kep. bangka belitung"
+  },
+  {
+    "id": 1730,
+    "name": "Pulau Besar",
+    "city_id": 138,
+    "city_name": "kab. bangka selatan",
+    "province_id": 9,
+    "province_name": "kep. bangka belitung"
+  },
+  {
+    "id": 1727,
+    "name": "Simpang Rimba",
+    "city_id": 138,
+    "city_name": "kab. bangka selatan",
+    "province_id": 9,
+    "province_name": "kep. bangka belitung"
+  },
+  {
+    "id": 1724,
+    "name": "Toboali",
+    "city_id": 138,
+    "city_name": "kab. bangka selatan",
+    "province_id": 9,
+    "province_name": "kep. bangka belitung"
+  },
+  {
+    "id": 1729,
+    "name": "Tukak Sadai",
+    "city_id": 138,
+    "city_name": "kab. bangka selatan",
+    "province_id": 9,
+    "province_name": "kep. bangka belitung"
+  }
+]

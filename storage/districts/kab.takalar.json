@@ -1,0 +1,74 @@
+[
+  {
+    "id": 5328,
+    "name": "Galesong",
+    "city_id": 388,
+    "city_name": "kab. takalar",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5324,
+    "name": "Galesong Selatan",
+    "city_id": 388,
+    "city_name": "kab. takalar",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5325,
+    "name": "Galesong Utara",
+    "city_id": 388,
+    "city_name": "kab. takalar",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5321,
+    "name": "Mangarabombang",
+    "city_id": 388,
+    "city_name": "kab. takalar",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5320,
+    "name": "Mappakasunggu",
+    "city_id": 388,
+    "city_name": "kab. takalar",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5326,
+    "name": "Pattallassang",
+    "city_id": 388,
+    "city_name": "kab. takalar",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5322,
+    "name": "Polombangkeng Selatan",
+    "city_id": 388,
+    "city_name": "kab. takalar",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5323,
+    "name": "Polombangkeng Utara",
+    "city_id": 388,
+    "city_name": "kab. takalar",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5327,
+    "name": "Sanrobone",
+    "city_id": 388,
+    "city_name": "kab. takalar",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  }
+]

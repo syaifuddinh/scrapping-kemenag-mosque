@@ -1,0 +1,42 @@
+[
+  {
+    "id": 3898,
+    "name": "Blimbing",
+    "city_id": 261,
+    "city_name": "kota malang",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3900,
+    "name": "Kedungkandang",
+    "city_id": 261,
+    "city_name": "kota malang",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3899,
+    "name": "Klojen",
+    "city_id": 261,
+    "city_name": "kota malang",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3902,
+    "name": "Lowokwaru",
+    "city_id": 261,
+    "city_name": "kota malang",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3901,
+    "name": "Sukun",
+    "city_id": 261,
+    "city_name": "kota malang",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  }
+]

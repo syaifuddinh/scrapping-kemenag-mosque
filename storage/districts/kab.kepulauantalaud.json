@@ -1,0 +1,154 @@
+[
+  {
+    "id": 5022,
+    "name": "Beo",
+    "city_id": 361,
+    "city_name": "kab. kepulauan talaud",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5038,
+    "name": "Beo Selatan",
+    "city_id": 361,
+    "city_name": "kab. kepulauan talaud",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5034,
+    "name": "Beo Utara",
+    "city_id": 361,
+    "city_name": "kab. kepulauan talaud",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5029,
+    "name": "Damau",
+    "city_id": 361,
+    "city_name": "kab. kepulauan talaud",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5024,
+    "name": "Essang",
+    "city_id": 361,
+    "city_name": "kab. kepulauan talaud",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5039,
+    "name": "Essang Selatan",
+    "city_id": 361,
+    "city_name": "kab. kepulauan talaud",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5028,
+    "name": "Gemeh",
+    "city_id": 361,
+    "city_name": "kab. kepulauan talaud",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5026,
+    "name": "Kabaruan",
+    "city_id": 361,
+    "city_name": "kab. kepulauan talaud",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5032,
+    "name": "Kalongan",
+    "city_id": 361,
+    "city_name": "kab. kepulauan talaud",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5021,
+    "name": "Lirung",
+    "city_id": 361,
+    "city_name": "kab. kepulauan talaud",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5027,
+    "name": "Melonguane",
+    "city_id": 361,
+    "city_name": "kab. kepulauan talaud",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5036,
+    "name": "Melonguane Timur",
+    "city_id": 361,
+    "city_name": "kab. kepulauan talaud",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5033,
+    "name": "Miangas",
+    "city_id": 361,
+    "city_name": "kab. kepulauan talaud",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5037,
+    "name": "Moronge",
+    "city_id": 361,
+    "city_name": "kab. kepulauan talaud",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5025,
+    "name": "Nanusa",
+    "city_id": 361,
+    "city_name": "kab. kepulauan talaud",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5035,
+    "name": "Pulutan",
+    "city_id": 361,
+    "city_name": "kab. kepulauan talaud",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5023,
+    "name": "Rainis",
+    "city_id": 361,
+    "city_name": "kab. kepulauan talaud",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5031,
+    "name": "Salibabu",
+    "city_id": 361,
+    "city_name": "kab. kepulauan talaud",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5030,
+    "name": "Tampan' Amma",
+    "city_id": 361,
+    "city_name": "kab. kepulauan talaud",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  }
+]

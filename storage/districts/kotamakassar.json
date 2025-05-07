@@ -1,0 +1,114 @@
+[
+  {
+    "id": 5567,
+    "name": "Biringkanaya",
+    "city_id": 405,
+    "city_name": "kota makassar",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5562,
+    "name": "Bontoala",
+    "city_id": 405,
+    "city_name": "kota makassar",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5559,
+    "name": "Makasar",
+    "city_id": 405,
+    "city_name": "kota makassar",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5558,
+    "name": "Mamajang",
+    "city_id": 405,
+    "city_name": "kota makassar",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5568,
+    "name": "Manggala",
+    "city_id": 405,
+    "city_name": "kota makassar",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5557,
+    "name": "Mariso",
+    "city_id": 405,
+    "city_name": "kota makassar",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5565,
+    "name": "Panakukkang",
+    "city_id": 405,
+    "city_name": "kota makassar",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5569,
+    "name": "Rappocini",
+    "city_id": 405,
+    "city_name": "kota makassar",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5563,
+    "name": "Tallo",
+    "city_id": 405,
+    "city_name": "kota makassar",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5570,
+    "name": "Tamalanrea",
+    "city_id": 405,
+    "city_name": "kota makassar",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5566,
+    "name": "Tamalate",
+    "city_id": 405,
+    "city_name": "kota makassar",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5560,
+    "name": "Ujung Pandang",
+    "city_id": 405,
+    "city_name": "kota makassar",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5564,
+    "name": "Ujung Tanah",
+    "city_id": 405,
+    "city_name": "kota makassar",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5561,
+    "name": "Wajo",
+    "city_id": 405,
+    "city_name": "kota makassar",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  }
+]

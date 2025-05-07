@@ -1,0 +1,114 @@
+[
+  {
+    "id": 3135,
+    "name": "Ampelgading",
+    "city_id": 216,
+    "city_name": "kab. pemalang",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 3130,
+    "name": "Bantarbolang",
+    "city_id": 216,
+    "city_name": "kab. pemalang",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 3127,
+    "name": "Belik",
+    "city_id": 216,
+    "city_name": "kab. pemalang",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 3129,
+    "name": "Bodeh",
+    "city_id": 216,
+    "city_name": "kab. pemalang",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 3136,
+    "name": "Comal",
+    "city_id": 216,
+    "city_name": "kab. pemalang",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 3125,
+    "name": "Moga",
+    "city_id": 216,
+    "city_name": "kab. pemalang",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 3132,
+    "name": "Pemalang",
+    "city_id": 216,
+    "city_name": "kab. pemalang",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 3134,
+    "name": "Petarukan",
+    "city_id": 216,
+    "city_name": "kab. pemalang",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 3126,
+    "name": "Pulosari",
+    "city_id": 216,
+    "city_name": "kab. pemalang",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 3131,
+    "name": "Randudongkal",
+    "city_id": 216,
+    "city_name": "kab. pemalang",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 3133,
+    "name": "Taman",
+    "city_id": 216,
+    "city_name": "kab. pemalang",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 3137,
+    "name": "Ulujami",
+    "city_id": 216,
+    "city_name": "kab. pemalang",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 3138,
+    "name": "Warungpring",
+    "city_id": 216,
+    "city_name": "kab. pemalang",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 3128,
+    "name": "Watukumpul",
+    "city_id": 216,
+    "city_name": "kab. pemalang",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  }
+]

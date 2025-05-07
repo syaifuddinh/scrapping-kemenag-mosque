@@ -1,0 +1,26 @@
+[
+  {
+    "id": 3895,
+    "name": "Kepanjenkidul",
+    "city_id": 260,
+    "city_name": "kota blitar",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3897,
+    "name": "Sananwetan",
+    "city_id": 260,
+    "city_name": "kota blitar",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3896,
+    "name": "Sukorejo",
+    "city_id": 260,
+    "city_name": "kota blitar",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": 7202,
+    "name": "Aere",
+    "city_id": 521,
+    "city_name": "kab. kolaka timur",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 7204,
+    "name": "Dangia",
+    "city_id": 521,
+    "city_name": "kab. kolaka timur",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 7195,
+    "name": "Ladongi",
+    "city_id": 521,
+    "city_name": "kab. kolaka timur",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 7198,
+    "name": "Lalolae",
+    "city_id": 521,
+    "city_name": "kab. kolaka timur",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 7197,
+    "name": "Lambandia",
+    "city_id": 521,
+    "city_name": "kab. kolaka timur",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 7194,
+    "name": "Loea",
+    "city_id": 521,
+    "city_name": "kab. kolaka timur",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 7199,
+    "name": "Mowewe",
+    "city_id": 521,
+    "city_name": "kab. kolaka timur",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 7196,
+    "name": "Poli Polia",
+    "city_id": 521,
+    "city_name": "kab. kolaka timur",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 7201,
+    "name": "Tinondo",
+    "city_id": 521,
+    "city_name": "kab. kolaka timur",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 7193,
+    "name": "Tirawuta",
+    "city_id": 521,
+    "city_name": "kab. kolaka timur",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 7203,
+    "name": "Ueesi",
+    "city_id": 521,
+    "city_name": "kab. kolaka timur",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 7200,
+    "name": "Uluiwoi",
+    "city_id": 521,
+    "city_name": "kab. kolaka timur",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  }
+]

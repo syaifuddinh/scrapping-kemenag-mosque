@@ -1,0 +1,106 @@
+[
+  {
+    "id": 5401,
+    "name": "Balocci",
+    "city_id": 393,
+    "city_name": "kab. pangkajene kepulauan",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5402,
+    "name": "Bungoro",
+    "city_id": 393,
+    "city_name": "kab. pangkajene kepulauan",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5403,
+    "name": "Labakkang",
+    "city_id": 393,
+    "city_name": "kab. pangkajene kepulauan",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5398,
+    "name": "Liukang Kalmas",
+    "city_id": 393,
+    "city_name": "kab. pangkajene kepulauan",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5397,
+    "name": "Liukang Tangaya",
+    "city_id": 393,
+    "city_name": "kab. pangkajene kepulauan",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5399,
+    "name": "Liukang Tupabbiring",
+    "city_id": 393,
+    "city_name": "kab. pangkajene kepulauan",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5409,
+    "name": "Liukang Tupabbiring Utara",
+    "city_id": 393,
+    "city_name": "kab. pangkajene kepulauan",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5407,
+    "name": "Mandalle",
+    "city_id": 393,
+    "city_name": "kab. pangkajene kepulauan",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5404,
+    "name": "Marang",
+    "city_id": 393,
+    "city_name": "kab. pangkajene kepulauan",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5406,
+    "name": "Minasa Tene",
+    "city_id": 393,
+    "city_name": "kab. pangkajene kepulauan",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5400,
+    "name": "Pangkajene",
+    "city_id": 393,
+    "city_name": "kab. pangkajene kepulauan",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5405,
+    "name": "Segeri",
+    "city_id": 393,
+    "city_name": "kab. pangkajene kepulauan",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5408,
+    "name": "Tondong Tallasa",
+    "city_id": 393,
+    "city_name": "kab. pangkajene kepulauan",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  }
+]

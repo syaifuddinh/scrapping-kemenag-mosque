@@ -1,0 +1,186 @@
+[
+  {
+    "id": 5136,
+    "name": "Balantak",
+    "city_id": 373,
+    "city_name": "kab. banggai",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 6931,
+    "name": "Balantak Selatan",
+    "city_id": 373,
+    "city_name": "kab. banggai",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 6932,
+    "name": "Balantak Utara",
+    "city_id": 373,
+    "city_name": "kab. banggai",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 5131,
+    "name": "Batui",
+    "city_id": 373,
+    "city_name": "kab. banggai",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 6928,
+    "name": "Batui Selatan",
+    "city_id": 373,
+    "city_name": "kab. banggai",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 5138,
+    "name": "Bualemo",
+    "city_id": 373,
+    "city_name": "kab. banggai",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 5132,
+    "name": "Bunta",
+    "city_id": 373,
+    "city_name": "kab. banggai",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 5133,
+    "name": "Kintom",
+    "city_id": 373,
+    "city_name": "kab. banggai",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 5135,
+    "name": "Lamala",
+    "city_id": 373,
+    "city_name": "kab. banggai",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 6929,
+    "name": "Lobu",
+    "city_id": 373,
+    "city_name": "kab. banggai",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 5134,
+    "name": "Luwuk",
+    "city_id": 373,
+    "city_name": "kab. banggai",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 6933,
+    "name": "Luwuk Selatan",
+    "city_id": 373,
+    "city_name": "kab. banggai",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 5141,
+    "name": "Luwuk Timur",
+    "city_id": 373,
+    "city_name": "kab. banggai",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 6934,
+    "name": "Luwuk Utara",
+    "city_id": 373,
+    "city_name": "kab. banggai",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 6935,
+    "name": "Mantoh",
+    "city_id": 373,
+    "city_name": "kab. banggai",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 5140,
+    "name": "Masama",
+    "city_id": 373,
+    "city_name": "kab. banggai",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 6927,
+    "name": "Moilong",
+    "city_id": 373,
+    "city_name": "kab. banggai",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 6936,
+    "name": "Nambo",
+    "city_id": 373,
+    "city_name": "kab. banggai",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 5143,
+    "name": "Nuhon",
+    "city_id": 373,
+    "city_name": "kab. banggai",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 5137,
+    "name": "Pagimana",
+    "city_id": 373,
+    "city_name": "kab. banggai",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 6930,
+    "name": "Simpang Raya",
+    "city_id": 373,
+    "city_name": "kab. banggai",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 5139,
+    "name": "Toili",
+    "city_id": 373,
+    "city_name": "kab. banggai",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 5142,
+    "name": "Toili Barat",
+    "city_id": 373,
+    "city_name": "kab. banggai",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  }
+]

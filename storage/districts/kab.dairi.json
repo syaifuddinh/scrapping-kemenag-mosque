@@ -1,0 +1,122 @@
+[
+  {
+    "id": 484,
+    "name": "Brampu",
+    "city_id": 34,
+    "city_name": "kab. dairi",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 483,
+    "name": "Gunung Sitember",
+    "city_id": 34,
+    "city_name": "kab. dairi",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 482,
+    "name": "Lae Parira",
+    "city_id": 34,
+    "city_name": "kab. dairi",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 481,
+    "name": "Parbuluan",
+    "city_id": 34,
+    "city_name": "kab. dairi",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 480,
+    "name": "Pegagan Hilir",
+    "city_id": 34,
+    "city_name": "kab. dairi",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 472,
+    "name": "Sidikalang",
+    "city_id": 34,
+    "city_name": "kab. dairi",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 475,
+    "name": "Siempat Nempu",
+    "city_id": 34,
+    "city_name": "kab. dairi",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 479,
+    "name": "Siempat Nempu Hilir",
+    "city_id": 34,
+    "city_name": "kab. dairi",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 478,
+    "name": "Siempat Nempu Hulu",
+    "city_id": 34,
+    "city_name": "kab. dairi",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 485,
+    "name": "Silahisabungan",
+    "city_id": 34,
+    "city_name": "kab. dairi",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 476,
+    "name": "Silima Pungga Punga",
+    "city_id": 34,
+    "city_name": "kab. dairi",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 486,
+    "name": "Sitinjo",
+    "city_id": 34,
+    "city_name": "kab. dairi",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 473,
+    "name": "Sumbul",
+    "city_id": 34,
+    "city_name": "kab. dairi",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 477,
+    "name": "Tanah Pinem",
+    "city_id": 34,
+    "city_name": "kab. dairi",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 474,
+    "name": "Tigalingga",
+    "city_id": 34,
+    "city_name": "kab. dairi",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  }
+]

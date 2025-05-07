@@ -1,0 +1,82 @@
+[
+  {
+    "id": 5776,
+    "name": "Abeli",
+    "city_id": 418,
+    "city_name": "kota kendari",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 5773,
+    "name": "Baruga",
+    "city_id": 418,
+    "city_name": "kota kendari",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 5778,
+    "name": "Kadia",
+    "city_id": 418,
+    "city_name": "kota kendari",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 5780,
+    "name": "Kambu",
+    "city_id": 418,
+    "city_name": "kota kendari",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 5772,
+    "name": "Kendari",
+    "city_id": 418,
+    "city_name": "kota kendari",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 5775,
+    "name": "Kendari Barat",
+    "city_id": 418,
+    "city_name": "kota kendari",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 5771,
+    "name": "Mandonga",
+    "city_id": 418,
+    "city_name": "kota kendari",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 5774,
+    "name": "Poasia",
+    "city_id": 418,
+    "city_name": "kota kendari",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 5779,
+    "name": "Puuwatu",
+    "city_id": 418,
+    "city_name": "kota kendari",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 5777,
+    "name": "Wua-Wua",
+    "city_id": 418,
+    "city_name": "kota kendari",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  }
+]

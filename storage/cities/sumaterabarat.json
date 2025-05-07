@@ -1,0 +1,116 @@
+[
+  {
+    "id": 57,
+    "name": "Kab. Pesisir Selatan",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 58,
+    "name": "Kab. Solok",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 59,
+    "name": "Kab. Sijunjung",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 60,
+    "name": "Kab. Tanah Datar",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 61,
+    "name": "Kab. Padang Pariaman",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 62,
+    "name": "Kab. Agam",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 63,
+    "name": "Kab. Lima Puluh Kota",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 64,
+    "name": "Kab. Pasaman",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 65,
+    "name": "Kab. Kepulauan Mentawai",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 66,
+    "name": "Kab. Dharmasraya",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 67,
+    "name": "Kab. Solok Selatan",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 68,
+    "name": "Kab. Pasaman Barat",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 69,
+    "name": "Kota Padang",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 70,
+    "name": "Kota Solok",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 71,
+    "name": "Kota Sawahlunto",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 72,
+    "name": "Kota Padang Panjang",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 73,
+    "name": "Kota Bukittinggi",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 74,
+    "name": "Kota Payakumbuh",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 75,
+    "name": "Kota Pariaman",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "id": 5763,
+    "name": "Andowia",
+    "city_id": 416,
+    "city_name": "kab. konawe utara",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 5755,
+    "name": "Asera",
+    "city_id": 416,
+    "city_name": "kab. konawe utara",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 7189,
+    "name": "Landawe",
+    "city_id": 416,
+    "city_name": "kab. konawe utara",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 5757,
+    "name": "Langgikima",
+    "city_id": 416,
+    "city_name": "kab. konawe utara",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 5759,
+    "name": "Lasolo",
+    "city_id": 416,
+    "city_name": "kab. konawe utara",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 7191,
+    "name": "Lasolo Kepulauan",
+    "city_id": 416,
+    "city_name": "kab. konawe utara",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 5760,
+    "name": "Lembo",
+    "city_id": 416,
+    "city_name": "kab. konawe utara",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 5758,
+    "name": "Molawe",
+    "city_id": 416,
+    "city_name": "kab. konawe utara",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 5764,
+    "name": "Motui",
+    "city_id": 416,
+    "city_name": "kab. konawe utara",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 5762,
+    "name": "Oheo",
+    "city_id": 416,
+    "city_name": "kab. konawe utara",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 5761,
+    "name": "Sawa",
+    "city_id": 416,
+    "city_name": "kab. konawe utara",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 7184,
+    "name": "Wawolesea",
+    "city_id": 416,
+    "city_name": "kab. konawe utara",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 5756,
+    "name": "Wiwirano",
+    "city_id": 416,
+    "city_name": "kab. konawe utara",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  }
+]

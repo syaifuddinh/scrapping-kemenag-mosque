@@ -1,0 +1,82 @@
+[
+  {
+    "id": 5973,
+    "name": "Aru Selatan",
+    "city_id": 437,
+    "city_name": "kab. kepulauan aru",
+    "province_id": 30,
+    "province_name": "maluku"
+  },
+  {
+    "id": 5980,
+    "name": "Aru Selatan Timur",
+    "city_id": 437,
+    "city_name": "kab. kepulauan aru",
+    "province_id": 30,
+    "province_name": "maluku"
+  },
+  {
+    "id": 5981,
+    "name": "Aru Selatan Utara",
+    "city_id": 437,
+    "city_name": "kab. kepulauan aru",
+    "province_id": 30,
+    "province_name": "maluku"
+  },
+  {
+    "id": 5974,
+    "name": "Aru Tengah",
+    "city_id": 437,
+    "city_name": "kab. kepulauan aru",
+    "province_id": 30,
+    "province_name": "maluku"
+  },
+  {
+    "id": 5979,
+    "name": "Aru Tengah Selatan",
+    "city_id": 437,
+    "city_name": "kab. kepulauan aru",
+    "province_id": 30,
+    "province_name": "maluku"
+  },
+  {
+    "id": 5978,
+    "name": "Aru Tengah Timur",
+    "city_id": 437,
+    "city_name": "kab. kepulauan aru",
+    "province_id": 30,
+    "province_name": "maluku"
+  },
+  {
+    "id": 5975,
+    "name": "Aru Utara",
+    "city_id": 437,
+    "city_name": "kab. kepulauan aru",
+    "province_id": 30,
+    "province_name": "maluku"
+  },
+  {
+    "id": 5976,
+    "name": "Batuley",
+    "city_id": 437,
+    "city_name": "kab. kepulauan aru",
+    "province_id": 30,
+    "province_name": "maluku"
+  },
+  {
+    "id": 5972,
+    "name": "Pulau-Pulau Aru",
+    "city_id": 437,
+    "city_name": "kab. kepulauan aru",
+    "province_id": 30,
+    "province_name": "maluku"
+  },
+  {
+    "id": 5977,
+    "name": "Sir-Sir",
+    "city_id": 437,
+    "city_name": "kab. kepulauan aru",
+    "province_id": 30,
+    "province_name": "maluku"
+  }
+]

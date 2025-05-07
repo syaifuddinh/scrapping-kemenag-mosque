@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1819,
+    "name": "Cilincing",
+    "city_id": 151,
+    "city_name": "kota adm. jakarta utara",
+    "province_id": 11,
+    "province_name": "dki jakarta"
+  },
+  {
+    "id": 1821,
+    "name": "Kelapa Gading",
+    "city_id": 151,
+    "city_name": "kota adm. jakarta utara",
+    "province_id": 11,
+    "province_name": "dki jakarta"
+  },
+  {
+    "id": 1818,
+    "name": "Koja",
+    "city_id": 151,
+    "city_name": "kota adm. jakarta utara",
+    "province_id": 11,
+    "province_name": "dki jakarta"
+  },
+  {
+    "id": 1820,
+    "name": "Pademangan",
+    "city_id": 151,
+    "city_name": "kota adm. jakarta utara",
+    "province_id": 11,
+    "province_name": "dki jakarta"
+  },
+  {
+    "id": 1816,
+    "name": "Penjaringan",
+    "city_id": 151,
+    "city_name": "kota adm. jakarta utara",
+    "province_id": 11,
+    "province_name": "dki jakarta"
+  },
+  {
+    "id": 1817,
+    "name": "Tanjung Priok",
+    "city_id": 151,
+    "city_name": "kota adm. jakarta utara",
+    "province_id": 11,
+    "province_name": "dki jakarta"
+  }
+]

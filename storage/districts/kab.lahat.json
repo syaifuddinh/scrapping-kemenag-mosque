@@ -1,0 +1,178 @@
+[
+  {
+    "id": 1224,
+    "name": "Gumay Talang",
+    "city_id": 101,
+    "city_name": "kab. lahat",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1228,
+    "name": "Gumay Ulu",
+    "city_id": 101,
+    "city_name": "kab. lahat",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1212,
+    "name": "Jarai",
+    "city_id": 101,
+    "city_name": "kab. lahat",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1222,
+    "name": "Kikim Barat",
+    "city_id": 101,
+    "city_name": "kab. lahat",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1219,
+    "name": "Kikim Selatan",
+    "city_id": 101,
+    "city_name": "kab. lahat",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1221,
+    "name": "Kikim Tengah",
+    "city_id": 101,
+    "city_name": "kab. lahat",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1220,
+    "name": "Kikim Timur",
+    "city_id": 101,
+    "city_name": "kab. lahat",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1213,
+    "name": "Kota Agung",
+    "city_id": 101,
+    "city_name": "kab. lahat",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1216,
+    "name": "Lahat",
+    "city_id": 101,
+    "city_name": "kab. lahat",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1215,
+    "name": "Merapi Barat",
+    "city_id": 101,
+    "city_name": "kab. lahat",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1229,
+    "name": "Merapi Selatan",
+    "city_id": 101,
+    "city_name": "kab. lahat",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1226,
+    "name": "Merapi Timur",
+    "city_id": 101,
+    "city_name": "kab. lahat",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1231,
+    "name": "Muara Payang",
+    "city_id": 101,
+    "city_name": "kab. lahat",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1218,
+    "name": "Mulak Ulu",
+    "city_id": 101,
+    "city_name": "kab. lahat",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1225,
+    "name": "Pagar Gunung",
+    "city_id": 101,
+    "city_name": "kab. lahat",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1217,
+    "name": "Pajar Bulan",
+    "city_id": 101,
+    "city_name": "kab. lahat",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1223,
+    "name": "Pseksu",
+    "city_id": 101,
+    "city_name": "kab. lahat",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1214,
+    "name": "Pulau Pinang",
+    "city_id": 101,
+    "city_name": "kab. lahat",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 7174,
+    "name": "Sukamerindu",
+    "city_id": 101,
+    "city_name": "kab. lahat",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1227,
+    "name": "Tanjung Sakti Pumi",
+    "city_id": 101,
+    "city_name": "kab. lahat",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1211,
+    "name": "Tanjung Sakti Pumu",
+    "city_id": 101,
+    "city_name": "kab. lahat",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1230,
+    "name": "Tanjung Tebat",
+    "city_id": 101,
+    "city_name": "kab. lahat",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  }
+]

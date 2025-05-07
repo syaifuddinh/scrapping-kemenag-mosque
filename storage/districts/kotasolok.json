@@ -1,0 +1,18 @@
+[
+  {
+    "id": 857,
+    "name": "Lubuk Sikarah",
+    "city_id": 70,
+    "city_name": "kota solok",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 858,
+    "name": "Tanjung Harapan",
+    "city_id": 70,
+    "city_name": "kota solok",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": 274,
+    "name": "Banda Sakti",
+    "city_id": 21,
+    "city_name": "kota lhokseumawe",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 275,
+    "name": "Blang Mangat",
+    "city_id": 21,
+    "city_name": "kota lhokseumawe",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 273,
+    "name": "Muara Dua",
+    "city_id": 21,
+    "city_name": "kota lhokseumawe",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 276,
+    "name": "Muara Satu",
+    "city_id": 21,
+    "city_name": "kota lhokseumawe",
+    "province_id": 1,
+    "province_name": "aceh"
+  }
+]

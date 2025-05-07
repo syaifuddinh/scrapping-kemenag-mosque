@@ -1,0 +1,74 @@
+[
+  {
+    "id": 199,
+    "name": "Babah Rot",
+    "city_id": 12,
+    "city_name": "kab. aceh barat daya",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 194,
+    "name": "Blang Pidie",
+    "city_id": 12,
+    "city_name": "kab. aceh barat daya",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 201,
+    "name": "Jeumpa",
+    "city_id": 12,
+    "city_name": "kab. aceh barat daya",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 198,
+    "name": "Kuala Batee",
+    "city_id": 12,
+    "city_name": "kab. aceh barat daya",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 202,
+    "name": "Lembah Sabil",
+    "city_id": 12,
+    "city_name": "kab. aceh barat daya",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 196,
+    "name": "Manggeng",
+    "city_id": 12,
+    "city_name": "kab. aceh barat daya",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 200,
+    "name": "Setia",
+    "city_id": 12,
+    "city_name": "kab. aceh barat daya",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 197,
+    "name": "Susoh",
+    "city_id": 12,
+    "city_name": "kab. aceh barat daya",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 195,
+    "name": "Tangan-Tangan",
+    "city_id": 12,
+    "city_name": "kab. aceh barat daya",
+    "province_id": 1,
+    "province_name": "aceh"
+  }
+]

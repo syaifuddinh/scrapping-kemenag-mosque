@@ -1,0 +1,42 @@
+[
+  {
+    "id": 7169,
+    "name": "Abab",
+    "city_id": 519,
+    "city_name": "kab. penukal abab lematang ilir",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 7168,
+    "name": "Penukal",
+    "city_id": 519,
+    "city_name": "kab. penukal abab lematang ilir",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 7167,
+    "name": "Penukal Utara",
+    "city_id": 519,
+    "city_name": "kab. penukal abab lematang ilir",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 7166,
+    "name": "Talang Ubi",
+    "city_id": 519,
+    "city_name": "kab. penukal abab lematang ilir",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 7170,
+    "name": "Tanah Abang",
+    "city_id": 519,
+    "city_name": "kab. penukal abab lematang ilir",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  }
+]

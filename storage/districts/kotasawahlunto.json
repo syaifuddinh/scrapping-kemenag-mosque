@@ -1,0 +1,34 @@
+[
+  {
+    "id": 860,
+    "name": "Barangin",
+    "city_id": 71,
+    "city_name": "kota sawahlunto",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 859,
+    "name": "Lembah Segar",
+    "city_id": 71,
+    "city_name": "kota sawahlunto",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 861,
+    "name": "Silungkang",
+    "city_id": 71,
+    "city_name": "kota sawahlunto",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 862,
+    "name": "Talawi",
+    "city_id": 71,
+    "city_name": "kota sawahlunto",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  }
+]

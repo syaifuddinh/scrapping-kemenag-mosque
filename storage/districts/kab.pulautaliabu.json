@@ -1,0 +1,66 @@
+[
+  {
+    "id": 6904,
+    "name": "Lede",
+    "city_id": 509,
+    "city_name": "kab. pulau taliabu",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6909,
+    "name": "Tabona",
+    "city_id": 509,
+    "city_name": "kab. pulau taliabu",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6902,
+    "name": "Taliabu Barat",
+    "city_id": 509,
+    "city_name": "kab. pulau taliabu",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6903,
+    "name": "Taliabu Barat Laut",
+    "city_id": 509,
+    "city_name": "kab. pulau taliabu",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6908,
+    "name": "Taliabu Selatan",
+    "city_id": 509,
+    "city_name": "kab. pulau taliabu",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6906,
+    "name": "Taliabu Timur",
+    "city_id": 509,
+    "city_name": "kab. pulau taliabu",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6907,
+    "name": "Taliabu Timur Selatan",
+    "city_id": 509,
+    "city_name": "kab. pulau taliabu",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6905,
+    "name": "Taliabu Utara",
+    "city_id": 509,
+    "city_name": "kab. pulau taliabu",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  }
+]

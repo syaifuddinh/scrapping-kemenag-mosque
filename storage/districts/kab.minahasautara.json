@@ -1,0 +1,82 @@
+[
+  {
+    "id": 5059,
+    "name": "Airmadidi",
+    "city_id": 363,
+    "city_name": "kab. minahasa utara",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5061,
+    "name": "Dimembe",
+    "city_id": 363,
+    "city_name": "kab. minahasa utara",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5064,
+    "name": "Kalawat",
+    "city_id": 363,
+    "city_name": "kab. minahasa utara",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5058,
+    "name": "Kauditan",
+    "city_id": 363,
+    "city_name": "kab. minahasa utara",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5057,
+    "name": "Kema",
+    "city_id": 363,
+    "city_name": "kab. minahasa utara",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5062,
+    "name": "Likupang Barat",
+    "city_id": 363,
+    "city_name": "kab. minahasa utara",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5066,
+    "name": "Likupang Selatan",
+    "city_id": 363,
+    "city_name": "kab. minahasa utara",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5063,
+    "name": "Likupang Timur",
+    "city_id": 363,
+    "city_name": "kab. minahasa utara",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5065,
+    "name": "Talawaan",
+    "city_id": 363,
+    "city_name": "kab. minahasa utara",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5060,
+    "name": "Wori",
+    "city_id": 363,
+    "city_name": "kab. minahasa utara",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  }
+]

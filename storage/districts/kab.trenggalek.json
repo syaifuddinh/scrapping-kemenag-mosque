@@ -1,0 +1,114 @@
+[
+  {
+    "id": 3329,
+    "name": "Bendungan",
+    "city_id": 232,
+    "city_name": "kab. trenggalek",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3324,
+    "name": "Dongko",
+    "city_id": 232,
+    "city_name": "kab. trenggalek",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3333,
+    "name": "Durenan",
+    "city_id": 232,
+    "city_name": "kab. trenggalek",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3330,
+    "name": "Gandusari",
+    "city_id": 232,
+    "city_name": "kab. trenggalek",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3327,
+    "name": "Kampak",
+    "city_id": 232,
+    "city_name": "kab. trenggalek",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3326,
+    "name": "Karangan",
+    "city_id": 232,
+    "city_name": "kab. trenggalek",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3322,
+    "name": "Munjungan",
+    "city_id": 232,
+    "city_name": "kab. trenggalek",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3321,
+    "name": "Panggul",
+    "city_id": 232,
+    "city_name": "kab. trenggalek",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3332,
+    "name": "Pogalan",
+    "city_id": 232,
+    "city_name": "kab. trenggalek",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3323,
+    "name": "Pule",
+    "city_id": 232,
+    "city_name": "kab. trenggalek",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3334,
+    "name": "Suruh",
+    "city_id": 232,
+    "city_name": "kab. trenggalek",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3331,
+    "name": "Trenggalek",
+    "city_id": 232,
+    "city_name": "kab. trenggalek",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3325,
+    "name": "Tugu",
+    "city_id": 232,
+    "city_name": "kab. trenggalek",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3328,
+    "name": "Watulimo",
+    "city_id": 232,
+    "city_name": "kab. trenggalek",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  }
+]

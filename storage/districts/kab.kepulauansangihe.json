@@ -1,0 +1,122 @@
+[
+  {
+    "id": 5014,
+    "name": "Kendahe",
+    "city_id": 360,
+    "city_name": "kab. kepulauan sangihe",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5020,
+    "name": "Kepulauan Marore",
+    "city_id": 360,
+    "city_name": "kab. kepulauan sangihe",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5011,
+    "name": "Manganitu",
+    "city_id": 360,
+    "city_name": "kab. kepulauan sangihe",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5008,
+    "name": "Manganitu Selatan",
+    "city_id": 360,
+    "city_name": "kab. kepulauan sangihe",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5007,
+    "name": "Nusa Tabukan",
+    "city_id": 360,
+    "city_name": "kab. kepulauan sangihe",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5013,
+    "name": "Tabukan Selatan",
+    "city_id": 360,
+    "city_name": "kab. kepulauan sangihe",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5016,
+    "name": "Tabukan Selatan Tengah",
+    "city_id": 360,
+    "city_name": "kab. kepulauan sangihe",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5017,
+    "name": "Tabukan Selatan Tenggara",
+    "city_id": 360,
+    "city_name": "kab. kepulauan sangihe",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5012,
+    "name": "Tabukan Tengah",
+    "city_id": 360,
+    "city_name": "kab. kepulauan sangihe",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5006,
+    "name": "Tabukan Utara",
+    "city_id": 360,
+    "city_name": "kab. kepulauan sangihe",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5015,
+    "name": "Tahuna",
+    "city_id": 360,
+    "city_name": "kab. kepulauan sangihe",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5018,
+    "name": "Tahuna Barat",
+    "city_id": 360,
+    "city_name": "kab. kepulauan sangihe",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5019,
+    "name": "Tahuna Timur",
+    "city_id": 360,
+    "city_name": "kab. kepulauan sangihe",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5010,
+    "name": "Tamako",
+    "city_id": 360,
+    "city_name": "kab. kepulauan sangihe",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5009,
+    "name": "Tatoareng",
+    "city_id": 360,
+    "city_name": "kab. kepulauan sangihe",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  }
+]

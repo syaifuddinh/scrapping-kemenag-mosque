@@ -1,0 +1,66 @@
+[
+  {
+    "id": 662,
+    "name": "Siantar Barat",
+    "city_id": 50,
+    "city_name": "kota pematang siantar",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 665,
+    "name": "Siantar Marihat",
+    "city_id": 50,
+    "city_name": "kota pematang siantar",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 668,
+    "name": "Siantar Marimbun",
+    "city_id": 50,
+    "city_name": "kota pematang siantar",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 666,
+    "name": "Siantar Martoba",
+    "city_id": 50,
+    "city_name": "kota pematang siantar",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 664,
+    "name": "Siantar Selatan",
+    "city_id": 50,
+    "city_name": "kota pematang siantar",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 667,
+    "name": "Siantar Sitalasari",
+    "city_id": 50,
+    "city_name": "kota pematang siantar",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 661,
+    "name": "Siantar Timur",
+    "city_id": 50,
+    "city_name": "kota pematang siantar",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 663,
+    "name": "Siantar Utara",
+    "city_id": 50,
+    "city_name": "kota pematang siantar",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  }
+]

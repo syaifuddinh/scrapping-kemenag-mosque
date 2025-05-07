@@ -1,0 +1,92 @@
+[
+  {
+    "id": 358,
+    "name": "Kab. Bolaang Mongondow",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 359,
+    "name": "Kab. Minahasa",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 360,
+    "name": "Kab. Kepulauan Sangihe",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 361,
+    "name": "Kab. Kepulauan Talaud",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 362,
+    "name": "Kab. Minahasa Selatan",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 363,
+    "name": "Kab. Minahasa Utara",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 364,
+    "name": "Kab. Minahasa Tenggara",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 365,
+    "name": "Kab. Bolaang Mongondow Utara",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 366,
+    "name": "Kab. Kep. Siau Tagulandang Biaro",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 367,
+    "name": "Kab. Bolaang Mongondow Timur",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 368,
+    "name": "Kab. Bolaang Mongondow Selatan",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 369,
+    "name": "Kota Manado",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 370,
+    "name": "Kota Bitung",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 371,
+    "name": "Kota Tomohon",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 372,
+    "name": "Kota Kotamobagu",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  }
+]

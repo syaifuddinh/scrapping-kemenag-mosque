@@ -1,0 +1,378 @@
+[
+  {
+    "id": 2055,
+    "name": "Bantar Gadung",
+    "city_id": 165,
+    "city_name": "kab. sukabumi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2065,
+    "name": "Bojong Genteng",
+    "city_id": 165,
+    "city_name": "kab. sukabumi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2082,
+    "name": "Caringin",
+    "city_id": 165,
+    "city_name": "kab. sukabumi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2098,
+    "name": "Ciambar",
+    "city_id": 165,
+    "city_name": "kab. sukabumi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2062,
+    "name": "Cibadak",
+    "city_id": 165,
+    "city_name": "kab. sukabumi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2076,
+    "name": "Cibitung",
+    "city_id": 165,
+    "city_name": "kab. sukabumi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2079,
+    "name": "Cicantayan",
+    "city_id": 165,
+    "city_name": "kab. sukabumi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2067,
+    "name": "Cicurug",
+    "city_id": 165,
+    "city_name": "kab. sukabumi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2095,
+    "name": "Cidadap",
+    "city_id": 165,
+    "city_name": "kab. sukabumi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2068,
+    "name": "Cidahu",
+    "city_id": 165,
+    "city_name": "kab. sukabumi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2094,
+    "name": "Cidolog",
+    "city_id": 165,
+    "city_name": "kab. sukabumi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2073,
+    "name": "Ciemas",
+    "city_id": 165,
+    "city_name": "kab. sukabumi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2054,
+    "name": "Cikakak",
+    "city_id": 165,
+    "city_name": "kab. sukabumi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2061,
+    "name": "Cikembar",
+    "city_id": 165,
+    "city_name": "kab. sukabumi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2057,
+    "name": "Cikidang",
+    "city_id": 165,
+    "city_name": "kab. sukabumi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2097,
+    "name": "Cimanggu",
+    "city_id": 165,
+    "city_name": "kab. sukabumi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2077,
+    "name": "Ciracap",
+    "city_id": 165,
+    "city_name": "kab. sukabumi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2086,
+    "name": "Cireunghas",
+    "city_id": 165,
+    "city_name": "kab. sukabumi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2080,
+    "name": "Cisaat",
+    "city_id": 165,
+    "city_name": "kab. sukabumi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2056,
+    "name": "Cisolok",
+    "city_id": 165,
+    "city_name": "kab. sukabumi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2093,
+    "name": "Curug Kembar",
+    "city_id": 165,
+    "city_name": "kab. sukabumi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2091,
+    "name": "Geger Bitung",
+    "city_id": 165,
+    "city_name": "kab. sukabumi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2078,
+    "name": "Gunung Guruh",
+    "city_id": 165,
+    "city_name": "kab. sukabumi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2072,
+    "name": "Jampang Kulon",
+    "city_id": 165,
+    "city_name": "kab. sukabumi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2059,
+    "name": "Jampang Tengah",
+    "city_id": 165,
+    "city_name": "kab. sukabumi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2070,
+    "name": "Kabandungan",
+    "city_id": 165,
+    "city_name": "kab. sukabumi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2081,
+    "name": "Kadudampit",
+    "city_id": 165,
+    "city_name": "kab. sukabumi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2069,
+    "name": "Kalapa Nunggal",
+    "city_id": 165,
+    "city_name": "kab. sukabumi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2074,
+    "name": "Kalibunder",
+    "city_id": 165,
+    "city_name": "kab. sukabumi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2085,
+    "name": "Kebon Pedes",
+    "city_id": 165,
+    "city_name": "kab. sukabumi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2058,
+    "name": "Lengkong",
+    "city_id": 165,
+    "city_name": "kab. sukabumi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2063,
+    "name": "Nagrak",
+    "city_id": 165,
+    "city_name": "kab. sukabumi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2090,
+    "name": "Nyalindung",
+    "city_id": 165,
+    "city_name": "kab. sukabumi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2088,
+    "name": "Pabuaran",
+    "city_id": 165,
+    "city_name": "kab. sukabumi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2066,
+    "name": "Parakan Salak",
+    "city_id": 165,
+    "city_name": "kab. sukabumi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2064,
+    "name": "Parung Kuda",
+    "city_id": 165,
+    "city_name": "kab. sukabumi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2052,
+    "name": "Pelabuhan Ratu",
+    "city_id": 165,
+    "city_name": "kab. sukabumi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2089,
+    "name": "Purabaya",
+    "city_id": 165,
+    "city_name": "kab. sukabumi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2092,
+    "name": "Sagaranten",
+    "city_id": 165,
+    "city_name": "kab. sukabumi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2053,
+    "name": "Simpenan",
+    "city_id": 165,
+    "city_name": "kab. sukabumi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2083,
+    "name": "Sukabumi",
+    "city_id": 165,
+    "city_name": "kab. sukabumi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2087,
+    "name": "Sukalarang",
+    "city_id": 165,
+    "city_name": "kab. sukabumi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2084,
+    "name": "Sukaraja",
+    "city_id": 165,
+    "city_name": "kab. sukabumi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2075,
+    "name": "Surade",
+    "city_id": 165,
+    "city_name": "kab. sukabumi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2096,
+    "name": "Tegalbuleud",
+    "city_id": 165,
+    "city_name": "kab. sukabumi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2071,
+    "name": "Waluran",
+    "city_id": 165,
+    "city_name": "kab. sukabumi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2060,
+    "name": "Warung Kiara",
+    "city_id": 165,
+    "city_name": "kab. sukabumi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  }
+]

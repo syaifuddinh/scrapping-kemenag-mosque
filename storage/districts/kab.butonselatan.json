@@ -1,0 +1,58 @@
+[
+  {
+    "id": 7223,
+    "name": "Batauga",
+    "city_id": 525,
+    "city_name": "kab. buton selatan",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 7226,
+    "name": "Batu Atas",
+    "city_id": 525,
+    "city_name": "kab. buton selatan",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 7229,
+    "name": "Kadatua",
+    "city_id": 525,
+    "city_name": "kab. buton selatan",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 7225,
+    "name": "Lapandewa",
+    "city_id": 525,
+    "city_name": "kab. buton selatan",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 7224,
+    "name": "Sampolawa",
+    "city_id": 525,
+    "city_name": "kab. buton selatan",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 7228,
+    "name": "Siompu",
+    "city_id": 525,
+    "city_name": "kab. buton selatan",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 7227,
+    "name": "Siompu Barat",
+    "city_id": 525,
+    "city_name": "kab. buton selatan",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  }
+]

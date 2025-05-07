@@ -1,0 +1,34 @@
+[
+  {
+    "id": 4955,
+    "name": "Babulu",
+    "city_id": 354,
+    "city_name": "kab penajam paser utara",
+    "province_id": 23,
+    "province_name": "kalimantan timur"
+  },
+  {
+    "id": 4953,
+    "name": "Penajam",
+    "city_id": 354,
+    "city_name": "kab penajam paser utara",
+    "province_id": 23,
+    "province_name": "kalimantan timur"
+  },
+  {
+    "id": 4956,
+    "name": "Sepaku",
+    "city_id": 354,
+    "city_name": "kab penajam paser utara",
+    "province_id": 23,
+    "province_name": "kalimantan timur"
+  },
+  {
+    "id": 4954,
+    "name": "Waru",
+    "city_id": 354,
+    "city_name": "kab penajam paser utara",
+    "province_id": 23,
+    "province_name": "kalimantan timur"
+  }
+]

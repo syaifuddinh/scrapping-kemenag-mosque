@@ -1,0 +1,58 @@
+[
+  {
+    "id": 6247,
+    "name": "Arso",
+    "city_id": 461,
+    "city_name": "kab. keerom",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6251,
+    "name": "Arso Timur",
+    "city_id": 461,
+    "city_name": "kab. keerom",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6248,
+    "name": "Senggi",
+    "city_id": 461,
+    "city_name": "kab. keerom",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6250,
+    "name": "Skanto",
+    "city_id": 461,
+    "city_name": "kab. keerom",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6252,
+    "name": "Towe",
+    "city_id": 461,
+    "city_name": "kab. keerom",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6246,
+    "name": "Waris",
+    "city_id": 461,
+    "city_name": "kab. keerom",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6249,
+    "name": "Web",
+    "city_id": 461,
+    "city_name": "kab. keerom",
+    "province_id": 32,
+    "province_name": "papua"
+  }
+]

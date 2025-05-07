@@ -1,0 +1,66 @@
+[
+  {
+    "id": 259,
+    "name": "Bandar Baru",
+    "city_id": 18,
+    "city_name": "kab. pidie jaya",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 257,
+    "name": "Bandar Dua",
+    "city_id": 18,
+    "city_name": "kab. pidie jaya",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 256,
+    "name": "Jangka Buaya",
+    "city_id": 18,
+    "city_name": "kab. pidie jaya",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 258,
+    "name": "Meurah Dua",
+    "city_id": 18,
+    "city_name": "kab. pidie jaya",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 254,
+    "name": "Meureudu",
+    "city_id": 18,
+    "city_name": "kab. pidie jaya",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 260,
+    "name": "Panteraja",
+    "city_id": 18,
+    "city_name": "kab. pidie jaya",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 261,
+    "name": "Trienggadeng",
+    "city_id": 18,
+    "city_name": "kab. pidie jaya",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 255,
+    "name": "Ulim",
+    "city_id": 18,
+    "city_name": "kab. pidie jaya",
+    "province_id": 1,
+    "province_name": "aceh"
+  }
+]

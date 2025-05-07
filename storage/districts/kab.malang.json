@@ -1,0 +1,266 @@
+[
+  {
+    "id": 3407,
+    "name": "Ampelgading",
+    "city_id": 236,
+    "city_name": "kab. malang",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3404,
+    "name": "Bantur",
+    "city_id": 236,
+    "city_name": "kab. malang",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3415,
+    "name": "Bululawang",
+    "city_id": 236,
+    "city_name": "kab. malang",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3406,
+    "name": "Dampit",
+    "city_id": 236,
+    "city_name": "kab. malang",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3423,
+    "name": "Dau",
+    "city_id": 236,
+    "city_name": "kab. malang",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3402,
+    "name": "Donomulyo",
+    "city_id": 236,
+    "city_name": "kab. malang",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3430,
+    "name": "Gedangan",
+    "city_id": 236,
+    "city_name": "kab. malang",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3411,
+    "name": "Gondanglegi",
+    "city_id": 236,
+    "city_name": "kab. malang",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3418,
+    "name": "Jabung",
+    "city_id": 236,
+    "city_name": "kab. malang",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3412,
+    "name": "Kalipare",
+    "city_id": 236,
+    "city_name": "kab. malang",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3424,
+    "name": "Karang Ploso",
+    "city_id": 236,
+    "city_name": "kab. malang",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3429,
+    "name": "Kasembon",
+    "city_id": 236,
+    "city_name": "kab. malang",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3414,
+    "name": "Kepanjen",
+    "city_id": 236,
+    "city_name": "kab. malang",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3432,
+    "name": "Kromengan",
+    "city_id": 236,
+    "city_name": "kab. malang",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3426,
+    "name": "Lawang",
+    "city_id": 236,
+    "city_name": "kab. malang",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3421,
+    "name": "Ngajum",
+    "city_id": 236,
+    "city_name": "kab. malang",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3428,
+    "name": "Ngantang",
+    "city_id": 236,
+    "city_name": "kab. malang",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3403,
+    "name": "Pagak",
+    "city_id": 236,
+    "city_name": "kab. malang",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3434,
+    "name": "Pagelaran",
+    "city_id": 236,
+    "city_name": "kab. malang",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3419,
+    "name": "Pakis",
+    "city_id": 236,
+    "city_name": "kab. malang",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3420,
+    "name": "Pakisaji",
+    "city_id": 236,
+    "city_name": "kab. malang",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3408,
+    "name": "Poncokusumo",
+    "city_id": 236,
+    "city_name": "kab. malang",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3427,
+    "name": "Pujon",
+    "city_id": 236,
+    "city_name": "kab. malang",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3425,
+    "name": "Singosari",
+    "city_id": 236,
+    "city_name": "kab. malang",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3405,
+    "name": "Sumbermanjing",
+    "city_id": 236,
+    "city_name": "kab. malang",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3413,
+    "name": "Sumberpucung",
+    "city_id": 236,
+    "city_name": "kab. malang",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3416,
+    "name": "Tajinan",
+    "city_id": 236,
+    "city_name": "kab. malang",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3431,
+    "name": "Tirtoyudo",
+    "city_id": 236,
+    "city_name": "kab. malang",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3417,
+    "name": "Tumpang",
+    "city_id": 236,
+    "city_name": "kab. malang",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3410,
+    "name": "Turen",
+    "city_id": 236,
+    "city_name": "kab. malang",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3422,
+    "name": "Wagir",
+    "city_id": 236,
+    "city_name": "kab. malang",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3409,
+    "name": "Wajak",
+    "city_id": 236,
+    "city_name": "kab. malang",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3433,
+    "name": "Wonosari",
+    "city_id": 236,
+    "city_name": "kab. malang",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  }
+]

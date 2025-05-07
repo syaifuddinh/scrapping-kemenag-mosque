@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1145,
+    "name": "Muara Tabir",
+    "city_id": 95,
+    "city_name": "kab. tebo",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1137,
+    "name": "Rimbo Bujang",
+    "city_id": 95,
+    "city_name": "kab. tebo",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1141,
+    "name": "Rimbo Ilir",
+    "city_id": 95,
+    "city_name": "kab. tebo",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1140,
+    "name": "Rimbo Ulu",
+    "city_id": 95,
+    "city_name": "kab. tebo",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1143,
+    "name": "Serai Serumpun",
+    "city_id": 95,
+    "city_name": "kab. tebo",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1138,
+    "name": "Sumay",
+    "city_id": 95,
+    "city_name": "kab. tebo",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1135,
+    "name": "Tebo Ilir",
+    "city_id": 95,
+    "city_name": "kab. tebo",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1134,
+    "name": "Tebo Tengah",
+    "city_id": 95,
+    "city_name": "kab. tebo",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1136,
+    "name": "Tebo Ulu",
+    "city_id": 95,
+    "city_name": "kab. tebo",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1142,
+    "name": "Tengah Ilir",
+    "city_id": 95,
+    "city_name": "kab. tebo",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1139,
+    "name": "VII Koto",
+    "city_id": 95,
+    "city_name": "kab. tebo",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1144,
+    "name": "VII Koto Ilir",
+    "city_id": 95,
+    "city_name": "kab. tebo",
+    "province_id": 5,
+    "province_name": "jambi"
+  }
+]

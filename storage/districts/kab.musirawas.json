@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1245,
+    "name": "BTS. Ulu",
+    "city_id": 102,
+    "city_name": "kab. musi rawas",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1239,
+    "name": "Jayaloka",
+    "city_id": 102,
+    "city_name": "kab. musi rawas",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1243,
+    "name": "Megang Sakti",
+    "city_id": 102,
+    "city_name": "kab. musi rawas",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1240,
+    "name": "Muara Beliti",
+    "city_id": 102,
+    "city_name": "kab. musi rawas",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1234,
+    "name": "Muara Kelingi",
+    "city_id": 102,
+    "city_name": "kab. musi rawas",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1233,
+    "name": "Muara Lakitan",
+    "city_id": 102,
+    "city_name": "kab. musi rawas",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1244,
+    "name": "Purwodadi",
+    "city_id": 102,
+    "city_name": "kab. musi rawas",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1242,
+    "name": "Selangit",
+    "city_id": 102,
+    "city_name": "kab. musi rawas",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1241,
+    "name": "STL Ulu Terawas",
+    "city_id": 102,
+    "city_name": "kab. musi rawas",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1252,
+    "name": "Suka Karya",
+    "city_id": 102,
+    "city_name": "kab. musi rawas",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1250,
+    "name": "Sumber Harta",
+    "city_id": 102,
+    "city_name": "kab. musi rawas",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1249,
+    "name": "Tiang Pumpung Kepungut",
+    "city_id": 102,
+    "city_name": "kab. musi rawas",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1251,
+    "name": "Tuah Negeri",
+    "city_id": 102,
+    "city_name": "kab. musi rawas",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1232,
+    "name": "Tugumulyo",
+    "city_id": 102,
+    "city_name": "kab. musi rawas",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  }
+]

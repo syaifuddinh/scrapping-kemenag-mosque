@@ -1,0 +1,98 @@
+[
+  {
+    "id": 795,
+    "name": "Bonjol",
+    "city_id": 64,
+    "city_name": "kab. pasaman",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 799,
+    "name": "Duo Koto",
+    "city_id": 64,
+    "city_name": "kab. pasaman",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 796,
+    "name": "Lubuk Sikaping",
+    "city_id": 64,
+    "city_name": "kab. pasaman",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 798,
+    "name": "Mapat Tunggul",
+    "city_id": 64,
+    "city_name": "kab. pasaman",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 802,
+    "name": "Mapat Tunggul Selatan",
+    "city_id": 64,
+    "city_name": "kab. pasaman",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 804,
+    "name": "Padang Gelugur",
+    "city_id": 64,
+    "city_name": "kab. pasaman",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 797,
+    "name": "Panti",
+    "city_id": 64,
+    "city_name": "kab. pasaman",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 801,
+    "name": "Rao",
+    "city_id": 64,
+    "city_name": "kab. pasaman",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 806,
+    "name": "Rao Selatan",
+    "city_id": 64,
+    "city_name": "kab. pasaman",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 805,
+    "name": "Rao Utara",
+    "city_id": 64,
+    "city_name": "kab. pasaman",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 803,
+    "name": "Simpang Alahan Mati",
+    "city_id": 64,
+    "city_name": "kab. pasaman",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 800,
+    "name": "Tigo Nagari",
+    "city_id": 64,
+    "city_name": "kab. pasaman",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  }
+]

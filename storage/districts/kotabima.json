@@ -1,0 +1,42 @@
+[
+  {
+    "id": 4122,
+    "name": "Mpunda",
+    "city_id": 286,
+    "city_name": "kota bima",
+    "province_id": 18,
+    "province_name": "nusa tenggara barat"
+  },
+  {
+    "id": 4121,
+    "name": "Raba",
+    "city_id": 286,
+    "city_name": "kota bima",
+    "province_id": 18,
+    "province_name": "nusa tenggara barat"
+  },
+  {
+    "id": 4118,
+    "name": "Rasanae Barat",
+    "city_id": 286,
+    "city_name": "kota bima",
+    "province_id": 18,
+    "province_name": "nusa tenggara barat"
+  },
+  {
+    "id": 4119,
+    "name": "Rasanae Timur",
+    "city_id": 286,
+    "city_name": "kota bima",
+    "province_id": 18,
+    "province_name": "nusa tenggara barat"
+  },
+  {
+    "id": 4120,
+    "name": "sakota",
+    "city_id": 286,
+    "city_name": "kota bima",
+    "province_id": 18,
+    "province_name": "nusa tenggara barat"
+  }
+]

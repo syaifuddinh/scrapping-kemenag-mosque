@@ -1,0 +1,146 @@
+[
+  {
+    "id": 3626,
+    "name": "Bangsal",
+    "city_id": 245,
+    "city_name": "kab. mojokerto",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3633,
+    "name": "Dawarblandong",
+    "city_id": 245,
+    "city_name": "kab. mojokerto",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3625,
+    "name": "Dlanggu",
+    "city_id": 245,
+    "city_name": "kab. mojokerto",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3630,
+    "name": "Gedeg",
+    "city_id": 245,
+    "city_name": "kab. mojokerto",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3618,
+    "name": "Gondang",
+    "city_id": 245,
+    "city_name": "kab. mojokerto",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3617,
+    "name": "Jatirejo",
+    "city_id": 245,
+    "city_name": "kab. mojokerto",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3632,
+    "name": "Jetis",
+    "city_id": 245,
+    "city_name": "kab. mojokerto",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3631,
+    "name": "Kemlagi",
+    "city_id": 245,
+    "city_name": "kab. mojokerto",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3623,
+    "name": "Kutorejo",
+    "city_id": 245,
+    "city_name": "kab. mojokerto",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3634,
+    "name": "Mojoanyar",
+    "city_id": 245,
+    "city_name": "kab. mojokerto",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3624,
+    "name": "Mojosari",
+    "city_id": 245,
+    "city_name": "kab. mojokerto",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3621,
+    "name": "Ngoro",
+    "city_id": 245,
+    "city_name": "kab. mojokerto",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3619,
+    "name": "Pacet",
+    "city_id": 245,
+    "city_name": "kab. mojokerto",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3622,
+    "name": "Pungging",
+    "city_id": 245,
+    "city_name": "kab. mojokerto",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3627,
+    "name": "Puri",
+    "city_id": 245,
+    "city_name": "kab. mojokerto",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3629,
+    "name": "Sooko",
+    "city_id": 245,
+    "city_name": "kab. mojokerto",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3620,
+    "name": "Trawas",
+    "city_id": 245,
+    "city_name": "kab. mojokerto",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3628,
+    "name": "Trowulan",
+    "city_id": 245,
+    "city_name": "kab. mojokerto",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  }
+]

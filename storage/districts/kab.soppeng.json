@@ -1,0 +1,66 @@
+[
+  {
+    "id": 5424,
+    "name": "Citta",
+    "city_id": 395,
+    "city_name": "kab. soppeng",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5422,
+    "name": "Donri Donri",
+    "city_id": 395,
+    "city_name": "kab. soppeng",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5423,
+    "name": "Ganra",
+    "city_id": 395,
+    "city_name": "kab. soppeng",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5420,
+    "name": "Lalabata",
+    "city_id": 395,
+    "city_name": "kab. soppeng",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5418,
+    "name": "Liliraja",
+    "city_id": 395,
+    "city_name": "kab. soppeng",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5419,
+    "name": "Lilirilau",
+    "city_id": 395,
+    "city_name": "kab. soppeng",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5421,
+    "name": "Marioriawa",
+    "city_id": 395,
+    "city_name": "kab. soppeng",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5417,
+    "name": "Marioriwawo",
+    "city_id": 395,
+    "city_name": "kab. soppeng",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  }
+]

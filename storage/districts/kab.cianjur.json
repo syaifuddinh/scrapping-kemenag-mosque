@@ -1,0 +1,258 @@
+[
+  {
+    "id": 2120,
+    "name": "Agrabinta",
+    "city_id": 166,
+    "city_name": "kab. cianjur",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2104,
+    "name": "Bojongpicung",
+    "city_id": 166,
+    "city_name": "kab. cianjur",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2113,
+    "name": "Campaka",
+    "city_id": 166,
+    "city_name": "kab. cianjur",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2123,
+    "name": "Campakamulya",
+    "city_id": 166,
+    "city_name": "kab. cianjur",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2099,
+    "name": "Cianjur",
+    "city_id": 166,
+    "city_name": "kab. cianjur",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2101,
+    "name": "Cibeber",
+    "city_id": 166,
+    "city_name": "kab. cianjur",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2118,
+    "name": "Cibinong",
+    "city_id": 166,
+    "city_name": "kab. cianjur",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2121,
+    "name": "Cidaun",
+    "city_id": 166,
+    "city_name": "kab. cianjur",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2127,
+    "name": "Cijati",
+    "city_id": 166,
+    "city_name": "kab. cianjur",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2124,
+    "name": "Cikadu",
+    "city_id": 166,
+    "city_name": "kab. cianjur",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2110,
+    "name": "Cikalongkulon",
+    "city_id": 166,
+    "city_name": "kab. cianjur",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2102,
+    "name": "Cilaku",
+    "city_id": 166,
+    "city_name": "kab. cianjur",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2126,
+    "name": "Cipanas",
+    "city_id": 166,
+    "city_name": "kab. cianjur",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2103,
+    "name": "Ciranjang",
+    "city_id": 166,
+    "city_name": "kab. cianjur",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2109,
+    "name": "Cugenang",
+    "city_id": 166,
+    "city_name": "kab. cianjur",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2125,
+    "name": "Gekbrong",
+    "city_id": 166,
+    "city_name": "kab. cianjur",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2129,
+    "name": "Haurwangi",
+    "city_id": 166,
+    "city_name": "kab. cianjur",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2115,
+    "name": "Kadupandak",
+    "city_id": 166,
+    "city_name": "kab. cianjur",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2105,
+    "name": "Karangtengah",
+    "city_id": 166,
+    "city_name": "kab. cianjur",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2128,
+    "name": "Leles",
+    "city_id": 166,
+    "city_name": "kab. cianjur",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2106,
+    "name": "Mande",
+    "city_id": 166,
+    "city_name": "kab. cianjur",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2122,
+    "name": "Naringgul",
+    "city_id": 166,
+    "city_name": "kab. cianjur",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2108,
+    "name": "Pacet",
+    "city_id": 166,
+    "city_name": "kab. cianjur",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2116,
+    "name": "Pagelaran",
+    "city_id": 166,
+    "city_name": "kab. cianjur",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2130,
+    "name": "Pasirkuda",
+    "city_id": 166,
+    "city_name": "kab. cianjur",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2119,
+    "name": "Sindangbarang",
+    "city_id": 166,
+    "city_name": "kab. cianjur",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2107,
+    "name": "Sukaluyu",
+    "city_id": 166,
+    "city_name": "kab. cianjur",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2112,
+    "name": "Sukanagara",
+    "city_id": 166,
+    "city_name": "kab. cianjur",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2111,
+    "name": "Sukaresmi",
+    "city_id": 166,
+    "city_name": "kab. cianjur",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2114,
+    "name": "Takokak",
+    "city_id": 166,
+    "city_name": "kab. cianjur",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2117,
+    "name": "Tanggeung",
+    "city_id": 166,
+    "city_name": "kab. cianjur",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2100,
+    "name": "Warungkondang",
+    "city_id": 166,
+    "city_name": "kab. cianjur",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  }
+]

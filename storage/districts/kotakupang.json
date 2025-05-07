@@ -1,0 +1,50 @@
+[
+  {
+    "id": 4410,
+    "name": "Alak",
+    "city_id": 307,
+    "city_name": "kota kupang",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4412,
+    "name": "Kelapa Lima",
+    "city_id": 307,
+    "city_name": "kota kupang",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4415,
+    "name": "Kota Lama",
+    "city_id": 307,
+    "city_name": "kota kupang",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4414,
+    "name": "Kota Raja",
+    "city_id": 307,
+    "city_name": "kota kupang",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4411,
+    "name": "Maulafa",
+    "city_id": 307,
+    "city_name": "kota kupang",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4413,
+    "name": "Oebobo",
+    "city_id": 307,
+    "city_name": "kota kupang",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  }
+]

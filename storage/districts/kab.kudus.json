@@ -1,0 +1,74 @@
+[
+  {
+    "id": 2999,
+    "name": "Bae",
+    "city_id": 208,
+    "city_name": "kab. kudus",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 3001,
+    "name": "Dawe",
+    "city_id": 208,
+    "city_name": "kab. kudus",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 3000,
+    "name": "Gebog",
+    "city_id": 208,
+    "city_name": "kab. kudus",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2995,
+    "name": "Jati",
+    "city_id": 208,
+    "city_name": "kab. kudus",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2998,
+    "name": "Jekulo",
+    "city_id": 208,
+    "city_name": "kab. kudus",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2993,
+    "name": "Kaliwungu",
+    "city_id": 208,
+    "city_name": "kab. kudus",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2994,
+    "name": "Kudus",
+    "city_id": 208,
+    "city_name": "kab. kudus",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2997,
+    "name": "Mejobo",
+    "city_id": 208,
+    "city_name": "kab. kudus",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2996,
+    "name": "Undaan",
+    "city_id": 208,
+    "city_name": "kab. kudus",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 7243,
+    "name": "Banggai",
+    "city_id": 528,
+    "city_name": "kab. banggai laut",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 7248,
+    "name": "Banggai Selatan",
+    "city_id": 528,
+    "city_name": "kab. banggai laut",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 7249,
+    "name": "Banggai Tengah",
+    "city_id": 528,
+    "city_name": "kab. banggai laut",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 7244,
+    "name": "Banggai Utara",
+    "city_id": 528,
+    "city_name": "kab. banggai laut",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 7246,
+    "name": "Bangkurung",
+    "city_id": 528,
+    "city_name": "kab. banggai laut",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 7245,
+    "name": "Bokan Kepulauan",
+    "city_id": 528,
+    "city_name": "kab. banggai laut",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 7247,
+    "name": "Labobo",
+    "city_id": 528,
+    "city_name": "kab. banggai laut",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  }
+]

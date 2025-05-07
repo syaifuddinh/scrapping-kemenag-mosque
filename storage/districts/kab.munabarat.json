@@ -1,0 +1,90 @@
+[
+  {
+    "id": 7271,
+    "name": "Barangka",
+    "city_id": 523,
+    "city_name": "kab. muna barat",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 7279,
+    "name": "Kusambi",
+    "city_id": 523,
+    "city_name": "kab. muna barat",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 7272,
+    "name": "Lawa",
+    "city_id": 523,
+    "city_name": "kab. muna barat",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 7275,
+    "name": "Maginti",
+    "city_id": 523,
+    "city_name": "kab. muna barat",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 7280,
+    "name": "Napano Kusambi",
+    "city_id": 523,
+    "city_name": "kab. muna barat",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 7270,
+    "name": "Sawerigadi",
+    "city_id": 523,
+    "city_name": "kab. muna barat",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 7278,
+    "name": "Tiworo Kepulauan",
+    "city_id": 523,
+    "city_name": "kab. muna barat",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 7274,
+    "name": "Tiworo Selatan",
+    "city_id": 523,
+    "city_name": "kab. muna barat",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 7276,
+    "name": "Tiworo Tengah",
+    "city_id": 523,
+    "city_name": "kab. muna barat",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 7277,
+    "name": "Tiworo Utara",
+    "city_id": 523,
+    "city_name": "kab. muna barat",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 7273,
+    "name": "Wadaga",
+    "city_id": 523,
+    "city_name": "kab. muna barat",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  }
+]

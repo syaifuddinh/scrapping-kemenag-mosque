@@ -1,0 +1,82 @@
+[
+  {
+    "id": 5091,
+    "name": "Biaro",
+    "city_id": 366,
+    "city_name": "kab. kep. siau tagulandang biaro",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5086,
+    "name": "Siau Barat",
+    "city_id": 366,
+    "city_name": "kab. kep. siau tagulandang biaro",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5089,
+    "name": "Siau Barat Selatan",
+    "city_id": 366,
+    "city_name": "kab. kep. siau tagulandang biaro",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5092,
+    "name": "Siau Barat Utara",
+    "city_id": 366,
+    "city_name": "kab. kep. siau tagulandang biaro",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5093,
+    "name": "Siau Tengah",
+    "city_id": 366,
+    "city_name": "kab. kep. siau tagulandang biaro",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5085,
+    "name": "Siau Timur",
+    "city_id": 366,
+    "city_name": "kab. kep. siau tagulandang biaro",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5088,
+    "name": "Siau Timur Selatan",
+    "city_id": 366,
+    "city_name": "kab. kep. siau tagulandang biaro",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5087,
+    "name": "Tagulandang",
+    "city_id": 366,
+    "city_name": "kab. kep. siau tagulandang biaro",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5094,
+    "name": "Tagulandang Selatan",
+    "city_id": 366,
+    "city_name": "kab. kep. siau tagulandang biaro",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5090,
+    "name": "Tagulandang Utara",
+    "city_id": 366,
+    "city_name": "kab. kep. siau tagulandang biaro",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  }
+]

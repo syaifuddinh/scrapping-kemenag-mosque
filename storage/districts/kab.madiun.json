@@ -1,0 +1,122 @@
+[
+  {
+    "id": 3685,
+    "name": "Balerejo",
+    "city_id": 248,
+    "city_name": "kab. madiun",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3679,
+    "name": "Dagangan",
+    "city_id": 248,
+    "city_name": "kab. madiun",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3677,
+    "name": "Dolopo",
+    "city_id": 248,
+    "city_name": "kab. madiun",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3678,
+    "name": "Geger",
+    "city_id": 248,
+    "city_name": "kab. madiun",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3681,
+    "name": "Gemarang",
+    "city_id": 248,
+    "city_name": "kab. madiun",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3684,
+    "name": "Jiwan",
+    "city_id": 248,
+    "city_name": "kab. madiun",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3680,
+    "name": "Kare",
+    "city_id": 248,
+    "city_name": "kab. madiun",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3676,
+    "name": "Kebon Sari",
+    "city_id": 248,
+    "city_name": "kab. madiun",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3683,
+    "name": "Madiun",
+    "city_id": 248,
+    "city_name": "kab. madiun",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3686,
+    "name": "Mejayan",
+    "city_id": 248,
+    "city_name": "kab. madiun",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3688,
+    "name": "Pilangkenceng",
+    "city_id": 248,
+    "city_name": "kab. madiun",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3687,
+    "name": "Saradan",
+    "city_id": 248,
+    "city_name": "kab. madiun",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3689,
+    "name": "Sawahan",
+    "city_id": 248,
+    "city_name": "kab. madiun",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3690,
+    "name": "Wonosari",
+    "city_id": 248,
+    "city_name": "kab. madiun",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3682,
+    "name": "Wungu",
+    "city_id": 248,
+    "city_name": "kab. madiun",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  }
+]

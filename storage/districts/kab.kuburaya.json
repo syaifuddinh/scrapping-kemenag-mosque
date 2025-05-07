@@ -1,0 +1,74 @@
+[
+  {
+    "id": 4575,
+    "name": "Batu Ampar",
+    "city_id": 319,
+    "city_name": "kab. kubu raya",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4572,
+    "name": "Kuala Mandor B",
+    "city_id": 319,
+    "city_name": "kab. kubu raya",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4576,
+    "name": "Kubu",
+    "city_id": 319,
+    "city_name": "kab. kubu raya",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4577,
+    "name": "Rasau Jaya",
+    "city_id": 319,
+    "city_name": "kab. kubu raya",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4573,
+    "name": "Sungai Ambawang",
+    "city_id": 319,
+    "city_name": "kab. kubu raya",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4579,
+    "name": "Sungai Kakap",
+    "city_id": 319,
+    "city_name": "kab. kubu raya",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4571,
+    "name": "Sungai Raya",
+    "city_id": 319,
+    "city_name": "kab. kubu raya",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4578,
+    "name": "Teluk Pakedai",
+    "city_id": 319,
+    "city_name": "kab. kubu raya",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4574,
+    "name": "Terentang",
+    "city_id": 319,
+    "city_name": "kab. kubu raya",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  }
+]

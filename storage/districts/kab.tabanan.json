@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3963,
+    "name": "Baturiti",
+    "city_id": 269,
+    "city_name": "kab. tabanan",
+    "province_id": 17,
+    "province_name": "bali"
+  },
+  {
+    "id": 3960,
+    "name": "Kediri",
+    "city_id": 269,
+    "city_name": "kab. tabanan",
+    "province_id": 17,
+    "province_name": "bali"
+  },
+  {
+    "id": 3958,
+    "name": "Kerambitan",
+    "city_id": 269,
+    "city_name": "kab. tabanan",
+    "province_id": 17,
+    "province_name": "bali"
+  },
+  {
+    "id": 3961,
+    "name": "Marga",
+    "city_id": 269,
+    "city_name": "kab. tabanan",
+    "province_id": 17,
+    "province_name": "bali"
+  },
+  {
+    "id": 3962,
+    "name": "Penebel",
+    "city_id": 269,
+    "city_name": "kab. tabanan",
+    "province_id": 17,
+    "province_name": "bali"
+  },
+  {
+    "id": 3964,
+    "name": "Pupuan",
+    "city_id": 269,
+    "city_name": "kab. tabanan",
+    "province_id": 17,
+    "province_name": "bali"
+  },
+  {
+    "id": 3956,
+    "name": "Salamadeg Timur",
+    "city_id": 269,
+    "city_name": "kab. tabanan",
+    "province_id": 17,
+    "province_name": "bali"
+  },
+  {
+    "id": 3957,
+    "name": "Salemadeg Barat",
+    "city_id": 269,
+    "city_name": "kab. tabanan",
+    "province_id": 17,
+    "province_name": "bali"
+  },
+  {
+    "id": 3955,
+    "name": "Selemadeg",
+    "city_id": 269,
+    "city_name": "kab. tabanan",
+    "province_id": 17,
+    "province_name": "bali"
+  },
+  {
+    "id": 3959,
+    "name": "Tabanan",
+    "city_id": 269,
+    "city_name": "kab. tabanan",
+    "province_id": 17,
+    "province_name": "bali"
+  }
+]

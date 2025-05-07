@@ -1,0 +1,98 @@
+[
+  {
+    "id": 2603,
+    "name": "Bantar Gebang",
+    "city_id": 185,
+    "city_name": "kota bekasi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2598,
+    "name": "Bekasi Barat",
+    "city_id": 185,
+    "city_name": "kota bekasi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2600,
+    "name": "Bekasi Selatan",
+    "city_id": 185,
+    "city_name": "kota bekasi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2597,
+    "name": "Bekasi Timur",
+    "city_id": 185,
+    "city_name": "kota bekasi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2599,
+    "name": "Bekasi Utara",
+    "city_id": 185,
+    "city_name": "kota bekasi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2606,
+    "name": "Jati Sempurna",
+    "city_id": 185,
+    "city_name": "kota bekasi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2605,
+    "name": "Jatiasih",
+    "city_id": 185,
+    "city_name": "kota bekasi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2602,
+    "name": "Medan Satria",
+    "city_id": 185,
+    "city_name": "kota bekasi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2607,
+    "name": "Mustika Jaya",
+    "city_id": 185,
+    "city_name": "kota bekasi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2604,
+    "name": "Pondok Gede",
+    "city_id": 185,
+    "city_name": "kota bekasi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2608,
+    "name": "Pondok Melati",
+    "city_id": 185,
+    "city_name": "kota bekasi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2601,
+    "name": "Rawa Lumbu",
+    "city_id": 185,
+    "city_name": "kota bekasi",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  }
+]

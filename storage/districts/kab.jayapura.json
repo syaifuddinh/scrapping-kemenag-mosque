@@ -1,0 +1,130 @@
+[
+  {
+    "id": 6162,
+    "name": "Airu",
+    "city_id": 453,
+    "city_name": "kab. jayapura",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6156,
+    "name": "Demta",
+    "city_id": 453,
+    "city_name": "kab. jayapura",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6149,
+    "name": "Depapre",
+    "city_id": 453,
+    "city_name": "kab. jayapura",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6158,
+    "name": "Ebungfa",
+    "city_id": 453,
+    "city_name": "kab. jayapura",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6157,
+    "name": "Kaureh",
+    "city_id": 453,
+    "city_name": "kab. jayapura",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6151,
+    "name": "Kemtuk",
+    "city_id": 453,
+    "city_name": "kab. jayapura",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6152,
+    "name": "Kemtuk Gresi",
+    "city_id": 453,
+    "city_name": "kab. jayapura",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6160,
+    "name": "Nambluong",
+    "city_id": 453,
+    "city_name": "kab. jayapura",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6154,
+    "name": "Nimbokrang",
+    "city_id": 453,
+    "city_name": "kab. jayapura",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6153,
+    "name": "Nimboran",
+    "city_id": 453,
+    "city_name": "kab. jayapura",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6147,
+    "name": "Sentani",
+    "city_id": 453,
+    "city_name": "kab. jayapura",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6150,
+    "name": "Sentani Barat",
+    "city_id": 453,
+    "city_name": "kab. jayapura",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6148,
+    "name": "Sentani Timur",
+    "city_id": 453,
+    "city_name": "kab. jayapura",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6155,
+    "name": "Unurum Guay",
+    "city_id": 453,
+    "city_name": "kab. jayapura",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6159,
+    "name": "Waibu",
+    "city_id": 453,
+    "city_name": "kab. jayapura",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6161,
+    "name": "Yapsi",
+    "city_id": 453,
+    "city_name": "kab. jayapura",
+    "province_id": 32,
+    "province_name": "papua"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "id": 87,
+    "name": "Kab. Kerinci",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 88,
+    "name": "Kab. Merangin",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 89,
+    "name": "Kab. Sarolangun",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 90,
+    "name": "Kab. Batanghari",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 91,
+    "name": "Kab. Muaro Jambi",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 92,
+    "name": "Kab Tanjung Jabung Barat",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 93,
+    "name": "Kab Tanjung Jabung Timur",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 94,
+    "name": "Kab. Bungo",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 95,
+    "name": "Kab. Tebo",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 96,
+    "name": "Kota Jambi",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 97,
+    "name": "Kota Sungai Penuh",
+    "province_id": 5,
+    "province_name": "jambi"
+  }
+]

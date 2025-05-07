@@ -1,0 +1,86 @@
+[
+  {
+    "id": 308,
+    "name": "Kab. Sambas",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 309,
+    "name": "Kab. Mempawah",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 310,
+    "name": "Kab. Sanggau",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 311,
+    "name": "Kab. Ketapang",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 312,
+    "name": "Kab. Sintang",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 313,
+    "name": "Kab. Kapuas Hulu",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 314,
+    "name": "Kab. Bengkayang",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 315,
+    "name": "Kab. Landak",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 316,
+    "name": "Kab. Sekadau",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 317,
+    "name": "Kab. Melawi",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 318,
+    "name": "Kab. Kayong Utara",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 319,
+    "name": "Kab. Kubu Raya",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 320,
+    "name": "Kota Pontianak",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 321,
+    "name": "Kota Singkawang",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  }
+]

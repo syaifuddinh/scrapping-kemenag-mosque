@@ -1,0 +1,42 @@
+[
+  {
+    "id": 7299,
+    "name": "Laham",
+    "city_id": 530,
+    "city_name": "kab. mahakam ulu",
+    "province_id": 23,
+    "province_name": "kalimantan timur"
+  },
+  {
+    "id": 7300,
+    "name": "Long Apari",
+    "city_id": 530,
+    "city_name": "kab. mahakam ulu",
+    "province_id": 23,
+    "province_name": "kalimantan timur"
+  },
+  {
+    "id": 7297,
+    "name": "Long Bangun",
+    "city_id": 530,
+    "city_name": "kab. mahakam ulu",
+    "province_id": 23,
+    "province_name": "kalimantan timur"
+  },
+  {
+    "id": 7298,
+    "name": "Long Hubung",
+    "city_id": 530,
+    "city_name": "kab. mahakam ulu",
+    "province_id": 23,
+    "province_name": "kalimantan timur"
+  },
+  {
+    "id": 7301,
+    "name": "Long Pahangai",
+    "city_id": 530,
+    "city_name": "kab. mahakam ulu",
+    "province_id": 23,
+    "province_name": "kalimantan timur"
+  }
+]

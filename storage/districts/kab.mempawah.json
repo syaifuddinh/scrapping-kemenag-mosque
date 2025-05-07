@@ -1,0 +1,74 @@
+[
+  {
+    "id": 4441,
+    "name": "Anjongan",
+    "city_id": 309,
+    "city_name": "kab. mempawah",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4435,
+    "name": "Mempawah Hilir",
+    "city_id": 309,
+    "city_name": "kab. mempawah",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4443,
+    "name": "Mempawah Timur",
+    "city_id": 309,
+    "city_name": "kab. mempawah",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4442,
+    "name": "Sadaniang",
+    "city_id": 309,
+    "city_name": "kab. mempawah",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4440,
+    "name": "Segedong",
+    "city_id": 309,
+    "city_name": "kab. mempawah",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4438,
+    "name": "Siantan",
+    "city_id": 309,
+    "city_name": "kab. mempawah",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4439,
+    "name": "Sungai Kunyit",
+    "city_id": 309,
+    "city_name": "kab. mempawah",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4437,
+    "name": "Sungai Pinyuh",
+    "city_id": 309,
+    "city_name": "kab. mempawah",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4436,
+    "name": "Toho",
+    "city_id": 309,
+    "city_name": "kab. mempawah",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  }
+]

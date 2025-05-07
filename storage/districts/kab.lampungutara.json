@@ -1,0 +1,186 @@
+[
+  {
+    "id": 1555,
+    "name": "Abung Barat",
+    "city_id": 124,
+    "city_name": "kab. lampung utara",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1571,
+    "name": "Abung Kunang",
+    "city_id": 124,
+    "city_name": "kab. lampung utara",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1568,
+    "name": "Abung Pekurun",
+    "city_id": 124,
+    "city_name": "kab. lampung utara",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1556,
+    "name": "Abung Selatan",
+    "city_id": 124,
+    "city_name": "kab. lampung utara",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1562,
+    "name": "Abung Semuli",
+    "city_id": 124,
+    "city_name": "kab. lampung utara",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1563,
+    "name": "Abung Surakarta",
+    "city_id": 124,
+    "city_name": "kab. lampung utara",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1560,
+    "name": "Abung Tengah",
+    "city_id": 124,
+    "city_name": "kab. lampung utara",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1554,
+    "name": "Abung Timur",
+    "city_id": 124,
+    "city_name": "kab. lampung utara",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1561,
+    "name": "Abung Tinggi",
+    "city_id": 124,
+    "city_name": "kab. lampung utara",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1572,
+    "name": "Blambangan Pagar",
+    "city_id": 124,
+    "city_name": "kab. lampung utara",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1550,
+    "name": "Bukit Kemuning",
+    "city_id": 124,
+    "city_name": "kab. lampung utara",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1565,
+    "name": "Bunga Mayang",
+    "city_id": 124,
+    "city_name": "kab. lampung utara",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1566,
+    "name": "Hulu Sungkai",
+    "city_id": 124,
+    "city_name": "kab. lampung utara",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1551,
+    "name": "Kotabumi",
+    "city_id": 124,
+    "city_name": "kab. lampung utara",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1559,
+    "name": "Kotabumi Selatan",
+    "city_id": 124,
+    "city_name": "kab. lampung utara",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1558,
+    "name": "Kotabumi Utara",
+    "city_id": 124,
+    "city_name": "kab. lampung utara",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1564,
+    "name": "Muara Sungkai",
+    "city_id": 124,
+    "city_name": "kab. lampung utara",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1570,
+    "name": "Sungkai Barat",
+    "city_id": 124,
+    "city_name": "kab. lampung utara",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1569,
+    "name": "Sungkai Jaya",
+    "city_id": 124,
+    "city_name": "kab. lampung utara",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1552,
+    "name": "Sungkai Selatan",
+    "city_id": 124,
+    "city_name": "kab. lampung utara",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1567,
+    "name": "Sungkai Tengah",
+    "city_id": 124,
+    "city_name": "kab. lampung utara",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1557,
+    "name": "Sungkai Utara",
+    "city_id": 124,
+    "city_name": "kab. lampung utara",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1553,
+    "name": "Tanjung Raja",
+    "city_id": 124,
+    "city_name": "kab. lampung utara",
+    "province_id": 8,
+    "province_name": "lampung"
+  }
+]

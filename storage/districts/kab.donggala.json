@@ -1,0 +1,130 @@
+[
+  {
+    "id": 5169,
+    "name": "Balaesang",
+    "city_id": 375,
+    "city_name": "kab. donggala",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 5178,
+    "name": "Balaesang Tanjung",
+    "city_id": 375,
+    "city_name": "kab. donggala",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 5165,
+    "name": "Banawa",
+    "city_id": 375,
+    "city_name": "kab. donggala",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 5171,
+    "name": "Banawa Selatan",
+    "city_id": 375,
+    "city_name": "kab. donggala",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 5176,
+    "name": "Banawa Tengah",
+    "city_id": 375,
+    "city_name": "kab. donggala",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 5164,
+    "name": "Dompelas",
+    "city_id": 375,
+    "city_name": "kab. donggala",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 5166,
+    "name": "Labuan",
+    "city_id": 375,
+    "city_name": "kab. donggala",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 5173,
+    "name": "Panembani",
+    "city_id": 375,
+    "city_name": "kab. donggala",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 5163,
+    "name": "Rio Pakava",
+    "city_id": 375,
+    "city_name": "kab. donggala",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 5167,
+    "name": "Sindue",
+    "city_id": 375,
+    "city_name": "kab. donggala",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 5175,
+    "name": "Sindue Tobata",
+    "city_id": 375,
+    "city_name": "kab. donggala",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 5174,
+    "name": "Sindue Tombusabora",
+    "city_id": 375,
+    "city_name": "kab. donggala",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 5168,
+    "name": "Sirenja",
+    "city_id": 375,
+    "city_name": "kab. donggala",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 5170,
+    "name": "Sojol",
+    "city_id": 375,
+    "city_name": "kab. donggala",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 5177,
+    "name": "Sojol Utara",
+    "city_id": 375,
+    "city_name": "kab. donggala",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 5172,
+    "name": "Tanantovea",
+    "city_id": 375,
+    "city_name": "kab. donggala",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  }
+]

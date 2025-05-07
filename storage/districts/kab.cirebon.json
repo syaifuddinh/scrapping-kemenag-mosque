@@ -1,0 +1,322 @@
+[
+  {
+    "id": 2334,
+    "name": "Arjawinangun",
+    "city_id": 172,
+    "city_name": "kab. cirebon",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2320,
+    "name": "Astanajapura",
+    "city_id": 172,
+    "city_name": "kab. cirebon",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2315,
+    "name": "Babakan",
+    "city_id": 172,
+    "city_name": "kab. cirebon",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2323,
+    "name": "Beber",
+    "city_id": 172,
+    "city_name": "kab. cirebon",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2312,
+    "name": "Ciledug",
+    "city_id": 172,
+    "city_name": "kab. cirebon",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2336,
+    "name": "Ciwaringin",
+    "city_id": 172,
+    "city_name": "kab. cirebon",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2341,
+    "name": "Depok",
+    "city_id": 172,
+    "city_name": "kab. cirebon",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2326,
+    "name": "Dukupuntang",
+    "city_id": 172,
+    "city_name": "kab. cirebon",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2340,
+    "name": "Gebang",
+    "city_id": 172,
+    "city_name": "kab. cirebon",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2338,
+    "name": "Gegesik",
+    "city_id": 172,
+    "city_name": "kab. cirebon",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2347,
+    "name": "Gempol",
+    "city_id": 172,
+    "city_name": "kab. cirebon",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2348,
+    "name": "Greged",
+    "city_id": 172,
+    "city_name": "kab. cirebon",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2331,
+    "name": "Gunung Jati",
+    "city_id": 172,
+    "city_name": "kab. cirebon",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2350,
+    "name": "Jamblang",
+    "city_id": 172,
+    "city_name": "kab. cirebon",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2339,
+    "name": "Kaliwedi",
+    "city_id": 172,
+    "city_name": "kab. cirebon",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2332,
+    "name": "Kapetakan",
+    "city_id": 172,
+    "city_name": "kab. cirebon",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2316,
+    "name": "Karangsembung",
+    "city_id": 172,
+    "city_name": "kab. cirebon",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2344,
+    "name": "Karangwareng",
+    "city_id": 172,
+    "city_name": "kab. cirebon",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2330,
+    "name": "Kedawung",
+    "city_id": 172,
+    "city_name": "kab. cirebon",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2333,
+    "name": "Klangenan",
+    "city_id": 172,
+    "city_name": "kab. cirebon",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2317,
+    "name": "Lemahabang",
+    "city_id": 172,
+    "city_name": "kab. cirebon",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2313,
+    "name": "Losari",
+    "city_id": 172,
+    "city_name": "kab. cirebon",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2322,
+    "name": "Mundu",
+    "city_id": 172,
+    "city_name": "kab. cirebon",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2314,
+    "name": "Pabedilan",
+    "city_id": 172,
+    "city_name": "kab. cirebon",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2343,
+    "name": "Pabuaran",
+    "city_id": 172,
+    "city_name": "kab. cirebon",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2327,
+    "name": "Palimanan",
+    "city_id": 172,
+    "city_name": "kab. cirebon",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2321,
+    "name": "Pangenan",
+    "city_id": 172,
+    "city_name": "kab. cirebon",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2335,
+    "name": "Panguragan",
+    "city_id": 172,
+    "city_name": "kab. cirebon",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2342,
+    "name": "Pasaleman",
+    "city_id": 172,
+    "city_name": "kab. cirebon",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2346,
+    "name": "Plered",
+    "city_id": 172,
+    "city_name": "kab. cirebon",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2328,
+    "name": "Plumbon",
+    "city_id": 172,
+    "city_name": "kab. cirebon",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2319,
+    "name": "Sedong",
+    "city_id": 172,
+    "city_name": "kab. cirebon",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2325,
+    "name": "Sumber",
+    "city_id": 172,
+    "city_name": "kab. cirebon",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2349,
+    "name": "Suranenggala",
+    "city_id": 172,
+    "city_name": "kab. cirebon",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2337,
+    "name": "Susukan",
+    "city_id": 172,
+    "city_name": "kab. cirebon",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2318,
+    "name": "Susukan Lebak",
+    "city_id": 172,
+    "city_name": "kab. cirebon",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2324,
+    "name": "Talun",
+    "city_id": 172,
+    "city_name": "kab. cirebon",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2345,
+    "name": "Tengah Tani",
+    "city_id": 172,
+    "city_name": "kab. cirebon",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2311,
+    "name": "Waled",
+    "city_id": 172,
+    "city_name": "kab. cirebon",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2329,
+    "name": "Weru",
+    "city_id": 172,
+    "city_name": "kab. cirebon",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  }
+]

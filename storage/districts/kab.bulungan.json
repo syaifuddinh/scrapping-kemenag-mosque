@@ -1,0 +1,82 @@
+[
+  {
+    "id": 6666,
+    "name": "Bunyu",
+    "city_id": 489,
+    "city_name": "kab. bulungan",
+    "province_id": 34,
+    "province_name": "KALIMANTAN UTARA"
+  },
+  {
+    "id": 6663,
+    "name": "Peso",
+    "city_id": 489,
+    "city_name": "kab. bulungan",
+    "province_id": 34,
+    "province_name": "KALIMANTAN UTARA"
+  },
+  {
+    "id": 6664,
+    "name": "Peso Ilir",
+    "city_id": 489,
+    "city_name": "kab. bulungan",
+    "province_id": 34,
+    "province_name": "KALIMANTAN UTARA"
+  },
+  {
+    "id": 6665,
+    "name": "Sekatak",
+    "city_id": 489,
+    "city_name": "kab. bulungan",
+    "province_id": 34,
+    "province_name": "KALIMANTAN UTARA"
+  },
+  {
+    "id": 6657,
+    "name": "Tanjung Palas",
+    "city_id": 489,
+    "city_name": "kab. bulungan",
+    "province_id": 34,
+    "province_name": "KALIMANTAN UTARA"
+  },
+  {
+    "id": 6658,
+    "name": "Tanjung Palas Barat",
+    "city_id": 489,
+    "city_name": "kab. bulungan",
+    "province_id": 34,
+    "province_name": "KALIMANTAN UTARA"
+  },
+  {
+    "id": 6662,
+    "name": "Tanjung Palas Tengah",
+    "city_id": 489,
+    "city_name": "kab. bulungan",
+    "province_id": 34,
+    "province_name": "KALIMANTAN UTARA"
+  },
+  {
+    "id": 6660,
+    "name": "Tanjung Palas Timur",
+    "city_id": 489,
+    "city_name": "kab. bulungan",
+    "province_id": 34,
+    "province_name": "KALIMANTAN UTARA"
+  },
+  {
+    "id": 6659,
+    "name": "Tanjung Palas Utara",
+    "city_id": 489,
+    "city_name": "kab. bulungan",
+    "province_id": 34,
+    "province_name": "KALIMANTAN UTARA"
+  },
+  {
+    "id": 6661,
+    "name": "Tanjung Selor",
+    "city_id": 489,
+    "city_name": "kab. bulungan",
+    "province_id": 34,
+    "province_name": "KALIMANTAN UTARA"
+  }
+]

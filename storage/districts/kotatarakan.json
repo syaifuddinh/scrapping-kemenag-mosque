@@ -1,0 +1,34 @@
+[
+  {
+    "id": 6691,
+    "name": "Tarakan Barat",
+    "city_id": 493,
+    "city_name": "kota tarakan",
+    "province_id": 34,
+    "province_name": "KALIMANTAN UTARA"
+  },
+  {
+    "id": 6692,
+    "name": "Tarakan Tengah",
+    "city_id": 493,
+    "city_name": "kota tarakan",
+    "province_id": 34,
+    "province_name": "KALIMANTAN UTARA"
+  },
+  {
+    "id": 6693,
+    "name": "Tarakan Timur",
+    "city_id": 493,
+    "city_name": "kota tarakan",
+    "province_id": 34,
+    "province_name": "KALIMANTAN UTARA"
+  },
+  {
+    "id": 6694,
+    "name": "Tarakan Utara",
+    "city_id": 493,
+    "city_name": "kota tarakan",
+    "province_id": 34,
+    "province_name": "KALIMANTAN UTARA"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": 4455,
+    "name": "Balai",
+    "city_id": 310,
+    "city_name": "kab. sanggau",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4449,
+    "name": "Beduai",
+    "city_id": 310,
+    "city_name": "kab. sanggau",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4448,
+    "name": "Bonti",
+    "city_id": 310,
+    "city_name": "kab. sanggau",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4458,
+    "name": "Entikong",
+    "city_id": 310,
+    "city_name": "kab. sanggau",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4447,
+    "name": "Jangkang",
+    "city_id": 310,
+    "city_name": "kab. sanggau",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4444,
+    "name": "Kapuas",
+    "city_id": 310,
+    "city_name": "kab. sanggau",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4451,
+    "name": "Kembayan",
+    "city_id": 310,
+    "city_name": "kab. sanggau",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4457,
+    "name": "Meliau",
+    "city_id": 310,
+    "city_name": "kab. sanggau",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4445,
+    "name": "Mukok",
+    "city_id": 310,
+    "city_name": "kab. sanggau",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4446,
+    "name": "Noyan",
+    "city_id": 310,
+    "city_name": "kab. sanggau",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4452,
+    "name": "Parindu",
+    "city_id": 310,
+    "city_name": "kab. sanggau",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4450,
+    "name": "Sekayam",
+    "city_id": 310,
+    "city_name": "kab. sanggau",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4454,
+    "name": "Tayan Hilir",
+    "city_id": 310,
+    "city_name": "kab. sanggau",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4453,
+    "name": "Tayan Hulu",
+    "city_id": 310,
+    "city_name": "kab. sanggau",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4456,
+    "name": "Toba",
+    "city_id": 310,
+    "city_name": "kab. sanggau",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1678,
+    "name": "Mesuji",
+    "city_id": 132,
+    "city_name": "kab. mesuji",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1679,
+    "name": "Mesuji Timur",
+    "city_id": 132,
+    "city_name": "kab. mesuji",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1683,
+    "name": "Panca Jaya",
+    "city_id": 132,
+    "city_name": "kab. mesuji",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1680,
+    "name": "Rawa Jitu Utara",
+    "city_id": 132,
+    "city_name": "kab. mesuji",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1682,
+    "name": "Simpang Pematang",
+    "city_id": 132,
+    "city_name": "kab. mesuji",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1684,
+    "name": "Tanjung Raya",
+    "city_id": 132,
+    "city_name": "kab. mesuji",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1681,
+    "name": "Way Serdang",
+    "city_id": 132,
+    "city_name": "kab. mesuji",
+    "province_id": 8,
+    "province_name": "lampung"
+  }
+]

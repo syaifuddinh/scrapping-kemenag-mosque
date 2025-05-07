@@ -1,0 +1,74 @@
+[
+  {
+    "id": 76,
+    "name": "Kab. Kampar",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 77,
+    "name": "Kab. Indragiri Hulu",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 78,
+    "name": "Kab. Bengkalis",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 79,
+    "name": "Kab. Indragiri Hilir",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 80,
+    "name": "Kab. Pelalawan",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 81,
+    "name": "Kab. Rokan Hulu",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 82,
+    "name": "Kab. Rokan Hilir",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 83,
+    "name": "Kab. Siak",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 84,
+    "name": "Kab. Kuantan Singingi",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 85,
+    "name": "Kab. Kepulauan Meranti",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 86,
+    "name": "Kota Pekanbaru",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 508,
+    "name": "Kota Dumai",
+    "province_id": 4,
+    "province_name": "riau"
+  }
+]

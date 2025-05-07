@@ -1,0 +1,74 @@
+[
+  {
+    "id": 5856,
+    "name": "Dumbo Raya",
+    "city_id": 425,
+    "city_name": "kota gorontalo",
+    "province_id": 28,
+    "province_name": "gorontalo"
+  },
+  {
+    "id": 5852,
+    "name": "Dungingi",
+    "city_id": 425,
+    "city_name": "kota gorontalo",
+    "province_id": 28,
+    "province_name": "gorontalo"
+  },
+  {
+    "id": 5857,
+    "name": "Hulonthalangi",
+    "city_id": 425,
+    "city_name": "kota gorontalo",
+    "province_id": 28,
+    "province_name": "gorontalo"
+  },
+  {
+    "id": 5849,
+    "name": "Kota Barat",
+    "city_id": 425,
+    "city_name": "kota gorontalo",
+    "province_id": 28,
+    "province_name": "gorontalo"
+  },
+  {
+    "id": 5850,
+    "name": "Kota Selatan",
+    "city_id": 425,
+    "city_name": "kota gorontalo",
+    "province_id": 28,
+    "province_name": "gorontalo"
+  },
+  {
+    "id": 5854,
+    "name": "Kota Tengah",
+    "city_id": 425,
+    "city_name": "kota gorontalo",
+    "province_id": 28,
+    "province_name": "gorontalo"
+  },
+  {
+    "id": 5853,
+    "name": "Kota Timur",
+    "city_id": 425,
+    "city_name": "kota gorontalo",
+    "province_id": 28,
+    "province_name": "gorontalo"
+  },
+  {
+    "id": 5851,
+    "name": "Kota Utara",
+    "city_id": 425,
+    "city_name": "kota gorontalo",
+    "province_id": 28,
+    "province_name": "gorontalo"
+  },
+  {
+    "id": 5855,
+    "name": "Sipatana",
+    "city_id": 425,
+    "city_name": "kota gorontalo",
+    "province_id": 28,
+    "province_name": "gorontalo"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": 6208,
+    "name": "Fawi",
+    "city_id": 457,
+    "city_name": "kab. puncak jaya",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6207,
+    "name": "Ilu",
+    "city_id": 457,
+    "city_name": "kab. puncak jaya",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6211,
+    "name": "Jigonikme",
+    "city_id": 457,
+    "city_name": "kab. puncak jaya",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6209,
+    "name": "Mewoluk",
+    "city_id": 457,
+    "city_name": "kab. puncak jaya",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6206,
+    "name": "Mulia",
+    "city_id": 457,
+    "city_name": "kab. puncak jaya",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6213,
+    "name": "Tingginambut",
+    "city_id": 457,
+    "city_name": "kab. puncak jaya",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6212,
+    "name": "Torere",
+    "city_id": 457,
+    "city_name": "kab. puncak jaya",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6210,
+    "name": "Yamo",
+    "city_id": 457,
+    "city_name": "kab. puncak jaya",
+    "province_id": 32,
+    "province_name": "papua"
+  }
+]

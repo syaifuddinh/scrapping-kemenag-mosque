@@ -1,0 +1,74 @@
+[
+  {
+    "id": 4398,
+    "name": "Borong",
+    "city_id": 305,
+    "city_name": "kab. manggarai timur",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4402,
+    "name": "Elar",
+    "city_id": 305,
+    "city_name": "kab. manggarai timur",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 7029,
+    "name": "Elar Selatan",
+    "city_id": 305,
+    "city_name": "kab. manggarai timur",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4403,
+    "name": "Kota Komba",
+    "city_id": 305,
+    "city_name": "kab. manggarai timur",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4400,
+    "name": "Lamba Leda",
+    "city_id": 305,
+    "city_name": "kab. manggarai timur",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4399,
+    "name": "Poco Ranaka",
+    "city_id": 305,
+    "city_name": "kab. manggarai timur",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 7028,
+    "name": "Poco Ranaka Timur",
+    "city_id": 305,
+    "city_name": "kab. manggarai timur",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 7027,
+    "name": "Rana Mese",
+    "city_id": 305,
+    "city_name": "kab. manggarai timur",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4401,
+    "name": "Sambi Rampas",
+    "city_id": 305,
+    "city_name": "kab. manggarai timur",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  }
+]

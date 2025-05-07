@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1663,
+    "name": "Gedong Tataan",
+    "city_id": 130,
+    "city_name": "kab. pesawaran",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1669,
+    "name": "Kedondong",
+    "city_id": 130,
+    "city_name": "kab. pesawaran",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 6917,
+    "name": "Marga Punduh",
+    "city_id": 130,
+    "city_name": "kab. pesawaran",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1664,
+    "name": "Negeri Katon",
+    "city_id": 130,
+    "city_name": "kab. pesawaran",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1667,
+    "name": "Padang Cermin",
+    "city_id": 130,
+    "city_name": "kab. pesawaran",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1668,
+    "name": "Punduh Pidada",
+    "city_id": 130,
+    "city_name": "kab. pesawaran",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1665,
+    "name": "Tegineneng",
+    "city_id": 130,
+    "city_name": "kab. pesawaran",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 6919,
+    "name": "Teluk Pandan",
+    "city_id": 130,
+    "city_name": "kab. pesawaran",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 6918,
+    "name": "Way Khilau",
+    "city_id": 130,
+    "city_name": "kab. pesawaran",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1666,
+    "name": "Way Lima",
+    "city_id": 130,
+    "city_name": "kab. pesawaran",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 6920,
+    "name": "Way Ratai",
+    "city_id": 130,
+    "city_name": "kab. pesawaran",
+    "province_id": 8,
+    "province_name": "lampung"
+  }
+]

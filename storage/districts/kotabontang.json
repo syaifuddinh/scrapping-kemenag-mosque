@@ -1,0 +1,26 @@
+[
+  {
+    "id": 4974,
+    "name": "Bontang Barat",
+    "city_id": 357,
+    "city_name": "kota bontang",
+    "province_id": 23,
+    "province_name": "kalimantan timur"
+  },
+  {
+    "id": 4973,
+    "name": "Bontang Selatan",
+    "city_id": 357,
+    "city_name": "kota bontang",
+    "province_id": 23,
+    "province_name": "kalimantan timur"
+  },
+  {
+    "id": 4972,
+    "name": "Bontang Utara",
+    "city_id": 357,
+    "city_name": "kota bontang",
+    "province_id": 23,
+    "province_name": "kalimantan timur"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 4634,
+    "name": "Gunung Purei",
+    "city_id": 326,
+    "city_name": "kab. barito utara",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 4633,
+    "name": "Gunung Timang",
+    "city_id": 326,
+    "city_name": "kab. barito utara",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 4637,
+    "name": "Lahei",
+    "city_id": 326,
+    "city_name": "kab. barito utara",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 4632,
+    "name": "Montallat",
+    "city_id": 326,
+    "city_name": "kab. barito utara",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 4636,
+    "name": "Teweh Tengah",
+    "city_id": 326,
+    "city_name": "kab. barito utara",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 4635,
+    "name": "Teweh Timur",
+    "city_id": 326,
+    "city_name": "kab. barito utara",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  }
+]

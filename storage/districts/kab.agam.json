@@ -1,0 +1,130 @@
+[
+  {
+    "id": 778,
+    "name": "Ampek Nagari",
+    "city_id": 62,
+    "city_name": "kab. agam",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 771,
+    "name": "Banuhampu",
+    "city_id": 62,
+    "city_name": "kab. agam",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 773,
+    "name": "Baso",
+    "city_id": 62,
+    "city_name": "kab. agam",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 779,
+    "name": "Candung",
+    "city_id": 62,
+    "city_name": "kab. agam",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 772,
+    "name": "IV Angkat Candung",
+    "city_id": 62,
+    "city_name": "kab. agam",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 770,
+    "name": "IV Koto",
+    "city_id": 62,
+    "city_name": "kab. agam",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 780,
+    "name": "Kamang Magek",
+    "city_id": 62,
+    "city_name": "kab. agam",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 767,
+    "name": "Lubuk Basung",
+    "city_id": 62,
+    "city_name": "kab. agam",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 781,
+    "name": "Malalak",
+    "city_id": 62,
+    "city_name": "kab. agam",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 769,
+    "name": "Matur",
+    "city_id": 62,
+    "city_name": "kab. agam",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 775,
+    "name": "Palupuh",
+    "city_id": 62,
+    "city_name": "kab. agam",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 776,
+    "name": "Pelembayan",
+    "city_id": 62,
+    "city_name": "kab. agam",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 777,
+    "name": "Sungai Pua",
+    "city_id": 62,
+    "city_name": "kab. agam",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 766,
+    "name": "Tanjung Mutiara",
+    "city_id": 62,
+    "city_name": "kab. agam",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 768,
+    "name": "Tanjung Raya",
+    "city_id": 62,
+    "city_name": "kab. agam",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 774,
+    "name": "Tilatang Kamang",
+    "city_id": 62,
+    "city_name": "kab. agam",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  }
+]

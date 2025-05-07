@@ -1,0 +1,138 @@
+[
+  {
+    "id": 1131,
+    "name": "Bathin II Pelayang",
+    "city_id": 94,
+    "city_name": "kab. bungo",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1127,
+    "name": "Bathin III",
+    "city_id": 94,
+    "city_name": "kab. bungo",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1130,
+    "name": "Bathin III Ulu",
+    "city_id": 94,
+    "city_name": "kab. bungo",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1126,
+    "name": "Batin II Babeko",
+    "city_id": 94,
+    "city_name": "kab. bungo",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1128,
+    "name": "Bungo Dani",
+    "city_id": 94,
+    "city_name": "kab. bungo",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1120,
+    "name": "Jujuhan",
+    "city_id": 94,
+    "city_name": "kab. bungo",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1132,
+    "name": "Jujuhan Ilir",
+    "city_id": 94,
+    "city_name": "kab. bungo",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1123,
+    "name": "Limbur Lubuk Mengkuang",
+    "city_id": 94,
+    "city_name": "kab. bungo",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1124,
+    "name": "Muko-muko Bathin VII",
+    "city_id": 94,
+    "city_name": "kab. bungo",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1119,
+    "name": "Pasar Muaro Bungo",
+    "city_id": 94,
+    "city_name": "kab. bungo",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1122,
+    "name": "Pelepat",
+    "city_id": 94,
+    "city_name": "kab. bungo",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1125,
+    "name": "Pelepat Ilir",
+    "city_id": 94,
+    "city_name": "kab. bungo",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1118,
+    "name": "Rantau Pandan",
+    "city_id": 94,
+    "city_name": "kab. bungo",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1129,
+    "name": "Rimbo Tengah",
+    "city_id": 94,
+    "city_name": "kab. bungo",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1121,
+    "name": "Tanah Sepenggal",
+    "city_id": 94,
+    "city_name": "kab. bungo",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1133,
+    "name": "Tanah Sepenggal Lintas",
+    "city_id": 94,
+    "city_name": "kab. bungo",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1117,
+    "name": "Tanah Tumbuh",
+    "city_id": 94,
+    "city_name": "kab. bungo",
+    "province_id": 5,
+    "province_name": "jambi"
+  }
+]

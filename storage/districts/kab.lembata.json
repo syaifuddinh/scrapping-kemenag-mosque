@@ -1,0 +1,74 @@
+[
+  {
+    "id": 4352,
+    "name": "Atadei",
+    "city_id": 299,
+    "city_name": "kab. lembata",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4357,
+    "name": "Buyasuri",
+    "city_id": 299,
+    "city_name": "kab. lembata",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4353,
+    "name": "Ile Ape",
+    "city_id": 299,
+    "city_name": "kab. lembata",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4359,
+    "name": "Ile Ape Timur",
+    "city_id": 299,
+    "city_name": "kab. lembata",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4354,
+    "name": "Lebatukan",
+    "city_id": 299,
+    "city_name": "kab. lembata",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4351,
+    "name": "Naga Wutung",
+    "city_id": 299,
+    "city_name": "kab. lembata",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4355,
+    "name": "Nubatukan",
+    "city_id": 299,
+    "city_name": "kab. lembata",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4356,
+    "name": "Omesuri",
+    "city_id": 299,
+    "city_name": "kab. lembata",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4358,
+    "name": "Wulandoni",
+    "city_id": 299,
+    "city_name": "kab. lembata",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  }
+]

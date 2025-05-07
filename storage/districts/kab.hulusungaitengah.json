@@ -1,0 +1,90 @@
+[
+  {
+    "id": 4817,
+    "name": "Barabai",
+    "city_id": 342,
+    "city_name": "kab. hulu sungai tengah",
+    "province_id": 22,
+    "province_name": "kalimantan selatan"
+  },
+  {
+    "id": 4818,
+    "name": "Batang Alai Selatan",
+    "city_id": 342,
+    "city_name": "kab. hulu sungai tengah",
+    "province_id": 22,
+    "province_name": "kalimantan selatan"
+  },
+  {
+    "id": 4821,
+    "name": "Batang Alai Timur",
+    "city_id": 342,
+    "city_name": "kab. hulu sungai tengah",
+    "province_id": 22,
+    "province_name": "kalimantan selatan"
+  },
+  {
+    "id": 4819,
+    "name": "Batang Alai Utara",
+    "city_id": 342,
+    "city_name": "kab. hulu sungai tengah",
+    "province_id": 22,
+    "province_name": "kalimantan selatan"
+  },
+  {
+    "id": 4813,
+    "name": "Batu Benawa",
+    "city_id": 342,
+    "city_name": "kab. hulu sungai tengah",
+    "province_id": 22,
+    "province_name": "kalimantan selatan"
+  },
+  {
+    "id": 4820,
+    "name": "Hantakan",
+    "city_id": 342,
+    "city_name": "kab. hulu sungai tengah",
+    "province_id": 22,
+    "province_name": "kalimantan selatan"
+  },
+  {
+    "id": 4812,
+    "name": "Haruyan",
+    "city_id": 342,
+    "city_name": "kab. hulu sungai tengah",
+    "province_id": 22,
+    "province_name": "kalimantan selatan"
+  },
+  {
+    "id": 4814,
+    "name": "Labuan Amas Selatan",
+    "city_id": 342,
+    "city_name": "kab. hulu sungai tengah",
+    "province_id": 22,
+    "province_name": "kalimantan selatan"
+  },
+  {
+    "id": 4815,
+    "name": "Labuan Amas Utara",
+    "city_id": 342,
+    "city_name": "kab. hulu sungai tengah",
+    "province_id": 22,
+    "province_name": "kalimantan selatan"
+  },
+  {
+    "id": 4822,
+    "name": "Limpasu",
+    "city_id": 342,
+    "city_name": "kab. hulu sungai tengah",
+    "province_id": 22,
+    "province_name": "kalimantan selatan"
+  },
+  {
+    "id": 4816,
+    "name": "Pandawan",
+    "city_id": 342,
+    "city_name": "kab. hulu sungai tengah",
+    "province_id": 22,
+    "province_name": "kalimantan selatan"
+  }
+]

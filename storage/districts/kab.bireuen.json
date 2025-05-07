@@ -1,0 +1,138 @@
+[
+  {
+    "id": 183,
+    "name": "Gandapura",
+    "city_id": 11,
+    "city_name": "kab. bireuen",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 186,
+    "name": "Jangka",
+    "city_id": 11,
+    "city_name": "kab. bireuen",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 180,
+    "name": "Jeumpa",
+    "city_id": 11,
+    "city_name": "kab. bireuen",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 178,
+    "name": "Jeunieb",
+    "city_id": 11,
+    "city_name": "kab. bireuen",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 185,
+    "name": "Juli",
+    "city_id": 11,
+    "city_name": "kab. bireuen",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 189,
+    "name": "Kota Juang",
+    "city_id": 11,
+    "city_name": "kab. bireuen",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 190,
+    "name": "Kuala",
+    "city_id": 11,
+    "city_name": "kab. bireuen",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 193,
+    "name": "Kuta Blang",
+    "city_id": 11,
+    "city_name": "kab. bireuen",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 182,
+    "name": "Makmur",
+    "city_id": 11,
+    "city_name": "kab. bireuen",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 184,
+    "name": "Pandrah",
+    "city_id": 11,
+    "city_name": "kab. bireuen",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 179,
+    "name": "Peudada",
+    "city_id": 11,
+    "city_name": "kab. bireuen",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 188,
+    "name": "Peulimbang",
+    "city_id": 11,
+    "city_name": "kab. bireuen",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 181,
+    "name": "Peusangan",
+    "city_id": 11,
+    "city_name": "kab. bireuen",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 192,
+    "name": "Peusangan Selatan",
+    "city_id": 11,
+    "city_name": "kab. bireuen",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 191,
+    "name": "Peusangan Siblah Krueng",
+    "city_id": 11,
+    "city_name": "kab. bireuen",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 177,
+    "name": "Samalanga",
+    "city_id": 11,
+    "city_name": "kab. bireuen",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 187,
+    "name": "Simpang Mamplam",
+    "city_id": 11,
+    "city_name": "kab. bireuen",
+    "province_id": 1,
+    "province_name": "aceh"
+  }
+]

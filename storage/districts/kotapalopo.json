@@ -1,0 +1,74 @@
+[
+  {
+    "id": 5583,
+    "name": "Bara",
+    "city_id": 407,
+    "city_name": "kota palopo",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5582,
+    "name": "Mungkajang",
+    "city_id": 407,
+    "city_name": "kota palopo",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5581,
+    "name": "Sendana",
+    "city_id": 407,
+    "city_name": "kota palopo",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5578,
+    "name": "Telluwanua",
+    "city_id": 407,
+    "city_name": "kota palopo",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5575,
+    "name": "Wara",
+    "city_id": 407,
+    "city_name": "kota palopo",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5580,
+    "name": "Wara Barat",
+    "city_id": 407,
+    "city_name": "kota palopo",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5577,
+    "name": "Wara Selatan",
+    "city_id": 407,
+    "city_name": "kota palopo",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5579,
+    "name": "Wara Timur",
+    "city_id": 407,
+    "city_name": "kota palopo",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5576,
+    "name": "Wara Utara",
+    "city_id": 407,
+    "city_name": "kota palopo",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  }
+]

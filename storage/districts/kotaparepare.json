@@ -1,0 +1,34 @@
+[
+  {
+    "id": 5571,
+    "name": "Bacukiki",
+    "city_id": 406,
+    "city_name": "kota pare pare",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5574,
+    "name": "Bacukiki Barat",
+    "city_id": 406,
+    "city_name": "kota pare pare",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5573,
+    "name": "Soreang",
+    "city_id": 406,
+    "city_name": "kota pare pare",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5572,
+    "name": "Ujung",
+    "city_id": 406,
+    "city_name": "kota pare pare",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  }
+]

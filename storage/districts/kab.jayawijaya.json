@@ -1,0 +1,90 @@
+[
+  {
+    "id": 6138,
+    "name": "Asologaima",
+    "city_id": 452,
+    "city_name": "kab. jayawijaya",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6144,
+    "name": "Asolokobal",
+    "city_id": 452,
+    "city_name": "kab. jayawijaya",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6140,
+    "name": "Bolakme",
+    "city_id": 452,
+    "city_name": "kab. jayawijaya",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6139,
+    "name": "Hubikosi",
+    "city_id": 452,
+    "city_name": "kab. jayawijaya",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6137,
+    "name": "Kurulu",
+    "city_id": 452,
+    "city_name": "kab. jayawijaya",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6142,
+    "name": "Musatfak",
+    "city_id": 452,
+    "city_name": "kab. jayawijaya",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6145,
+    "name": "Pelebaga",
+    "city_id": 452,
+    "city_name": "kab. jayawijaya",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6141,
+    "name": "Walelagama",
+    "city_id": 452,
+    "city_name": "kab. jayawijaya",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6136,
+    "name": "Wamena",
+    "city_id": 452,
+    "city_name": "kab. jayawijaya",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6143,
+    "name": "Wolo",
+    "city_id": 452,
+    "city_name": "kab. jayawijaya",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6146,
+    "name": "Yalengga",
+    "city_id": 452,
+    "city_name": "kab. jayawijaya",
+    "province_id": 32,
+    "province_name": "papua"
+  }
+]

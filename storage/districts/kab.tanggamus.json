@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1622,
+    "name": "Air Naningan",
+    "city_id": 127,
+    "city_name": "kab. tanggamus",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1621,
+    "name": "Bandar Negeri Semuong",
+    "city_id": 127,
+    "city_name": "kab. tanggamus",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1623,
+    "name": "Bulok",
+    "city_id": 127,
+    "city_name": "kab. tanggamus",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1609,
+    "name": "Cukuh Balak",
+    "city_id": 127,
+    "city_name": "kab. tanggamus",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1618,
+    "name": "Gisting",
+    "city_id": 127,
+    "city_name": "kab. tanggamus",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1619,
+    "name": "Gunung Alip",
+    "city_id": 127,
+    "city_name": "kab. tanggamus",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1615,
+    "name": "Klumbayan",
+    "city_id": 127,
+    "city_name": "kab. tanggamus",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1624,
+    "name": "Klumbayan Barat",
+    "city_id": 127,
+    "city_name": "kab. tanggamus",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1605,
+    "name": "Kota Agung",
+    "city_id": 127,
+    "city_name": "kab. tanggamus",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1616,
+    "name": "Kota Agung Barat",
+    "city_id": 127,
+    "city_name": "kab. tanggamus",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1617,
+    "name": "Kota Agung Timur",
+    "city_id": 127,
+    "city_name": "kab. tanggamus",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1620,
+    "name": "Limau",
+    "city_id": 127,
+    "city_name": "kab. tanggamus",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1614,
+    "name": "Pematang Sawa",
+    "city_id": 127,
+    "city_name": "kab. tanggamus",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1610,
+    "name": "Pugung",
+    "city_id": 127,
+    "city_name": "kab. tanggamus",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1608,
+    "name": "Pulau Panggung",
+    "city_id": 127,
+    "city_name": "kab. tanggamus",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1611,
+    "name": "Semaka",
+    "city_id": 127,
+    "city_name": "kab. tanggamus",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1612,
+    "name": "Sumber Rejo",
+    "city_id": 127,
+    "city_name": "kab. tanggamus",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1606,
+    "name": "Talang Padang",
+    "city_id": 127,
+    "city_name": "kab. tanggamus",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1613,
+    "name": "Ulu Belu",
+    "city_id": 127,
+    "city_name": "kab. tanggamus",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1607,
+    "name": "Wonosobo",
+    "city_id": 127,
+    "city_name": "kab. tanggamus",
+    "province_id": 8,
+    "province_name": "lampung"
+  }
+]

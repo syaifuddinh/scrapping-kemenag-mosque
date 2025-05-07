@@ -1,0 +1,178 @@
+[
+  {
+    "id": 5477,
+    "name": "Bajo",
+    "city_id": 400,
+    "city_name": "kab. luwu",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5493,
+    "name": "Bajo Barat",
+    "city_id": 400,
+    "city_name": "kab. luwu",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 7052,
+    "name": "Basse Sangtempe Utara",
+    "city_id": 400,
+    "city_name": "kab. luwu",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5474,
+    "name": "Bastem",
+    "city_id": 400,
+    "city_name": "kab. luwu",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5480,
+    "name": "Belopa",
+    "city_id": 400,
+    "city_name": "kab. luwu",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5487,
+    "name": "Belopa Utara",
+    "city_id": 400,
+    "city_name": "kab. luwu",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5481,
+    "name": "Bua",
+    "city_id": 400,
+    "city_name": "kab. luwu",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5478,
+    "name": "Bua Ponrang",
+    "city_id": 400,
+    "city_name": "kab. luwu",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5486,
+    "name": "Kamanre",
+    "city_id": 400,
+    "city_name": "kab. luwu",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5482,
+    "name": "Lamasi",
+    "city_id": 400,
+    "city_name": "kab. luwu",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5491,
+    "name": "Lamasi Timur",
+    "city_id": 400,
+    "city_name": "kab. luwu",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5475,
+    "name": "Larompong",
+    "city_id": 400,
+    "city_name": "kab. luwu",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5483,
+    "name": "Larompong Selatan",
+    "city_id": 400,
+    "city_name": "kab. luwu",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5485,
+    "name": "Latimojong",
+    "city_id": 400,
+    "city_name": "kab. luwu",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5484,
+    "name": "Ponrang",
+    "city_id": 400,
+    "city_name": "kab. luwu",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5494,
+    "name": "Ponrang Selatan",
+    "city_id": 400,
+    "city_name": "kab. luwu",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5476,
+    "name": "Suli",
+    "city_id": 400,
+    "city_name": "kab. luwu",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5492,
+    "name": "Suli Barat",
+    "city_id": 400,
+    "city_name": "kab. luwu",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5479,
+    "name": "Walenrang",
+    "city_id": 400,
+    "city_name": "kab. luwu",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5488,
+    "name": "Walenrang Barat",
+    "city_id": 400,
+    "city_name": "kab. luwu",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5490,
+    "name": "Walenrang Timur",
+    "city_id": 400,
+    "city_name": "kab. luwu",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5489,
+    "name": "Walenrang Utara",
+    "city_id": 400,
+    "city_name": "kab. luwu",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  }
+]

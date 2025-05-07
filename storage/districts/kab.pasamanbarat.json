@@ -1,0 +1,90 @@
+[
+  {
+    "id": 840,
+    "name": "Gunung Tuleh",
+    "city_id": 68,
+    "city_name": "kab. pasaman barat",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 839,
+    "name": "Kinali",
+    "city_id": 68,
+    "city_name": "kab. pasaman barat",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 842,
+    "name": "Koto Balingka",
+    "city_id": 68,
+    "city_name": "kab. pasaman barat",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 836,
+    "name": "Lembah Melintang",
+    "city_id": 68,
+    "city_name": "kab. pasaman barat",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 844,
+    "name": "Luhak Nan Duo",
+    "city_id": 68,
+    "city_name": "kab. pasaman barat",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 837,
+    "name": "Pasaman",
+    "city_id": 68,
+    "city_name": "kab. pasaman barat",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 841,
+    "name": "Ranah Batahan",
+    "city_id": 68,
+    "city_name": "kab. pasaman barat",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 845,
+    "name": "Sasak Ranah Pesisir",
+    "city_id": 68,
+    "city_name": "kab. pasaman barat",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 843,
+    "name": "Sungai Aur",
+    "city_id": 68,
+    "city_name": "kab. pasaman barat",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 835,
+    "name": "Sungai Beremas",
+    "city_id": 68,
+    "city_name": "kab. pasaman barat",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 838,
+    "name": "Talamau",
+    "city_id": 68,
+    "city_name": "kab. pasaman barat",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  }
+]

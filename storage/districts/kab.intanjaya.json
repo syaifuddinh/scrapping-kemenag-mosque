@@ -1,0 +1,50 @@
+[
+  {
+    "id": 6485,
+    "name": "Agisiga",
+    "city_id": 477,
+    "city_name": "kab. intan jaya",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6484,
+    "name": "Biandoga",
+    "city_id": 477,
+    "city_name": "kab. intan jaya",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6486,
+    "name": "Hitadipa",
+    "city_id": 477,
+    "city_name": "kab. intan jaya",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6482,
+    "name": "Homeyo",
+    "city_id": 477,
+    "city_name": "kab. intan jaya",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6481,
+    "name": "Sugapa",
+    "city_id": 477,
+    "city_name": "kab. intan jaya",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6483,
+    "name": "Wandai",
+    "city_id": 477,
+    "city_name": "kab. intan jaya",
+    "province_id": 32,
+    "province_name": "papua"
+  }
+]

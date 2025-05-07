@@ -1,0 +1,114 @@
+[
+  {
+    "id": 4489,
+    "name": "Ambalau",
+    "city_id": 312,
+    "city_name": "kab. sintang",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4492,
+    "name": "Binjai Hulu",
+    "city_id": 312,
+    "city_name": "kab. sintang",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4485,
+    "name": "Dedai",
+    "city_id": 312,
+    "city_name": "kab. sintang",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4486,
+    "name": "Kayan Hilir",
+    "city_id": 312,
+    "city_name": "kab. sintang",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4487,
+    "name": "Kayan Hulu",
+    "city_id": 312,
+    "city_name": "kab. sintang",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4490,
+    "name": "Kelam Permai",
+    "city_id": 312,
+    "city_name": "kab. sintang",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4482,
+    "name": "Ketungau Hilir",
+    "city_id": 312,
+    "city_name": "kab. sintang",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4484,
+    "name": "Ketungau Hulu",
+    "city_id": 312,
+    "city_name": "kab. sintang",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4483,
+    "name": "Ketungau Tengah",
+    "city_id": 312,
+    "city_name": "kab. sintang",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4488,
+    "name": "Nanga Serawai",
+    "city_id": 312,
+    "city_name": "kab. sintang",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4481,
+    "name": "Sepauk",
+    "city_id": 312,
+    "city_name": "kab. sintang",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4479,
+    "name": "Sintang",
+    "city_id": 312,
+    "city_name": "kab. sintang",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4491,
+    "name": "Sungai Tebelian",
+    "city_id": 312,
+    "city_name": "kab. sintang",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4480,
+    "name": "Tempunak",
+    "city_id": 312,
+    "city_name": "kab. sintang",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  }
+]

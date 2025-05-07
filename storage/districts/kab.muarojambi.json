@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1085,
+    "name": "Jambi Luar Kota",
+    "city_id": 91,
+    "city_name": "kab. muaro jambi",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1087,
+    "name": "Kumpeh",
+    "city_id": 91,
+    "city_name": "kab. muaro jambi",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1090,
+    "name": "Kumpeh Ulu",
+    "city_id": 91,
+    "city_name": "kab. muaro jambi",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1088,
+    "name": "Maro Sebo",
+    "city_id": 91,
+    "city_name": "kab. muaro jambi",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1089,
+    "name": "Mestong",
+    "city_id": 91,
+    "city_name": "kab. muaro jambi",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1086,
+    "name": "Sekernan",
+    "city_id": 91,
+    "city_name": "kab. muaro jambi",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1091,
+    "name": "Sungai Bahar",
+    "city_id": 91,
+    "city_name": "kab. muaro jambi",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1092,
+    "name": "Sungai Gelam",
+    "city_id": 91,
+    "city_name": "kab. muaro jambi",
+    "province_id": 5,
+    "province_name": "jambi"
+  }
+]

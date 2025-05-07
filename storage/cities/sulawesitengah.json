@@ -1,0 +1,80 @@
+[
+  {
+    "id": 373,
+    "name": "Kab. Banggai",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 374,
+    "name": "Kab. Poso",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 375,
+    "name": "Kab. Donggala",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 376,
+    "name": "Kab. Toli Toli",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 377,
+    "name": "Kab. Buol",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 378,
+    "name": "Kab. Morowali",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 379,
+    "name": "Kab. Banggai Kepulauan",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 380,
+    "name": "Kab. Parigi Moutong",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 381,
+    "name": "Kab. Tojo Una Una",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 382,
+    "name": "Kab. Sigi",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 383,
+    "name": "Kota Palu",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 528,
+    "name": "Kab. Banggai Laut",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  },
+  {
+    "id": 529,
+    "name": "Kab. Morowali Utara",
+    "province_id": 25,
+    "province_name": "sulawesi tengah"
+  }
+]

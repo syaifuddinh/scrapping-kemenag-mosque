@@ -1,0 +1,202 @@
+[
+  {
+    "id": 2867,
+    "name": "Baturetno",
+    "city_id": 201,
+    "city_name": "kab. wonogiri",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2864,
+    "name": "Batuwarno",
+    "city_id": 201,
+    "city_name": "kab. wonogiri",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2878,
+    "name": "Bulukerto",
+    "city_id": 201,
+    "city_name": "kab. wonogiri",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2868,
+    "name": "Eromoko",
+    "city_id": 201,
+    "city_name": "kab. wonogiri",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2882,
+    "name": "Girimarto",
+    "city_id": 201,
+    "city_name": "kab. wonogiri",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2862,
+    "name": "Giritontro",
+    "city_id": 201,
+    "city_name": "kab. wonogiri",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2863,
+    "name": "Giriwoyo",
+    "city_id": 201,
+    "city_name": "kab. wonogiri",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2881,
+    "name": "Jatipurno",
+    "city_id": 201,
+    "city_name": "kab. wonogiri",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2875,
+    "name": "Jatiroto",
+    "city_id": 201,
+    "city_name": "kab. wonogiri",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2880,
+    "name": "Jatisrono",
+    "city_id": 201,
+    "city_name": "kab. wonogiri",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2883,
+    "name": "Karangtengah",
+    "city_id": 201,
+    "city_name": "kab. wonogiri",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2876,
+    "name": "Kismantoro",
+    "city_id": 201,
+    "city_name": "kab. wonogiri",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2870,
+    "name": "Manyaran",
+    "city_id": 201,
+    "city_name": "kab. wonogiri",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2873,
+    "name": "Ngadirojo",
+    "city_id": 201,
+    "city_name": "kab. wonogiri",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2866,
+    "name": "Nguntoronadi",
+    "city_id": 201,
+    "city_name": "kab. wonogiri",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2884,
+    "name": "Paranggupito",
+    "city_id": 201,
+    "city_name": "kab. wonogiri",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2861,
+    "name": "Pracimantoro",
+    "city_id": 201,
+    "city_name": "kab. wonogiri",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2885,
+    "name": "Puhpelem",
+    "city_id": 201,
+    "city_name": "kab. wonogiri",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2877,
+    "name": "Purwantoro",
+    "city_id": 201,
+    "city_name": "kab. wonogiri",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2871,
+    "name": "Selogiri",
+    "city_id": 201,
+    "city_name": "kab. wonogiri",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2874,
+    "name": "Sidoharjo",
+    "city_id": 201,
+    "city_name": "kab. wonogiri",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2879,
+    "name": "Slogohimo",
+    "city_id": 201,
+    "city_name": "kab. wonogiri",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2865,
+    "name": "Tirtomoyo",
+    "city_id": 201,
+    "city_name": "kab. wonogiri",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2872,
+    "name": "Wonogiri",
+    "city_id": 201,
+    "city_name": "kab. wonogiri",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2869,
+    "name": "Wuryantoro",
+    "city_id": 201,
+    "city_name": "kab. wonogiri",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  }
+]

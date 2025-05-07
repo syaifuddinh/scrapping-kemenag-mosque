@@ -1,0 +1,122 @@
+[
+  {
+    "id": 309,
+    "name": "Adian Koting",
+    "city_id": 25,
+    "city_name": "kab. tapanuli utara",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 320,
+    "name": "Garoga",
+    "city_id": 25,
+    "city_name": "kab. tapanuli utara",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 321,
+    "name": "Muara",
+    "city_id": 25,
+    "city_name": "kab. tapanuli utara",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 316,
+    "name": "Pagaran",
+    "city_id": 25,
+    "city_name": "kab. tapanuli utara",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 312,
+    "name": "Pahae Jae",
+    "city_id": 25,
+    "city_name": "kab. tapanuli utara",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 311,
+    "name": "Pahae Julu",
+    "city_id": 25,
+    "city_name": "kab. tapanuli utara",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 319,
+    "name": "Pangaribuan",
+    "city_id": 25,
+    "city_name": "kab. tapanuli utara",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 317,
+    "name": "Parmonangan",
+    "city_id": 25,
+    "city_name": "kab. tapanuli utara",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 314,
+    "name": "Purba Tua",
+    "city_id": 25,
+    "city_name": "kab. tapanuli utara",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 308,
+    "name": "Siatas Barita",
+    "city_id": 25,
+    "city_name": "kab. tapanuli utara",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 315,
+    "name": "Siborong-Borong",
+    "city_id": 25,
+    "city_name": "kab. tapanuli utara",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 313,
+    "name": "Simangumban",
+    "city_id": 25,
+    "city_name": "kab. tapanuli utara",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 318,
+    "name": "Sipahutar",
+    "city_id": 25,
+    "city_name": "kab. tapanuli utara",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 310,
+    "name": "Sipoholon",
+    "city_id": 25,
+    "city_name": "kab. tapanuli utara",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 307,
+    "name": "Tarutung",
+    "city_id": 25,
+    "city_name": "kab. tapanuli utara",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  }
+]

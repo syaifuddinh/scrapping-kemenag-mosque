@@ -1,0 +1,50 @@
+[
+  {
+    "id": 6996,
+    "name": "Dataran Isim",
+    "city_id": 512,
+    "city_name": "kab. manokwari selatan",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6997,
+    "name": "Momi Waren",
+    "city_id": 512,
+    "city_name": "kab. manokwari selatan",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6995,
+    "name": "Neney",
+    "city_id": 512,
+    "city_name": "kab. manokwari selatan",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6994,
+    "name": "Oransbari",
+    "city_id": 512,
+    "city_name": "kab. manokwari selatan",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6993,
+    "name": "Ransiki",
+    "city_id": 512,
+    "city_name": "kab. manokwari selatan",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6998,
+    "name": "Tahota",
+    "city_id": 512,
+    "city_name": "kab. manokwari selatan",
+    "province_id": 33,
+    "province_name": "papua barat"
+  }
+]

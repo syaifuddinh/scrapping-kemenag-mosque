@@ -1,0 +1,42 @@
+[
+  {
+    "id": 7058,
+    "name": "Kur Selatan",
+    "city_id": 441,
+    "city_name": "kota tual",
+    "province_id": 30,
+    "province_name": "maluku"
+  },
+  {
+    "id": 6001,
+    "name": "Pulau Dullah Selatan",
+    "city_id": 441,
+    "city_name": "kota tual",
+    "province_id": 30,
+    "province_name": "maluku"
+  },
+  {
+    "id": 6000,
+    "name": "Pulau Dullah Utara",
+    "city_id": 441,
+    "city_name": "kota tual",
+    "province_id": 30,
+    "province_name": "maluku"
+  },
+  {
+    "id": 6003,
+    "name": "Pulau-Pulau Kur",
+    "city_id": 441,
+    "city_name": "kota tual",
+    "province_id": 30,
+    "province_name": "maluku"
+  },
+  {
+    "id": 6002,
+    "name": "Tayando Tam",
+    "city_id": 441,
+    "city_name": "kota tual",
+    "province_id": 30,
+    "province_name": "maluku"
+  }
+]

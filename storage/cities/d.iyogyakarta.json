@@ -1,0 +1,32 @@
+[
+  {
+    "id": 225,
+    "name": "Kab. Kulon Progo",
+    "province_id": 15,
+    "province_name": "d.i yogyakarta"
+  },
+  {
+    "id": 226,
+    "name": "Kab. Bantul",
+    "province_id": 15,
+    "province_name": "d.i yogyakarta"
+  },
+  {
+    "id": 227,
+    "name": "Kab. Gunung Kidul",
+    "province_id": 15,
+    "province_name": "d.i yogyakarta"
+  },
+  {
+    "id": 228,
+    "name": "Kab. Sleman",
+    "province_id": 15,
+    "province_name": "d.i yogyakarta"
+  },
+  {
+    "id": 229,
+    "name": "Kota Yogyakarta",
+    "province_id": 15,
+    "province_name": "d.i yogyakarta"
+  }
+]

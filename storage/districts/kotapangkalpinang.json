@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1750,
+    "name": "Bukit Intan",
+    "city_id": 142,
+    "city_name": "kota pangkal pinang",
+    "province_id": 9,
+    "province_name": "kep. bangka belitung"
+  },
+  {
+    "id": 7308,
+    "name": "Gabek",
+    "city_id": 142,
+    "city_name": "kota pangkal pinang",
+    "province_id": 9,
+    "province_name": "kep. bangka belitung"
+  },
+  {
+    "id": 1754,
+    "name": "Gerunggang",
+    "city_id": 142,
+    "city_name": "kota pangkal pinang",
+    "province_id": 9,
+    "province_name": "kep. bangka belitung"
+  },
+  {
+    "id": 7309,
+    "name": "Girimaya",
+    "city_id": 142,
+    "city_name": "kota pangkal pinang",
+    "province_id": 9,
+    "province_name": "kep. bangka belitung"
+  },
+  {
+    "id": 1752,
+    "name": "Pangkal Balam",
+    "city_id": 142,
+    "city_name": "kota pangkal pinang",
+    "province_id": 9,
+    "province_name": "kep. bangka belitung"
+  },
+  {
+    "id": 1753,
+    "name": "Rangkui",
+    "city_id": 142,
+    "city_name": "kota pangkal pinang",
+    "province_id": 9,
+    "province_name": "kep. bangka belitung"
+  },
+  {
+    "id": 1751,
+    "name": "Taman Sari",
+    "city_id": 142,
+    "city_name": "kota pangkal pinang",
+    "province_id": 9,
+    "province_name": "kep. bangka belitung"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": 4677,
+    "name": "Batang Kawa",
+    "city_id": 330,
+    "city_name": "kab. lamandau",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 4676,
+    "name": "Belantikan Raya",
+    "city_id": 330,
+    "city_name": "kab. lamandau",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 4672,
+    "name": "Bulik",
+    "city_id": 330,
+    "city_name": "kab. lamandau",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 4673,
+    "name": "Bulik Timur",
+    "city_id": 330,
+    "city_name": "kab. lamandau",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 4671,
+    "name": "Delang",
+    "city_id": 330,
+    "city_name": "kab. lamandau",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 4670,
+    "name": "Lamandau",
+    "city_id": 330,
+    "city_name": "kab. lamandau",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 4674,
+    "name": "Menthobi Raya",
+    "city_id": 330,
+    "city_name": "kab. lamandau",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 4675,
+    "name": "Sematu Jaya",
+    "city_id": 330,
+    "city_name": "kab. lamandau",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  }
+]

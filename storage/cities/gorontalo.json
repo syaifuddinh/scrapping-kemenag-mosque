@@ -1,0 +1,38 @@
+[
+  {
+    "id": 420,
+    "name": "Kab. Gorontalo",
+    "province_id": 28,
+    "province_name": "gorontalo"
+  },
+  {
+    "id": 421,
+    "name": "Kab. Boalemo",
+    "province_id": 28,
+    "province_name": "gorontalo"
+  },
+  {
+    "id": 422,
+    "name": "Kab. Bone Bolango",
+    "province_id": 28,
+    "province_name": "gorontalo"
+  },
+  {
+    "id": 423,
+    "name": "Kab. Pahuwato",
+    "province_id": 28,
+    "province_name": "gorontalo"
+  },
+  {
+    "id": 424,
+    "name": "Kab. Gorontalo Utara",
+    "province_id": 28,
+    "province_name": "gorontalo"
+  },
+  {
+    "id": 425,
+    "name": "Kota Gorontalo",
+    "province_id": 28,
+    "province_name": "gorontalo"
+  }
+]

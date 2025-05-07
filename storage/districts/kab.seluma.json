@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1442,
+    "name": "Air Periukan",
+    "city_id": 116,
+    "city_name": "kab. seluma",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1450,
+    "name": "Ilir Talo",
+    "city_id": 116,
+    "city_name": "kab. seluma",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1443,
+    "name": "Lubuk Sandi",
+    "city_id": 116,
+    "city_name": "kab. seluma",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1438,
+    "name": "Seluma",
+    "city_id": 116,
+    "city_name": "kab. seluma",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1444,
+    "name": "Seluma Barat",
+    "city_id": 116,
+    "city_name": "kab. seluma",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1447,
+    "name": "Seluma Selatan",
+    "city_id": 116,
+    "city_name": "kab. seluma",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1445,
+    "name": "Seluma Timur",
+    "city_id": 116,
+    "city_name": "kab. seluma",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1446,
+    "name": "Seluma Utara",
+    "city_id": 116,
+    "city_name": "kab. seluma",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1440,
+    "name": "Semidang Alas",
+    "city_id": 116,
+    "city_name": "kab. seluma",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1441,
+    "name": "Semidang Alas Maras",
+    "city_id": 116,
+    "city_name": "kab. seluma",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1437,
+    "name": "Sukaraja",
+    "city_id": 116,
+    "city_name": "kab. seluma",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1439,
+    "name": "Talo",
+    "city_id": 116,
+    "city_name": "kab. seluma",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1448,
+    "name": "Talo Kecil",
+    "city_id": 116,
+    "city_name": "kab. seluma",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1449,
+    "name": "Ulu Talo",
+    "city_id": 116,
+    "city_name": "kab. seluma",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  }
+]

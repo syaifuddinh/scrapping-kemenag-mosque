@@ -1,0 +1,274 @@
+[
+  {
+    "id": 6260,
+    "name": "Aboy",
+    "city_id": 462,
+    "city_name": "kab pegunungan bintang",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6263,
+    "name": "Alemsom",
+    "city_id": 462,
+    "city_name": "kab pegunungan bintang",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6270,
+    "name": "Awinbon",
+    "city_id": 462,
+    "city_name": "kab pegunungan bintang",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6278,
+    "name": "Batani",
+    "city_id": 462,
+    "city_name": "kab pegunungan bintang",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6257,
+    "name": "Batom",
+    "city_id": 462,
+    "city_name": "kab pegunungan bintang",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6262,
+    "name": "Bime",
+    "city_id": 462,
+    "city_name": "kab pegunungan bintang",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6258,
+    "name": "Borme",
+    "city_id": 462,
+    "city_name": "kab pegunungan bintang",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6284,
+    "name": "Eipumek",
+    "city_id": 462,
+    "city_name": "kab pegunungan bintang",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6256,
+    "name": "Iwur",
+    "city_id": 462,
+    "city_name": "kab pegunungan bintang",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6282,
+    "name": "Jetfa",
+    "city_id": 462,
+    "city_name": "kab pegunungan bintang",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6265,
+    "name": "Kalomdol",
+    "city_id": 462,
+    "city_name": "kab pegunungan bintang",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6269,
+    "name": "Kawor",
+    "city_id": 462,
+    "city_name": "kab pegunungan bintang",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6254,
+    "name": "Kiwirok",
+    "city_id": 462,
+    "city_name": "kab pegunungan bintang",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6259,
+    "name": "Kiwirok Timur",
+    "city_id": 462,
+    "city_name": "kab pegunungan bintang",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6281,
+    "name": "Mofinop",
+    "city_id": 462,
+    "city_name": "kab pegunungan bintang",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6280,
+    "name": "Murkim",
+    "city_id": 462,
+    "city_name": "kab pegunungan bintang",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6286,
+    "name": "Nongme",
+    "city_id": 462,
+    "city_name": "kab pegunungan bintang",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6268,
+    "name": "Ok Aom",
+    "city_id": 462,
+    "city_name": "kab pegunungan bintang",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6277,
+    "name": "Okbab",
+    "city_id": 462,
+    "city_name": "kab pegunungan bintang",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6264,
+    "name": "Okbape",
+    "city_id": 462,
+    "city_name": "kab pegunungan bintang",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6275,
+    "name": "Okbemtau",
+    "city_id": 462,
+    "city_name": "kab pegunungan bintang",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6255,
+    "name": "Okbibab",
+    "city_id": 462,
+    "city_name": "kab pegunungan bintang",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6272,
+    "name": "Okhika",
+    "city_id": 462,
+    "city_name": "kab pegunungan bintang",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6274,
+    "name": "Oklip",
+    "city_id": 462,
+    "city_name": "kab pegunungan bintang",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6273,
+    "name": "Oksamol",
+    "city_id": 462,
+    "city_name": "kab pegunungan bintang",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6276,
+    "name": "Oksebang",
+    "city_id": 462,
+    "city_name": "kab pegunungan bintang",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6253,
+    "name": "Oksibil",
+    "city_id": 462,
+    "city_name": "kab pegunungan bintang",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6266,
+    "name": "Oksop",
+    "city_id": 462,
+    "city_name": "kab pegunungan bintang",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6285,
+    "name": "Pamek",
+    "city_id": 462,
+    "city_name": "kab pegunungan bintang",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6261,
+    "name": "Pepera",
+    "city_id": 462,
+    "city_name": "kab pegunungan bintang",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6267,
+    "name": "Serambakon",
+    "city_id": 462,
+    "city_name": "kab pegunungan bintang",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6271,
+    "name": "Tarup",
+    "city_id": 462,
+    "city_name": "kab pegunungan bintang",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6283,
+    "name": "Teiraplu",
+    "city_id": 462,
+    "city_name": "kab pegunungan bintang",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6279,
+    "name": "Weime",
+    "city_id": 462,
+    "city_name": "kab pegunungan bintang",
+    "province_id": 32,
+    "province_name": "papua"
+  }
+]

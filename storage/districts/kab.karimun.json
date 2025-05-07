@@ -1,0 +1,98 @@
+[
+  {
+    "id": 6891,
+    "name": "Belat",
+    "city_id": 144,
+    "city_name": "kab. karimun",
+    "province_id": 10,
+    "province_name": "kepulauan riau"
+  },
+  {
+    "id": 1770,
+    "name": "Buru",
+    "city_id": 144,
+    "city_name": "kab. karimun",
+    "province_id": 10,
+    "province_name": "kepulauan riau"
+  },
+  {
+    "id": 1773,
+    "name": "Durai",
+    "city_id": 144,
+    "city_name": "kab. karimun",
+    "province_id": 10,
+    "province_name": "kepulauan riau"
+  },
+  {
+    "id": 1767,
+    "name": "Karimun",
+    "city_id": 144,
+    "city_name": "kab. karimun",
+    "province_id": 10,
+    "province_name": "kepulauan riau"
+  },
+  {
+    "id": 1766,
+    "name": "Kundur",
+    "city_id": 144,
+    "city_name": "kab. karimun",
+    "province_id": 10,
+    "province_name": "kepulauan riau"
+  },
+  {
+    "id": 1772,
+    "name": "Kundur Barat",
+    "city_id": 144,
+    "city_name": "kab. karimun",
+    "province_id": 10,
+    "province_name": "kepulauan riau"
+  },
+  {
+    "id": 1771,
+    "name": "Kundur Utara",
+    "city_id": 144,
+    "city_name": "kab. karimun",
+    "province_id": 10,
+    "province_name": "kepulauan riau"
+  },
+  {
+    "id": 1768,
+    "name": "Meral",
+    "city_id": 144,
+    "city_name": "kab. karimun",
+    "province_id": 10,
+    "province_name": "kepulauan riau"
+  },
+  {
+    "id": 6889,
+    "name": "Meral Barat",
+    "city_id": 144,
+    "city_name": "kab. karimun",
+    "province_id": 10,
+    "province_name": "kepulauan riau"
+  },
+  {
+    "id": 1765,
+    "name": "Moro",
+    "city_id": 144,
+    "city_name": "kab. karimun",
+    "province_id": 10,
+    "province_name": "kepulauan riau"
+  },
+  {
+    "id": 1769,
+    "name": "Tebing",
+    "city_id": 144,
+    "city_name": "kab. karimun",
+    "province_id": 10,
+    "province_name": "kepulauan riau"
+  },
+  {
+    "id": 6890,
+    "name": "Ungar",
+    "city_id": 144,
+    "city_name": "kab. karimun",
+    "province_id": 10,
+    "province_name": "kepulauan riau"
+  }
+]

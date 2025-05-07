@@ -1,0 +1,234 @@
+[
+  {
+    "id": 6851,
+    "name": "Abun",
+    "city_id": 504,
+    "city_name": "kab. tambrauw",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6855,
+    "name": "Amberbaken",
+    "city_id": 504,
+    "city_name": "kab. tambrauw",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6990,
+    "name": "Amberbaken Barat",
+    "city_id": 504,
+    "city_name": "kab. tambrauw",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6978,
+    "name": "Ases",
+    "city_id": 504,
+    "city_name": "kab. tambrauw",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6977,
+    "name": "Bamusbama",
+    "city_id": 504,
+    "city_name": "kab. tambrauw",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6976,
+    "name": "Bikar",
+    "city_id": 504,
+    "city_name": "kab. tambrauw",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6846,
+    "name": "Fef",
+    "city_id": 504,
+    "city_name": "kab. tambrauw",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6980,
+    "name": "Ireres",
+    "city_id": 504,
+    "city_name": "kab. tambrauw",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6991,
+    "name": "Kasi",
+    "city_id": 504,
+    "city_name": "kab. tambrauw",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6854,
+    "name": "Kebar",
+    "city_id": 504,
+    "city_name": "kab. tambrauw",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6987,
+    "name": "Kebar Selatan",
+    "city_id": 504,
+    "city_name": "kab. tambrauw",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6986,
+    "name": "Kebar Timur",
+    "city_id": 504,
+    "city_name": "kab. tambrauw",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6984,
+    "name": "Kwesefo",
+    "city_id": 504,
+    "city_name": "kab. tambrauw",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6849,
+    "name": "Kwoor",
+    "city_id": 504,
+    "city_name": "kab. tambrauw",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6988,
+    "name": "Manekar",
+    "city_id": 504,
+    "city_name": "kab. tambrauw",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6985,
+    "name": "Mawabuan",
+    "city_id": 504,
+    "city_name": "kab. tambrauw",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6979,
+    "name": "Minyah Selatan",
+    "city_id": 504,
+    "city_name": "kab. tambrauw",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6847,
+    "name": "Miyah",
+    "city_id": 504,
+    "city_name": "kab. tambrauw",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6853,
+    "name": "Moraid",
+    "city_id": 504,
+    "city_name": "kab. tambrauw",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6989,
+    "name": "Mpur",
+    "city_id": 504,
+    "city_name": "kab. tambrauw",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6857,
+    "name": "Mubrani",
+    "city_id": 504,
+    "city_name": "kab. tambrauw",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6850,
+    "name": "Sausapor",
+    "city_id": 504,
+    "city_name": "kab. tambrauw",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6992,
+    "name": "Selemkai",
+    "city_id": 504,
+    "city_name": "kab. tambrauw",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6856,
+    "name": "Senopi",
+    "city_id": 504,
+    "city_name": "kab. tambrauw",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6852,
+    "name": "Syujak",
+    "city_id": 504,
+    "city_name": "kab. tambrauw",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6983,
+    "name": "Tinggouw",
+    "city_id": 504,
+    "city_name": "kab. tambrauw",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6981,
+    "name": "Tobouw",
+    "city_id": 504,
+    "city_name": "kab. tambrauw",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6982,
+    "name": "Wilhem Roumbouts",
+    "city_id": 504,
+    "city_name": "kab. tambrauw",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6848,
+    "name": "Yembun",
+    "city_id": 504,
+    "city_name": "kab. tambrauw",
+    "province_id": 33,
+    "province_name": "papua barat"
+  }
+]

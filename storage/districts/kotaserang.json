@@ -1,0 +1,50 @@
+[
+  {
+    "id": 2003,
+    "name": "Cipocok Jaya",
+    "city_id": 162,
+    "city_name": "kota serang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 2002,
+    "name": "Curug",
+    "city_id": 162,
+    "city_name": "kota serang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 2000,
+    "name": "Kasemen",
+    "city_id": 162,
+    "city_name": "kota serang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1999,
+    "name": "Serang",
+    "city_id": 162,
+    "city_name": "kota serang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 2004,
+    "name": "Taktakan",
+    "city_id": 162,
+    "city_name": "kota serang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 2001,
+    "name": "Walantaka",
+    "city_id": 162,
+    "city_name": "kota serang",
+    "province_id": 12,
+    "province_name": "banten"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": 5302,
+    "name": "Bantaeng",
+    "city_id": 386,
+    "city_name": "kab. bantaeng",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5301,
+    "name": "Bissappu",
+    "city_id": 386,
+    "city_name": "kab. bantaeng",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5303,
+    "name": "Eremerasa",
+    "city_id": 386,
+    "city_name": "kab. bantaeng",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5307,
+    "name": "Gantarang Keke",
+    "city_id": 386,
+    "city_name": "kab. bantaeng",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5305,
+    "name": "Pajukukang",
+    "city_id": 386,
+    "city_name": "kab. bantaeng",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5308,
+    "name": "Sinoa",
+    "city_id": 386,
+    "city_name": "kab. bantaeng",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5304,
+    "name": "Tompo Bulu",
+    "city_id": 386,
+    "city_name": "kab. bantaeng",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5306,
+    "name": "Uluere",
+    "city_id": 386,
+    "city_name": "kab. bantaeng",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  }
+]

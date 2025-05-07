@@ -1,0 +1,62 @@
+[
+  {
+    "id": 112,
+    "name": "Kab. Bengkulu Selatan",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 113,
+    "name": "Kab. Rejang Lebong",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 114,
+    "name": "Kab. Bengkulu Utara",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 115,
+    "name": "Kab. Kaur",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 116,
+    "name": "Kab. Seluma",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 117,
+    "name": "Kab. Muko Muko",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 118,
+    "name": "Kab. Lebong",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 119,
+    "name": "Kab. Kepahiang",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 120,
+    "name": "Kab. Bengkulu Tengah",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 121,
+    "name": "Kota Bengkulu",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  }
+]

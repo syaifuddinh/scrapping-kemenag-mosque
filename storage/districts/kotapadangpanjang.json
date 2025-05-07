@@ -1,0 +1,18 @@
+[
+  {
+    "id": 864,
+    "name": "Padang Panjang Barat",
+    "city_id": 72,
+    "city_name": "kota padang panjang",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 863,
+    "name": "Padang Panjang Timur",
+    "city_id": 72,
+    "city_name": "kota padang panjang",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  }
+]

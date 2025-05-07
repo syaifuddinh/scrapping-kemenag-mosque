@@ -1,0 +1,42 @@
+[
+  {
+    "id": 3954,
+    "name": "Jembrana",
+    "city_id": 268,
+    "city_name": "kab. jembrana",
+    "province_id": 17,
+    "province_name": "bali"
+  },
+  {
+    "id": 3953,
+    "name": "Melaya",
+    "city_id": 268,
+    "city_name": "kab. jembrana",
+    "province_id": 17,
+    "province_name": "bali"
+  },
+  {
+    "id": 3951,
+    "name": "Mendoyo",
+    "city_id": 268,
+    "city_name": "kab. jembrana",
+    "province_id": 17,
+    "province_name": "bali"
+  },
+  {
+    "id": 3950,
+    "name": "Negara",
+    "city_id": 268,
+    "city_name": "kab. jembrana",
+    "province_id": 17,
+    "province_name": "bali"
+  },
+  {
+    "id": 3952,
+    "name": "Pekutatan",
+    "city_id": 268,
+    "city_name": "kab. jembrana",
+    "province_id": 17,
+    "province_name": "bali"
+  }
+]

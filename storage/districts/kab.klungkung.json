@@ -1,0 +1,34 @@
+[
+  {
+    "id": 3979,
+    "name": "Banjarangkan",
+    "city_id": 272,
+    "city_name": "kab. klungkung",
+    "province_id": 17,
+    "province_name": "bali"
+  },
+  {
+    "id": 3981,
+    "name": "Dawan",
+    "city_id": 272,
+    "city_name": "kab. klungkung",
+    "province_id": 17,
+    "province_name": "bali"
+  },
+  {
+    "id": 3980,
+    "name": "Klungkung",
+    "city_id": 272,
+    "city_name": "kab. klungkung",
+    "province_id": 17,
+    "province_name": "bali"
+  },
+  {
+    "id": 3978,
+    "name": "Nusa Penida",
+    "city_id": 272,
+    "city_name": "kab. klungkung",
+    "province_id": 17,
+    "province_name": "bali"
+  }
+]

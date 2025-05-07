@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1830,
+    "name": "Cengkareng",
+    "city_id": 153,
+    "city_name": "kota adm. jakarta barat",
+    "province_id": 11,
+    "province_name": "dki jakarta"
+  },
+  {
+    "id": 1831,
+    "name": "Grogol Petamburan",
+    "city_id": 153,
+    "city_name": "kota adm. jakarta barat",
+    "province_id": 11,
+    "province_name": "dki jakarta"
+  },
+  {
+    "id": 1835,
+    "name": "Kalideres",
+    "city_id": 153,
+    "city_name": "kota adm. jakarta barat",
+    "province_id": 11,
+    "province_name": "dki jakarta"
+  },
+  {
+    "id": 1834,
+    "name": "Kebun Jeruk",
+    "city_id": 153,
+    "city_name": "kota adm. jakarta barat",
+    "province_id": 11,
+    "province_name": "dki jakarta"
+  },
+  {
+    "id": 1837,
+    "name": "Kembangan",
+    "city_id": 153,
+    "city_name": "kota adm. jakarta barat",
+    "province_id": 11,
+    "province_name": "dki jakarta"
+  },
+  {
+    "id": 1836,
+    "name": "Pal Merah",
+    "city_id": 153,
+    "city_name": "kota adm. jakarta barat",
+    "province_id": 11,
+    "province_name": "dki jakarta"
+  },
+  {
+    "id": 1832,
+    "name": "Taman Sari",
+    "city_id": 153,
+    "city_name": "kota adm. jakarta barat",
+    "province_id": 11,
+    "province_name": "dki jakarta"
+  },
+  {
+    "id": 1833,
+    "name": "Tambora",
+    "city_id": 153,
+    "city_name": "kota adm. jakarta barat",
+    "province_id": 11,
+    "province_name": "dki jakarta"
+  }
+]

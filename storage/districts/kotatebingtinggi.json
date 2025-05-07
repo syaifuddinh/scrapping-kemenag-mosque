@@ -1,0 +1,42 @@
+[
+  {
+    "id": 687,
+    "name": "Bajenis",
+    "city_id": 54,
+    "city_name": "kota tebing tinggi",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 686,
+    "name": "Padang Hilir",
+    "city_id": 54,
+    "city_name": "kota tebing tinggi",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 684,
+    "name": "Padang Hulu",
+    "city_id": 54,
+    "city_name": "kota tebing tinggi",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 685,
+    "name": "Rambutan",
+    "city_id": 54,
+    "city_name": "kota tebing tinggi",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 688,
+    "name": "Tebing Tinggi Kota",
+    "city_id": 54,
+    "city_name": "kota tebing tinggi",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  }
+]

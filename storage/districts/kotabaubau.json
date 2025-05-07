@@ -1,0 +1,66 @@
+[
+  {
+    "id": 7096,
+    "name": "Batupoaro",
+    "city_id": 419,
+    "city_name": "kota bau bau",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 5781,
+    "name": "Betoambari",
+    "city_id": 419,
+    "city_name": "kota bau bau",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 5784,
+    "name": "Bungi",
+    "city_id": 419,
+    "city_name": "kota bau bau",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 5785,
+    "name": "Kokalukuna",
+    "city_id": 419,
+    "city_name": "kota bau bau",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 5787,
+    "name": "Lea-Lea",
+    "city_id": 419,
+    "city_name": "kota bau bau",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 5786,
+    "name": "Murhum",
+    "city_id": 419,
+    "city_name": "kota bau bau",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 5783,
+    "name": "Sora Walio",
+    "city_id": 419,
+    "city_name": "kota bau bau",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 5782,
+    "name": "Wolio",
+    "city_id": 419,
+    "city_name": "kota bau bau",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  }
+]

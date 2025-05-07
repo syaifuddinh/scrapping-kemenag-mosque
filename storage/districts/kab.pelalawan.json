@@ -1,0 +1,98 @@
+[
+  {
+    "id": 951,
+    "name": "Bandar Petalangan",
+    "city_id": 80,
+    "city_name": "kab. pelalawan",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 950,
+    "name": "Bandar Sei Kijang",
+    "city_id": 80,
+    "city_name": "kab. pelalawan",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 947,
+    "name": "Bunut",
+    "city_id": 80,
+    "city_name": "kab. pelalawan",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 946,
+    "name": "Kerumutan",
+    "city_id": 80,
+    "city_name": "kab. pelalawan",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 949,
+    "name": "Kuala Kampar",
+    "city_id": 80,
+    "city_name": "kab. pelalawan",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 944,
+    "name": "Langgam",
+    "city_id": 80,
+    "city_name": "kab. pelalawan",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 941,
+    "name": "Pangkalan Kerinci",
+    "city_id": 80,
+    "city_name": "kab. pelalawan",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 942,
+    "name": "Pangkalan Kuras",
+    "city_id": 80,
+    "city_name": "kab. pelalawan",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 943,
+    "name": "Pangkalan Lesung",
+    "city_id": 80,
+    "city_name": "kab. pelalawan",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 945,
+    "name": "Pelalawan",
+    "city_id": 80,
+    "city_name": "kab. pelalawan",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 948,
+    "name": "Teluk Meranti",
+    "city_id": 80,
+    "city_name": "kab. pelalawan",
+    "province_id": 4,
+    "province_name": "riau"
+  },
+  {
+    "id": 940,
+    "name": "Ukui",
+    "city_id": 80,
+    "city_name": "kab. pelalawan",
+    "province_id": 4,
+    "province_name": "riau"
+  }
+]

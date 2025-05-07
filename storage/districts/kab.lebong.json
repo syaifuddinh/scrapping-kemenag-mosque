@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1475,
+    "name": "Amen",
+    "city_id": 118,
+    "city_name": "kab. lebong",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1472,
+    "name": "Bingin Kuning",
+    "city_id": 118,
+    "city_name": "kab. lebong",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1467,
+    "name": "Lebong Atas",
+    "city_id": 118,
+    "city_name": "kab. lebong",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1473,
+    "name": "Lebong Sakti",
+    "city_id": 118,
+    "city_name": "kab. lebong",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1469,
+    "name": "Lebong Selatan",
+    "city_id": 118,
+    "city_name": "kab. lebong",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1468,
+    "name": "Lebong Tengah",
+    "city_id": 118,
+    "city_name": "kab. lebong",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1466,
+    "name": "Lebong Utara",
+    "city_id": 118,
+    "city_name": "kab. lebong",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1474,
+    "name": "Pelabai",
+    "city_id": 118,
+    "city_name": "kab. lebong",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1477,
+    "name": "Pinang Belapis",
+    "city_id": 118,
+    "city_name": "kab. lebong",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1470,
+    "name": "Rimbo Pengadang",
+    "city_id": 118,
+    "city_name": "kab. lebong",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1471,
+    "name": "Topos",
+    "city_id": 118,
+    "city_name": "kab. lebong",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  },
+  {
+    "id": 1476,
+    "name": "Uram Jaya",
+    "city_id": 118,
+    "city_name": "kab. lebong",
+    "province_id": 7,
+    "province_name": "bengkulu"
+  }
+]

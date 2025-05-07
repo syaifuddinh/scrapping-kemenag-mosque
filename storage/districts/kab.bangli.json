@@ -1,0 +1,34 @@
+[
+  {
+    "id": 3983,
+    "name": "Bagli",
+    "city_id": 273,
+    "city_name": "kab. bangli",
+    "province_id": 17,
+    "province_name": "bali"
+  },
+  {
+    "id": 3985,
+    "name": "Kintamani",
+    "city_id": 273,
+    "city_name": "kab. bangli",
+    "province_id": 17,
+    "province_name": "bali"
+  },
+  {
+    "id": 3982,
+    "name": "Susut",
+    "city_id": 273,
+    "city_name": "kab. bangli",
+    "province_id": 17,
+    "province_name": "bali"
+  },
+  {
+    "id": 3984,
+    "name": "Tembuku",
+    "city_id": 273,
+    "city_name": "kab. bangli",
+    "province_id": 17,
+    "province_name": "bali"
+  }
+]

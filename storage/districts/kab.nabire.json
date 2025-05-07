@@ -1,0 +1,98 @@
+[
+  {
+    "id": 6169,
+    "name": "Makimi",
+    "city_id": 454,
+    "city_name": "kab. nabire",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6163,
+    "name": "Nabire",
+    "city_id": 454,
+    "city_name": "kab. nabire",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6174,
+    "name": "Nabire Barat",
+    "city_id": 454,
+    "city_name": "kab. nabire",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6164,
+    "name": "Napan",
+    "city_id": 454,
+    "city_name": "kab. nabire",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6168,
+    "name": "Siriwo",
+    "city_id": 454,
+    "city_name": "kab. nabire",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6171,
+    "name": "Teluk Kimi",
+    "city_id": 454,
+    "city_name": "kab. nabire",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6170,
+    "name": "Teluk Umar",
+    "city_id": 454,
+    "city_name": "kab. nabire",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6166,
+    "name": "Uwapa",
+    "city_id": 454,
+    "city_name": "kab. nabire",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6167,
+    "name": "Wanggar",
+    "city_id": 454,
+    "city_name": "kab. nabire",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6173,
+    "name": "Wapoga",
+    "city_id": 454,
+    "city_name": "kab. nabire",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6172,
+    "name": "Yaro",
+    "city_id": 454,
+    "city_name": "kab. nabire",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6165,
+    "name": "Yaur",
+    "city_id": 454,
+    "city_name": "kab. nabire",
+    "province_id": 32,
+    "province_name": "papua"
+  }
+]

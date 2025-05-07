@@ -1,0 +1,130 @@
+[
+  {
+    "id": 24,
+    "name": "Babul Makmur",
+    "city_id": 2,
+    "city_name": "kab. aceh tenggara",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 29,
+    "name": "Babul Rahmah",
+    "city_id": 2,
+    "city_name": "kab. aceh tenggara",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 22,
+    "name": "Babussalam",
+    "city_id": 2,
+    "city_name": "kab. aceh tenggara",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 23,
+    "name": "Badar",
+    "city_id": 2,
+    "city_name": "kab. aceh tenggara",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 21,
+    "name": "Bambel",
+    "city_id": 2,
+    "city_name": "kab. aceh tenggara",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 27,
+    "name": "Bukit Tusam",
+    "city_id": 2,
+    "city_name": "kab. aceh tenggara",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 25,
+    "name": "Darul Hasanah",
+    "city_id": 2,
+    "city_name": "kab. aceh tenggara",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 31,
+    "name": "Deleng Pokhkisen",
+    "city_id": 2,
+    "city_name": "kab. aceh tenggara",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 30,
+    "name": "Ketambe",
+    "city_id": 2,
+    "city_name": "kab. aceh tenggara",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 19,
+    "name": "Lawe Alas",
+    "city_id": 2,
+    "city_name": "kab. aceh tenggara",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 26,
+    "name": "Lawe Bulan",
+    "city_id": 2,
+    "city_name": "kab. aceh tenggara",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 20,
+    "name": "Lawe Sigala-Gala",
+    "city_id": 2,
+    "city_name": "kab. aceh tenggara",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 32,
+    "name": "Lawe Sumur",
+    "city_id": 2,
+    "city_name": "kab. aceh tenggara",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 34,
+    "name": "Leuser",
+    "city_id": 2,
+    "city_name": "kab. aceh tenggara",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 28,
+    "name": "Semadam",
+    "city_id": 2,
+    "city_name": "kab. aceh tenggara",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 33,
+    "name": "Tanoh Alas",
+    "city_id": 2,
+    "city_name": "kab. aceh tenggara",
+    "province_id": 1,
+    "province_name": "aceh"
+  }
+]

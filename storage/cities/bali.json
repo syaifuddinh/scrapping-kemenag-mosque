@@ -1,0 +1,56 @@
+[
+  {
+    "id": 268,
+    "name": "Kab. Jembrana",
+    "province_id": 17,
+    "province_name": "bali"
+  },
+  {
+    "id": 269,
+    "name": "Kab. Tabanan",
+    "province_id": 17,
+    "province_name": "bali"
+  },
+  {
+    "id": 270,
+    "name": "Kab. Badung",
+    "province_id": 17,
+    "province_name": "bali"
+  },
+  {
+    "id": 271,
+    "name": "Kab. Gianyar",
+    "province_id": 17,
+    "province_name": "bali"
+  },
+  {
+    "id": 272,
+    "name": "Kab. Klungkung",
+    "province_id": 17,
+    "province_name": "bali"
+  },
+  {
+    "id": 273,
+    "name": "Kab. Bangli",
+    "province_id": 17,
+    "province_name": "bali"
+  },
+  {
+    "id": 274,
+    "name": "Kab. Karangasem",
+    "province_id": 17,
+    "province_name": "bali"
+  },
+  {
+    "id": 275,
+    "name": "Kab. Buleleng",
+    "province_id": 17,
+    "province_name": "bali"
+  },
+  {
+    "id": 276,
+    "name": "Kota Denpasar",
+    "province_id": 17,
+    "province_name": "bali"
+  }
+]

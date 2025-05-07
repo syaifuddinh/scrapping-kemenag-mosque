@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1763,
+    "name": "Bintan Pesisir",
+    "city_id": 143,
+    "city_name": "kab. bintan",
+    "province_id": 10,
+    "province_name": "kepulauan riau"
+  },
+  {
+    "id": 1756,
+    "name": "Bintan Timur",
+    "city_id": 143,
+    "city_name": "kab. bintan",
+    "province_id": 10,
+    "province_name": "kepulauan riau"
+  },
+  {
+    "id": 1757,
+    "name": "Bintan Utara",
+    "city_id": 143,
+    "city_name": "kab. bintan",
+    "province_id": 10,
+    "province_name": "kepulauan riau"
+  },
+  {
+    "id": 1755,
+    "name": "Gunung Kijang",
+    "city_id": 143,
+    "city_name": "kab. bintan",
+    "province_id": 10,
+    "province_name": "kepulauan riau"
+  },
+  {
+    "id": 1762,
+    "name": "Mantang",
+    "city_id": 143,
+    "city_name": "kab. bintan",
+    "province_id": 10,
+    "province_name": "kepulauan riau"
+  },
+  {
+    "id": 1764,
+    "name": "Seri Kuala Lobam",
+    "city_id": 143,
+    "city_name": "kab. bintan",
+    "province_id": 10,
+    "province_name": "kepulauan riau"
+  },
+  {
+    "id": 1759,
+    "name": "Tambelan",
+    "city_id": 143,
+    "city_name": "kab. bintan",
+    "province_id": 10,
+    "province_name": "kepulauan riau"
+  },
+  {
+    "id": 1760,
+    "name": "Telok Sebong",
+    "city_id": 143,
+    "city_name": "kab. bintan",
+    "province_id": 10,
+    "province_name": "kepulauan riau"
+  },
+  {
+    "id": 1758,
+    "name": "Teluk Bintan",
+    "city_id": 143,
+    "city_name": "kab. bintan",
+    "province_id": 10,
+    "province_name": "kepulauan riau"
+  },
+  {
+    "id": 1761,
+    "name": "Toapaya",
+    "city_id": 143,
+    "city_name": "kab. bintan",
+    "province_id": 10,
+    "province_name": "kepulauan riau"
+  }
+]

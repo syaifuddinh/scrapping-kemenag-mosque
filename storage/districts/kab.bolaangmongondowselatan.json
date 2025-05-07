@@ -1,0 +1,42 @@
+[
+  {
+    "id": 5100,
+    "name": "Bolaang Uki",
+    "city_id": 368,
+    "city_name": "kab. bolaang mongondow selatan",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5102,
+    "name": "Pinolosian",
+    "city_id": 368,
+    "city_name": "kab. bolaang mongondow selatan",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5103,
+    "name": "Pinolosian Tengah",
+    "city_id": 368,
+    "city_name": "kab. bolaang mongondow selatan",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5104,
+    "name": "Pinolosian Timur",
+    "city_id": 368,
+    "city_name": "kab. bolaang mongondow selatan",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5101,
+    "name": "Posigadan",
+    "city_id": 368,
+    "city_name": "kab. bolaang mongondow selatan",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  }
+]

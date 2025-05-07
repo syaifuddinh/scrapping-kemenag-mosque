@@ -1,0 +1,50 @@
+[
+  {
+    "id": 6882,
+    "name": "Sorong",
+    "city_id": 507,
+    "city_name": "kota sorong",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6884,
+    "name": "Sorong Barat",
+    "city_id": 507,
+    "city_name": "kota sorong",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6885,
+    "name": "Sorong Kepulauan",
+    "city_id": 507,
+    "city_name": "kota sorong",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6887,
+    "name": "Sorong Manoi",
+    "city_id": 507,
+    "city_name": "kota sorong",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6883,
+    "name": "Sorong Timur",
+    "city_id": 507,
+    "city_name": "kota sorong",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6886,
+    "name": "Sorong Utara",
+    "city_id": 507,
+    "city_name": "kota sorong",
+    "province_id": 33,
+    "province_name": "papua barat"
+  }
+]

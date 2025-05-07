@@ -1,0 +1,50 @@
+[
+  {
+    "id": 677,
+    "name": "Datuk Bandar",
+    "city_id": 52,
+    "city_name": "kota tanjung balai",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 678,
+    "name": "Datuk Bandar Timur",
+    "city_id": 52,
+    "city_name": "kota tanjung balai",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 675,
+    "name": "Sei Tualang Raso",
+    "city_id": 52,
+    "city_name": "kota tanjung balai",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 673,
+    "name": "Tanjung Balai Selatan",
+    "city_id": 52,
+    "city_name": "kota tanjung balai",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 674,
+    "name": "Tanjung Balai Utara",
+    "city_id": 52,
+    "city_name": "kota tanjung balai",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 676,
+    "name": "Teluk Nibung",
+    "city_id": 52,
+    "city_name": "kota tanjung balai",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  }
+]

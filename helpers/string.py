@@ -7,3 +7,16 @@ def GetFormalName(keyword):
    res = keyword.lower().replace(" ", "")
 
    return res
+
+def GetCoordinatesFromURL(url):
+    if "query=" in url:
+        # Extract coordinates from Google Maps URL
+        query_params = url.split("query=")[1]
+        coordinates = query_params.split(",")
+    else:
+        # Handle original URL format
+        coordinates = url.split("/")[-1].split(",")
+    
+    latitude = float(coordinates[0])
+    longitude = float(coordinates[1])
+    return latitude, longitude

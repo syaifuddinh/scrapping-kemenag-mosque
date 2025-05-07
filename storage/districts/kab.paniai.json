@@ -1,0 +1,82 @@
+[
+  {
+    "id": 6216,
+    "name": "Aradide",
+    "city_id": 458,
+    "city_name": "kab. paniai",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6218,
+    "name": "Bibida",
+    "city_id": 458,
+    "city_name": "kab. paniai",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6217,
+    "name": "Bogabaida",
+    "city_id": 458,
+    "city_name": "kab. paniai",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6219,
+    "name": "Dumadama",
+    "city_id": 458,
+    "city_name": "kab. paniai",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6223,
+    "name": "Ekadide",
+    "city_id": 458,
+    "city_name": "kab. paniai",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6221,
+    "name": "Kebo",
+    "city_id": 458,
+    "city_name": "kab. paniai",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6215,
+    "name": "Paniai Barat",
+    "city_id": 458,
+    "city_name": "kab. paniai",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6214,
+    "name": "Paniai Timur",
+    "city_id": 458,
+    "city_name": "kab. paniai",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6220,
+    "name": "Siriwo",
+    "city_id": 458,
+    "city_name": "kab. paniai",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6222,
+    "name": "Yatamo",
+    "city_id": 458,
+    "city_name": "kab. paniai",
+    "province_id": 32,
+    "province_name": "papua"
+  }
+]

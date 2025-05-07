@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1162,
+    "name": "Baturaja Barat",
+    "city_id": 98,
+    "city_name": "kab. ogan komering ulu",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1163,
+    "name": "Baturaja Timur",
+    "city_id": 98,
+    "city_name": "kab. ogan komering ulu",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1167,
+    "name": "Lengkiti",
+    "city_id": 98,
+    "city_name": "kab. ogan komering ulu",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1166,
+    "name": "Lubuk Batang",
+    "city_id": 98,
+    "city_name": "kab. ogan komering ulu",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1169,
+    "name": "Lubuk Raja",
+    "city_id": 98,
+    "city_name": "kab. ogan komering ulu",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1170,
+    "name": "Muara Jaya",
+    "city_id": 98,
+    "city_name": "kab. ogan komering ulu",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1160,
+    "name": "Pengandonan",
+    "city_id": 98,
+    "city_name": "kab. ogan komering ulu",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1161,
+    "name": "Peninjauan",
+    "city_id": 98,
+    "city_name": "kab. ogan komering ulu",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1165,
+    "name": "Semidang Aji",
+    "city_id": 98,
+    "city_name": "kab. ogan komering ulu",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1168,
+    "name": "Sinar Peninjauan",
+    "city_id": 98,
+    "city_name": "kab. ogan komering ulu",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1159,
+    "name": "Sosoh Buay Rayap",
+    "city_id": 98,
+    "city_name": "kab. ogan komering ulu",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1164,
+    "name": "Ulu Ogan",
+    "city_id": 98,
+    "city_name": "kab. ogan komering ulu",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  }
+]

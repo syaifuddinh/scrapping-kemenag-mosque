@@ -1,0 +1,26 @@
+[
+  {
+    "id": 3947,
+    "name": "Batu",
+    "city_id": 267,
+    "city_name": "kota batu",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3948,
+    "name": "Bumiaji",
+    "city_id": 267,
+    "city_name": "kota batu",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3949,
+    "name": "Junrejo",
+    "city_id": 267,
+    "city_name": "kota batu",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  }
+]

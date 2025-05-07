@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1813,
+    "name": "Bukit Bestari",
+    "city_id": 149,
+    "city_name": "kota tanjung pinang",
+    "province_id": 10,
+    "province_name": "kepulauan riau"
+  },
+  {
+    "id": 1810,
+    "name": "Tanjung Pinang Barat",
+    "city_id": 149,
+    "city_name": "kota tanjung pinang",
+    "province_id": 10,
+    "province_name": "kepulauan riau"
+  },
+  {
+    "id": 1812,
+    "name": "Tanjung Pinang Kota",
+    "city_id": 149,
+    "city_name": "kota tanjung pinang",
+    "province_id": 10,
+    "province_name": "kepulauan riau"
+  },
+  {
+    "id": 1811,
+    "name": "Tanjung Pinang Timur",
+    "city_id": 149,
+    "city_name": "kota tanjung pinang",
+    "province_id": 10,
+    "province_name": "kepulauan riau"
+  }
+]

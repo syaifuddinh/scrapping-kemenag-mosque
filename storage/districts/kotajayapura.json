@@ -1,0 +1,42 @@
+[
+  {
+    "id": 6494,
+    "name": "Abepura",
+    "city_id": 479,
+    "city_name": "kota jayapura",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6496,
+    "name": "Heram",
+    "city_id": 479,
+    "city_name": "kota jayapura",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6493,
+    "name": "Jayapura Selatan",
+    "city_id": 479,
+    "city_name": "kota jayapura",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6492,
+    "name": "Jayapura Utara",
+    "city_id": 479,
+    "city_name": "kota jayapura",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6495,
+    "name": "Muara Tami",
+    "city_id": 479,
+    "city_name": "kota jayapura",
+    "province_id": 32,
+    "province_name": "papua"
+  }
+]

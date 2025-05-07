@@ -1,0 +1,234 @@
+[
+  {
+    "id": 1921,
+    "name": "Balaraja",
+    "city_id": 158,
+    "city_name": "kab. tangerang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1938,
+    "name": "Cikupa",
+    "city_id": 158,
+    "city_name": "kab. tangerang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1942,
+    "name": "Cisauk",
+    "city_id": 158,
+    "city_name": "kab. tangerang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1925,
+    "name": "Cisoka",
+    "city_id": 158,
+    "city_name": "kab. tangerang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1937,
+    "name": "Curug",
+    "city_id": 158,
+    "city_name": "kab. tangerang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1948,
+    "name": "Gunung Kaler",
+    "city_id": 158,
+    "city_name": "kab. tangerang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1924,
+    "name": "Jambe",
+    "city_id": 158,
+    "city_name": "kab. tangerang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1922,
+    "name": "Jayanti",
+    "city_id": 158,
+    "city_name": "kab. tangerang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1944,
+    "name": "Kelapa Dua",
+    "city_id": 158,
+    "city_name": "kab. tangerang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1929,
+    "name": "Kemiri",
+    "city_id": 158,
+    "city_name": "kab. tangerang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1934,
+    "name": "Kosambi",
+    "city_id": 158,
+    "city_name": "kab. tangerang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1926,
+    "name": "Kresek",
+    "city_id": 158,
+    "city_name": "kab. tangerang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1927,
+    "name": "Kronjo",
+    "city_id": 158,
+    "city_name": "kab. tangerang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1940,
+    "name": "Legok",
+    "city_id": 158,
+    "city_name": "kab. tangerang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1928,
+    "name": "Mauk",
+    "city_id": 158,
+    "city_name": "kab. tangerang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1949,
+    "name": "Mekar Baru",
+    "city_id": 158,
+    "city_name": "kab. tangerang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1941,
+    "name": "Pagedangan",
+    "city_id": 158,
+    "city_name": "kab. tangerang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1935,
+    "name": "Pakuhaji",
+    "city_id": 158,
+    "city_name": "kab. tangerang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1939,
+    "name": "Panongan",
+    "city_id": 158,
+    "city_name": "kab. tangerang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1932,
+    "name": "Pasar Kemis",
+    "city_id": 158,
+    "city_name": "kab. tangerang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1931,
+    "name": "Rajeg",
+    "city_id": 158,
+    "city_name": "kab. tangerang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1936,
+    "name": "Sepatan",
+    "city_id": 158,
+    "city_name": "kab. tangerang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1946,
+    "name": "Sepatan Timur",
+    "city_id": 158,
+    "city_name": "kab. tangerang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1945,
+    "name": "Sindang Jaya",
+    "city_id": 158,
+    "city_name": "kab. tangerang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1947,
+    "name": "Solear",
+    "city_id": 158,
+    "city_name": "kab. tangerang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1930,
+    "name": "Sukadiri",
+    "city_id": 158,
+    "city_name": "kab. tangerang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1943,
+    "name": "Sukamulya",
+    "city_id": 158,
+    "city_name": "kab. tangerang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1933,
+    "name": "Teluknaga",
+    "city_id": 158,
+    "city_name": "kab. tangerang",
+    "province_id": 12,
+    "province_name": "banten"
+  },
+  {
+    "id": 1923,
+    "name": "Tigaraksa",
+    "city_id": 158,
+    "city_name": "kab. tangerang",
+    "province_id": 12,
+    "province_name": "banten"
+  }
+]

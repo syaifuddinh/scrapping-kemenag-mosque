@@ -1,0 +1,90 @@
+[
+  {
+    "id": 4804,
+    "name": "Angkinang",
+    "city_id": 341,
+    "city_name": "kab. hulu sungai selatan",
+    "province_id": 22,
+    "province_name": "kalimantan selatan"
+  },
+  {
+    "id": 4811,
+    "name": "Daha Barat",
+    "city_id": 341,
+    "city_name": "kab. hulu sungai selatan",
+    "province_id": 22,
+    "province_name": "kalimantan selatan"
+  },
+  {
+    "id": 4807,
+    "name": "Daha Selatan",
+    "city_id": 341,
+    "city_name": "kab. hulu sungai selatan",
+    "province_id": 22,
+    "province_name": "kalimantan selatan"
+  },
+  {
+    "id": 4808,
+    "name": "Daha Utara",
+    "city_id": 341,
+    "city_name": "kab. hulu sungai selatan",
+    "province_id": 22,
+    "province_name": "kalimantan selatan"
+  },
+  {
+    "id": 4809,
+    "name": "Kalumpang",
+    "city_id": 341,
+    "city_name": "kab. hulu sungai selatan",
+    "province_id": 22,
+    "province_name": "kalimantan selatan"
+  },
+  {
+    "id": 4805,
+    "name": "Kandangan",
+    "city_id": 341,
+    "city_name": "kab. hulu sungai selatan",
+    "province_id": 22,
+    "province_name": "kalimantan selatan"
+  },
+  {
+    "id": 4810,
+    "name": "Loksado",
+    "city_id": 341,
+    "city_name": "kab. hulu sungai selatan",
+    "province_id": 22,
+    "province_name": "kalimantan selatan"
+  },
+  {
+    "id": 4802,
+    "name": "Padang Batung",
+    "city_id": 341,
+    "city_name": "kab. hulu sungai selatan",
+    "province_id": 22,
+    "province_name": "kalimantan selatan"
+  },
+  {
+    "id": 4806,
+    "name": "Simpur",
+    "city_id": 341,
+    "city_name": "kab. hulu sungai selatan",
+    "province_id": 22,
+    "province_name": "kalimantan selatan"
+  },
+  {
+    "id": 4801,
+    "name": "Sungai Raya",
+    "city_id": 341,
+    "city_name": "kab. hulu sungai selatan",
+    "province_id": 22,
+    "province_name": "kalimantan selatan"
+  },
+  {
+    "id": 4803,
+    "name": "Telaga Langsat",
+    "city_id": 341,
+    "city_name": "kab. hulu sungai selatan",
+    "province_id": 22,
+    "province_name": "kalimantan selatan"
+  }
+]

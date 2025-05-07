@@ -1,0 +1,138 @@
+[
+  {
+    "id": 752,
+    "name": "2 x 11 Enam Lingkuang",
+    "city_id": 61,
+    "city_name": "kab. padang pariaman",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 763,
+    "name": "2 x 11 Kayu Tanam",
+    "city_id": 61,
+    "city_name": "kab. padang pariaman",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 750,
+    "name": "Batang Anai",
+    "city_id": 61,
+    "city_name": "kab. padang pariaman",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 761,
+    "name": "Batang Gasan",
+    "city_id": 61,
+    "city_name": "kab. padang pariaman",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 765,
+    "name": "Enam Lingkung",
+    "city_id": 61,
+    "city_name": "kab. padang pariaman",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 757,
+    "name": "IV Koto Aur Malintang",
+    "city_id": 61,
+    "city_name": "kab. padang pariaman",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 749,
+    "name": "Lubuk Alung",
+    "city_id": 61,
+    "city_name": "kab. padang pariaman",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 751,
+    "name": "Nan Sabaris",
+    "city_id": 61,
+    "city_name": "kab. padang pariaman",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 760,
+    "name": "Padang Sago",
+    "city_id": 61,
+    "city_name": "kab. padang pariaman",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 764,
+    "name": "Patamuan",
+    "city_id": 61,
+    "city_name": "kab. padang pariaman",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 759,
+    "name": "Sintuak Toboh Gadang",
+    "city_id": 61,
+    "city_name": "kab. padang pariaman",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 755,
+    "name": "Sungai Garingging",
+    "city_id": 61,
+    "city_name": "kab. padang pariaman",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 756,
+    "name": "Sungai Limau",
+    "city_id": 61,
+    "city_name": "kab. padang pariaman",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 758,
+    "name": "Ulakan Tapakih",
+    "city_id": 61,
+    "city_name": "kab. padang pariaman",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 754,
+    "name": "V Koto Kampung Dalam",
+    "city_id": 61,
+    "city_name": "kab. padang pariaman",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 762,
+    "name": "V Koto Timur",
+    "city_id": 61,
+    "city_name": "kab. padang pariaman",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 753,
+    "name": "VII Koto Sungai Sarik",
+    "city_id": 61,
+    "city_name": "kab. padang pariaman",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  }
+]

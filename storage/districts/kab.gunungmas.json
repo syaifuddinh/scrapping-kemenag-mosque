@@ -1,0 +1,98 @@
+[
+  {
+    "id": 4685,
+    "name": "Damang Batu",
+    "city_id": 331,
+    "city_name": "kab. gunung mas",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 4681,
+    "name": "Kahayan Hulu Utara",
+    "city_id": 331,
+    "city_name": "kab. gunung mas",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 4679,
+    "name": "Kurun",
+    "city_id": 331,
+    "city_name": "kab. gunung mas",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 4688,
+    "name": "Mahuning Raya",
+    "city_id": 331,
+    "city_name": "kab. gunung mas",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 4683,
+    "name": "Manuhing",
+    "city_id": 331,
+    "city_name": "kab. gunung mas",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 4684,
+    "name": "Mihing Raya",
+    "city_id": 331,
+    "city_name": "kab. gunung mas",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 4686,
+    "name": "Miri Manasa",
+    "city_id": 331,
+    "city_name": "kab. gunung mas",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 4682,
+    "name": "Rungan",
+    "city_id": 331,
+    "city_name": "kab. gunung mas",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 6926,
+    "name": "Rungan Barat",
+    "city_id": 331,
+    "city_name": "kab. gunung mas",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 4687,
+    "name": "Rungan Hulu",
+    "city_id": 331,
+    "city_name": "kab. gunung mas",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 4678,
+    "name": "Sepang Simin",
+    "city_id": 331,
+    "city_name": "kab. gunung mas",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 4680,
+    "name": "Tewah",
+    "city_id": 331,
+    "city_name": "kab. gunung mas",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  }
+]

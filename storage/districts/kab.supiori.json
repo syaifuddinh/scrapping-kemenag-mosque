@@ -1,0 +1,42 @@
+[
+  {
+    "id": 6425,
+    "name": "Kepulauan Aruri",
+    "city_id": 469,
+    "city_name": "kab. supiori",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6426,
+    "name": "Supiori Barat",
+    "city_id": 469,
+    "city_name": "kab. supiori",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6422,
+    "name": "Supiori Selatan",
+    "city_id": 469,
+    "city_name": "kab. supiori",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6424,
+    "name": "Supiori Timur",
+    "city_id": 469,
+    "city_name": "kab. supiori",
+    "province_id": 32,
+    "province_name": "papua"
+  },
+  {
+    "id": 6423,
+    "name": "Supiori Utara",
+    "city_id": 469,
+    "city_name": "kab. supiori",
+    "province_id": 32,
+    "province_name": "papua"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 4853,
+    "name": "Angsana",
+    "city_id": 345,
+    "city_name": "kab. tanah bumbu",
+    "province_id": 22,
+    "province_name": "kalimantan selatan"
+  },
+  {
+    "id": 4845,
+    "name": "Batu Licin",
+    "city_id": 345,
+    "city_name": "kab. tanah bumbu",
+    "province_id": 22,
+    "province_name": "kalimantan selatan"
+  },
+  {
+    "id": 4851,
+    "name": "Karang Bintang",
+    "city_id": 345,
+    "city_name": "kab. tanah bumbu",
+    "province_id": 22,
+    "province_name": "kalimantan selatan"
+  },
+  {
+    "id": 4854,
+    "name": "Kuranji",
+    "city_id": 345,
+    "city_name": "kab. tanah bumbu",
+    "province_id": 22,
+    "province_name": "kalimantan selatan"
+  },
+  {
+    "id": 4846,
+    "name": "Kusan Hilir",
+    "city_id": 345,
+    "city_name": "kab. tanah bumbu",
+    "province_id": 22,
+    "province_name": "kalimantan selatan"
+  },
+  {
+    "id": 4849,
+    "name": "Kusan Hulu",
+    "city_id": 345,
+    "city_name": "kab. tanah bumbu",
+    "province_id": 22,
+    "province_name": "kalimantan selatan"
+  },
+  {
+    "id": 4852,
+    "name": "Mantewe",
+    "city_id": 345,
+    "city_name": "kab. tanah bumbu",
+    "province_id": 22,
+    "province_name": "kalimantan selatan"
+  },
+  {
+    "id": 4848,
+    "name": "Satui",
+    "city_id": 345,
+    "city_name": "kab. tanah bumbu",
+    "province_id": 22,
+    "province_name": "kalimantan selatan"
+  },
+  {
+    "id": 4850,
+    "name": "Simpang Empat",
+    "city_id": 345,
+    "city_name": "kab. tanah bumbu",
+    "province_id": 22,
+    "province_name": "kalimantan selatan"
+  },
+  {
+    "id": 4847,
+    "name": "Sungai Loban",
+    "city_id": 345,
+    "city_name": "kab. tanah bumbu",
+    "province_id": 22,
+    "province_name": "kalimantan selatan"
+  }
+]

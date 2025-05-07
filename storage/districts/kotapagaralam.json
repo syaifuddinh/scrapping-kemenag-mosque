@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1366,
+    "name": "Dempo Selatan",
+    "city_id": 109,
+    "city_name": "kota pagar alam",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1367,
+    "name": "Dempo Tengah",
+    "city_id": 109,
+    "city_name": "kota pagar alam",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1365,
+    "name": "Dempo Utara",
+    "city_id": 109,
+    "city_name": "kota pagar alam",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1364,
+    "name": "Pagar Alam Selatan",
+    "city_id": 109,
+    "city_name": "kota pagar alam",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1363,
+    "name": "Pagar Alam Utara",
+    "city_id": 109,
+    "city_name": "kota pagar alam",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  }
+]

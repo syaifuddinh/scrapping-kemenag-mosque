@@ -1,0 +1,50 @@
+[
+  {
+    "id": 7042,
+    "name": "Kepulauan Karimata",
+    "city_id": 318,
+    "city_name": "kab. kayong utara",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4569,
+    "name": "Pulau Maya Karimata",
+    "city_id": 318,
+    "city_name": "kab. kayong utara",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4570,
+    "name": "Seponti",
+    "city_id": 318,
+    "city_name": "kab. kayong utara",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4567,
+    "name": "Simpang Hilir",
+    "city_id": 318,
+    "city_name": "kab. kayong utara",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4566,
+    "name": "Sukadana",
+    "city_id": 318,
+    "city_name": "kab. kayong utara",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4568,
+    "name": "Teluk Batang",
+    "city_id": 318,
+    "city_name": "kab. kayong utara",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  }
+]

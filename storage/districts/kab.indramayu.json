@@ -1,0 +1,250 @@
+[
+  {
+    "id": 2425,
+    "name": "Anjatan",
+    "city_id": 175,
+    "city_name": "kab. indramayu",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2421,
+    "name": "Arahan",
+    "city_id": 175,
+    "city_name": "kab. indramayu",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2416,
+    "name": "Balongan",
+    "city_id": 175,
+    "city_name": "kab. indramayu",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2408,
+    "name": "Bangodua",
+    "city_id": 175,
+    "city_name": "kab. indramayu",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2424,
+    "name": "Bongas",
+    "city_id": 175,
+    "city_name": "kab. indramayu",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2419,
+    "name": "Cantigi",
+    "city_id": 175,
+    "city_name": "kab. indramayu",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2406,
+    "name": "Cikedung",
+    "city_id": 175,
+    "city_name": "kab. indramayu",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2405,
+    "name": "Gabuswetan",
+    "city_id": 175,
+    "city_name": "kab. indramayu",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2427,
+    "name": "Gantar",
+    "city_id": 175,
+    "city_name": "kab. indramayu",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2403,
+    "name": "Haurgeulis",
+    "city_id": 175,
+    "city_name": "kab. indramayu",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2417,
+    "name": "Indramayu",
+    "city_id": 175,
+    "city_name": "kab. indramayu",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2415,
+    "name": "Jatibarang",
+    "city_id": 175,
+    "city_name": "kab. indramayu",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2413,
+    "name": "Juntinyuat",
+    "city_id": 175,
+    "city_name": "kab. indramayu",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2423,
+    "name": "Kandanghaur",
+    "city_id": 175,
+    "city_name": "kab. indramayu",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2412,
+    "name": "Karangampel",
+    "city_id": 175,
+    "city_name": "kab. indramayu",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2430,
+    "name": "Kedokan Bunder",
+    "city_id": 175,
+    "city_name": "kab. indramayu",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2410,
+    "name": "Kertasemaya",
+    "city_id": 175,
+    "city_name": "kab. indramayu",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2411,
+    "name": "Krangkeng",
+    "city_id": 175,
+    "city_name": "kab. indramayu",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2404,
+    "name": "Kroya",
+    "city_id": 175,
+    "city_name": "kab. indramayu",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2407,
+    "name": "Lelea",
+    "city_id": 175,
+    "city_name": "kab. indramayu",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2420,
+    "name": "Lohbener",
+    "city_id": 175,
+    "city_name": "kab. indramayu",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2422,
+    "name": "Losarang",
+    "city_id": 175,
+    "city_name": "kab. indramayu",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2431,
+    "name": "Pasekan",
+    "city_id": 175,
+    "city_name": "kab. indramayu",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2433,
+    "name": "Patrol",
+    "city_id": 175,
+    "city_name": "kab. indramayu",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2418,
+    "name": "Sindang",
+    "city_id": 175,
+    "city_name": "kab. indramayu",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2414,
+    "name": "Sliyeg",
+    "city_id": 175,
+    "city_name": "kab. indramayu",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2429,
+    "name": "Sukagumiwang",
+    "city_id": 175,
+    "city_name": "kab. indramayu",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2426,
+    "name": "Sukra",
+    "city_id": 175,
+    "city_name": "kab. indramayu",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2428,
+    "name": "Trisi",
+    "city_id": 175,
+    "city_name": "kab. indramayu",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2432,
+    "name": "Tukdana",
+    "city_id": 175,
+    "city_name": "kab. indramayu",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2409,
+    "name": "Widasari",
+    "city_id": 175,
+    "city_name": "kab. indramayu",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  }
+]

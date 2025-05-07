@@ -1,0 +1,38 @@
+[
+  {
+    "id": 150,
+    "name": "Kab. Adm. Kep. Seribu",
+    "province_id": 11,
+    "province_name": "dki jakarta"
+  },
+  {
+    "id": 151,
+    "name": "Kota Adm. Jakarta Utara",
+    "province_id": 11,
+    "province_name": "dki jakarta"
+  },
+  {
+    "id": 152,
+    "name": "Kota Adm. Jakarta Pusat",
+    "province_id": 11,
+    "province_name": "dki jakarta"
+  },
+  {
+    "id": 153,
+    "name": "Kota Adm. Jakarta Barat",
+    "province_id": 11,
+    "province_name": "dki jakarta"
+  },
+  {
+    "id": 154,
+    "name": "Kota Adm. Jakarta Timur",
+    "province_id": 11,
+    "province_name": "dki jakarta"
+  },
+  {
+    "id": 155,
+    "name": "Kota Adm. Jakarta Selatan",
+    "province_id": 11,
+    "province_name": "dki jakarta"
+  }
+]

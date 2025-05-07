@@ -1,0 +1,98 @@
+[
+  {
+    "id": 4986,
+    "name": "Bilalang",
+    "city_id": 358,
+    "city_name": "kab. bolaang mongondow",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 4980,
+    "name": "Bolaang",
+    "city_id": 358,
+    "city_name": "kab. bolaang mongondow",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 4985,
+    "name": "Bolaang Timur",
+    "city_id": 358,
+    "city_name": "kab. bolaang mongondow",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 4976,
+    "name": "Dumoga Barat",
+    "city_id": 358,
+    "city_name": "kab. bolaang mongondow",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 4977,
+    "name": "Dumoga Timur",
+    "city_id": 358,
+    "city_name": "kab. bolaang mongondow",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 4978,
+    "name": "Dumoga Utara",
+    "city_id": 358,
+    "city_name": "kab. bolaang mongondow",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 4979,
+    "name": "Lolak",
+    "city_id": 358,
+    "city_name": "kab. bolaang mongondow",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 4981,
+    "name": "Lolayan",
+    "city_id": 358,
+    "city_name": "kab. bolaang mongondow",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 4982,
+    "name": "Passi (Barat)",
+    "city_id": 358,
+    "city_name": "kab. bolaang mongondow",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 4984,
+    "name": "Passi Timur",
+    "city_id": 358,
+    "city_name": "kab. bolaang mongondow",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 4983,
+    "name": "Poigar",
+    "city_id": 358,
+    "city_name": "kab. bolaang mongondow",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 4975,
+    "name": "Sang Tombolang",
+    "city_id": 358,
+    "city_name": "kab. bolaang mongondow",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  }
+]

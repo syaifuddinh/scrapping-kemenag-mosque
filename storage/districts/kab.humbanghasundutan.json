@@ -1,0 +1,82 @@
+[
+  {
+    "id": 548,
+    "name": "Baktiraja",
+    "city_id": 39,
+    "city_name": "kab. humbang hasundutan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 551,
+    "name": "Dolok Sanggul",
+    "city_id": 39,
+    "city_name": "kab. humbang hasundutan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 550,
+    "name": "Lintong Nihuta",
+    "city_id": 39,
+    "city_name": "kab. humbang hasundutan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 553,
+    "name": "Onan Ganjang",
+    "city_id": 39,
+    "city_name": "kab. humbang hasundutan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 554,
+    "name": "Pakkat",
+    "city_id": 39,
+    "city_name": "kab. humbang hasundutan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 549,
+    "name": "Paranginan",
+    "city_id": 39,
+    "city_name": "kab. humbang hasundutan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 546,
+    "name": "Parlilitan",
+    "city_id": 39,
+    "city_name": "kab. humbang hasundutan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 547,
+    "name": "Pollung",
+    "city_id": 39,
+    "city_name": "kab. humbang hasundutan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 552,
+    "name": "Sijamapolang",
+    "city_id": 39,
+    "city_name": "kab. humbang hasundutan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 555,
+    "name": "Tarabintang",
+    "city_id": 39,
+    "city_name": "kab. humbang hasundutan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  }
+]

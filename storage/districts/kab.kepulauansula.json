@@ -1,0 +1,98 @@
+[
+  {
+    "id": 6072,
+    "name": "Mangoli Barat",
+    "city_id": 446,
+    "city_name": "kab. kepulauan sula",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6078,
+    "name": "Mangoli Selatan",
+    "city_id": 446,
+    "city_name": "kab. kepulauan sula",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6077,
+    "name": "Mangoli Tengah",
+    "city_id": 446,
+    "city_name": "kab. kepulauan sula",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6067,
+    "name": "Mangoli Timur",
+    "city_id": 446,
+    "city_name": "kab. kepulauan sula",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6079,
+    "name": "Mangoli Utara",
+    "city_id": 446,
+    "city_name": "kab. kepulauan sula",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6076,
+    "name": "Mangoli Utara Timur",
+    "city_id": 446,
+    "city_name": "kab. kepulauan sula",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6068,
+    "name": "Sanana",
+    "city_id": 446,
+    "city_name": "kab. kepulauan sula",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6084,
+    "name": "Sanana Utara",
+    "city_id": 446,
+    "city_name": "kab. kepulauan sula",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6069,
+    "name": "Sulabesi Barat",
+    "city_id": 446,
+    "city_name": "kab. kepulauan sula",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6075,
+    "name": "Sulabesi Selatan",
+    "city_id": 446,
+    "city_name": "kab. kepulauan sula",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6073,
+    "name": "Sulabesi Tenga",
+    "city_id": 446,
+    "city_name": "kab. kepulauan sula",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6074,
+    "name": "Sulabesi Timur",
+    "city_id": 446,
+    "city_name": "kab. kepulauan sula",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  }
+]

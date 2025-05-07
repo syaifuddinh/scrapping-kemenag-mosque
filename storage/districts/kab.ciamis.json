@@ -1,0 +1,210 @@
+[
+  {
+    "id": 2260,
+    "name": "Banjarsari",
+    "city_id": 170,
+    "city_name": "kab. ciamis",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2274,
+    "name": "Baregbeg",
+    "city_id": 170,
+    "city_name": "kab. ciamis",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2243,
+    "name": "Ciamis",
+    "city_id": 170,
+    "city_name": "kab. ciamis",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2247,
+    "name": "Cidolog",
+    "city_id": 170,
+    "city_name": "kab. ciamis",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2248,
+    "name": "Cihaurbeuti",
+    "city_id": 170,
+    "city_name": "kab. ciamis",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2245,
+    "name": "Cijeungjing",
+    "city_id": 170,
+    "city_name": "kab. ciamis",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2244,
+    "name": "Cikoneng",
+    "city_id": 170,
+    "city_name": "kab. ciamis",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2271,
+    "name": "Cimaragas",
+    "city_id": 170,
+    "city_name": "kab. ciamis",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2253,
+    "name": "Cipaku",
+    "city_id": 170,
+    "city_name": "kab. ciamis",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2272,
+    "name": "Cisaga",
+    "city_id": 170,
+    "city_name": "kab. ciamis",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2254,
+    "name": "Jatinagara",
+    "city_id": 170,
+    "city_name": "kab. ciamis",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2251,
+    "name": "Kawali",
+    "city_id": 170,
+    "city_name": "kab. ciamis",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2259,
+    "name": "Lakbok",
+    "city_id": 170,
+    "city_name": "kab. ciamis",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2276,
+    "name": "Lumbung",
+    "city_id": 170,
+    "city_name": "kab. ciamis",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2261,
+    "name": "Pamarican",
+    "city_id": 170,
+    "city_name": "kab. ciamis",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2252,
+    "name": "Panawangan",
+    "city_id": 170,
+    "city_name": "kab. ciamis",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2250,
+    "name": "Panjalu",
+    "city_id": 170,
+    "city_name": "kab. ciamis",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2249,
+    "name": "Panumbangan",
+    "city_id": 170,
+    "city_name": "kab. ciamis",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2277,
+    "name": "Purwadadi",
+    "city_id": 170,
+    "city_name": "kab. ciamis",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2255,
+    "name": "Rajadesa",
+    "city_id": 170,
+    "city_name": "kab. ciamis",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2257,
+    "name": "Rancah",
+    "city_id": 170,
+    "city_name": "kab. ciamis",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2246,
+    "name": "Sadananya",
+    "city_id": 170,
+    "city_name": "kab. ciamis",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2273,
+    "name": "Sindangkasih",
+    "city_id": 170,
+    "city_name": "kab. ciamis",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2256,
+    "name": "Sukadana",
+    "city_id": 170,
+    "city_name": "kab. ciamis",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2275,
+    "name": "Sukamantri",
+    "city_id": 170,
+    "city_name": "kab. ciamis",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2258,
+    "name": "Tambaksari",
+    "city_id": 170,
+    "city_name": "kab. ciamis",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  }
+]

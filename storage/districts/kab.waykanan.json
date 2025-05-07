@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1653,
+    "name": "Bahuga",
+    "city_id": 129,
+    "city_name": "kab. way kanan",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1651,
+    "name": "Banjit",
+    "city_id": 129,
+    "city_name": "kab. way kanan",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1652,
+    "name": "Baradatu",
+    "city_id": 129,
+    "city_name": "kab. way kanan",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1649,
+    "name": "Blambangan Umpu",
+    "city_id": 129,
+    "city_name": "kab. way kanan",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1661,
+    "name": "Buay Bahuga",
+    "city_id": 129,
+    "city_name": "kab. way kanan",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1662,
+    "name": "Bumi Agung",
+    "city_id": 129,
+    "city_name": "kab. way kanan",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1658,
+    "name": "Gunung Labuhan",
+    "city_id": 129,
+    "city_name": "kab. way kanan",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1650,
+    "name": "Kasui",
+    "city_id": 129,
+    "city_name": "kab. way kanan",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1659,
+    "name": "Negara Batin",
+    "city_id": 129,
+    "city_name": "kab. way kanan",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1655,
+    "name": "Negeri Agung",
+    "city_id": 129,
+    "city_name": "kab. way kanan",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1660,
+    "name": "Negeri Besar",
+    "city_id": 129,
+    "city_name": "kab. way kanan",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1654,
+    "name": "Pakuan Ratu",
+    "city_id": 129,
+    "city_name": "kab. way kanan",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1657,
+    "name": "Rebang Tangkas",
+    "city_id": 129,
+    "city_name": "kab. way kanan",
+    "province_id": 8,
+    "province_name": "lampung"
+  },
+  {
+    "id": 1656,
+    "name": "Way Tuba",
+    "city_id": 129,
+    "city_name": "kab. way kanan",
+    "province_id": 8,
+    "province_name": "lampung"
+  }
+]

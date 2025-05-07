@@ -1,0 +1,50 @@
+[
+  {
+    "id": 4112,
+    "name": "Ampenan",
+    "city_id": 285,
+    "city_name": "kota mataram",
+    "province_id": 18,
+    "province_name": "nusa tenggara barat"
+  },
+  {
+    "id": 4114,
+    "name": "Cakranegara",
+    "city_id": 285,
+    "city_name": "kota mataram",
+    "province_id": 18,
+    "province_name": "nusa tenggara barat"
+  },
+  {
+    "id": 4113,
+    "name": "Mataram",
+    "city_id": 285,
+    "city_name": "kota mataram",
+    "province_id": 18,
+    "province_name": "nusa tenggara barat"
+  },
+  {
+    "id": 4117,
+    "name": "Sandubaya",
+    "city_id": 285,
+    "city_name": "kota mataram",
+    "province_id": 18,
+    "province_name": "nusa tenggara barat"
+  },
+  {
+    "id": 4115,
+    "name": "Sekarbela",
+    "city_id": 285,
+    "city_name": "kota mataram",
+    "province_id": 18,
+    "province_name": "nusa tenggara barat"
+  },
+  {
+    "id": 4116,
+    "name": "Selaparang",
+    "city_id": 285,
+    "city_name": "kota mataram",
+    "province_id": 18,
+    "province_name": "nusa tenggara barat"
+  }
+]

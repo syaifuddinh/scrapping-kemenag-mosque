@@ -1,0 +1,194 @@
+[
+  {
+    "id": 49,
+    "name": "Banda Alam",
+    "city_id": 3,
+    "city_name": "kab. aceh timur",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 38,
+    "name": "Birem Bayeun",
+    "city_id": 3,
+    "city_name": "kab. aceh timur",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 35,
+    "name": "Darul Aman",
+    "city_id": 3,
+    "city_name": "kab. aceh timur",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 56,
+    "name": "Darul Falah",
+    "city_id": 3,
+    "city_name": "kab. aceh timur",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 55,
+    "name": "Darul Ihsan",
+    "city_id": 3,
+    "city_name": "kab. aceh timur",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 37,
+    "name": "Idi Rayeuk",
+    "city_id": 3,
+    "city_name": "kab. aceh timur",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 57,
+    "name": "Idi Timur",
+    "city_id": 3,
+    "city_name": "kab. aceh timur",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 48,
+    "name": "Idi Tunong",
+    "city_id": 3,
+    "city_name": "kab. aceh timur",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 47,
+    "name": "Indra Makmu",
+    "city_id": 3,
+    "city_name": "kab. aceh timur",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 36,
+    "name": "Julok",
+    "city_id": 3,
+    "city_name": "kab. aceh timur",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 46,
+    "name": "Madat",
+    "city_id": 3,
+    "city_name": "kab. aceh timur",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 40,
+    "name": "Nurussalam",
+    "city_id": 3,
+    "city_name": "kab. aceh timur",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 45,
+    "name": "Pante Bidari",
+    "city_id": 3,
+    "city_name": "kab. aceh timur",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 50,
+    "name": "Peudawa",
+    "city_id": 3,
+    "city_name": "kab. aceh timur",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 58,
+    "name": "Peunaron",
+    "city_id": 3,
+    "city_name": "kab. aceh timur",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 41,
+    "name": "Peureulak",
+    "city_id": 3,
+    "city_name": "kab. aceh timur",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 52,
+    "name": "Peureulak Barat",
+    "city_id": 3,
+    "city_name": "kab. aceh timur",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 51,
+    "name": "Peureulak Timur",
+    "city_id": 3,
+    "city_name": "kab. aceh timur",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 44,
+    "name": "Rantau Peureulak",
+    "city_id": 3,
+    "city_name": "kab. aceh timur",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 42,
+    "name": "Rantau Selamat",
+    "city_id": 3,
+    "city_name": "kab. aceh timur",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 39,
+    "name": "Serbajadi",
+    "city_id": 3,
+    "city_name": "kab. aceh timur",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 54,
+    "name": "Simpang Jernih",
+    "city_id": 3,
+    "city_name": "kab. aceh timur",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 43,
+    "name": "Simpang Ulim",
+    "city_id": 3,
+    "city_name": "kab. aceh timur",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 53,
+    "name": "Sungai Raya",
+    "city_id": 3,
+    "city_name": "kab. aceh timur",
+    "province_id": 1,
+    "province_name": "aceh"
+  }
+]

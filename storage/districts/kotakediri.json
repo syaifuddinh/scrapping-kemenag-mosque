@@ -1,0 +1,26 @@
+[
+  {
+    "id": 3893,
+    "name": "Kota",
+    "city_id": 259,
+    "city_name": "kota kediri",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3892,
+    "name": "Mojoroto",
+    "city_id": 259,
+    "city_name": "kota kediri",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3894,
+    "name": "Pesantren",
+    "city_id": 259,
+    "city_name": "kota kediri",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  }
+]

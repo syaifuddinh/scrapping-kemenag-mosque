@@ -1,0 +1,42 @@
+[
+  {
+    "id": 5096,
+    "name": "Kotabunan",
+    "city_id": 367,
+    "city_name": "kab. bolaang mongondow timur",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5098,
+    "name": "Modayag",
+    "city_id": 367,
+    "city_name": "kab. bolaang mongondow timur",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5099,
+    "name": "Modayag Barat",
+    "city_id": 367,
+    "city_name": "kab. bolaang mongondow timur",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5097,
+    "name": "Nuangan",
+    "city_id": 367,
+    "city_name": "kab. bolaang mongondow timur",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5095,
+    "name": "Tutuyan",
+    "city_id": 367,
+    "city_name": "kab. bolaang mongondow timur",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  }
+]

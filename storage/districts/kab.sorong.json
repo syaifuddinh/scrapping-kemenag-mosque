@@ -1,0 +1,242 @@
+[
+  {
+    "id": 6718,
+    "name": "Aimas",
+    "city_id": 496,
+    "city_name": "kab. sorong",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6704,
+    "name": "Bagun",
+    "city_id": 496,
+    "city_name": "kab. sorong",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6715,
+    "name": "Beraur",
+    "city_id": 496,
+    "city_name": "kab. sorong",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 7015,
+    "name": "Botain",
+    "city_id": 496,
+    "city_name": "kab. sorong",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6707,
+    "name": "Buk",
+    "city_id": 496,
+    "city_name": "kab. sorong",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 7013,
+    "name": "Hobard",
+    "city_id": 496,
+    "city_name": "kab. sorong",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6724,
+    "name": "Klabot",
+    "city_id": 496,
+    "city_name": "kab. sorong",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6719,
+    "name": "Klamono",
+    "city_id": 496,
+    "city_name": "kab. sorong",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 7012,
+    "name": "Klasafet",
+    "city_id": 496,
+    "city_name": "kab. sorong",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6729,
+    "name": "Klaso",
+    "city_id": 496,
+    "city_name": "kab. sorong",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6725,
+    "name": "Klawak",
+    "city_id": 496,
+    "city_name": "kab. sorong",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6728,
+    "name": "Klayili",
+    "city_id": 496,
+    "city_name": "kab. sorong",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 7011,
+    "name": "Konhir",
+    "city_id": 496,
+    "city_name": "kab. sorong",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6714,
+    "name": "Makbon",
+    "city_id": 496,
+    "city_name": "kab. sorong",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 7010,
+    "name": "Malabotom",
+    "city_id": 496,
+    "city_name": "kab. sorong",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6727,
+    "name": "Mariat",
+    "city_id": 496,
+    "city_name": "kab. sorong",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6726,
+    "name": "Maudus",
+    "city_id": 496,
+    "city_name": "kab. sorong",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6722,
+    "name": "Mayamuk",
+    "city_id": 496,
+    "city_name": "kab. sorong",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6730,
+    "name": "Moisegen",
+    "city_id": 496,
+    "city_name": "kab. sorong",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 7009,
+    "name": "Saengkeduk",
+    "city_id": 496,
+    "city_name": "kab. sorong",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6716,
+    "name": "Salawati",
+    "city_id": 496,
+    "city_name": "kab. sorong",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6723,
+    "name": "Salawati Selatan",
+    "city_id": 496,
+    "city_name": "kab. sorong",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 7014,
+    "name": "Salawati Tengah",
+    "city_id": 496,
+    "city_name": "kab. sorong",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6720,
+    "name": "Sayosa",
+    "city_id": 496,
+    "city_name": "kab. sorong",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 7016,
+    "name": "Sayosa Timur",
+    "city_id": 496,
+    "city_name": "kab. sorong",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6717,
+    "name": "Seget",
+    "city_id": 496,
+    "city_name": "kab. sorong",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6721,
+    "name": "Segun",
+    "city_id": 496,
+    "city_name": "kab. sorong",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6703,
+    "name": "Sorong",
+    "city_id": 496,
+    "city_name": "kab. sorong",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6706,
+    "name": "Sunook",
+    "city_id": 496,
+    "city_name": "kab. sorong",
+    "province_id": 33,
+    "province_name": "papua barat"
+  },
+  {
+    "id": 6705,
+    "name": "Wamak",
+    "city_id": 496,
+    "city_name": "kab. sorong",
+    "province_id": 33,
+    "province_name": "papua barat"
+  }
+]

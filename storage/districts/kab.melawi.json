@@ -1,0 +1,90 @@
+[
+  {
+    "id": 4555,
+    "name": "Belimbing",
+    "city_id": 317,
+    "city_name": "kab. melawi",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4564,
+    "name": "Belimbing Hulu",
+    "city_id": 317,
+    "city_name": "kab. melawi",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4557,
+    "name": "Ella Hilir",
+    "city_id": 317,
+    "city_name": "kab. melawi",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4558,
+    "name": "Menukung",
+    "city_id": 317,
+    "city_name": "kab. melawi",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4556,
+    "name": "Nanga Pinoh",
+    "city_id": 317,
+    "city_name": "kab. melawi",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4563,
+    "name": "Pinoh Selatan",
+    "city_id": 317,
+    "city_name": "kab. melawi",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4562,
+    "name": "Pinoh Utara",
+    "city_id": 317,
+    "city_name": "kab. melawi",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4559,
+    "name": "Sayan",
+    "city_id": 317,
+    "city_name": "kab. melawi",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4561,
+    "name": "Sokan",
+    "city_id": 317,
+    "city_name": "kab. melawi",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4560,
+    "name": "Tanah Pinoh",
+    "city_id": 317,
+    "city_name": "kab. melawi",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  },
+  {
+    "id": 4565,
+    "name": "Tanah Pinoh Barat",
+    "city_id": 317,
+    "city_name": "kab. melawi",
+    "province_id": 20,
+    "province_name": "kalimantan barat"
+  }
+]

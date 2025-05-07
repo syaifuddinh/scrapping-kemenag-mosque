@@ -1,0 +1,90 @@
+[
+  {
+    "id": 2614,
+    "name": "Beji",
+    "city_id": 186,
+    "city_name": "kota depok",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2619,
+    "name": "Bojongsari",
+    "city_id": 186,
+    "city_name": "kota depok",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2616,
+    "name": "Cilodong",
+    "city_id": 186,
+    "city_name": "kota depok",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2610,
+    "name": "Cimanggis",
+    "city_id": 186,
+    "city_name": "kota depok",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2617,
+    "name": "Cinere",
+    "city_id": 186,
+    "city_name": "kota depok",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2615,
+    "name": "Cipayung",
+    "city_id": 186,
+    "city_name": "kota depok",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2612,
+    "name": "Limo",
+    "city_id": 186,
+    "city_name": "kota depok",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2609,
+    "name": "Pancoran Mas",
+    "city_id": 186,
+    "city_name": "kota depok",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2611,
+    "name": "Sawangan",
+    "city_id": 186,
+    "city_name": "kota depok",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2613,
+    "name": "Sukmajaya",
+    "city_id": 186,
+    "city_name": "kota depok",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  },
+  {
+    "id": 2618,
+    "name": "Tapos",
+    "city_id": 186,
+    "city_name": "kota depok",
+    "province_id": 13,
+    "province_name": "jawa barat"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7023,
+    "name": "Landu Leko",
+    "city_id": 300,
+    "city_name": "kab. rote ndao",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4362,
+    "name": "Lobalain",
+    "city_id": 300,
+    "city_name": "kab. rote ndao",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 7022,
+    "name": "Ndao Nuse",
+    "city_id": 300,
+    "city_name": "kab. rote ndao",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4364,
+    "name": "Pantai Baru",
+    "city_id": 300,
+    "city_name": "kab. rote ndao",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4366,
+    "name": "Rote Barat",
+    "city_id": 300,
+    "city_name": "kab. rote ndao",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4360,
+    "name": "Rote Barat Daya",
+    "city_id": 300,
+    "city_name": "kab. rote ndao",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4361,
+    "name": "Rote Barat Laut",
+    "city_id": 300,
+    "city_name": "kab. rote ndao",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4367,
+    "name": "Rote Selatan",
+    "city_id": 300,
+    "city_name": "kab. rote ndao",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4363,
+    "name": "Rote Tengah",
+    "city_id": 300,
+    "city_name": "kab. rote ndao",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  },
+  {
+    "id": 4365,
+    "name": "Rote Timur",
+    "city_id": 300,
+    "city_name": "kab. rote ndao",
+    "province_id": 19,
+    "province_name": "nusa tenggara timur"
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "id": 24,
+    "name": "Kab. Tapanuli Tengah",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 25,
+    "name": "Kab. Tapanuli Utara",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 26,
+    "name": "Kab. Tapanuli Selatan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 27,
+    "name": "Kab. Nias",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 28,
+    "name": "Kab. Langkat",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 29,
+    "name": "Kab. Karo",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 30,
+    "name": "Kab. Deli Serdang",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 31,
+    "name": "Kab.Simalungun",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 32,
+    "name": "Kab. Asahan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 33,
+    "name": "Kab. Labuhanbatu",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 34,
+    "name": "Kab. Dairi",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 35,
+    "name": "Kab. Toba Samosir",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 36,
+    "name": "Kab. Mandailing Natal",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 37,
+    "name": "Kab. Nias Selatan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 38,
+    "name": "Kab. Pakpak Bharat",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 39,
+    "name": "Kab. Humbang Hasundutan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 40,
+    "name": "Kab. Samosir",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 41,
+    "name": "Kab. Serdang Bedagai",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 42,
+    "name": "Kab. Batu Bara",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 43,
+    "name": "Kab. Padang Lawas Utara",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 44,
+    "name": "Kab. Padang Lawas",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 45,
+    "name": "Kab. Labuhanbatu Selatan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 46,
+    "name": "Kab. Labuhanbatu Utara",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 47,
+    "name": "Kab. Nias Utara",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 48,
+    "name": "Kab. Nias Barat",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 49,
+    "name": "Kota Medan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 50,
+    "name": "Kota Pematang Siantar",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 51,
+    "name": "Kota Sibolga",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 52,
+    "name": "Kota Tanjung Balai",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 53,
+    "name": "Kota Binjai",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 54,
+    "name": "Kota Tebing Tinggi",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 55,
+    "name": "Kota Padang Sidimpuan",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 56,
+    "name": "Kota Gunungsitoli",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  }
+]

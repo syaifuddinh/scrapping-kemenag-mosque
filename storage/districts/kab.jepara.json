@@ -1,0 +1,130 @@
+[
+  {
+    "id": 3009,
+    "name": "Bangsri",
+    "city_id": 209,
+    "city_name": "kab. jepara",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 3006,
+    "name": "Batealit",
+    "city_id": 209,
+    "city_name": "kab. jepara",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 3017,
+    "name": "Donorojo",
+    "city_id": 209,
+    "city_name": "kab. jepara",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 3007,
+    "name": "Jepara",
+    "city_id": 209,
+    "city_name": "kab. jepara",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 3014,
+    "name": "Kalinyamatan",
+    "city_id": 209,
+    "city_name": "kab. jepara",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 3011,
+    "name": "Karimun Jawa",
+    "city_id": 209,
+    "city_name": "kab. jepara",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 3002,
+    "name": "Kedung",
+    "city_id": 209,
+    "city_name": "kab. jepara",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 3010,
+    "name": "Keling",
+    "city_id": 209,
+    "city_name": "kab. jepara",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 3015,
+    "name": "Kembang",
+    "city_id": 209,
+    "city_name": "kab. jepara",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 3005,
+    "name": "Mayong",
+    "city_id": 209,
+    "city_name": "kab. jepara",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 3008,
+    "name": "Mlonggo",
+    "city_id": 209,
+    "city_name": "kab. jepara",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 3013,
+    "name": "Nalumsari",
+    "city_id": 209,
+    "city_name": "kab. jepara",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 3016,
+    "name": "Pakis Aji",
+    "city_id": 209,
+    "city_name": "kab. jepara",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 3003,
+    "name": "Pecangaan",
+    "city_id": 209,
+    "city_name": "kab. jepara",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 3012,
+    "name": "Tahunan",
+    "city_id": 209,
+    "city_name": "kab. jepara",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 3004,
+    "name": "Welahan",
+    "city_id": 209,
+    "city_name": "kab. jepara",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  }
+]

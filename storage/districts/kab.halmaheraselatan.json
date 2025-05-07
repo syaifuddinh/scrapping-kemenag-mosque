@@ -1,0 +1,242 @@
+[
+  {
+    "id": 6044,
+    "name": "Bacan",
+    "city_id": 445,
+    "city_name": "kab. halmahera selatan",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6045,
+    "name": "Bacan Barat",
+    "city_id": 445,
+    "city_name": "kab. halmahera selatan",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6050,
+    "name": "Bacan Barat Utara",
+    "city_id": 445,
+    "city_name": "kab. halmahera selatan",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6053,
+    "name": "Bacan Selatan",
+    "city_id": 445,
+    "city_name": "kab. halmahera selatan",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6043,
+    "name": "Bacan Timur",
+    "city_id": 445,
+    "city_name": "kab. halmahera selatan",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6057,
+    "name": "Bacan Timur Selatan",
+    "city_id": 445,
+    "city_name": "kab. halmahera selatan",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6058,
+    "name": "Bacan Timur Tengah",
+    "city_id": 445,
+    "city_name": "kab. halmahera selatan",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6040,
+    "name": "Gane Barat",
+    "city_id": 445,
+    "city_name": "kab. halmahera selatan",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6059,
+    "name": "Gane Barat Selatan",
+    "city_id": 445,
+    "city_name": "kab. halmahera selatan",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6060,
+    "name": "Gane Barat Utara",
+    "city_id": 445,
+    "city_name": "kab. halmahera selatan",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6039,
+    "name": "Gane Timur",
+    "city_id": 445,
+    "city_name": "kab. halmahera selatan",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6062,
+    "name": "Gane Timur Selatan",
+    "city_id": 445,
+    "city_name": "kab. halmahera selatan",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6063,
+    "name": "Gane Timur Tengah",
+    "city_id": 445,
+    "city_name": "kab. halmahera selatan",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6051,
+    "name": "Kasiruta Barat",
+    "city_id": 445,
+    "city_name": "kab. halmahera selatan",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6052,
+    "name": "Kasiruta Timur",
+    "city_id": 445,
+    "city_name": "kab. halmahera selatan",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6038,
+    "name": "Kayoa",
+    "city_id": 445,
+    "city_name": "kab. halmahera selatan",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6047,
+    "name": "Kayoa Barat",
+    "city_id": 445,
+    "city_name": "kab. halmahera selatan",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6048,
+    "name": "Kayoa Selatan",
+    "city_id": 445,
+    "city_name": "kab. halmahera selatan",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6049,
+    "name": "Kayoa Utara",
+    "city_id": 445,
+    "city_name": "kab. halmahera selatan",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6054,
+    "name": "Kepulauan Botanglomang",
+    "city_id": 445,
+    "city_name": "kab. halmahera selatan",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6061,
+    "name": "Kepulauan Joronga",
+    "city_id": 445,
+    "city_name": "kab. halmahera selatan",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6046,
+    "name": "Makian Barat",
+    "city_id": 445,
+    "city_name": "kab. halmahera selatan",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6055,
+    "name": "Mandioli Selatan",
+    "city_id": 445,
+    "city_name": "kab. halmahera selatan",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6056,
+    "name": "Mandioli Utara",
+    "city_id": 445,
+    "city_name": "kab. halmahera selatan",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6042,
+    "name": "Obi",
+    "city_id": 445,
+    "city_name": "kab. halmahera selatan",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6064,
+    "name": "Obi Barat",
+    "city_id": 445,
+    "city_name": "kab. halmahera selatan",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6041,
+    "name": "Obi Selatan",
+    "city_id": 445,
+    "city_name": "kab. halmahera selatan",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6065,
+    "name": "Obi Timur",
+    "city_id": 445,
+    "city_name": "kab. halmahera selatan",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6066,
+    "name": "Obi Utara",
+    "city_id": 445,
+    "city_name": "kab. halmahera selatan",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6037,
+    "name": "Pulau Makian",
+    "city_id": 445,
+    "city_name": "kab. halmahera selatan",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  }
+]

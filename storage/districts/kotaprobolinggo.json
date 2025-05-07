@@ -1,0 +1,42 @@
+[
+  {
+    "id": 3903,
+    "name": "Kademangan",
+    "city_id": 262,
+    "city_name": "kota probolinggo",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3906,
+    "name": "Kanigaran",
+    "city_id": 262,
+    "city_name": "kota probolinggo",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3907,
+    "name": "Kedopak",
+    "city_id": 262,
+    "city_name": "kota probolinggo",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3905,
+    "name": "Mayangan",
+    "city_id": 262,
+    "city_name": "kota probolinggo",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 3904,
+    "name": "Wonoasih",
+    "city_id": 262,
+    "city_name": "kota probolinggo",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  }
+]

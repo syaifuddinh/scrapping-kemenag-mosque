@@ -1,0 +1,66 @@
+[
+  {
+    "id": 632,
+    "name": "Lahomi",
+    "city_id": 48,
+    "city_name": "kab. nias barat",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 638,
+    "name": "Lolofitu Moi",
+    "city_id": 48,
+    "city_name": "kab. nias barat",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 636,
+    "name": "Mandrehe",
+    "city_id": 48,
+    "city_name": "kab. nias barat",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 634,
+    "name": "Mandrehe Barat",
+    "city_id": 48,
+    "city_name": "kab. nias barat",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 637,
+    "name": "Mandrehe Utara",
+    "city_id": 48,
+    "city_name": "kab. nias barat",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 635,
+    "name": "Moro'o",
+    "city_id": 48,
+    "city_name": "kab. nias barat",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 633,
+    "name": "Sirombu",
+    "city_id": 48,
+    "city_name": "kab. nias barat",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 639,
+    "name": "Ulu Moro'o",
+    "city_id": 48,
+    "city_name": "kab. nias barat",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  }
+]

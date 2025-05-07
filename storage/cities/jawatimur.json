@@ -1,0 +1,230 @@
+[
+  {
+    "id": 230,
+    "name": "Kab. Pacitan",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 231,
+    "name": "Kab. Ponorogo",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 232,
+    "name": "Kab. Trenggalek",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 233,
+    "name": "Kab. Tulungagung",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 234,
+    "name": "Kab. Blitar",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 235,
+    "name": "Kab. Kediri",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 236,
+    "name": "Kab. Malang",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 237,
+    "name": "Kab. Lumajang",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 238,
+    "name": "Kab. Jember",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 239,
+    "name": "Kab. Banyuwangi",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 240,
+    "name": "Kab. Bondowoso",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 241,
+    "name": "Kab. Situbondo",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 242,
+    "name": "Kab. Probolinggo",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 243,
+    "name": "Kab. Pasuruan",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 244,
+    "name": "Kab. Sidoarjo",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 245,
+    "name": "Kab. Mojokerto",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 246,
+    "name": "Kab. Jombang",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 247,
+    "name": "Kab. Nganjuk",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 248,
+    "name": "Kab. Madiun",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 249,
+    "name": "Kab. Magetan",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 250,
+    "name": "Kab. Ngawi",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 251,
+    "name": "Kab. Bojonegoro",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 252,
+    "name": "Kab. Tuban",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 253,
+    "name": "Kab. Lamongan",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 254,
+    "name": "Kab. Gresik",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 255,
+    "name": "Kab. Bangkalan",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 256,
+    "name": "Kab. Sampang",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 257,
+    "name": "Kab. Pamekasan",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 258,
+    "name": "Kab. Sumenep",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 259,
+    "name": "Kota Kediri",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 260,
+    "name": "Kota Blitar",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 261,
+    "name": "Kota Malang",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 262,
+    "name": "Kota Probolinggo",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 263,
+    "name": "Kota Pasuruan",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 264,
+    "name": "Kota Mojokerto",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 265,
+    "name": "Kota Madiun",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 266,
+    "name": "Kota Surabaya",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  },
+  {
+    "id": 267,
+    "name": "Kota Batu",
+    "province_id": 16,
+    "province_name": "jawa timur"
+  }
+]

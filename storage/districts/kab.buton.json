@@ -1,0 +1,58 @@
+[
+  {
+    "id": 5678,
+    "name": "Kapontori",
+    "city_id": 411,
+    "city_name": "kab. buton",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 5679,
+    "name": "Lasalimu",
+    "city_id": 411,
+    "city_name": "kab. buton",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 5680,
+    "name": "Lasalimu Selatan",
+    "city_id": 411,
+    "city_name": "kab. buton",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 5673,
+    "name": "Pasarwajo",
+    "city_id": 411,
+    "city_name": "kab. buton",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 5683,
+    "name": "Siotapina",
+    "city_id": 411,
+    "city_name": "kab. buton",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 5685,
+    "name": "Wabula",
+    "city_id": 411,
+    "city_name": "kab. buton",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  },
+  {
+    "id": 5684,
+    "name": "Wolowa",
+    "city_id": 411,
+    "city_name": "kab. buton",
+    "province_id": 27,
+    "province_name": "sulawesi tenggara"
+  }
+]

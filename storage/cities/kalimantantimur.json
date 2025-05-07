@@ -1,0 +1,62 @@
+[
+  {
+    "id": 349,
+    "name": "Kab. Paser",
+    "province_id": 23,
+    "province_name": "kalimantan timur"
+  },
+  {
+    "id": 350,
+    "name": "Kab. Kutai Kertanegara",
+    "province_id": 23,
+    "province_name": "kalimantan timur"
+  },
+  {
+    "id": 351,
+    "name": "Kab. Berau",
+    "province_id": 23,
+    "province_name": "kalimantan timur"
+  },
+  {
+    "id": 352,
+    "name": "Kab. Kutai Barat",
+    "province_id": 23,
+    "province_name": "kalimantan timur"
+  },
+  {
+    "id": 353,
+    "name": "Kab. Kutai Timur",
+    "province_id": 23,
+    "province_name": "kalimantan timur"
+  },
+  {
+    "id": 354,
+    "name": "Kab Penajam Paser Utara",
+    "province_id": 23,
+    "province_name": "kalimantan timur"
+  },
+  {
+    "id": 355,
+    "name": "Kota Balikpapan",
+    "province_id": 23,
+    "province_name": "kalimantan timur"
+  },
+  {
+    "id": 356,
+    "name": "Kota Samarinda",
+    "province_id": 23,
+    "province_name": "kalimantan timur"
+  },
+  {
+    "id": 357,
+    "name": "Kota Bontang",
+    "province_id": 23,
+    "province_name": "kalimantan timur"
+  },
+  {
+    "id": 530,
+    "name": "Kab. Mahakam Ulu",
+    "province_id": 23,
+    "province_name": "kalimantan timur"
+  }
+]

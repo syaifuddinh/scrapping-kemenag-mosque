@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1116,
+    "name": "Berbak",
+    "city_id": 93,
+    "city_name": "kab tanjung jabung timur",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1111,
+    "name": "Dendang",
+    "city_id": 93,
+    "city_name": "kab tanjung jabung timur",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1115,
+    "name": "Geragai",
+    "city_id": 93,
+    "city_name": "kab tanjung jabung timur",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1113,
+    "name": "Kuala Jambi",
+    "city_id": 93,
+    "city_name": "kab tanjung jabung timur",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1108,
+    "name": "Mendahara",
+    "city_id": 93,
+    "city_name": "kab tanjung jabung timur",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1114,
+    "name": "Mendahara Ulu",
+    "city_id": 93,
+    "city_name": "kab tanjung jabung timur",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1112,
+    "name": "Muara Sabak Barat",
+    "city_id": 93,
+    "city_name": "kab tanjung jabung timur",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1106,
+    "name": "Muara Sabak Timur",
+    "city_id": 93,
+    "city_name": "kab tanjung jabung timur",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1107,
+    "name": "Nipah Panjang",
+    "city_id": 93,
+    "city_name": "kab tanjung jabung timur",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1109,
+    "name": "Rantau Rasau",
+    "city_id": 93,
+    "city_name": "kab tanjung jabung timur",
+    "province_id": 5,
+    "province_name": "jambi"
+  },
+  {
+    "id": 1110,
+    "name": "S a d u",
+    "city_id": 93,
+    "city_name": "kab tanjung jabung timur",
+    "province_id": 5,
+    "province_name": "jambi"
+  }
+]

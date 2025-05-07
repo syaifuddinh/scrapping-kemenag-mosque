@@ -1,0 +1,82 @@
+[
+  {
+    "id": 5293,
+    "name": "Bonto Bahari",
+    "city_id": 385,
+    "city_name": "kab. bulukumba",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5294,
+    "name": "Bonto Tiro",
+    "city_id": 385,
+    "city_name": "kab. bulukumba",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5297,
+    "name": "Bulukumpa",
+    "city_id": 385,
+    "city_name": "kab. bulukumba",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5291,
+    "name": "Gantorang",
+    "city_id": 385,
+    "city_name": "kab. bulukumba",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5295,
+    "name": "Herlang",
+    "city_id": 385,
+    "city_name": "kab. bulukumba",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5296,
+    "name": "Kajang",
+    "city_id": 385,
+    "city_name": "kab. bulukumba",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5298,
+    "name": "Kindang",
+    "city_id": 385,
+    "city_name": "kab. bulukumba",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5300,
+    "name": "Rilauale",
+    "city_id": 385,
+    "city_name": "kab. bulukumba",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5292,
+    "name": "Ujung Bulu",
+    "city_id": 385,
+    "city_name": "kab. bulukumba",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  },
+  {
+    "id": 5299,
+    "name": "Ujungloe",
+    "city_id": 385,
+    "city_name": "kab. bulukumba",
+    "province_id": 26,
+    "province_name": "sulawesi selatan"
+  }
+]

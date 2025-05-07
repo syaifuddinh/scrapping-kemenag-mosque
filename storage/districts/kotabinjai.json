@@ -1,0 +1,42 @@
+[
+  {
+    "id": 681,
+    "name": "Binjai Barat",
+    "city_id": 53,
+    "city_name": "kota binjai",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 680,
+    "name": "Binjai Kota",
+    "city_id": 53,
+    "city_name": "kota binjai",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 683,
+    "name": "Binjai Selatan",
+    "city_id": 53,
+    "city_name": "kota binjai",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 682,
+    "name": "Binjai Timur",
+    "city_id": 53,
+    "city_name": "kota binjai",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 679,
+    "name": "Binjai Utara",
+    "city_id": 53,
+    "city_name": "kota binjai",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  }
+]

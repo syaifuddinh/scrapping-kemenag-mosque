@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1378,
+    "name": "Cambai",
+    "city_id": 111,
+    "city_name": "kota prabumulih",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1376,
+    "name": "Prabumulih Barat",
+    "city_id": 111,
+    "city_name": "kota prabumulih",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1381,
+    "name": "Prabumulih Selatan",
+    "city_id": 111,
+    "city_name": "kota prabumulih",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1377,
+    "name": "Prabumulih Timur",
+    "city_id": 111,
+    "city_name": "kota prabumulih",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1380,
+    "name": "Prabumulih Utara",
+    "city_id": 111,
+    "city_name": "kota prabumulih",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  },
+  {
+    "id": 1379,
+    "name": "Rambang Kpk Tengah",
+    "city_id": 111,
+    "city_name": "kota prabumulih",
+    "province_id": 6,
+    "province_name": "sumatera selatan"
+  }
+]

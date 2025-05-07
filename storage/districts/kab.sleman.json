@@ -1,0 +1,138 @@
+[
+  {
+    "id": 3264,
+    "name": "Berbah",
+    "city_id": 228,
+    "city_name": "kab. sleman",
+    "province_id": 15,
+    "province_name": "d.i yogyakarta"
+  },
+  {
+    "id": 3273,
+    "name": "Cangkringan",
+    "city_id": 228,
+    "city_name": "kab. sleman",
+    "province_id": 15,
+    "province_name": "d.i yogyakarta"
+  },
+  {
+    "id": 3263,
+    "name": "Depok",
+    "city_id": 228,
+    "city_name": "kab. sleman",
+    "province_id": 15,
+    "province_name": "d.i yogyakarta"
+  },
+  {
+    "id": 3257,
+    "name": "Gamping",
+    "city_id": 228,
+    "city_name": "kab. sleman",
+    "province_id": 15,
+    "province_name": "d.i yogyakarta"
+  },
+  {
+    "id": 3258,
+    "name": "Godean",
+    "city_id": 228,
+    "city_name": "kab. sleman",
+    "province_id": 15,
+    "province_name": "d.i yogyakarta"
+  },
+  {
+    "id": 3266,
+    "name": "Kalasan",
+    "city_id": 228,
+    "city_name": "kab. sleman",
+    "province_id": 15,
+    "province_name": "d.i yogyakarta"
+  },
+  {
+    "id": 3260,
+    "name": "Minggir",
+    "city_id": 228,
+    "city_name": "kab. sleman",
+    "province_id": 15,
+    "province_name": "d.i yogyakarta"
+  },
+  {
+    "id": 3262,
+    "name": "Mlati",
+    "city_id": 228,
+    "city_name": "kab. sleman",
+    "province_id": 15,
+    "province_name": "d.i yogyakarta"
+  },
+  {
+    "id": 3259,
+    "name": "Moyudan",
+    "city_id": 228,
+    "city_name": "kab. sleman",
+    "province_id": 15,
+    "province_name": "d.i yogyakarta"
+  },
+  {
+    "id": 3268,
+    "name": "Ngaglik",
+    "city_id": 228,
+    "city_name": "kab. sleman",
+    "province_id": 15,
+    "province_name": "d.i yogyakarta"
+  },
+  {
+    "id": 3267,
+    "name": "Ngemplak",
+    "city_id": 228,
+    "city_name": "kab. sleman",
+    "province_id": 15,
+    "province_name": "d.i yogyakarta"
+  },
+  {
+    "id": 3272,
+    "name": "Pakem",
+    "city_id": 228,
+    "city_name": "kab. sleman",
+    "province_id": 15,
+    "province_name": "d.i yogyakarta"
+  },
+  {
+    "id": 3265,
+    "name": "Prambanan",
+    "city_id": 228,
+    "city_name": "kab. sleman",
+    "province_id": 15,
+    "province_name": "d.i yogyakarta"
+  },
+  {
+    "id": 3261,
+    "name": "Seyegan",
+    "city_id": 228,
+    "city_name": "kab. sleman",
+    "province_id": 15,
+    "province_name": "d.i yogyakarta"
+  },
+  {
+    "id": 3269,
+    "name": "Sleman",
+    "city_id": 228,
+    "city_name": "kab. sleman",
+    "province_id": 15,
+    "province_name": "d.i yogyakarta"
+  },
+  {
+    "id": 3270,
+    "name": "Tempel",
+    "city_id": 228,
+    "city_name": "kab. sleman",
+    "province_id": 15,
+    "province_name": "d.i yogyakarta"
+  },
+  {
+    "id": 3271,
+    "name": "Turi",
+    "city_id": 228,
+    "city_name": "kab. sleman",
+    "province_id": 15,
+    "province_name": "d.i yogyakarta"
+  }
+]

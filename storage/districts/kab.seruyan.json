@@ -1,0 +1,114 @@
+[
+  {
+    "id": 4659,
+    "name": "Batu Ampar",
+    "city_id": 328,
+    "city_name": "kab. seruyan",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 4658,
+    "name": "Danau Seluluk",
+    "city_id": 328,
+    "city_name": "kab. seruyan",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 4653,
+    "name": "Danau Sembuluh",
+    "city_id": 328,
+    "city_name": "kab. seruyan",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 4654,
+    "name": "Hanau",
+    "city_id": 328,
+    "city_name": "kab. seruyan",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 4662,
+    "name": "Natai Kelampai",
+    "city_id": 328,
+    "city_name": "kab. seruyan",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 4661,
+    "name": "Sembuluh Raya",
+    "city_id": 328,
+    "city_name": "kab. seruyan",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 4663,
+    "name": "Sepan Biha",
+    "city_id": 328,
+    "city_name": "kab. seruyan",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 4651,
+    "name": "Seruyan Hilir",
+    "city_id": 328,
+    "city_name": "kab. seruyan",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 4656,
+    "name": "Seruyan Hilir Timur",
+    "city_id": 328,
+    "city_name": "kab. seruyan",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 4655,
+    "name": "Seruyan Hulu",
+    "city_id": 328,
+    "city_name": "kab. seruyan",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 4664,
+    "name": "Seruyan Hulu Utara",
+    "city_id": 328,
+    "city_name": "kab. seruyan",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 4657,
+    "name": "Seruyan Raya",
+    "city_id": 328,
+    "city_name": "kab. seruyan",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 4652,
+    "name": "Seruyan Tengah",
+    "city_id": 328,
+    "city_name": "kab. seruyan",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  },
+  {
+    "id": 4660,
+    "name": "Suling Tambun",
+    "city_id": 328,
+    "city_name": "kab. seruyan",
+    "province_id": 21,
+    "province_name": "kalimantan tengah"
+  }
+]

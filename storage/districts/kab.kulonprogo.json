@@ -1,0 +1,98 @@
+[
+  {
+    "id": 3213,
+    "name": "Galur",
+    "city_id": 225,
+    "city_name": "kab. kulon progo",
+    "province_id": 15,
+    "province_name": "d.i yogyakarta"
+  },
+  {
+    "id": 3218,
+    "name": "Girimulyo",
+    "city_id": 225,
+    "city_name": "kab. kulon progo",
+    "province_id": 15,
+    "province_name": "d.i yogyakarta"
+  },
+  {
+    "id": 3221,
+    "name": "Kalibawang",
+    "city_id": 225,
+    "city_name": "kab. kulon progo",
+    "province_id": 15,
+    "province_name": "d.i yogyakarta"
+  },
+  {
+    "id": 3217,
+    "name": "Kokap",
+    "city_id": 225,
+    "city_name": "kab. kulon progo",
+    "province_id": 15,
+    "province_name": "d.i yogyakarta"
+  },
+  {
+    "id": 3214,
+    "name": "Lendah",
+    "city_id": 225,
+    "city_name": "kab. kulon progo",
+    "province_id": 15,
+    "province_name": "d.i yogyakarta"
+  },
+  {
+    "id": 3219,
+    "name": "Nanggulan",
+    "city_id": 225,
+    "city_name": "kab. kulon progo",
+    "province_id": 15,
+    "province_name": "d.i yogyakarta"
+  },
+  {
+    "id": 3212,
+    "name": "Panjatan",
+    "city_id": 225,
+    "city_name": "kab. kulon progo",
+    "province_id": 15,
+    "province_name": "d.i yogyakarta"
+  },
+  {
+    "id": 3216,
+    "name": "Pengasih",
+    "city_id": 225,
+    "city_name": "kab. kulon progo",
+    "province_id": 15,
+    "province_name": "d.i yogyakarta"
+  },
+  {
+    "id": 3220,
+    "name": "Samigaluh",
+    "city_id": 225,
+    "city_name": "kab. kulon progo",
+    "province_id": 15,
+    "province_name": "d.i yogyakarta"
+  },
+  {
+    "id": 3215,
+    "name": "Sentolo",
+    "city_id": 225,
+    "city_name": "kab. kulon progo",
+    "province_id": 15,
+    "province_name": "d.i yogyakarta"
+  },
+  {
+    "id": 3210,
+    "name": "Temon",
+    "city_id": 225,
+    "city_name": "kab. kulon progo",
+    "province_id": 15,
+    "province_name": "d.i yogyakarta"
+  },
+  {
+    "id": 3211,
+    "name": "Wates",
+    "city_id": 225,
+    "city_name": "kab. kulon progo",
+    "province_id": 15,
+    "province_name": "d.i yogyakarta"
+  }
+]

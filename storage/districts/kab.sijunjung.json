@@ -1,0 +1,66 @@
+[
+  {
+    "id": 729,
+    "name": "IV Nagari",
+    "city_id": 59,
+    "city_name": "kab. sijunjung",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 730,
+    "name": "Kamang Baru",
+    "city_id": 59,
+    "city_name": "kab. sijunjung",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 732,
+    "name": "Koto VII",
+    "city_id": 59,
+    "city_name": "kab. sijunjung",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 734,
+    "name": "Kupitan",
+    "city_id": 59,
+    "city_name": "kab. sijunjung",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 731,
+    "name": "Lubuak Tarok",
+    "city_id": 59,
+    "city_name": "kab. sijunjung",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 728,
+    "name": "Sijunjung",
+    "city_id": 59,
+    "city_name": "kab. sijunjung",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 733,
+    "name": "Sumpur Kudus",
+    "city_id": 59,
+    "city_name": "kab. sijunjung",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 727,
+    "name": "Tanjung Gadang",
+    "city_id": 59,
+    "city_name": "kab. sijunjung",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  }
+]

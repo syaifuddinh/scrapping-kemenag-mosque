@@ -1,0 +1,210 @@
+[
+  {
+    "id": 2826,
+    "name": "Bayat",
+    "city_id": 199,
+    "city_name": "kab. klaten",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2827,
+    "name": "Cawas",
+    "city_id": 199,
+    "city_name": "kab. klaten",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2833,
+    "name": "Ceper",
+    "city_id": 199,
+    "city_name": "kab. klaten",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2838,
+    "name": "Delanggu",
+    "city_id": 199,
+    "city_name": "kab. klaten",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2824,
+    "name": "Gantiwarno",
+    "city_id": 199,
+    "city_name": "kab. klaten",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2842,
+    "name": "Jatinom",
+    "city_id": 199,
+    "city_name": "kab. klaten",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2830,
+    "name": "Jogonalan",
+    "city_id": 199,
+    "city_name": "kab. klaten",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2836,
+    "name": "Juwiring",
+    "city_id": 199,
+    "city_name": "kab. klaten",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2845,
+    "name": "Kalikotes",
+    "city_id": 199,
+    "city_name": "kab. klaten",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2840,
+    "name": "Karanganom",
+    "city_id": 199,
+    "city_name": "kab. klaten",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2835,
+    "name": "Karangdowo",
+    "city_id": 199,
+    "city_name": "kab. klaten",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2832,
+    "name": "Karangnongko",
+    "city_id": 199,
+    "city_name": "kab. klaten",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2829,
+    "name": "Kebonarum",
+    "city_id": 199,
+    "city_name": "kab. klaten",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2843,
+    "name": "Kemalang",
+    "city_id": 199,
+    "city_name": "kab. klaten",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2848,
+    "name": "Klaten Selatan",
+    "city_id": 199,
+    "city_name": "kab. klaten",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2847,
+    "name": "Klaten Tengah",
+    "city_id": 199,
+    "city_name": "kab. klaten",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2846,
+    "name": "Klaten Utara",
+    "city_id": 199,
+    "city_name": "kab. klaten",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2831,
+    "name": "Manisrenggo",
+    "city_id": 199,
+    "city_name": "kab. klaten",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2844,
+    "name": "Ngawen",
+    "city_id": 199,
+    "city_name": "kab. klaten",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2834,
+    "name": "Pedan",
+    "city_id": 199,
+    "city_name": "kab. klaten",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2839,
+    "name": "Polanharjo",
+    "city_id": 199,
+    "city_name": "kab. klaten",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2823,
+    "name": "Prambanan",
+    "city_id": 199,
+    "city_name": "kab. klaten",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2828,
+    "name": "Trucuk",
+    "city_id": 199,
+    "city_name": "kab. klaten",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2841,
+    "name": "Tulung",
+    "city_id": 199,
+    "city_name": "kab. klaten",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2825,
+    "name": "Wedi",
+    "city_id": 199,
+    "city_name": "kab. klaten",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2837,
+    "name": "Wonosari",
+    "city_id": 199,
+    "city_name": "kab. klaten",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  }
+]

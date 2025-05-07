@@ -1,0 +1,218 @@
+[
+  {
+    "id": 131,
+    "name": "Baktiya",
+    "city_id": 8,
+    "city_name": "kab. aceh utara",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 149,
+    "name": "Baktiya Barat",
+    "city_id": 8,
+    "city_name": "kab. aceh utara",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 156,
+    "name": "Banda Baro",
+    "city_id": 8,
+    "city_name": "kab. aceh utara",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 147,
+    "name": "Cot Girek",
+    "city_id": 8,
+    "city_name": "kab. aceh utara",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 132,
+    "name": "Dewantara",
+    "city_id": 8,
+    "city_name": "kab. aceh utara",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 155,
+    "name": "Geuredong Pase",
+    "city_id": 8,
+    "city_name": "kab. aceh utara",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 133,
+    "name": "Kuta Makmur",
+    "city_id": 8,
+    "city_name": "kab. aceh utara",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 148,
+    "name": "Langkahan",
+    "city_id": 8,
+    "city_name": "kab. aceh utara",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 153,
+    "name": "Lapang",
+    "city_id": 8,
+    "city_name": "kab. aceh utara",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 134,
+    "name": "Lhoksukon",
+    "city_id": 8,
+    "city_name": "kab. aceh utara",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 135,
+    "name": "Matangkuli",
+    "city_id": 8,
+    "city_name": "kab. aceh utara",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 137,
+    "name": "Meurah Mulia",
+    "city_id": 8,
+    "city_name": "kab. aceh utara",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 136,
+    "name": "Muara Batu",
+    "city_id": 8,
+    "city_name": "kab. aceh utara",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 151,
+    "name": "Nibong",
+    "city_id": 8,
+    "city_name": "kab. aceh utara",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 146,
+    "name": "Nisam",
+    "city_id": 8,
+    "city_name": "kab. aceh utara",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 157,
+    "name": "Nisam Antara",
+    "city_id": 8,
+    "city_name": "kab. aceh utara",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 150,
+    "name": "Paya Bakong",
+    "city_id": 8,
+    "city_name": "kab. aceh utara",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 154,
+    "name": "Pirak Timur",
+    "city_id": 8,
+    "city_name": "kab. aceh utara",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 138,
+    "name": "Samudera",
+    "city_id": 8,
+    "city_name": "kab. aceh utara",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 145,
+    "name": "Sawang",
+    "city_id": 8,
+    "city_name": "kab. aceh utara",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 139,
+    "name": "Seunuddon",
+    "city_id": 8,
+    "city_name": "kab. aceh utara",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 152,
+    "name": "Simpang Kramat",
+    "city_id": 8,
+    "city_name": "kab. aceh utara",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 140,
+    "name": "Syamtalira Aron",
+    "city_id": 8,
+    "city_name": "kab. aceh utara",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 141,
+    "name": "Syamtalira Bayu",
+    "city_id": 8,
+    "city_name": "kab. aceh utara",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 144,
+    "name": "T. Jambo Aye",
+    "city_id": 8,
+    "city_name": "kab. aceh utara",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 142,
+    "name": "Tanah Luas",
+    "city_id": 8,
+    "city_name": "kab. aceh utara",
+    "province_id": 1,
+    "province_name": "aceh"
+  },
+  {
+    "id": 143,
+    "name": "Tanah Pasir",
+    "city_id": 8,
+    "city_name": "kab. aceh utara",
+    "province_id": 1,
+    "province_name": "aceh"
+  }
+]

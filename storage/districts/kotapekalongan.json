@@ -1,0 +1,34 @@
+[
+  {
+    "id": 3202,
+    "name": "Pekalongan Barat",
+    "city_id": 223,
+    "city_name": "kota pekalongan",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 3205,
+    "name": "Pekalongan Selatan",
+    "city_id": 223,
+    "city_name": "kota pekalongan",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 3203,
+    "name": "Pekalongan Timur",
+    "city_id": 223,
+    "city_name": "kota pekalongan",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 3204,
+    "name": "Pekalongan Utara",
+    "city_id": 223,
+    "city_name": "kota pekalongan",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  }
+]

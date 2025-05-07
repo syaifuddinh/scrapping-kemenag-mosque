@@ -1,0 +1,90 @@
+[
+  {
+    "id": 629,
+    "name": "Afulu",
+    "city_id": 47,
+    "city_name": "kab. nias utara",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 627,
+    "name": "Alasa",
+    "city_id": 47,
+    "city_name": "kab. nias utara",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 626,
+    "name": "Alasa Talumuzoi",
+    "city_id": 47,
+    "city_name": "kab. nias utara",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 630,
+    "name": "Lahewa",
+    "city_id": 47,
+    "city_name": "kab. nias utara",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 631,
+    "name": "Lahewa Timur",
+    "city_id": 47,
+    "city_name": "kab. nias utara",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 621,
+    "name": "Lotu",
+    "city_id": 47,
+    "city_name": "kab. nias utara",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 625,
+    "name": "Namohalu Esiwa",
+    "city_id": 47,
+    "city_name": "kab. nias utara",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 622,
+    "name": "Sawo",
+    "city_id": 47,
+    "city_name": "kab. nias utara",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 624,
+    "name": "Sitolu Ori",
+    "city_id": 47,
+    "city_name": "kab. nias utara",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 628,
+    "name": "Tugala Oyo",
+    "city_id": 47,
+    "city_name": "kab. nias utara",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 623,
+    "name": "Tuhemberua",
+    "city_id": 47,
+    "city_name": "kab. nias utara",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  }
+]

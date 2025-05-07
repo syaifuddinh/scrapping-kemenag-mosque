@@ -1,0 +1,62 @@
+[
+  {
+    "id": 442,
+    "name": "Kab. Halmahera Barat",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 443,
+    "name": "Kab. Halmahera Tengah",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 444,
+    "name": "Kab. Halmahera Utara",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 445,
+    "name": "Kab. Halmahera Selatan",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 446,
+    "name": "Kab. Kepulauan Sula",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 447,
+    "name": "Kab. Halmahera Timur",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 448,
+    "name": "Kab. Pulau Morotai",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 449,
+    "name": "Kota Ternate",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 450,
+    "name": "Kota Tidore Kepulauan",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 509,
+    "name": "Kab. Pulau Taliabu",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  }
+]

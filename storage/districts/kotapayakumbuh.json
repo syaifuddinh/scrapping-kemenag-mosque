@@ -1,0 +1,42 @@
+[
+  {
+    "id": 871,
+    "name": "Lamposi Tigo Nagori",
+    "city_id": 74,
+    "city_name": "kota payakumbuh",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 868,
+    "name": "Payakumbuh Barat",
+    "city_id": 74,
+    "city_name": "kota payakumbuh",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 872,
+    "name": "Payakumbuh Selatan",
+    "city_id": 74,
+    "city_name": "kota payakumbuh",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 870,
+    "name": "Payakumbuh Timur",
+    "city_id": 74,
+    "city_name": "kota payakumbuh",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  },
+  {
+    "id": 869,
+    "name": "Payakumbuh Utara",
+    "city_id": 74,
+    "city_name": "kota payakumbuh",
+    "province_id": 3,
+    "province_name": "sumatera barat"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "id": 431,
+    "name": "Kab. Maluku Tengah",
+    "province_id": 30,
+    "province_name": "maluku"
+  },
+  {
+    "id": 432,
+    "name": "Kab. Maluku Tenggara",
+    "province_id": 30,
+    "province_name": "maluku"
+  },
+  {
+    "id": 433,
+    "name": "Kab Maluku Tenggara Barat",
+    "province_id": 30,
+    "province_name": "maluku"
+  },
+  {
+    "id": 434,
+    "name": "Kab. Buru",
+    "province_id": 30,
+    "province_name": "maluku"
+  },
+  {
+    "id": 435,
+    "name": "Kab. Seram Bagian Timur",
+    "province_id": 30,
+    "province_name": "maluku"
+  },
+  {
+    "id": 436,
+    "name": "Kab. Seram Bagian Barat",
+    "province_id": 30,
+    "province_name": "maluku"
+  },
+  {
+    "id": 437,
+    "name": "Kab. Kepulauan Aru",
+    "province_id": 30,
+    "province_name": "maluku"
+  },
+  {
+    "id": 438,
+    "name": "Kab. Maluku Barat Daya",
+    "province_id": 30,
+    "province_name": "maluku"
+  },
+  {
+    "id": 439,
+    "name": "Kab. Buru Selatan",
+    "province_id": 30,
+    "province_name": "maluku"
+  },
+  {
+    "id": 440,
+    "name": "Kota Ambon",
+    "province_id": 30,
+    "province_name": "maluku"
+  },
+  {
+    "id": 441,
+    "name": "Kota Tual",
+    "province_id": 30,
+    "province_name": "maluku"
+  }
+]

@@ -1,0 +1,186 @@
+[
+  {
+    "id": 358,
+    "name": "Babalan",
+    "city_id": 28,
+    "city_name": "kab. langkat",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 345,
+    "name": "Bahorok",
+    "city_id": 28,
+    "city_name": "kab. langkat",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 363,
+    "name": "Batang Serangan",
+    "city_id": 28,
+    "city_name": "kab. langkat",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 360,
+    "name": "Besitang",
+    "city_id": 28,
+    "city_name": "kab. langkat",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 349,
+    "name": "Binjai",
+    "city_id": 28,
+    "city_name": "kab. langkat",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 362,
+    "name": "Brandan Barat",
+    "city_id": 28,
+    "city_name": "kab. langkat",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 357,
+    "name": "Gebang",
+    "city_id": 28,
+    "city_name": "kab. langkat",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 354,
+    "name": "Hinai",
+    "city_id": 28,
+    "city_name": "kab. langkat",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 347,
+    "name": "Kuala",
+    "city_id": 28,
+    "city_name": "kab. langkat",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 366,
+    "name": "Kutambaru",
+    "city_id": 28,
+    "city_name": "kab. langkat",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 356,
+    "name": "Padang Tualang",
+    "city_id": 28,
+    "city_name": "kab. langkat",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 359,
+    "name": "Pangkalan Susu",
+    "city_id": 28,
+    "city_name": "kab. langkat",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 367,
+    "name": "Pematang Jaya",
+    "city_id": 28,
+    "city_name": "kab. langkat",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 346,
+    "name": "Salapian",
+    "city_id": 28,
+    "city_name": "kab. langkat",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 364,
+    "name": "Sawit Seberang",
+    "city_id": 28,
+    "city_name": "kab. langkat",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 353,
+    "name": "Secanggang",
+    "city_id": 28,
+    "city_name": "kab. langkat",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 348,
+    "name": "Sei Bingei",
+    "city_id": 28,
+    "city_name": "kab. langkat",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 361,
+    "name": "Sei Lepan",
+    "city_id": 28,
+    "city_name": "kab. langkat",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 350,
+    "name": "Selesai",
+    "city_id": 28,
+    "city_name": "kab. langkat",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 365,
+    "name": "Sirapit",
+    "city_id": 28,
+    "city_name": "kab. langkat",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 351,
+    "name": "Stabat",
+    "city_id": 28,
+    "city_name": "kab. langkat",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 355,
+    "name": "Tanjung Pura",
+    "city_id": 28,
+    "city_name": "kab. langkat",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  },
+  {
+    "id": 352,
+    "name": "Wampu",
+    "city_id": 28,
+    "city_name": "kab. langkat",
+    "province_id": 2,
+    "province_name": "sumatera utara"
+  }
+]

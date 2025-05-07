@@ -1,0 +1,122 @@
+[
+  {
+    "id": 2779,
+    "name": "Garung",
+    "city_id": 196,
+    "city_name": "kab. wonosobo",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2782,
+    "name": "Kalibawang",
+    "city_id": 196,
+    "city_name": "kab. wonosobo",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2774,
+    "name": "Kalikajar",
+    "city_id": 196,
+    "city_name": "kab. wonosobo",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2771,
+    "name": "Kaliwiro",
+    "city_id": 196,
+    "city_name": "kab. wonosobo",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2780,
+    "name": "Kejajar",
+    "city_id": 196,
+    "city_name": "kab. wonosobo",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2769,
+    "name": "Kepil",
+    "city_id": 196,
+    "city_name": "kab. wonosobo",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2775,
+    "name": "Kertek",
+    "city_id": 196,
+    "city_name": "kab. wonosobo",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2772,
+    "name": "Leksono",
+    "city_id": 196,
+    "city_name": "kab. wonosobo",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2778,
+    "name": "Mojotengah",
+    "city_id": 196,
+    "city_name": "kab. wonosobo",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2770,
+    "name": "Sapuran",
+    "city_id": 196,
+    "city_name": "kab. wonosobo",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2773,
+    "name": "Selomerto",
+    "city_id": 196,
+    "city_name": "kab. wonosobo",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2781,
+    "name": "Sukoharjo",
+    "city_id": 196,
+    "city_name": "kab. wonosobo",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2768,
+    "name": "Wadaslintang",
+    "city_id": 196,
+    "city_name": "kab. wonosobo",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2777,
+    "name": "Watumalang",
+    "city_id": 196,
+    "city_name": "kab. wonosobo",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  },
+  {
+    "id": 2776,
+    "name": "Wonosobo",
+    "city_id": 196,
+    "city_name": "kab. wonosobo",
+    "province_id": 14,
+    "province_name": "jawa tengah"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": 5117,
+    "name": "Aertembaga",
+    "city_id": 370,
+    "city_name": "kota bitung",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5119,
+    "name": "Girian",
+    "city_id": 370,
+    "city_name": "kota bitung",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5114,
+    "name": "Lembeh Selatan",
+    "city_id": 370,
+    "city_name": "kota bitung",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5121,
+    "name": "Lembeh Utara",
+    "city_id": 370,
+    "city_name": "kota bitung",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5115,
+    "name": "Madidir",
+    "city_id": 370,
+    "city_name": "kota bitung",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5120,
+    "name": "Maesa",
+    "city_id": 370,
+    "city_name": "kota bitung",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5118,
+    "name": "Matuari",
+    "city_id": 370,
+    "city_name": "kota bitung",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  },
+  {
+    "id": 5116,
+    "name": "Ranowulu",
+    "city_id": 370,
+    "city_name": "kota bitung",
+    "province_id": 24,
+    "province_name": "sulawesi utara"
+  }
+]

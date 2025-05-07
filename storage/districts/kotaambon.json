@@ -1,0 +1,42 @@
+[
+  {
+    "id": 5997,
+    "name": "Baguala",
+    "city_id": 440,
+    "city_name": "kota ambon",
+    "province_id": 30,
+    "province_name": "maluku"
+  },
+  {
+    "id": 5999,
+    "name": "Leitimur Selatan",
+    "city_id": 440,
+    "city_name": "kota ambon",
+    "province_id": 30,
+    "province_name": "maluku"
+  },
+  {
+    "id": 5995,
+    "name": "Nusaniwe",
+    "city_id": 440,
+    "city_name": "kota ambon",
+    "province_id": 30,
+    "province_name": "maluku"
+  },
+  {
+    "id": 5996,
+    "name": "Sirimau",
+    "city_id": 440,
+    "city_name": "kota ambon",
+    "province_id": 30,
+    "province_name": "maluku"
+  },
+  {
+    "id": 5998,
+    "name": "Teluk Ambon",
+    "city_id": 440,
+    "city_name": "kota ambon",
+    "province_id": 30,
+    "province_name": "maluku"
+  }
+]

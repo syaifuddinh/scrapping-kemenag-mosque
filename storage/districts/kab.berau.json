@@ -1,0 +1,106 @@
+[
+  {
+    "id": 4912,
+    "name": "Batu Putih",
+    "city_id": 351,
+    "city_name": "kab. berau",
+    "province_id": 23,
+    "province_name": "kalimantan timur"
+  },
+  {
+    "id": 4913,
+    "name": "Biatan",
+    "city_id": 351,
+    "city_name": "kab. berau",
+    "province_id": 23,
+    "province_name": "kalimantan timur"
+  },
+  {
+    "id": 4908,
+    "name": "Biduk-Biduk",
+    "city_id": 351,
+    "city_name": "kab. berau",
+    "province_id": 23,
+    "province_name": "kalimantan timur"
+  },
+  {
+    "id": 4906,
+    "name": "Gunung Tabur",
+    "city_id": 351,
+    "city_name": "kab. berau",
+    "province_id": 23,
+    "province_name": "kalimantan timur"
+  },
+  {
+    "id": 4901,
+    "name": "Kelay",
+    "city_id": 351,
+    "city_name": "kab. berau",
+    "province_id": 23,
+    "province_name": "kalimantan timur"
+  },
+  {
+    "id": 4911,
+    "name": "Maratua",
+    "city_id": 351,
+    "city_name": "kab. berau",
+    "province_id": 23,
+    "province_name": "kalimantan timur"
+  },
+  {
+    "id": 4907,
+    "name": "Pulau Derawan",
+    "city_id": 351,
+    "city_name": "kab. berau",
+    "province_id": 23,
+    "province_name": "kalimantan timur"
+  },
+  {
+    "id": 4903,
+    "name": "Sambaliung",
+    "city_id": 351,
+    "city_name": "kab. berau",
+    "province_id": 23,
+    "province_name": "kalimantan timur"
+  },
+  {
+    "id": 4904,
+    "name": "Segah",
+    "city_id": 351,
+    "city_name": "kab. berau",
+    "province_id": 23,
+    "province_name": "kalimantan timur"
+  },
+  {
+    "id": 4910,
+    "name": "Tabalar",
+    "city_id": 351,
+    "city_name": "kab. berau",
+    "province_id": 23,
+    "province_name": "kalimantan timur"
+  },
+  {
+    "id": 4902,
+    "name": "Talisayan",
+    "city_id": 351,
+    "city_name": "kab. berau",
+    "province_id": 23,
+    "province_name": "kalimantan timur"
+  },
+  {
+    "id": 4905,
+    "name": "Tanjung Redeb",
+    "city_id": 351,
+    "city_name": "kab. berau",
+    "province_id": 23,
+    "province_name": "kalimantan timur"
+  },
+  {
+    "id": 4909,
+    "name": "Teluk Bayur",
+    "city_id": 351,
+    "city_name": "kab. berau",
+    "province_id": 23,
+    "province_name": "kalimantan timur"
+  }
+]

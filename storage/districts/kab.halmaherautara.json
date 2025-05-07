@@ -1,0 +1,138 @@
+[
+  {
+    "id": 6020,
+    "name": "Galela",
+    "city_id": 444,
+    "city_name": "kab. halmahera utara",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6030,
+    "name": "Galela Barat",
+    "city_id": 444,
+    "city_name": "kab. halmahera utara",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6032,
+    "name": "Galela Selatan",
+    "city_id": 444,
+    "city_name": "kab. halmahera utara",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6031,
+    "name": "Galela Utara",
+    "city_id": 444,
+    "city_name": "kab. halmahera utara",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6023,
+    "name": "Kao",
+    "city_id": 444,
+    "city_name": "kab. halmahera utara",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6035,
+    "name": "Kao Barat",
+    "city_id": 444,
+    "city_name": "kab. halmahera utara",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6036,
+    "name": "Kao Teluk",
+    "city_id": 444,
+    "city_name": "kab. halmahera utara",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6034,
+    "name": "Kao Utara",
+    "city_id": 444,
+    "city_name": "kab. halmahera utara",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6033,
+    "name": "Loloda Kepulauan",
+    "city_id": 444,
+    "city_name": "kab. halmahera utara",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6025,
+    "name": "Loloda Utara",
+    "city_id": 444,
+    "city_name": "kab. halmahera utara",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6024,
+    "name": "Malifut",
+    "city_id": 444,
+    "city_name": "kab. halmahera utara",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6021,
+    "name": "Tobelo",
+    "city_id": 444,
+    "city_name": "kab. halmahera utara",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6029,
+    "name": "Tobelo Barat",
+    "city_id": 444,
+    "city_name": "kab. halmahera utara",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6022,
+    "name": "Tobelo Selatan",
+    "city_id": 444,
+    "city_name": "kab. halmahera utara",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6027,
+    "name": "Tobelo Tengah",
+    "city_id": 444,
+    "city_name": "kab. halmahera utara",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6028,
+    "name": "Tobelo Timur",
+    "city_id": 444,
+    "city_name": "kab. halmahera utara",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  },
+  {
+    "id": 6026,
+    "name": "Tobelo Utara",
+    "city_id": 444,
+    "city_name": "kab. halmahera utara",
+    "province_id": 31,
+    "province_name": "maluku utara"
+  }
+]
