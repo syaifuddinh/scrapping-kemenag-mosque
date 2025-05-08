@@ -4,7 +4,7 @@ from helpers.scrapper import SetupDriver
 import json
 import os
 
-max_workers = 18
+max_workers = 50
 start = 6941
 end = 15605
 
