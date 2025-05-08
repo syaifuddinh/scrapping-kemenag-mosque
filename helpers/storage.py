@@ -1,11 +1,6 @@
 import os
+import json
 
-"""
-Function : GetMosqueFiles
-Author : AI Assistant
-Created : 2024-01-09
-Description : Returns an array of mosque JSON files from the mosque-stage-1 storage directory
-"""
 def GetMosqueFiles():
     storage_dir = 'storage/mosque-stage-1'
     
@@ -20,3 +15,14 @@ def GetMosqueFiles():
             mosque_files.append(file)
     
     return mosque_files
+
+def LoadMosque(filename):
+    storage_dir ='storage/mosque-stage-1'
+    file_path = os.path.join(storage_dir, filename)
+
+    if not os.path.exists(file_path):
+        return None
+
+    with open(file_path, 'r') as file:
+        data = json.load(file)
+    return data
