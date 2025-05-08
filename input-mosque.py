@@ -34,15 +34,9 @@ def scrap_mosque(index):
 
 
 def main():
-    with ThreadPoolExecutor(max_workers=max_workers) as executor:
-        pages = range(0, max_workers)
-        futures = [executor.submit(scrap_mosque, page) for page in pages]
-        
-        for future in futures:
-            try:
-                future.result()
-            except Exception as e:
-                print(f"Task failed with error: {str(e)}")
+    for index in range(len(tree_files)):
+        scrap_mosque(index)
+        print(f"Scraped {index} of {len(tree_files)}")
 
 
 

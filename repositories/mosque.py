@@ -17,7 +17,11 @@ def StoreMosque(name, address, latitude, longitude):
                 'Accept': 'application/json'
             }
         )
+        print("request\n")
+        print(mosque)
+        print("response\n")
         print(response.json())
+        print("\n")
         
         if response.status_code == 200:
             return True
